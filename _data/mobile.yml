@@ -1,24 +1,22 @@
 # Mobile menu navigation links
-- title: Home
-  url: /
 
-- title: Blog
+- title: 42 # The answer to life, the universe, and everything
   url: /blog/
 
-- title: Business
-  url: /category/business/
+- title: Academics
+  url: /category/academics/
+
+- title: Clubs
+  url: /category/clubs/
+
+- title: Local
+  url: /category/local/
+
+- title: Global
+  url: /category/global/
+
+- title: Research 
+  url: /category/research/ 
 
 - title: Culture
   url: /category/culture/
-
-- title: Travel
-  url: /category/travel/
-
-- title: Sport
-  url: /category/sport/
-
-- title: Contact
-  url: /contact/
-  
-- title: 404
-  url: /404/

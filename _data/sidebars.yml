@@ -14,10 +14,6 @@ page:
     
 # Footer sidebar widgets
 footer:
-  - widget: recent
-    title: RECENT POSTS
-    count: 4
-
   - widget: links
     title: ABOUT
     links:
@@ -32,24 +28,12 @@ footer:
       - title: "Contact"
         url: /contact/
 
-  - widget: links
-    title: PRODUCTS
-    links:
-      - title: "Advertising"
-        url: /#/
-      - title: "Featured Story"
-        url: /#/
-      - title: "Donations"
-        url: /#/
-      - title: "Charity"
-        url: /#/
-
   - widget: categories
     title: CATEGORIES
     count: 5
 
   - widget: authors
-    title: CONTRIBUTORS
+    title: BLOGGERS
     count: 5
 
   - widget: about
