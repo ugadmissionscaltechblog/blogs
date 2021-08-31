@@ -1,0 +1,8 @@
+<div class="widget">
+  <h4>{{ include.title }}</h4>
+  <ul class="uk-list">
+  {% for post in site.posts | limit: include.count %}
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
+  {% endfor %}
+  </ul>
+</div>

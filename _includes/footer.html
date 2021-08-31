@@ -1,0 +1,11 @@
+<footer class="sidebar-footer uk-margin-top uk-section uk-background-secondary uk-light uk-text-center uk-text-left@m">
+  <div class="uk-container">
+    <div class="uk-child-width-expand@m" data-uk-grid>
+
+      {% for page_widget in site.data.sidebars.footer %}
+        {% include widget-{{ page_widget.widget }}.html title=page_widget.title count=page_widget.count links=page_widget.links content=page_widget.content copyright=page_widget.copyright %}
+      {% endfor %}
+    
+    </div>
+  </div>
+</footer>

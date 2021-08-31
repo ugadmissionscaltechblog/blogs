@@ -1,0 +1,135 @@
+// Modify primary template color
+$global-primary-background: #de7a93;
+// Modify body font
+$global-font-family: 'Lora', serif; 
+// Modify article title font
+$aticle-title-font-family: 'ZCOOL XiaoWei', serif;
+
+// Theme variables
+$global-secondary-background: #121212;
+$global-success-background: #32d296;
+$global-warning-background: #faa05a;
+$global-danger-background: #f0506e;
+
+$global-medium-margin: 30px;
+$global-border: #e5e5e5;
+$base-heading-font-weight: 400;
+
+$section-success-background: $global-success-background;
+$section-success-color-mode: light;
+$section-danger-background: $global-danger-background;
+$section-danger-color-mode: light;
+
+$background-dark: #000;
+$aticle-title-letter-spacing: -1px;
+
+$font-san-serif: system-ui;
+$lh-l: 1.8;
+$color-dark: #000;
+$navbar-background: $global-primary-background;
+$base-body-font-weight: 400;
+$base-heading-color: $color-dark;
+$base-h2-line-height: 1.4;
+$base-link-hover-text-decoration: none;
+$base-body-color: $color-dark;
+$base-hr-border: $global-border;
+
+$global-font-size: 16px;
+$global-link-color: $global-secondary-background;
+$global-link-hover-color: $global-primary-background;
+$global-xxlarge-font-size: 2.074rem;
+$global-xlarge-font-size: 1.728rem;
+$global-large-font-size: 1.44rem;
+$global-medium-font-size: 1.2rem;
+$global-small-font-size: 0.833rem;
+$global-xsmall-font-size: 0.75rem;
+
+$global-gutter: 30px;
+$border-rounded-border-radius: 2px;
+$section-xsmall-padding-vertical: 16px;
+$text-large-font-size: 1.125rem;
+$global-control-large-height: 46px;
+$form-large-font-size: $global-font-size;
+
+$button-text-transform: uppercase;
+$button-border-width: 0;
+$button-large-font-size: 14px;;
+
+$margin-large-margin: 40px;
+$margin-large-margin-l: 40px;
+$margin-xlarge-margin-l: 70px;
+
+$icon-link-color: $color-dark;
+$icon-link-hover-color: $global-primary-background;
+$icon-link-active-color: darken($global-primary-background, 5%);
+$link-muted-hover-color: #222;
+
+$global-inverse-color: #fff;
+$inverse-link-muted-color: rgba($global-inverse-color, 0.6);
+$inverse-link-muted-hover-color: rgba($global-inverse-color, 0.6);
+
+$close-color: $color-dark;
+$close-hover-color: $global-primary-background;
+
+$container-max-width: 1200px;
+$container-small-max-width: 1000px;
+$container-xsmall-max-width: 778px;
+$grid-large-gutter-horizontal: 100px;
+
+$card-title-font-size: 2.125rem;
+$card-title-line-height: 1.2;
+
+$card-body-padding-horizontal-l: $global-gutter;
+$card-body-padding-vertical-l: $global-gutter;
+
+$article-title-font-size: $global-xlarge-font-size;
+$article-title-font-size-m: 3rem;
+$article-title-line-height: 1.2;
+
+$article-meta-font-size: 1.0625rem;
+$article-meta-line-height: 1.6;
+$article-meta-color: $base-body-color;
+
+$icon-button-background:                         $background-dark;
+$icon-button-color: #fff;
+$icon-button-hover-color: #fff;
+$icon-button-active-color: #fff;
+
+$offcanvas-bar-color-mode: dark;
+$offcanvas-bar-background: #fff;
+
+$heading-hero-font-size-s: 3.25rem;
+$heading-hero-line-height-s: 1.1;
+$heading-hero-font-size-m: 4rem;
+$heading-hero-line-height-m: 1.2;
+
+$text-lead-font-size: 1.375rem;
+
+$nav-default-item-color: $color-dark;
+$nav-default-item-hover-color: $global-primary-background;
+$nav-default-item-active-color: $global-primary-background;
+
+$navbar-nav-item-height: 48px;
+$navbar-background: #fff;
+$navbar-nav-item-color: $color-dark;
+$navbar-nav-item-hover-color: $global-primary-background;
+$navbar-nav-item-active-color: $global-primary-background;
+$navbar-nav-item-font-size: .75rem;
+$navbar-nav-item-text-transform: none;
+$navbar-nav-item-font-family: $font-san-serif;
+$navbar-toggle-color: $base-heading-color;
+$navbar-toggle-hover-color: #000;
+$navbar-dropdown-nav-item-color: $color-dark;
+$navbar-dropdown-nav-item-hover-color: $global-primary-background;
+
+$subnav-item-font-size: $global-small-font-size;
+$subnav-item-text-transform: uppercase;
+
+$logo-font-size: 1.75rem;
+$logo-color: $color-dark;
+$logo-hover-color: $color-dark;
+
+$search-color: $color-dark;
+$search-placeholder-color: $color-dark;
+$search-default-background: #fff;
+$search-default-focus-background: #fff;

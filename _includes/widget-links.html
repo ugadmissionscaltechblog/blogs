@@ -1,0 +1,20 @@
+<div class="widget">
+  <h4>{{ include.title }}</h4>
+  <ul class="uk-list">
+    {% for link in include.links %}
+      {% if link.url contains 'http' %}
+        {% assign domain = '' %}
+      {% else %}
+        {% assign domain = '' | relative_url %}
+      {% endif %}
+      {% if link.url == page.url %}
+        {% assign current = ' class="uk-active"' %}
+      {% else %}
+        {% assign current = null %}
+      {% endif %}
+      {% if link.title %}
+        <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" {% endif %}>{{ link.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>

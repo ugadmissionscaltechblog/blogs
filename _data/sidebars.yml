@@ -1,0 +1,57 @@
+# Page sidebar widgets
+page:
+  - widget: recent
+    title: RECENT ARTICLES
+    count: 8
+
+  - widget: categories
+    title: CATEGORIES
+    count: 5
+
+  - widget: authors
+    title: CONTRIBUTORS
+    count: 5
+    
+# Footer sidebar widgets
+footer:
+  - widget: recent
+    title: RECENT POSTS
+    count: 4
+
+  - widget: links
+    title: ABOUT
+    links:
+      - title: "About Us"
+        url: /#/
+      - title: "Our Story"
+        url: /#/
+      - title: "Contribute"
+        url: /#/
+      - title: "Terms"
+        url: /#/
+      - title: "Contact"
+        url: /contact/
+
+  - widget: links
+    title: PRODUCTS
+    links:
+      - title: "Advertising"
+        url: /#/
+      - title: "Featured Story"
+        url: /#/
+      - title: "Donations"
+        url: /#/
+      - title: "Charity"
+        url: /#/
+
+  - widget: categories
+    title: CATEGORIES
+    count: 5
+
+  - widget: authors
+    title: CONTRIBUTORS
+    count: 5
+
+  - widget: about
+    # content: Content of some sort..
+    copyright: true

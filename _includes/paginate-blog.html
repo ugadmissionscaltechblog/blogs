@@ -1,0 +1,8 @@
+<!-- Pagination links -->
+<ul class="uk-pagination uk-margin-medium-top uk-flex-center">
+    {% if paginator.previous_page %}
+    <li><h5 class="uk-margin-remove"><a class="hvr-back" href="{{ paginator.previous_page_path | relative_url }}">&larr; Previous</a></h5></li>
+    {% endif %} {% if paginator.next_page %}
+    <li><h5 class="uk-margin-remove"><a class="hvr-forward" href="{{ paginator.next_page_path | relative_url }}">Next &rarr;</a></h5></li>
+    {% endif %}
+</ul>

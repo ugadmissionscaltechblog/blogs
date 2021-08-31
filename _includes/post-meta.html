@@ -1,0 +1,26 @@
+{% if page.author %}
+  {% assign author = site.authors[page.author] %}
+{% else %}
+  {% assign author = site.author %}
+{% endif %}
+
+<div class="uk-article-meta uk-margin-top uk-margin-medium" itemscope itemtype="http://schema.org/Person">
+  <div class="uk-text-uppercase">
+    {% if page.id and page.categories %}
+        {% for category in page.categories %}
+            <a href="/category/{{ category }}">{{category}}</a>
+            {% unless forloop.last %}{% endunless %}
+        {% endfor %}
+    {% endif %}
+    <time class="uk-margin-left" datetime="{{ page.date | date_to_xmlschema }}">
+        {% assign date_format = site.date_format | default: "%b %-d, %Y" %}
+        {{ page.date | date: date_format }}
+    </time>&nbsp;
+
+  </div>
+    <div class="">
+      {% if author.name %}
+        <strong>{{ site.strings.author_by | default: 'By' }} <span itemprop="name"><span itemprop="name">{{ author.name }}</span></span></strong>
+      {% endif %}
+    </div>
+</div>

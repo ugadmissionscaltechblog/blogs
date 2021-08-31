@@ -1,0 +1,17 @@
+<div class="share">
+  {% if site.social_share.twitter %}
+      <button class="sharer uk-icon-button uk-margin-small-bottom" data-sharer="twitter" data-title="{{ page.title }}" data-url="{{ page.url | absolute_url }}"><span data-uk-icon="twitter"></span></button>
+  {% endif %}
+  {% if site.social_share.facebook %}
+      <button class="sharer uk-icon-button uk-margin-small-bottom" data-sharer="facebook" data-url="{{ page.url | absolute_url }}"><span data-uk-icon="facebook"></span></button>
+  {% endif %}
+  {% if site.social_share.linkedin %}
+      <button class="sharer uk-icon-button uk-margin-small-bottom" data-sharer="linkedin" data-url="{{ page.url | absolute_url }}"><span data-uk-icon="linkedin"></span></button>
+  {% endif %}
+  {% if site.social_share.pinterest %}
+      <button class="sharer uk-icon-button uk-margin-small-bottom" data-sharer="pinterest" data-url="{{ page.url | absolute_url }}"><span data-uk-icon="pinterest"></span></button>
+  {% endif %}
+  {% if site.social_share.reddit %}
+      <button class="sharer uk-icon-button uk-margin-small-bottom" data-sharer="reddit" data-url="{{ page.url | absolute_url }}"><span data-uk-icon="reddit"></span></button>
+  {% endif %}
+</div>

@@ -1,0 +1,17 @@
+{%- if include.title -%}
+  <div class="uk-container uk-margin-medium-bottom">
+    <hr class="uk-margin-remove">
+    <h2 class="section-title uk-text-center uk-margin">{{- include.title -}}</h2>
+    <hr class="uk-margin-remove">
+  </div>
+{%- endif -%}
+
+<div class="uk-container uk-margin-medium-bottom">
+  <div class="uk-child-width-1-2@s uk-child-width-expand@l uk-grid-medium uk-flex-center uk-grid-divider" data-uk-grid>
+    {% for post in site.posts %}
+      {% if post.tags contains 'spotlight' %}
+        {% include content-media-top.html %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>

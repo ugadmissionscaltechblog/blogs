@@ -1,0 +1,29 @@
+<header class="uk-margin-medium-bottom">
+
+  <div>
+    <div class="uk-container uk-text-center">
+      <div class="uk-section uk-section-xsmall">
+        <a class="uk-logo uk-margin-small-top uk-display-inline-block" href="{{ "/" | relative_url }}">
+          {% if site.logo_image.dark %}
+            <img src="{{ site.uploads | absolute_url }}{{ site.logo_image.dark }}" alt="{{ site.title }}">
+          {% else %}
+            {{ site.title }}
+          {% endif %}
+        </a>
+      </div>
+    </div>
+  </div>
+
+  {% if site.navbar_primary.sticky %}
+    <div data-uk-sticky="animation: uk-animation-slide-top; top: 200; sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky uk-box-shadow-small;">
+      <nav class="uk-navbar-container">
+        {% include navbar-primary.html %}
+      </nav>
+    </div>
+  {% else %}
+    <nav class="uk-navbar-container">
+      {% include navbar-primary.html %}
+    </nav>
+  {% endif %}
+  
+</header>

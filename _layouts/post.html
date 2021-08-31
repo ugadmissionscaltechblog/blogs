@@ -1,0 +1,88 @@
+---
+layout: default
+---
+
+{% if page.author %}
+  {% assign author = site.authors | where: 'username', page.author | first %}
+{% else %}
+  {% assign author = site.authors | where: 'default', true | first %}
+{% endif %}
+
+<article class="uk-article">
+
+  {% if page.image %}
+  <div class="uk-container uk-container-small uk-margin-large-bottom">
+    <div class="uk-cover-container">
+      <img src="{% if page.image contains 'http' %}{{ page.image }}{% else %}{{ site.uploads | absolute_url }}{{ page.image }}{% endif %}" alt="{{ page.title }}" data-uk-cover>
+      <canvas width="1000" height="500"></canvas>
+    </div>
+  </div>
+  {% endif %}
+
+  <div class="uk-container uk-container-xsmall">
+
+    <div class="uk-text-center">
+
+      <div class="uk-article-meta" itemscope itemtype="http://schema.org/Person">
+        <div class="uk-text-uppercase">
+          {% if page.id and page.categories %}
+              {% for category in page.categories %}
+                  <a class="link-primary" href="/category/{{ category }}">{{category}}</a>
+                  {% unless forloop.last %}{% endunless %}
+              {% endfor %}
+          {% endif %}
+          <time class="uk-margin-left" datetime="{{ page.date | date_to_xmlschema }}">
+              {% assign date_format = site.date_format | default: "%b %-d, %Y" %}
+              {{ page.date | date: date_format }}
+          </time>&nbsp;
+
+        </div>
+      </div>
+
+      <h1 class="uk-article-title uk-margin-small-top uk-margin-bottom article-title-font">{{ page.title | escape }}</h1>
+
+      {% if page.description %}
+        <p class="uk-text-large"><i>{{ page.description }}</i></p>
+      {% endif %}
+
+      {% if author.title %}
+      <div class="uk-margin-large-bottom article-author" itemscope itemtype="http://schema.org/Person">
+        <b>{{ site.strings.author_by | default: 'By' }} <span itemprop="name"><span itemprop="name"><a href="{{ author.url }}" title="{{ author.title }}">{{ author.title }}</a></span></span></b>
+      </div>
+      {% endif %}
+
+    </div>
+    <div class="content-primary uk-position-relative uk-margin-large-bottom">
+      <hr class="uk-margin-large-bottom">
+
+      {% if page.share %}
+        <div class="share-side uk-position-absolute uk-visible@m" data-uk-scrollspy="cls: uk-animation-fade; target: .share; repeat: true">
+          <div class="share" data-uk-sticky="offset: 150; bottom: .content-primary;">{% include share.html %}</div>
+        </div>
+      {% endif %}
+
+      {{ content }}
+
+      {% if page.share %}
+        <div class="share uk-hidden@m uk-text-center uk-margin-medium">{% include share.html %}</div>
+      {% endif %}
+    </div>
+
+  </div>
+
+</article>
+
+{% if page.related %}
+  <div class="uk-container uk-container-small uk-margin-bottom">
+    {% include related.html %}
+  </div>
+{% endif %}
+
+{% if site.disqus.shortname %}
+  <div class="uk-container uk-container-small">
+    <hr class="uk-margin-remove-top uk-margin-medium-bottom">
+  </div>
+  <div class="uk-container uk-container-xsmall">
+  {% include disqus-comments.html %}
+</div>
+{% endif %}

@@ -1,0 +1,19 @@
+<div>
+  <div class="uk-card">
+    <div class="uk-card-media-top">
+      {% if author.image %}
+      <a href="{{ author.url | relative_url }}"><img class="uk-width-small uk-border-circle" src="{% if author.image contains 'http' %}{{ author.image }}{% else %}{{ site.uploads | absolute_url }}{{ author.image }}{% endif %}" alt="{{ author.title }}"></a>
+      {% endif %}
+    </div>
+    <div class="uk-card-body">
+      <div class="uk-text-uppercase uk-article-meta">
+        <a class="link-primary article-title-font card-categories" href="{{ author.url | relative_url }}">{{ author.title }}</a>
+      </div>
+      {% assign post = site.posts | where: 'author', author.username | first %}
+      {% if post %}
+        <h3 class="card-title-small article-title-font"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <div class="content-secondary">{{ post.excerpt }}</div>
+      {% endif %}
+    </div>
+  </div>
+</div>

@@ -1,0 +1,8 @@
+<div class="widget">
+  <h4>{{ include.title }}</h4>
+  <ul class="uk-list">
+    {% for author in site.authors | limit: include.count %}
+      <li><a href="{{ site.baseurl }}{{ author.url }}">{{author.title}}</a></li>
+  {% endfor %}
+  </ul>
+</div>

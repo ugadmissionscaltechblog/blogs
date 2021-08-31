@@ -1,0 +1,29 @@
+button.sharer {
+  box-shadow: none;
+  outline: none;
+  cursor: pointer;
+  &:hover {
+    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+  }
+}
+button[data-sharer="twitter"]:hover {
+  background-color: #00aced;
+}
+button[data-sharer="facebook"]:hover {
+  background-color: #3b5998;
+}
+button[data-sharer="linkedin"]:hover {
+  background-color: #007AB5;
+}
+button[data-sharer="googleplus"]:hover {
+  background-color: #DD4C39;
+}
+button[data-sharer="email"]:hover {
+  background-color: #444;
+}
+button[data-sharer="pinterest"]:hover {
+  background-color: #CB2029;
+}
+button[data-sharer="reddit"]:hover {
+  background-color: #335f89;
+}

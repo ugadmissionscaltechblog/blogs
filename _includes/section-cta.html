@@ -1,0 +1,19 @@
+{% unless include.border_top -%}
+<div class="uk-container uk-margin-medium-bottom">
+  <hr class="uk-margin-remove">
+</div>  
+{%- endunless -%}
+
+  <div class="uk-container uk-container-xsmall uk-text-center uk-margin-medium-bottom">
+    <div class="uk-flex-middle-" data-uk-scrollspy="cls: uk-animation-slide-bottom; repeat: true">
+      {% if include.title %}
+        <h2 class="section-title uk-margin-bottom">{{ include.title }}</h2>
+      {% endif%}
+      {% if include.text %}
+        <p class="uk-text-lead uk-margin-remove-bottom">{{ include.text }}</p>
+      {% endif%}
+      {% if include.button_text %}
+        <a class="uk-button uk-button-large uk-button-primary uk-margin-medium-top uk-margin-small-bottom" href="{{ include.button_url }}">{{ include.button_text }}</a>
+      {% endif%}
+    </div>
+  </div>

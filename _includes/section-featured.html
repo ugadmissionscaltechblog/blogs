@@ -1,0 +1,15 @@
+{%- if include.title -%}
+  <div class="uk-container uk-margin-medium-bottom">
+    <hr class="uk-margin-remove">
+    <h2 class="section-title uk-text-center uk-margin">{{- include.title -}}</h2>
+    <hr class="uk-margin-remove">
+  </div>
+{%- endif -%}
+
+{%- for post in site.posts -%}
+  {%- if post.tags contains 'featured' -%}
+    <div class="uk-container uk-margin-medium-bottom">
+      {% include content-media-left-1-2.html %}
+    </div>
+  {%- endif -%}
+{%- endfor -%}

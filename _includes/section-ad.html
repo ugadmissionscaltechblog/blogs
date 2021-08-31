@@ -1,0 +1,13 @@
+{%- if include.title -%}
+  <div class="uk-container uk-margin-medium-bottom">
+    <hr class="uk-margin-remove">
+    <h2 class="section-title uk-text-center uk-margin">{{- include.title -}}</h2>
+    <hr class="uk-margin-remove">
+  </div>
+{%- endif -%}
+
+<div class="{% if include.width != 'full' %}uk-container {% endif %}uk-margin-medium-bottom">
+  <div class="uk-flex uk-flex-center">
+    <a class="uk-display-block uk-position-relative {% if include.width == 'full' %}uk-width-1-1{% endif %}" href="{{ include.url }}" target="{% if include.blank %}_blank{% endif %}"><img class="{% if include.width == 'full' %}uk-width-1-1{% endif %}" src="{% if include.image contains 'http' %}{{ include.image }}{% else %}{{ site.uploads | absolute_url }}{{ include.image }}{% endif %}" alt="{{ include.alt }}"></a>
+  </div>
+</div>

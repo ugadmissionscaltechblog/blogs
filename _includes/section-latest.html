@@ -1,0 +1,21 @@
+{%- if include.title -%}
+  <div class="uk-container uk-margin-medium-bottom">
+    <hr class="uk-margin-remove">
+    <h2 class="section-title uk-text-center uk-margin">{{- include.title -}}</h2>
+    <hr class="uk-margin-remove">
+  </div>
+{%- endif -%}
+
+<div class="uk-container uk-container-small uk-margin-medium-bottom">
+
+  {% for post in site.posts | limit: include.limit %}
+
+    {% include content-media-left-1-3.html %}
+
+  {% endfor %}
+
+  <div class="uk-margin-medium uk-text-center">
+    <a class="hvr-forward" href="/blog/">{{ include.more | default: 'More Articles' }} &rarr;</a>
+  </div>
+
+</div>

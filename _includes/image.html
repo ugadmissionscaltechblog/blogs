@@ -1,0 +1,16 @@
+{% if include.lightbox == 'true' %}
+<figure data-uk-lightbox="animation: slide" class="{% if include.align == 'left' %}uk-align-left@s uk-width-1-2@s{% elsif include.align == 'right' %}uk-align-right@s uk-width-1-2@s{% else %}uk-margin-medium{% endif %}">
+    <a class="uk-inline uk-light" href="{% if include.img contains 'http' %}{{ include.img }}{% else %}{{ site.uploads | absolute_url }}{{ include.img }}{% endif %}"{% if include.caption %} data-caption="{{ include.caption }}"{% endif %}>
+        <img src="{% if include.img contains 'http' %}{{ include.img }}{% else %}{{ site.uploads | absolute_url }}{{ include.img }}{% endif %}"{% if include.alt %} alt="{{ include.alt }}"{% endif %}>
+        <div class="uk-position-center">
+            <span data-uk-overlay-icon></span>
+        </div>
+    </a>
+    {% if include.caption %}<figcaption>{{ include.caption }}</figcaption>{% endif %}
+</figure>
+{% else %}
+<figure class="{% if include.align == 'left' %}uk-align-left@s uk-width-1-2@s{% elsif include.align == 'right' %}uk-align-right@s uk-width-1-2@s{% else %}uk-margin-medium{% endif %}">
+    <img src="{% if include.img contains 'http' %}{{ include.img }}{% else %}{{ site.uploads | absolute_url }}{{ include.img }}{% endif %}"{% if include.alt %} alt="{{ include.alt }}"{% endif %}>
+    {% if include.caption %}<figcaption>{{ include.caption }}</figcaption>{% endif %}
+</figure>
+{% endif %}

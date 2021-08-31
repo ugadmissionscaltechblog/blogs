@@ -1,0 +1,35 @@
+{% if include.email %}
+  <form class="uk-form-stacked uk-margin-medium" method="POST" action="https://formspree.io/{{ include.email }}" accept-charset="UTF-8">
+      <div class="uk-margin-medium-bottom">
+          <label class="uk-form-label uk-margin-small-bottom" for="name">Name</label>
+          <div class="uk-form-controls">
+              <input id="name" class="uk-input uk-form-large uk-border-rounded" name="name" type="text" required>
+          </div>
+      </div>
+      <div class="uk-margin-medium-bottom">
+          <label class="uk-form-label uk-margin-small-bottom" for="email">Email</label>
+          <div class="uk-form-controls">
+              <input id="email" class="uk-input uk-form-large uk-border-rounded" name="_replyto" type="email" required>
+          </div>
+      </div>
+      <div class="uk-margin-medium-bottom">
+          <label class="uk-form-label uk-margin-small-bottom" for="subject">Subject</label>
+          <div class="uk-form-controls">
+              <input id="subject" class="uk-input uk-form-large uk-border-rounded" name="_subject" type="text">
+          </div>
+      </div>
+      <div class="uk-margin-medium-bottom">
+          <label class="uk-form-label uk-margin-small-bottom" for="message">Message</label>
+          <div class="uk-form-controls">
+              <textarea id="message" class="uk-textarea uk-form-large" name="message" rows="5" minlength="10" required></textarea>
+          </div>
+      </div>
+      <div>
+          {% if include.redirect %}
+          <input type="hidden" name="_next" value="{{ include.redirect | absolute_url }}">
+          {% endif %}
+          <input type="text" name="_gotcha" style="display:none">
+          <input class="uk-button uk-button-primary uk-button-large uk-width-1-1 uk-border-rounded" type="submit" value="Send">
+      </div>
+  </form>
+{% endif %}

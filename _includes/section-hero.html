@@ -1,0 +1,18 @@
+{%- if include.title -%}
+  <div class="uk-container uk-margin-medium-bottom">
+    <hr class="uk-margin-remove">
+    <h2 class="section-title uk-text-center uk-margin">{{- include.title -}}</h2>
+    <hr class="uk-margin-remove">
+  </div>
+{%- endif -%}
+
+<div class="uk-container uk-margin-medium-bottom">
+  {% assign post = site.posts | where: 'title', include.post_title | first %}
+  {%- if post -%}
+  <div class="uk-position-relative height-large uk-background-center-center uk-background-cover" style="background-image: url({% if post.image contains 'http' %}{{ post.image }}{% else %}{{ site.uploads | absolute_url }}{{ post.image }}{% endif %});">
+      <div class="uk-overlay uk-overlay-primary uk-position-bottom">
+          <h2 class="article-title-font"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      </div>
+  </div>
+  {% endif %}
+</div>

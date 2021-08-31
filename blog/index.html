@@ -1,0 +1,35 @@
+---
+layout: default
+featured: true
+latest_title: The Latest
+---
+
+{% if page.title %}
+  <div class="uk-container uk-margin-medium-bottom">
+    <hr class="uk-margin-remove-top">
+    <h1 class="section-title uk-text-center uk-margin">{{ page.title | escape }}</h1>
+    <hr class="uk-margin-remove">
+  </div>
+{% endif %}
+
+{% include section-featured.html %}
+
+<div class="uk-container uk-margin-medium-bottom">
+  <hr class="uk-margin-remove-top">
+  <h2 class="section-title uk-text-center uk-margin">{{ page.latest_title | default: 'The Latest' }}</h2>
+  <hr class="uk-margin-remove">
+</div>
+
+<div class="uk-container uk-container-small uk-margin-medium-bottom">
+
+  {% for post in paginator.posts %}
+
+    {% include content-media-left-1-3.html %}
+
+  {% endfor %}
+
+  {% include paginate-blog.html %}
+
+</div>
+
+{% include section-spotlight.html title="Spotlight" %}

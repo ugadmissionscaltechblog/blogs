@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="uk-container uk-margin-medium-bottom uk-margin-xlarge-top">
+  <hr class="uk-margin-remove-top">
+  <h1 class="uk-text-center uk-margin uk-article-title article-title-font">{{ page.tag }}</h1>
+  <hr class="uk-margin-remove">
+</div>
+
+<div class="uk-container uk-container-small uk-margin-medium-bottom">
+    {% assign post = site.categories[page.tag] | first  %}
+    {% if post %}
+        {% include content-media-left-1-2.html %}
+    {% endif %}
+
+    <hr class="uk-margin-remove-top">
+
+    {% for post in site.categories[page.tag] offset:1 limit: 30 %}
+
+        {% include content-media-left-1-3.html %}
+
+    {% endfor %}
+
+</div>
+
+{% include section-spotlight.html title="Spotlight" %}

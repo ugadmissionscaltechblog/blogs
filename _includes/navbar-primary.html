@@ -1,0 +1,190 @@
+
+<div><hr class="uk-margin-remove"></div>
+<div class="uk-container">
+    <div data-uk-navbar>
+        <div class="uk-navbar-left">
+            {% if site.navbar_primary.search %}
+            <div>
+                <a class="uk-navbar-toggle" data-uk-search-icon="ratio: 0.9" href="#"></a>
+                <div class="uk-drop uk-background-default" data-uk-drop="mode: click; pos: left-center; offset: 0">
+                    <form class="uk-search uk-search-navbar uk-width-1-1" onsubmit="return false;">
+                        <input id="search-input" class="uk-search-input" type="search" placeholder="Search..." autofocus>
+                        <ul id="search-results" class="uk-position-absolute uk-width-1-1 uk-list uk-box-shadow-medium"></ul>
+                    </form>
+                </div>
+            </div>
+            <script>
+                SimpleJekyllSearch({
+                searchInput: document.getElementById('search-input'),
+                resultsContainer: document.getElementById('search-results'),
+                noResultsText: '<li>No results found</li>',
+                searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+                limit: 100,
+                json: "{{ '/search.json' | relative_url }}"
+                });
+            </script>
+            {% endif %}
+  
+
+            <ul class="uk-navbar-nav uk-visible@m">
+                {% for link in site.data.navbar_primary.left %}
+                    {% if link.url contains 'http' %}
+                        {% assign domain = '' %}
+                    {% else %}
+                        {% assign domain = '' | relative_url %}
+                    {% endif %}
+                    {% if link.url == page.url %}
+                        {% assign current = ' class="uk-active"' %}
+                    {% else %}
+                        {% assign current = null %}
+                    {% endif %}
+                    {% if link.title %}
+                        <li{{ current }}>
+                            {% if link.url %}
+                            <a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" {% endif %}>{{ link.title }}</a>
+                            {% else %}
+                            <a href="#">{{ link.title }}</a>
+                            {% endif %}
+                            {% if link.dropdown != null %}
+                            <div class="uk-navbar-dropdown">
+                                <ul class="uk-nav uk-navbar-dropdown-nav">
+                                    {% for child in link.dropdown %}
+                                    {% if child.url != null %}
+                                        {% if child.url contains 'http' %}
+                                            {% assign domain = '' %}
+                                        {% else %}
+                                            {% assign domain = '' | relative_url %}
+                                        {% endif %}
+                                        {% if child.url == page.url %}
+                                            {% assign current = ' class="uk-active"' %}
+                                        {% else %}
+                                            {% assign current = null %}
+                                        {% endif %}
+                                        <li{{ current }}><a href="{{ domain }}{{ child.url }}">{{ child.title }}</a></li>
+                                    {% else %}
+                                        <li class="uk-nav-header">{{ child.title }}</li>
+                                    {% endif %}
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                            {% endif %}
+                        </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+
+        <div class="uk-navbar-center">
+            <ul class="uk-navbar-nav uk-visible@m">
+                {% for link in site.data.navbar_primary.center %}
+                    {% if link.url contains 'http' %}
+                        {% assign domain = '' %}
+                    {% else %}
+                        {% assign domain = '' | relative_url %}
+                    {% endif %}
+                    {% if link.url == page.url %}
+                        {% assign current = ' class="uk-active"' %}
+                    {% else %}
+                        {% assign current = null %}
+                    {% endif %}
+                    {% if link.title %}
+                        <li{{ current }}>
+                          {% if link.url %}
+                            <a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" {% endif %}>{{ link.title }}</a>
+                          {% else %}
+                            <a href="#">{{ link.title }}</a>
+                          {% endif %}
+                          {% if link.dropdown != null %}
+                            <div class="uk-navbar-dropdown">
+                                <ul class="uk-nav uk-navbar-dropdown-nav">
+                                  {% for child in link.dropdown %}
+                                    {% if child.url != null %}
+                                      {% if child.url contains 'http' %}
+                                          {% assign domain = '' %}
+                                      {% else %}
+                                          {% assign domain = '' | relative_url %}
+                                      {% endif %}
+                                      {% if child.url == page.url %}
+                                          {% assign current = ' class="uk-active"' %}
+                                      {% else %}
+                                          {% assign current = null %}
+                                      {% endif %}
+                                      <li{{ current }}><a href="{{ domain }}{{ child.url }}">{{ child.title }}</a></li>
+                                    {% else %}
+                                      <li class="uk-nav-header">{{ child.title }}</li>
+                                    {% endif %}
+                                  {% endfor %}
+                                </ul>
+                            </div>
+                          {% endif %}
+                        </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="uk-navbar-right">
+            <ul class="uk-navbar-nav uk-visible@m">
+                {% for link in site.data.navbar_primary.right %}
+                    {% if link.url contains 'http' %}
+                        {% assign domain = '' %}
+                    {% else %}
+                        {% assign domain = '' | relative_url %}
+                    {% endif %}
+                    {% if link.url == page.url %}
+                        {% assign current = ' class="uk-active"' %}
+                    {% else %}
+                        {% assign current = null %}
+                    {% endif %}
+                    {% if link.title %}
+                        <li{{ current }}>
+                          {% if link.url %}
+                            <a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" {% endif %}>{{ link.title }}</a>
+                          {% else %}
+                            <a href="#">{{ link.title }}</a>
+                          {% endif %}
+                          {% if link.dropdown != null %}
+                            <div class="uk-navbar-dropdown">
+                                <ul class="uk-nav uk-navbar-dropdown-nav">
+                                  {% for child in link.dropdown %}
+                                    {% if child.url != null %}
+                                      {% if child.url contains 'http' %}
+                                          {% assign domain = '' %}
+                                      {% else %}
+                                          {% assign domain = '' | relative_url %}
+                                      {% endif %}
+                                      {% if child.url == page.url %}
+                                          {% assign current = ' class="uk-active"' %}
+                                      {% else %}
+                                          {% assign current = null %}
+                                      {% endif %}
+                                      <li{{ current }}><a href="{{ domain }}{{ child.url }}">{{ child.title }}</a></li>
+                                    {% else %}
+                                      <li class="uk-nav-header">{{ child.title }}</li>
+                                    {% endif %}
+                                  {% endfor %}
+                                </ul>
+                            </div>
+                          {% endif %}
+                        </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+
+            <div data-uk-grid class="uk-child-width-auto uk-grid-small uk-flex-right@m uk-visible@m social uk-margin-left">
+              {% include social-networks.html icon_ratio="0.8" %}
+            </div>
+
+            {% if site.donations.paypal.navbar %}
+              <div class="uk-navbar-item">
+                  {% include donations-paypal.html %}
+              </div>
+            {% endif %}
+
+            <a class="uk-navbar-toggle uk-hidden@m" href="#offcanvas" data-uk-navbar-toggle-icon data-uk-toggle></a>
+
+        </div>
+
+    </div>
+    
+</div>
+<div class="uk-margin-remove"><hr></div>

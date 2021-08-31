@@ -1,0 +1,34 @@
+<div class="related">
+  <hr class="uk-margin-remove-top">
+  <h2 class="section-title uk-text-center uk-margin">Recommended Articles</h2>
+  <hr class="uk-margin-remove-top uk-margin-medium-bottom">
+  <div class="uk-child-width-1-2@s uk-grid-medium- uk-flex-center uk-margin-medium-bottom" data-uk-grid>
+    {% assign maxRelated = 4 %}
+    {% assign minCommonTags =  1 %}
+    {% assign maxRelatedCounter = 0 %}
+
+      {% for post in site.posts %}
+
+      {% assign sameTagCount = 0 %}
+      {% assign commonTags = '' %}
+
+      {% for category in post.categories %}
+          {% if post.url != page.url %}
+              {% if page.categories contains category %}
+                  {% assign sameTagCount = sameTagCount | plus: 1 %}
+              {% endif %}
+          {% endif %}
+      {% endfor %}
+
+      {% if sameTagCount >= minCommonTags %}
+        {% include content-media-top.html %}
+
+        {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+        {% if maxRelatedCounter >= maxRelated %}
+            {% break %}
+        {% endif %}
+      {% endif %}
+
+    {% endfor %}
+  </div>
+</div>

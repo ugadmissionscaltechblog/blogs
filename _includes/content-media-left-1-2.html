@@ -1,0 +1,37 @@
+{% if post.author %}
+  {% assign author = site.authors | where: 'username', post.author | first %}
+{% else %}
+  {% assign author = site.authors | where: 'default', true | first %}
+{% endif %}
+
+<article class="uk-card uk-grid-collapse uk-margin-large" data-uk-grid>
+    <div class="uk-width-1-2@m uk-card-media-left media-1-2 uk-cover-container">
+      {% if post.image %}
+        <a href="{{ post.url | relative_url }}">
+          <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ site.uploads | absolute_url }}{{ post.image }}{% endif %}" alt="{{ post.title }}" data-uk-cover>
+          <canvas width="600" height="450"></canvas>
+        </a>
+      {% endif %}
+    </div>
+    <div class="uk-width-expand@m uk-flex uk-flex-middle">
+        <div class="uk-card-body">
+          {% if post.id and post.categories %}
+            <div class="uk-text-uppercase article-title-font card-categories">
+              {% for category in post.categories %}
+                  <a class="link-primary" href="/category/{{ category }}">{{category}}</a>
+                  {% unless forloop.last %}{% endunless %}
+              {% endfor %}
+            </div>
+          {% endif %}
+          <h3 class="uk-card-title uk-article-title article-title-font"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <div class="content-secondary">{{ post.excerpt }}</div>
+          <div class="card-meta">
+            <b>{{ site.strings.author_by | default: 'By' }} <a href="{{ author.url }}" rel="author" title="{{ author.title }}">{{ author.title }}</a></b>
+            <time class="uk-margin-small-left" datetime="{{ post.date | date_to_xmlschema }}">
+              {% assign date_format = site.date_format | default: "%b %-d, %Y" %}
+              {{ post.date | date: date_format }}
+            </time>
+          </div>
+        </div>
+    </div>
+</article>

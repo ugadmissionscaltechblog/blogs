@@ -1,0 +1,24 @@
+# Mobile menu navigation links
+- title: Home
+  url: /
+
+- title: Blog
+  url: /blog/
+
+- title: Business
+  url: /category/business/
+
+- title: Culture
+  url: /category/culture/
+
+- title: Travel
+  url: /category/travel/
+
+- title: Sport
+  url: /category/sport/
+
+- title: Contact
+  url: /contact/
+  
+- title: 404
+  url: /404/
