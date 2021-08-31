@@ -6,7 +6,7 @@
   <meta property="og:image" content="{% if site.brand.image contains 'http' %}{{ site.brand.image }}{% else %}{{ site.uploads | absolute_url }}{{ site.brand.image }}{% endif %}"/>
   {% include head-custom.html %}
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  <link rel="shortcut icon" type="image/png" href="{{ site.uploads | relative_url }}favicon.png" >
+  <link rel="shortcut icon" type="image/png" href="{{ site.uploads | relative_url }}favicon.ico" >
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   <script src="{{ "/assets/js/main.min.js" | relative_url }}"></script>
   {% if jekyll.environment == 'production' and site.google_analytics %}
