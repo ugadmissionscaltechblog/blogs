@@ -1,0 +1,23 @@
+---
+layout: post
+author: Nina Budaeva
+image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01348338582d970c.jpg
+title: Last Day of Classes!
+categories: [research]
+status: Publish
+date: 2010-06-04
+---
+
+Today is the last day of classes! However, that doesn't mean that work is over. I am done with sets but all of next week we'll have Final Exams. 
+I am sorry for not writing a new post for a while but I was really busy with school lately and now I have a short breather before Finals start. It seems as though Caltech knows very well when general stress levels rise sharply, and it acts quickly to ease this stress. Last week on Wednesday instead of eating dinner in our Houses, there was a campus-wide Western-style dinner with barbecue and appropriate decoration. The genius mind who organized this also made sure that we were given cowboy hats and water guns. Conveniently there was a lot of ice-cold water ready for the guns so ... 
+This reminded me of one day during my Prefrosh Weekend (the Club Fair) when one club gave out water guns and I became part of a very intense battle with my Prefrosh friends. The best part about last week's dinner was that once everyone saw what the water guns were leading to, my water-fight friends from our Prefrosh Weekend sought each other out and we recreated our battle. This meant that we had to get soaked and use water bottles. Once again, I had at least one water bottle poured over my head but once again I'll finally admit that I deserved it because I was shooting water down people's backs.
+
+Some of you may be done with school already so if you're coming here next Fall, you've got a long summer to wait through. Once piece of advice (especially if you're coming here): don't do excessive college shopping! You'll regret it when you get here. This may sound disappointing, especially for those of you who love shopping (I totally understand you there) but restrain yourselves! Of course, buy the necessary things such as shower slippers, towels, bedding (TWIN EXTRA LONG), a shower tote, hangers. When you come here you'll be very sorry if you have five boxes with you. Remember that first you move into your Rotation rooms and then you move into your final rooms. I was lucky there because I only had to move ten feet and since my home is six hours away driving my parents and I planned out that they would drive down the rest of my less immediately necessary things after I move into my final room. Others were more miserable because they had to move to different floors in different Houses and their homes were an airplane flight away. 
+Therefore, don't burden yourselves with luggage! You'll be surprised by how much of the stuff you have now you won't actually need or miss once you get here! Also, Caltech is not in the middle of nowhere. We are a walking distance away from stores like Target, and IKEA, Crate and Barrel (if you want a fancy room) Best Buy and Staples (and more) are nearby. There even is a Williams Sonoma within 15 minutes' walking distance from campus. There are also plenty of very friendly upperclassmen who will offer rides. 
+Finally, don't let settling in bother you. Classes will start during Rotation (at least they did for us) and the most important thing to do when you get here is to start off the on the right foot academically. You will have at least one set due at the end of the very first week and more due at the beginning of the next week so get them done well! Don't let the upperclassmen telling you to stop working because you're on Pass-Fail negatively influence your work (and yes, be prepared for this) because otherwise you will regret fooling around when Third Term with real grades come around. 
+So what should you do now? Enjoy your summer! You did it! You made it! Feel good about yourselves and do things that are restful, relaxing and enjoyable. Stay energized to be fresh and focused when you get here. Work in a lab, read up on something, take some courses. Don't be ashamed of nerdiness! If you're coming here, you'll be fine. Travel, see your friends, exercise, try something new! We're all waiting for you to come here in September.
+
+Well, I've got to run to my last lecture of Term now! Later today my House (Page House) will have its traditional End-of-Term Barbecue by Millikan Pond but we will also take House photos. I am one of the two House historians now so I must be sure to be there to get hold of the photos for the house and for the yearbook. I'm looking forward to the day when I can look at those photos and be so happy that this all happened!
+Cheers, (and wish me and all the other Techers luck!)
+Nina.
+

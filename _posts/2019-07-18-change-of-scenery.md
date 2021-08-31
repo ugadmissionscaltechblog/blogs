@@ -1,0 +1,20 @@
+---
+layout: post
+author: Lexy LeMar
+image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a46f836c200c.jpg
+title: Change of Scenery
+categories: [global, research]
+status: Publish
+date: 2019-07-18
+---
+
+
+Hello all! My name is Lexy LeMar. I'm a rising junior studying chemical engineering in the environmental track (ChE ESE for short). I am currently writing to you from Boston, Massachusetts where I am doing research this summer through Caltech's SURF program. For those of you who are unfamiliar with SURF, it is a ten week research program over the summer that allows students to conduct research in a lab on campus, at the Jet Propulsion Lab, or in any other institute research lab in the world! Last summer, I did a SURF in the Seinfeld group on campus, studying volatile organic compounds and characterizing the fluid dynamics of the Caltech photochemical oxidation flow tube reactor. I had a really great experience both in the lab and going on weekend adventures around the Los Angeles area; however, being on campus for such a long period of time made me realize how much I wanted a change of scenery.
+
+This summer I am again doing a SURF, but this time I decided to broaden my horizons and head across the country to do a SURF at MIT. I have spent the last three and a half weeks here in Boston, exploring, trying new foods, and figuring out how to live on my own. It really has been a whirlwind of new experiences and adjustments. First of all, finding housing was MUCH harder than the previous summer. When doing a SURF on campus, students can live in the dorms for the summer, but when doing an off campus SURF, students are left to their own devices. Also, when doing a SURF on campus, students can remain on board and rely on cafeteria food, but since I am living in an apartment this summer, I actually had to learn how to plan a week of meals, make a grocery list, and cook. Well, I'm still working on the cooking part, but we're getting there. The last huge adjustment was transportation. Caltech is such a small campus that I got used to only walking 5 minutes or so to get to lab or go get food. Boston is a beautiful city (as you can see from the picture of the Charles River that I took on my way home), but the roads are a complete mess, curving and weaving everywhere. A straight road in Boston is like rain in the desert. But between walking to campus and the grocery store and using the "T", Boston's subway and bus system, I think I'm starting to get used to navigating Boston. In all seriousness though, I think this whole experience has taught me a lot about being independent and has also made me appreciate the convenience of living on campus.
+
+Other than the whole growing up and being an adult part, this summer has been quite an amazing experience so far. First of all, MIT is pretty cool. I realize there is a whole "feud" between Caltech and MIT, but they have a pretty neat campus with some awesome sculptures, and the students in the lab where I work are incredibly intelligent and surprisingly humble and welcoming. I was pretty nervous flying all on my own out to a city where I knew approximately three people and on top of that, I was going to be working in a prestigious lab with extremely talented and intimidating graduate students and post docs. Talk about butterflies! But on the first day, I walked in and everyone was super friendly and welcoming and I quickly found a new home. I even ran into some Caltech alumni who are currently PhD candidates at MIT who were friends of my friends and had some very insightful life advice for me. It was a completely unexpected connection that made me realize how small the world really is, especially in the realm of academia. Although I have only been here three and a half weeks, I have met some incredible people, have learned a BUNCH, and have begun to venture out and explore an exciting new city.
+
+-LEXY
+
+{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0240a46f83b8200c.jpg" %}

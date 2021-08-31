@@ -1,0 +1,31 @@
+---
+layout: post
+author: Nina Budaeva
+image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0134869714af970c.jpg
+title: It's Coming!
+categories: [culture]
+status: Publish
+date: 2010-08-31
+---
+
+
+Since the next big thing after the start of preseason is the start of classes, I shall fulfill my promise now and talk about a few things that Prefrosh should expect when they get here. 
+First and foremost, Prefrosh, don't bring a lot of things with you on your first trip here! You will go through Orientation and Rotation and you'll be living in random temporary rooms until Rotation ends. Then, if you're lucky you'll move right into your permanent room in your House but some Houses put their Prefrosh into yet another temporary room until permanent room assignments are figured out. I brought just enough to get me through two weeks and then my parents came down with the rest of my boxes that I had before leaving. I'm lucky that my parents can drive to campus but other friends who live on the other coast have had their things shipped to them after their final move. I'd say shipping costs are worth it. Some parents have been asking about how to equip rooms. Once again, I'd say to wait on any big things until you move into your permanent room. Also, it's probably a good idea to have parents visit a few weeks into your time here not only to stabilize you but they will most likely have good ideas about setting your room up and whether you realize it or not, you'll miss each other a lot, especially as time goes on.
+
+Some things that you should definitely bring right away: shower 
+supplies (get a caddy and slippers), towels, swimming things, school 
+supplies, bedding, desk lamp (I didn't bring one so I hung a 
+flashlight over my desk with paperclips until my parents brought me the rest of my 
+things), clothing, hygiene supplies and any personal things that will 
+comfort you in your first few weeks on your own. 
+Before I forget, I'd like to put a note in about sports since I've been hearing a lot of sport talk recently. Prefrosh, don't shy away from joining a sport! Caltech is not the place to be overly concerned with your athletic achievements but athletic commitment is well-respected here. Give it a shot! If you didn't have time to be a student athlete in high school, you can be one here! Also, I found that being on a team as a Frosh helped me adapt to college a lot because the team is yet another family and support group. Those Prefrosh who came for preseason had extra time to adapt and meet upperclassmen. Even if you're missing preseason this year, still feel free to join a team when you get here in September (like I did)! You will most likely be very warmly welcomed! Guess what, you still have that chance to be the buff water polo player or the track star, or the tennis champion of your school! Once again, definitely consider giving sports a shot.
+
+There are probably a lot of questions about how Rotation works so I'll take the time now to describe it. The purpose of Rotation is to assign all Frosh to a House. There are eight undergraduate Houses at Caltech and every Techer is a full member of one House. To make sure that no one is stuck in a House that doesn't fit for all four years, we have Rotation. This whole system is quite analogous to that of Harry Potter. Rotation lasts one week, and each day Prefrosh go to different Houses for various activities. By the end of the week everyone has had at least a dinner, a lunch and a dessert night with each house. On the Saturday of Rotation, Prefrosh rank the Houses in their own order of preference. These forms go to a picks committee and after some very mysterious and complicated process the Flemming cannon fires a blank at five p.m. on Sunday. This is a very special moment because once the cannon fires the Prefrosh become Frosh and the Frosh become Sophomores. (By tradition the upperclassmen advance to their next year when Ditch Day ends but Frosh remain Frosh throughout summer until the cannon fires in the Fall.) After the cannon fires, the new Frosh run to the House doors and go through various obstacles to find out if they got into one house or another. It's a very fun and busy day but you're already one week into classes and your first sets are due the coming week so don't forget to finish the Math Set that is due on Monday!
+Weather-wise, I'll just say that I thought the last few days were almost on the chilly side because it was not 100 degrees. However, nights can get cold so bring a jacket and a blanket. Also, air conditioners should be installed by Caltech Housing in every room by the time you get here.
+
+When you get here, don't be discouraged if things aren't so easy. First of all, this is college and no matter what school you go to you will go through a transition that may be rough. Just power through it, stay in touch with home and find yourself a comfortable group on campus. You may find the work tough but would you come to Caltech expecting academics to be a piece of cake? Once again, don't feel bad. Things will pay off. For example, a few of my Frosh friends and I went down to Santa Monica last weekend to visit a guy from our House (Page House) who just graduated last June. He worked hard at Caltech and landed a good job in Santa Monica. The first few weeks, he told us, were training for new hires. They had classes and homework sets along with assessments. The guy, Dave, said that he was having less trouble than other new hires because he was fresh out of Caltech where a four-hour set is no problem. Of course, he's still working hard but he sure got good training at Caltech!
+Finally, come prepared with a very quick and interesting summary of yourself. You will be doing a lot of small talk, especially during Rotation. By the end of the week everyone is tired of finding out where people are from, what their names are, what their intended major is, what their favorite colors and foods are, etc. So be prepared for this!
+Other than that, have a great rest of your summer and if you're already here for preseason, welcome! I can't wait to meet all of you when I get back to campus on the 16th after a short vacation!
+Cheers,
+Nina.
+
