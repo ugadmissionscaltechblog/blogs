@@ -21,8 +21,6 @@ google_analytics:   # Google analytics code, get your code here https://www.goog
 disqus:
   shortname:        https-caltechadmissions-blog
 
-instagram_accesstoken: 
-
 footer:             # Default footer image settings
   copyright:        Made with &#9825; and Etoile by Caltech Students.
 
