@@ -5,7 +5,7 @@
 # If you change this file, please restart the server process.
 
 # Site settings
-title:              Caltech Undergraduate Student Blog
+title:              Caltech Undergrad Blog
 description:        Explore life at Caltech!
 url:                # Site base hostname & protocol, e.g. http://example.com
 baseurl:            "/trinity" # Site subpath, e.g. /blog
@@ -47,7 +47,7 @@ social_networks:
   dribbble:       
   github:           
   reddit:           https://www.reddit.com/r/Caltech/
-  instagram:        https://www.instagram.com/
+  instagram:        https://www.instagram.com/caltechadmissions/
   linkedin:       
   pinterest:        
   twitter:          https://twitter.com/Caltech
