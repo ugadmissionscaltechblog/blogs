@@ -41,18 +41,18 @@ social_share:
 # Social networks
 social_networks:
   email:          
-  website:        
-  facebook:         https://www.facebook.com/
-  flickr:         
+  website:          https://www.caltech.edu
+  facebook:         https://www.facebook.com/californiainstituteoftechnology
+  flickr:           https://www.flickr.com/photos/caltech/
   dribbble:       
-  github:         
-  reddit:         
+  github:           
+  reddit:           https://www.reddit.com/r/Caltech/
   instagram:        https://www.instagram.com/
   linkedin:       
-  pinterest:      
-  twitter:          https://twitter.com/
-  vimeo:          
-  youtube:          https://www.youtube.com/    
+  pinterest:        
+  twitter:          https://twitter.com/Caltech
+  vimeo:            
+  youtube:          https://www.youtube.com/user/caltech   
 
 # Strings
 strings:
