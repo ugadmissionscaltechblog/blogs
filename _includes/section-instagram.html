@@ -7,16 +7,16 @@
 {%- endif -%}
 
 <div class="uk-container uk-margin-medium-bottom">
-  {% if site.instagram_accesstoken %}
   {%- assign cols = include.cols | default: '4') -%}
-  <div id="instagram" class="uk-grid-small uk-child-width-1-3@s uk-child-width-1-{{ cols }}@m{% if include.gutter == 'false' %} uk-grid-collapse{% endif %}" data-uk-grid></div>
-  <script>
-    instafetch.init({
-      accessToken: '{{ site.instagram_accesstoken }}',
-      target: 'instagram',
-      numOfPics: {{ include.count | default: '6' }},
-      caption: false
-    });
-  </script>
-  {% endif %}
+  <script src="https://ig.instant-tokens.com/users/6bad823e-cd8a-426e-b9d8-b70b113921a1/instagram/17841400885573472/token.js?userSecret=1bvuwc12uvmfcoc3fbcqzj"></script>
+  <script type="text/javascript" src="{{ site.baseurl }}/assets/js/vendor/instafeed.min.js"></script>
+  <div id="instafeed" class="uk-grid-small uk-child-width-1-3@s uk-child-width-1-{{ cols }}@m{% if include.gutter == 'false' %} uk-grid-collapse{% endif %}" data-uk-grid></div>
+    <script type="text/javascript">
+        var feed = new Instafeed({
+          accessToken: InstagramToken, 
+          limit: 12, 
+          resolution: 'low_resolution'
+        });
+        feed.run();
+    </script>
 </div>
