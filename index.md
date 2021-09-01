@@ -10,9 +10,7 @@ layout: full
 
 {% include section-latest.html title="Latest Articles" limit="4" more="More Articles" %}
 
-<!--
-{% include section-authors.html title="Our Contributors" %}
--->
+{% include section-authors.html title="Meet Our Bloggers" %}
 
 {% include section-instagram.html title="Latest On Instagram" cols="4" count="3" gutter="true" %}
 
