@@ -30,14 +30,6 @@ navbar_primary:
   social:           true
   search:           true
 
-# Social share buttons
-social_share:
-  twitter:          true
-  facebook:         true
-  linkedin:         true
-  pinterest:        true
-  reddit:           true
-
 # Social networks
 social_networks:
   email:          
