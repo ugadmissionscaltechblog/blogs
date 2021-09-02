@@ -47,7 +47,7 @@ layout: default
 
       {% if author.title %}
       <div class="uk-margin-large-bottom article-author" itemscope itemtype="http://schema.org/Person">
-        <b>{{ site.strings.author_by | default: 'By' }} <span itemprop="name"><span itemprop="name"><a href="{{ author.url }}" title="{{ author.title }}">{{ author.title }}</a></span></span></b>
+        {{ site.strings.author_by | default: 'By' }} <span itemprop="name"><span itemprop="name"><a href="{{ author.url }}" title="{{ author.title }}"><b>{{ author.title }}</b></a></span></span>
       </div>
       {% endif %}
 
