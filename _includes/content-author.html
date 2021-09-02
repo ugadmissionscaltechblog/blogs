@@ -6,16 +6,10 @@
       {% endif %}
     </div>
     <div class="uk-card-body">
-      <div class="uk-text-uppercase uk-article-meta">
+      <div class="uk-text-uppercase">
         <a class="link-primary article-title-font card-categories" href="{{ author.url | relative_url }}">{{ author.title }}</a>
-        <h5 class="uk-text-bold">Option: {{ author.option }}</h5>
-      <!--
-      {% assign post = site.posts | where: 'author', author.username | first %}
-      {% if post %}
-        <h3 class="card-title-small article-title-font"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-        <div class="content-secondary">{{ post.excerpt }}</div>
-      {% endif %}
-      -->
+      </div>
+      <div>Option: <span class="uk-text-bold">{{ author.option }}</span></div>
     </div>
   </div>
 </div>
