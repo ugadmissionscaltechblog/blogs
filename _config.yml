@@ -8,7 +8,7 @@
 title:              Blogs
 description:        Caltech Admissions
 url:                https://caltechadmissions.blog # Site base hostname & protocol, e.g. http://example.com
-baseurl:            /blogs # Site subpath, e.g. /blog
+baseurl:            # Site subpath, e.g. /blog
 logo_image:
   dark:             # Dark logo e.g logo-dark.svg upload to /uploads/ folder, used in header, mobile navigation and page sidebar About widget
   light:            # Light logo e.g. logo-light.svg upload to /uploads/ folder, used in footer About widget
