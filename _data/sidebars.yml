@@ -15,18 +15,20 @@ page:
 # Footer sidebar widgets
 footer:
   - widget: links
-    title: ABOUT
+    title: MORE
     links:
       - title: "About Us"
-        url: /#/
-      - title: "Our Story"
-        url: /#/
-      - title: "Contribute"
-        url: /#/
-      - title: "Terms"
-        url: /#/
-      - title: "Contact"
-        url: /contact/
+        url: /about/
+      - title: "Contact Us"
+        url: https://www.admissions.caltech.edu/inquire
+      - title: "Visit"
+        url: https://www.admissions.caltech.edu/visit
+      - title: "Afford"
+        url: https://www.admissions.caltech.edu/afford
+      - title: "Apply"
+        url: https://www.admissions.caltech.edu/apply
+      - title: "Explore"
+        url: https://www.admissions.caltech.edu/explore
 
   - widget: categories
     title: CATEGORIES
