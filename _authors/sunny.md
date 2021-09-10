@@ -1,6 +1,6 @@
 ---
 title: Sunny
-username: Sunny
+username: sunny
 meet: false
 ---
 
