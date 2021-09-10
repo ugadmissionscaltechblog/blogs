@@ -17,7 +17,7 @@ date_format:        "%B %-d, %Y" # refer to http://shopify.github.io/liquid/filt
 uploads:            /uploads/ # Path to post content assets directory i.e post images, pdfs etc
 paginate:           42 # Number of posts displayed on blog page
 paginate_path:      "/blog/:num/" # Blog path
-google_analytics:   # Google analytics code, get your code here https://www.google.com/analytics/
+google_analytics:   G-BR11PQ4Y78
 disqus:
   shortname:        https-caltechadmissions-blog
 
