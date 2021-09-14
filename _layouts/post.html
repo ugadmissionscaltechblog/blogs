@@ -72,12 +72,6 @@ layout: default
 
 </article>
 
-{% if page.related %}
-  <div class="uk-container uk-container-small uk-margin-bottom">
-    {% include related.html %}
-  </div>
-{% endif %}
-
 {% if site.disqus.shortname %}
   <div class="uk-container uk-container-small">
     <hr class="uk-margin-remove-top uk-margin-medium-bottom">
@@ -85,4 +79,10 @@ layout: default
   <div class="uk-container uk-container-xsmall">
   {% include disqus-comments.html %}
 </div>
+{% endif %}
+
+{% if page.related %}
+  <div class="uk-container uk-container-small uk-margin-bottom">
+    {% include related.html %}
+  </div>
 {% endif %}
