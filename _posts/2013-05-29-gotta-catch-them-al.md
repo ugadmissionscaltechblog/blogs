@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Caroline Yu
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019102492077970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019102492077970c.jpg
 title: Gotta catch them all
 categories: [culture]
 status: Publish
@@ -15,7 +15,7 @@ Friday turned out to be a fake, but it was fun nonetheless. We were divided into
 Alley truffle making event! 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01910249215e970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01910249215e970c.jpg" %}
 
 Tara caught red, err pink handed! (Making white chocolate rose truffles--fancy!)
 I wish I took pictures during the fake, but running around with a camera is pretty chaotic :P 

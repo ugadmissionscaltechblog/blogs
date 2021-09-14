@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anita
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c6db4658970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c6db4658970b.jpg
 title: Breakfasts and Baked Goods in Solvang, CA
 categories: [global]
 status: Publish
@@ -17,7 +17,7 @@ We had brunch at Paula's Pancake House, which, for its small size and homey furn
 Right next to Paula's Pancake House was Olesen's Bakery, another must-visit according my mom's tour book. A section of their counter looked like this:
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73e113449970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73e113449970d.jpg" %}
 
 My mother bought a pretezel-shaped Scandinavian pastry called a *kringle*. It was a glorious 10 dollars of lightly-sugared fluffiness studded with almonds, a good three inches in diameter and larger than a laptop! The bakery also had some very nice free samples of almond cookies, soft and slightly sticky like the top halves of French macarons, mm!
 And after much painful deliberation, I finally settled on buying something called a Danish Waffle--two flattish pieces of lightly cinnamoned, sugar-crusted, and buttery pastry crisps filled with a bit of buttercream and raspberry jam. I ate it for a midafternoon snack and *boy* was it heavenly!
@@ -26,7 +26,7 @@ Our last stop for the central coast was an old family favorite, Foley Vineyards.
 I can tell you I didn't do much wine-tasting, but I feasted my aesthetic senses in other ways. While the parents sampled their Chardonnays and Pinot Noirs, I flipped through the pages of a wine magazine, drank the complementary ice-cold water, and mused on life while looking through the window at the sunshine streaming over the green, green leaves and luscious wine grapes.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73e113663970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73e113663970d.jpg" %}
 
 Next installment: beautiful scenery as we drive further up the west coast. Till then!
 

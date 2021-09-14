@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yang Hu
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0154332c7933970c-800wi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0154332c7933970c-800wi.jpg
 title: 107 Days of Summer Break at Caltech!
 categories: [research]
 status: Publish
@@ -17,18 +17,18 @@ June 21, 2011 marks the beginning of summer, and it also marks the start of a jo
 
 **Your Guide**
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b014e894cb8df970d-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b014e894cb8df970d-800wi.jpg" %}
 **My name is Yang Hu and I am a junior undergrad at Caltech. I am majoring in biology, and my aspiration is to make it to medical school. My goal in this blog is to give you firsthand experience of what a summer at Caltech can be. Whether you are a high school student, prefrosh, or anyone else, I hope you find this blog useful. Now, enough about me. Let's go visit some places!**
 
 **What to Expect**
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01538f59848c970b-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01538f59848c970b-800wi.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e894cbcf5970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e894cbcf5970d.jpg" %}
 **FIRST STOP: END OF FINALS**
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b014e894ccd73970d-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b014e894ccd73970d-800wi.jpg" %}
 **Opinions on some biology classes**|Courses Taken 3rd Term (39 Units)
 
 **Advanced Genetics** taught by P. Sternberg -- This was a very low stress class. The entire grade was comprised of four problem sets worth 25% each. An A is any grade at or above 90%. Even though there is no extra credit offered, rumor has it that A+'s were given to students with the top grades in the class. Yes, Caltech does give A+'s and they count for 4.33 GPA!
@@ -53,34 +53,34 @@ June 21, 2011 marks the beginning of summer, and it also marks the start of a jo
 
 (TA'd Bi1 -- As a job, TA positions do not count for credit. This was definitely a class worth taking as TAs are required to take the course in addition to TAing and holding recitation sections and office hours. The professor P. Bjorkman applied concepts in biology to HIV viruses. If given the option to TA, I would most likely do it again.)
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0154332cd503970c-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0154332cd503970c-800wi.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01538f59cd0c970b-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01538f59cd0c970b-800wi.jpg" %}
 I also got to go to lab today, but more on that in the next post!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01538f59d17e970b-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01538f59d17e970b-800wi.jpg" %}
 The next day was a filled with fun as well. There was a kick-off summer BBQ for all summer research students (SURF, Amgen, and MURF) featuring mediterraneanfood catered by Burger Continental (which gives you a $2 Caltech special of a burger with fries on the side! That's cheaper than McDonalds! xP) After that I had to pack for my 3-day trip to Yosemite sponsored by the Caltech Y, which is our campus volunteer organization, which I will go into detail in future posts!
 
 **SECOND STOP: YOSEMITE** ** **
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b014e894d156e970d-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b014e894d156e970d-800wi.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0154332d1195970c-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0154332d1195970c-800wi.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0154332d156f970c-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0154332d156f970c-800wi.jpg" %}
 **THIRD STOP: BACK TO TECH**
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0154332d185f970c-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0154332d185f970c-800wi.jpg" %}
 The next day, I spent some time filming the House Video intro for rotation, and I also got to go to the annual "Pasadena Make Music and Sidewalk Chalk Festival." There were a lot of beautiful sidewalk chalk artwork as well as some interesting bands I've never heard of. Overall, it was awesome, and I also got to hangout with some Amgen buddies pictured above.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0154332d1b38970c-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0154332d1b38970c-800wi.jpg" %}
 Since I've come to Caltech, I've become more sedentary. I used to do sports like cross-country and track in high school, but kind of dropped the ball at Caltech. This summer, I'm hoping to workout more to get back in shape. That's the goal. Now let's see if I get past planning xP
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b014e894d258b970d-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b014e894d258b970d-800wi.jpg" %}
 The package came with an HTC Inspire, which will replace my Blackberry Curve 8310. Now, I have to figure out how to use all of these new features, which the Curve didn't have. Whoot! More things to keep me busy over the summer.
 
 --

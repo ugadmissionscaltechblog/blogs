@@ -1,7 +1,7 @@
 ---
 title: Jen Yu 
 author: jenyu7
-image: https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/profile_pics/jenyu7.png
+image: https://d24slhcvzhzz82.cloudfront.net/profile_pics/jenyu7.png
 option: Computer Science 
 house: Fleming 
 meet: true

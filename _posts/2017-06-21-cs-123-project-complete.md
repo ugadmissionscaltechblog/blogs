@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d28b2022970c.png
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d28b2022970c.png
 title: CS 123 Project Complete!
 categories: [research]
 status: Publish
@@ -16,10 +16,10 @@ I’m a really big fan of databases. I think it’s because the work is low-leve
 That’s actually what drove me towards this project to begin with. Last fall, I worked with two other Caltech students to build a live-updating data visualization dashboard for tweets about the election (RIP). I designed the architecture of the project and set everything up on AWS. We used a couple of EC2 instances to connect to the Twitter Public Streaming API, ran a couple of machine learning models that we’d trained on the tweets that came through, aggregated the models’ scores, and updated a DynamoDB instance with the aggregates. We used Elastic Beanstalk to host our Node app, which read data out of DynamoDB and used D3.js to update our dashboard. We had a couple of visualizations, illustrating differences in tweet volume, sentiment, and vocabulary between twitter users with “liberal” and “conservative” ideologies (classified using our ML models) on four different topics concerning the election and election day. 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c900fa5a970b.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c900fa5a970b.png" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d28b202a970c.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d28b202a970c.png" %}
 *These are some screenshots of our visualizations of tweets from inside of the USA containing keywords about polling places at 8pm on 11/09/2017*. 
 
 That project was really fun. I had the chance to learn some web development, a little bit of devops (bless Elastic Beanstalk for saving me from most of that, since I had four weeks to build this whole project and devops is way beyond my current skillset), and a little bit of data viz. One of my biggest takeaways from this project was how many options there were for setting up streaming data pipelines, and how complicated they were to set up. 
@@ -39,7 +39,7 @@ I call my database TrickleDB (because it’s a Nano stream, heh). TrickleDB can 
 The TrickleDB system is modeled after a tree hierarchy. There is one global StreamManager object, instantiated on startup, which can have zero or more Stream objects. Each Stream object can have zero or more StreamView objects, and must have one Source object.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d28b203c970c.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d28b203c970c.png" %}
 *A class diagram of the four objects that make up the TrickleDB system.*
 
 To set up the system, a user must start a NanoDB server, which instantiates the StreamManager, and then use the following SQL: 
@@ -57,7 +57,7 @@ To create a StreamView, the user will use a command like this:
 This command creates a new StreamView object that belongs to the Stream *tweets*. This StreamView creates a “view table” with a schema based on the passed-in aggregate functions on attributes of the Stream’s schema (in this case, SUM(number_of_likes)). The StreamView registers all of the aggregate functions that it’s schema needs to keep track of, and passes this information to the Stream. For example, *tweets_aggregate* will pass “SUM(number_of_likes)” to the *tweets* Stream, but if *tweets_aggregate* were tracking an average instead of a sum, it would pass SUM and COUNT to its Stream. 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c900fa6f970b.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c900fa6f970b.png" %}
 *A sequence diagram illustrating the actions taken by the TrickleDB system, shown on the right, upon user input in the form of SQL commands, shown on the left.*
 
 The Stream uses the names of the aggregate functions from all of its StreamViews to create a temporary table (whose schema contains all of these aggregate functions). Periodically, when triggered by the StreamManager, the Stream will perform these aggregate functions on its buffer table and insert all the aggregate values into the temp table. The Stream will then trigger the method “performComplexAggregates()” in each of its StreamViews. Each StreamView will search the Stream’s temporary table for the aggregates that it is tracking, and will coalesce the partial aggregate data with the aggregate data it has already collected over time. For example, if *tweets_aggregate* has tracked 123 likes on all of my tweets since its instantiation, and in the period of time between the last time the Stream performed aggregation on its buffer table and now, the buffer table contains the value “6” for the attribute “SUM(number_of_likes)”, then “performComplexAggregates()” would coalesce these two values and update *tweets_aggregate.SUM(number_of_likes)* to be equal to 129. After each StreamView has completed its updates, the Stream marks all of the data in its buffer table as “processed.”
@@ -65,13 +65,13 @@ The Stream uses the names of the aggregate functions from all of its StreamViews
 The StreamManager handles garbage collection on a separate Quartz trigger, periodically deleting “processed” data from each Stream’s buffer table. 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c900fa78970b.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c900fa78970b.png" %}
 *A sequence diagram indicating all actions taken by the TrickleDB system. The pink boxes indicate triggers and jobs implemented using the Quartz package, which run periodically without user input. Except for instantiation using CREATE commands, the entire TrickleDB system runs without user interference, ingesting data from the Source’s connection, aggregating the data in the Stream, and coalescing the partial aggregates with the running aggregates in the StreamView.*
 
 Here is an example of how data flows through the TrickleDB system. On the left is a representation of the various objects inside of TrickleDB, including the StreamManager, two Streams, each Stream’s Source, and each Stream’s StreamViews. On the right is a representation of how data that begins in JSON format from the Source’s connection is transformed into a streaming aggregate in the StreamView’s view table. The colored boxes that overlap the left and right sides of the diagram delineate between the forms of data each object (on the left) stores or transforms. 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c900fa7f970b.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c900fa7f970b.png" %}
 *The colored boxes represent the form that data takes during each step of processing. The blue box represents the data received over the connection on the Source’s URL. The pink box represents the INSERT statement parsed from the raw JSON and stored in the Source’s circular FIFO queue (the buffer). The orange box represents 1. The record in the Stream’s buffer table, 2. The INSERT statement used to populate the Stream’s temp table. The green box represents 1. The record of aggregates in the Stream’s temp table, and 2. The coalesced record in the StreamView’s view table.*
 
 I hope at least some of you found this interesting! If so, you'll probably like Donnie Pinkston's CS 121, 122, and 123 class sequence here at Caltech.

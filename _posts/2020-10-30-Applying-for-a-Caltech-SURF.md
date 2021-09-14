@@ -3,7 +3,7 @@ layout: post
 title: "Applying for a Caltech SURF!" 
 categories: [research]
 author: annabel
-image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/10/Annabel+/D72F8AC9-6788-42C3-ACB8-82031AFA2C84.jpeg
+image: https://d24slhcvzhzz82.cloudfront.net/images/2020/10/Annabel+/D72F8AC9-6788-42C3-ACB8-82031AFA2C84.jpeg
 ---
 
 
@@ -33,4 +33,4 @@ Much like many SURFs this year, due to the pandemic, I also had to conduct my SU
  
 With 76 Nobel Laureates on its roster, it’s no surprise that Caltech is a breeding ground for exceptional research opportunities! “Being a Caltech student [definitely makes] the SURF process easier since...there is such a culture of learning on campus...excited to help [you grow]!” (Diana). And though the process may seem daunting, there is no need to be “timid when contacting potential mentors. Oftentimes, potential mentors are happy to take on a young student for the summer,” (Ismail). However, like with everything else, there are no guarantees. It’s important to “start early, be clear about what you’re interested in,” and remain focused and determined (Tea).
 
-![Interviewees](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/10/Annabel+/A4E990EA-F303-490E-A8C6-C9E622DB9EE1.jpeg)
+![Interviewees](https://d24slhcvzhzz82.cloudfront.net/images/2020/10/Annabel+/A4E990EA-F303-490E-A8C6-C9E622DB9EE1.jpeg)

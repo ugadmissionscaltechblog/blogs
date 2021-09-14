@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Joanne Li
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01a511d0e278970c01a511e76de7970c-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01a511d0e278970c01a511e76de7970c-pi.jpg
 title: Vs. Mount Fuji
 categories: [research]
 status: Publish

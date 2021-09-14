@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ariel O'Neill
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a017c3671e245970b01a73df3a08d970d-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a017c3671e245970b01a73df3a08d970d-pi.jpg
 title: Fuzzy Socks and T. S. Eliot
 categories: [research]
 status: Publish
@@ -20,7 +20,7 @@ I still didn't feel like biking or doing anything very demanding, so I put on fu
 I highly recommend the socks.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a017c3671e245970b01a511e851fb970c-pi.jpg" %}<div class="photo-caption caption-xid-6a017c3671e245970b01a511e851fb970c" id="caption-xid-6a017c3671e245970b01a511e851fb970c">My mug is from the Barnes and Noble in my hometown, but it's also available here: https://www.barnesandnoble.com/p/home-gift-jeff-fisher-ts-eliot-quote-mug/23720135
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a017c3671e245970b01a511e851fb970c-pi.jpg" %}<div class="photo-caption caption-xid-6a017c3671e245970b01a511e851fb970c" id="caption-xid-6a017c3671e245970b01a511e851fb970c">My mug is from the Barnes and Noble in my hometown, but it's also available here: https://www.barnesandnoble.com/p/home-gift-jeff-fisher-ts-eliot-quote-mug/23720135
 
 What ought one do after one has donned comfy socks and outfitted oneself with a soothing beverage?
 

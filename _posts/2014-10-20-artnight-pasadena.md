@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Grace
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d07c471d970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d07c471d970c.jpg
 title: ArtNight Pasadena 
 categories: [local]
 status: Publish
@@ -17,7 +17,7 @@ I didn't get to take that many photos since it got quite dark quickly and taking
 I really liked the three paintings here, they're all scenes around Pasadena that are familiar to me, but they've been painted in such a way that is so beautiful. I especially like the third one where there the muted colours depict sunset at Pasadena City Hall. Also the painter's choice to put the American flag in the centre of a square painting draws attention to it immediately.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d07c4821970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d07c4821970c.jpg" %}
 Here's a very grainy selfie with our cool hot pink ArtNight stickers to end this post.
 
 Toodles!

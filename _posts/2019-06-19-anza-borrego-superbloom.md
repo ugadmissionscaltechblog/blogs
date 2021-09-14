@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a4913604200d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a4913604200d.jpg
 title: Anza Borrego Superbloom
 categories: [local]
 status: Publish
@@ -16,8 +16,8 @@ Next to the visitor center was a garden featuring some of the flora in the state
 A couple minutes drive away from the town were these huge metal statues of various animals. The most impressive was the dragon below!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a4913622200d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a4913622200d.jpg" %}
 After driving around the park, we went on a 2 hour hike to a small oasis where there were native palm trees and a little spring. Here are some photos from the hike :)
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a491361e200d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a491361e200d.jpg" %}

@@ -3,7 +3,7 @@ layout: post
 title: "My Best Advice for the Class of 2025"
 categories: [academics, culture]
 author: Andrew
-image: https://blueberry-elephant.s3.us-east-2.amazonaws.com/amchan/12_17/Fleming+House+at+Rose+Bowl.JPG
+image: https://d3g9s82edwzh8v.cloudfront.net/amchan/12_17/Fleming+House+at+Rose+Bowl.JPG
 ---
 
 It’s crazy to think that it has been four years now since I was applying to college. I remember it vividly. This week we’re spending some time reflecting on our personal admissions processes, and how we ended up at Caltech. There’s one question though that I wanted to spin out into a separate post: “what advice would you give to the admitted class of 2025?” And I think the best way to do this is to tell a more detailed story than I did in my other post.

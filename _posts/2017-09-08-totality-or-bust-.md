@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2955970c01bb09bfc6d2970d-800wi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01bb09bfc6d2970d-800wi.jpg
 title: Totality or Bust!
 categories: [global]
 status: Publish
@@ -34,11 +34,11 @@ The day before we left for the backpack (two days before eclipse day), I read An
 <div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09bfc6d2970d" id="caption-xid-6a01b8d28f2955970c01bb09bfc6d2970d">The sun is in its "Pac Man" stage.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2955970c01bb09bfc76a970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09bfc76a970d" id="caption-xid-6a01b8d28f2955970c01bb09bfc76a970d">The sun looks like the moon here!
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01bb09bfc76a970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09bfc76a970d" id="caption-xid-6a01b8d28f2955970c01bb09bfc76a970d">The sun looks like the moon here!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2955970c01b7c91c8d3e970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b7c91c8d3e970b" id="caption-xid-6a01b8d28f2955970c01b7c91c8d3e970b">Totality! Sorry for the poor quality, but this is all that my iPhone could produce!
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01b7c91c8d3e970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b7c91c8d3e970b" id="caption-xid-6a01b8d28f2955970c01b7c91c8d3e970b">Totality! Sorry for the poor quality, but this is all that my iPhone could produce!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2955970c01bb09bfc7d6970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09bfc7d6970d" id="caption-xid-6a01b8d28f2955970c01bb09bfc7d6970d">The slightly sepia mountain after the eclipse.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01bb09bfc7d6970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09bfc7d6970d" id="caption-xid-6a01b8d28f2955970c01bb09bfc7d6970d">The slightly sepia mountain after the eclipse.
 

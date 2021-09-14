@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kiara
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac79564c970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac79564c970d.jpg
 title: Polymers... and Staircases?
 categories: [research]
 status: Publish
@@ -32,7 +32,7 @@ As someone who has managed to completely avoid lab sections that start at 8 AM d
 
 At work, we wear uniforms, so when people arrive, they go to the locker room to change first before heading off to the workplace. One particular staircase is closest to the locker rooms, and having climbed it multiple times, I couldn't help but take note of the things that are written on it. The things written are what you'd expect, such as "Hold on to the railing" (another staircase that doesn't have things written on it has a radio attached to the wall telling you the same thing when you pass it), but there was one that really caught my attention:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901eba2788970b.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b01901eba2788970b" id="caption-xid-6a0105349b8251970b01901eba2788970b">I'm referring to the top one.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901eba2788970b.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b01901eba2788970b" id="caption-xid-6a0105349b8251970b01901eba2788970b">I'm referring to the top one.
 
 To y'all who can't read Japanese, the top one says "No poketto hando! (Don't put your hands in your pockets)" While it did a good job of catching my attention, I didn't notice the things in parenthesis during the first few times and I was *really* confused. I understood it after I read the things in the parenthesis. Strange.
 

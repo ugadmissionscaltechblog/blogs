@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2857970c01b8d2a0d831970c-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2857970c01b8d2a0d831970c-pi.jpg
 title: The Best Ice Cream Ever
 categories: [local]
 status: Publish
@@ -13,8 +13,8 @@ McConnell's Ice Cream is my favorite ice cream in the world (so far). Or more sp
 This outlet didn't actually have the strawberries and cream flavor, so I was initially a bit disappointed. They had a new strawberry rhubarb flavor though, which tasted very similar, but we decided to get the chocolate covered strawberries and coffee for a change. It was still delicious!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2857970c01bb09b9bdc0970d-pi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2857970c01bb09b9bdc0970d-pi.jpg" %}
 McConnell's also has home made waffle cones for an extra $1, and they're great since they're soft and go well with the ice cream. Here's a throwback to the first time I had McConnell's!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2857970c01b8d2a0d8c9970c-pi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2857970c01b8d2a0d8c9970c-pi.jpg" %}

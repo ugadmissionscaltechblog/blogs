@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01b7c94de95c970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01b7c94de95c970b.jpg
 title: Hong Kong pt1
 categories: [global]
 status: Publish
@@ -15,9 +15,9 @@ Over break, I had the good fortune to go to Hong Kong with my family to enjoy th
 <ul class="asset-thumbnails">
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01b7c94de958970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01b7c94de958970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01b7c94de960970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01b7c94de960970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01b7c94de964970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01b7c94de964970b.jpg" %}
 

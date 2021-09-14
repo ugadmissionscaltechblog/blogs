@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d294775e970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d294775e970c.jpg
 title: Noods = Good Moods
 categories: [global]
 status: Publish
@@ -44,12 +44,12 @@ The restaurant specializes in xiaolongbao, beef rolls, dumplings, and beef noodl
 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09ad6518970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09ad6518970d.jpg" %}
 
 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09ad651c970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09ad651c970d.jpg" %}
 
 
 *Top to bottom: beef brisket noodles (hand-torn), beef tendon noodles (regular), pan fried dumplings.*

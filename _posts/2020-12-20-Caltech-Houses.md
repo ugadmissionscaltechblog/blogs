@@ -3,7 +3,7 @@ layout: post
 title: "Rotation Rotation Rotation - The Caltech Houses" 
 categories: [culture]
 author: andy
-image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/12/millikan.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/images/2020/12/millikan.jpg
 ---
 
 
@@ -24,4 +24,4 @@ At the end of the 2 weeks of Rotation, you rank the Houses in order of your pref
 
 As Lloyd House President I had a lot of fun helping to run Rotation and know all the hard work the students put into making it a fun experience for everyone. This year, Rotation has been pushed off to the beginning of Winter term and will be done virtually. With all the time the students are putting into making this new format work, I’m sure it’ll be a great success! 
 
-![ doors ](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/12/doors.jpg)
+![ doors ](https://d24slhcvzhzz82.cloudfront.net/images/2020/12/doors.jpg)

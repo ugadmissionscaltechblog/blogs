@@ -1,7 +1,7 @@
 ---
 layout: post
 author: MB3K
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b016765c449b9970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b016765c449b9970b.jpg
 title: Counting Down the Minutes Until 3 PM
 categories: [research]
 status: Publish
@@ -31,7 +31,7 @@ date: 2012-04-29
 
 "Oh God, yes, open kitchen."
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b016765d911ac970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b016765d911ac970b.jpg" %}
  Melodrama aside, it's hard to deny that open kitchen is one of the really nice perks that come with Caltech's board program. In between the hours of 7 AM -- 11 AM and 3 PM -- 7 PM, the South House Kitchen (big cafe that connects the 4 South houses), North House Kitchen (same thing for the 4 North houses), and Avery Kitchen (same thing for Avery House) open up and have free food, all you can eat.
 
  Unlimited food. It's like regular food, but, like, without a limit.
@@ -43,7 +43,7 @@ date: 2012-04-29
  Which makes it all the sweeter that for 8 hours every weekday, the cafeteria opens its wooden doors and says "Hey, you there, are you hungry? Its ok, bro, I got you." Bagels, breads, deli meats, cheeses, salad bar, soups, fruits, soda, juices, tea, coffee, cereal, all these and more are available to you. Say there's something not in open kitchen that you and friends could really go for? Just talk to your house's food representative and he or she can work on getting it included in open kitchen.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b016304e5be8a970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b016304e5be8a970d.jpg" %}
  Even the timings work out pretty well. The 7 AM to 11 AM slot means that you'll have something to eat for breakfast that you don't have to spend declining balance on, while the 3 PM to 7 PM means you can get a snack after lunch. Open kitchen actually extends into and past dinner time, so while you're having your dinners with your houses, you can just drop in to open kitchen to get something other than whatever you're eating that day.
 
  I know to some this seems like it's not a big deal, but this opportunity is a lot more rare in the real world. Kitchens in real life need to be restocked, usually by you. Even then, there aren't many kitchens that will have the sheer selection as the ones here. Sure, you are paying for board program, but the board program provides for not only three square meals a day, but this gem of a food source on top of that. In the end, you come to appreciate how awesome it is to have something as cool as open kitchen.

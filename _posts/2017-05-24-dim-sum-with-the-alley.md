@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anita
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb099b13c0970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb099b13c0970d.jpg
 title: Dim Sum with the Alley
 categories: [clubs]
 status: Publish
@@ -15,7 +15,7 @@ There is an unfortunate dearth of cars in the alley this year, so we ordered an 
 We made it to Full House in good time and stood around waiting for our table to be called. After maybe 15 minutes, we were let in to the sight of crowded round tables draped with white cloths and steaming carts of dim sum being pushed around by the staff. Over the course of the next hour, we proceeded to eat our way through plates and bowls of:
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb099b13c8970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb099b13c8970d.jpg" %}
 Sugar cane shrimp (A) - crunchy fried shrimp-and-fish-paste balls with a stick of sugar cane through the middle;
 Pork shu mai - the classic ground pork wrapped in a layer of yellow flour skin, with tidbits of shitake and shrimp;
 Sesame snow-topped buns (B) - sweet breads topped with a milk butter crust and filled with sesame;
@@ -37,19 +37,19 @@ Hopefully I'm not forgetting anything else.
 Candid of people eating:
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb099b13d3970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb099b13d3970d.jpg" %}
 Gyu Bin and Sarah posing:
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8f7f768970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8f7f768970b.jpg" %}
 Karim and Sandra:
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb099b13db970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb099b13db970d.jpg" %}
 Karim was trying chicken feet for the first time:
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb099b13ea970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb099b13ea970d.jpg" %}
 He said he didn't like it too much, he thought.
 
 "Join the anti-chicken feet club!" Gyu Bin cried, to which Sandra interjected, "That's only because you can't get over the fact that it's feet!"
@@ -58,10 +58,10 @@ He said he didn't like it too much, he thought.
 Afterward, we went for some boba at Ten Ren next door:
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb099b13ef970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb099b13ef970d.jpg" %}
 We took leftovers home, where I partitioned them into bowls for the people who couldn't make it today. Usually one gives goodie bags filled with sweets, but I think goodie dim sum bowls after an alley event can be even better...
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb099b13ff970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb099b13ff970d.jpg" %}
 Full House -- would recommend for dim sum. Till next time!
 Anita

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Andrew
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01bb0a035d21970d022ad398b28d200d-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb0a035d21970d022ad398b28d200d-pi.jpg
 title: Birthdays During Rotation!
 categories: [culture]
 status: Publish
@@ -22,13 +22,13 @@ We went to arguably the trendiest boba place in the immediate area: OneZo. Appar
 Dinner was an adventure! We went to my favorite place for dim sum nearby – Full House Seafood and had a Chinese meal complete with Peking duck (possibly my favorite food), fresh fish, lobster, and chow fun (which although they are super American-chinese taste like my childhood).
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3729121200c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3729121200c.jpg" %}
 Oh, and we got softshell turtle soup.
 
 It was actually very tasty, but mentally trying to eat the turtle claw (foot?) was one of the most challenging things I’ve done food wise. And I’ve eaten a lot of pretty wild foods in my lifetime. Either way though, it was a delicious broth and the meat was potato-esque which was a nice complement.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3b84ec9200b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3b84ec9200b.jpg" %}
 And then we stopped and got a cake too! A completely wild day.
 
 So yeah.

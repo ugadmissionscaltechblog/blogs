@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd1351ca970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd1351ca970b.jpg
 title: My Brother's Keeper
 categories: [research]
 status: Publish
@@ -21,7 +21,7 @@ It was absolutely delicious, and I highly recommend going if you're ever in the 
 <p class="asset  asset-audio at-xid-6a0105349b8251970b01a3fd1352b4970b img-responsive">Afterwards, we hit <a href="https://www.yelp.com/biz/half-and-half-tea-house-san-gabriel" style="color: #00bfbf;" target="_self">Half and Half</a>for boba because my brother hasn't had SoCal boba yet and that is an absolute must for anyone coming out here. (;
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73dce1a80970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73dce1a80970d.jpg" %}
 <p class="asset  asset-audio at-xid-6a0105349b8251970b01a3fd1352b4970b img-responsive" style="text-align: center;">I just kind of really like boba. 6:
 <p class="asset  asset-audio at-xid-6a0105349b8251970b01a3fd1352b4970b img-responsive" style="text-align: left;">Maybe we overdid it, but after boba, I just had to take him to <a href="https://fosselmans.com/" style="color: #00bfbf;" target="_blank">Fosselman's</a>for ice cream. It's this local, family-owned place and has hands-down <a href="https://www.theguardian.com/lifeandstyle/2009/sep/13/best-foods-in-the-world" style="color: #00bfbf;" target="_blank">the best milkshakes in the world</a>. Naturally we just had to go...
 

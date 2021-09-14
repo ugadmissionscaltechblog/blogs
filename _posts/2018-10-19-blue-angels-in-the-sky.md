@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3b8a491200b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3b8a491200b.jpg
 title: Blue Angels in the Sky 
 categories: [culture]
 status: Publish
@@ -17,4 +17,4 @@ The performance was really cool! The planes can choose to let out white smoke wh
 Below I've included photos of them spiraling in a tight loop upwards thousands of feet, making a huge loop in the sky with about 5 planes flying next to each other, and doing other coordinated aerobatics! The performance lasted about 45 minutes to an hour.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2857970c022ad372ea18200c-pi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2857970c022ad372ea18200c-pi.jpg" %}

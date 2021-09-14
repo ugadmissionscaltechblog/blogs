@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Nadia Lara
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8af0407f970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8af0407f970d.jpg
 title: "Getting the Drift"
 categories: [research]
 status: Publish
@@ -15,10 +15,10 @@ My project is on Laser Induced Mobility Modification (LIMM) – a new form of io
 
 Good? Okay. So that’s all been done before. And it’s a very well studied and understood technique. What we want to do is add a new twist to it by throwing a laser into the mix. You see, there’s certain kinds of molecules that photoisomerize, that is they change shape when you shine a certain light on them. Some good examples of these are the photoreceptor proteins in your eyes. You’ll probably know them as rods and cones. When these are hit by light, they absorb the energy and change shape. The new idea is that as these ions are moving down the drift channel, we can shine a laser on them, causing them to change shape, and that will cause them speed them up or down so we can measure their new drift time. Is that cool or what?
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8af04260970d.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8af04260970d.png" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8af0439f970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8af0439f970d.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8af0439f970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8af0439f970d.jpg" %}

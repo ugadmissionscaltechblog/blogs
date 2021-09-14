@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Noelle
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3643035200c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3643035200c.jpg
 title: Three-Ingredient Peanut-Butter Cookies
 categories: [global]
 status: Publish
@@ -21,4 +21,4 @@ And if you're feeling fancy-schmancy, you can take these cookies from dourmet to
 Beat the light brown sugar and eggs together with a fork in a medium bowl. Whip it until you get some serious bubbles, because since these cookies don't have baking soda or powder, this is where they get their rise. Mix in the peanut butter (and if desired, vanilla) until completely smooth. Freeze the dough for 10 minutes or so - this makes the cookies easier to shape. Meanwhile, preheat the oven to 350 F. Once the dough is firm enough, use a spoon and your hands to form cherry-sized balls and set them on a greased pan. For the best cookie height, freeze the pan for another 10 minutes before baking. Sprinkle with salt, if desired, and then bake for 14-15 minutes, until you can see some browning on the tops. They will be soft right out of the oven, so let rest for a few minutes before transferring to a plate. As Deb notes, these are best when cool, so "the different textures (crisp outside, soft inside) can set up."
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b022ad3643039200c-500wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b022ad3643039200c-500wi.jpg" %}

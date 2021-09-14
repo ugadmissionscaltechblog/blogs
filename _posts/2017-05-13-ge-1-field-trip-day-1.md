@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Noelle
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8f66b53970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8f66b53970b.jpg
 title: Ge 1 Field Trip (Part 1)
 categories: [global]
 status: Publish
@@ -16,5 +16,5 @@ If I’d gone anywhere but Caltech, it’s likely that this would all be true fo
 We left campus at noon today and are now an hour from camp—and dinner. Along the way, we stopped at the San Andreas Fault and Red Rock Canyon State Park. The past couple hours, we’ve been on the road. We’re walled in by mountains—the dark, angular, snow-capped peaks of the Sierras on my left and the more distant White Mountains on my right. A TA told me that as a geologist, part of her job will be to go on hiking trips. Now I wonder why I haven’t seriously considered majoring in geology. There have been people who switched into the major after this class. Who knows, maybe I’ll join them.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8f66b99970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8f66b99970b.jpg" %}
 *Sunset at camp*

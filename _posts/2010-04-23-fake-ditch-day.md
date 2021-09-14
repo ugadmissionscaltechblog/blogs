@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mythili
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01348016bcd3970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01348016bcd3970c.jpg
 title: Fake Ditch Day
 categories: [research]
 status: Publish
@@ -39,24 +39,24 @@ date: 2010-04-23
 <p align="center" class="asset asset-video" style="margin: 0px auto; text-align: left; display: block;">
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01348016be0d970c.jpg" %}<p align="center" class="asset asset-video" style="margin: 0px auto; text-align: left; display: block;">Our first clue was accompanied by a highly detailed map.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01348016be0d970c.jpg" %}<p align="center" class="asset asset-video" style="margin: 0px auto; text-align: left; display: block;">Our first clue was accompanied by a highly detailed map.
 
 <p align="center" class="asset asset-video" style="margin: 0px auto; text-align: left; display: block;">
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01348016bec0970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01348016bec0970c.jpg" %}
 
 Which led to our second clue...
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01348016cecf970c.jpg" %}And first obstacle.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01348016cecf970c.jpg" %}And first obstacle.
 
 <p align="center" class="asset asset-video" style="margin: 0pt auto; display: block;"><object height="344" width="425"><param name="movie" value="https://www.youtube.com/v/mByGsDPKEUo&amp;fs=1" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed allowfullscreen="true" allowscriptaccess="always" height="344" src="https://www.youtube.com/v/mByGsDPKEUo&amp;fs=1" type="application/x-shockwave-flash" width="425" /></object>
 Getting five goldfish over the jellyfish-filled abyss into the plastic cup. Needless to say, many poor fish were sacrificed in our pursuit of our goal.                                              
 Then we were led to our next stop...
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01348016c745970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01348016c745970c.jpg" %}
 
 <span style="white-space: pre;"><span style="white-space: normal;">So, in conclusion...
 

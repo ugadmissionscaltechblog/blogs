@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d277f1a0970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d277f1a0970c.jpg
 title: Spring Break Part 2
 categories: [clubs]
 status: Publish
@@ -17,15 +17,15 @@ My mother is training for the Broad Street Run in Philadelphia, which is a 10 mi
 
 We also baked a Battenburg cake:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8ed9302970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8ed9302970b.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb0990ad7b970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb0990ad7b970d.jpg" %}
 
 And finally, we made some mojito macarons (green macaron shells filled with rum and lime-zest buttercream and lime curd)! This was the best photo I could take of them, starring my cat, Mr. Worf.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d277f1c1970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d277f1c1970c.jpg" %}
 
 While doing all of those long runs with my mom, I realized that I would finally be ready to run a marathon in the Fall. I've been interested in training for a marathon for a few years now, ever since some of my friends on the Caltech XC team ran one at the end of my freshman year, but I've never run further than 10.5 miles, and I've always had to train for the XC season in the Fall (and training for a marathon is a completely different beast). But now that I'm graduating, I'll be free in the Fall to run a big race. My dad ran the Philadelphia marathon last Fall and has been interested in running one with me, so over Spring Break I bit the bullet and registered for the 2017 Philadelphia Marathon! It's a little scary, but also really exciting. I'll start training in July, and in the meantime I'm going to keep up the running schedule I've made for myself (3 miles three times a week, with a 6-9 mile long run on the weekend).
 

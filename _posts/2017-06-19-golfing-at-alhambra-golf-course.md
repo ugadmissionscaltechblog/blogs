@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01bb08213082970d01bb09a36878970d-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01bb09a36878970d-pi.jpg
 title: Golfing at Alhambra Golf Course
 categories: [clubs]
 status: Publish
@@ -17,5 +17,5 @@ We only played 4 holes due to time constraints, but people usually play either 9
 <div class="photo-caption caption-xid-6a01bb08213082970d01bb09a36878970d" id="caption-xid-6a01bb08213082970d01bb09a36878970d">Some geese chilling on the golf course.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01bb08213082970d01b7c9005ad6970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c9005ad6970b" id="caption-xid-6a01bb08213082970d01b7c9005ad6970b">Sitting in the golf cart!
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01b7c9005ad6970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c9005ad6970b" id="caption-xid-6a01bb08213082970d01b7c9005ad6970b">Sitting in the golf cart!
 

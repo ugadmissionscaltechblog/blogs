@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01b7c94de8ea970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01b7c94de8ea970b.jpg
 title: Hong Kong pt3
 categories: [global]
 status: Publish
@@ -17,21 +17,21 @@ Instead, we went to Victoria Peak and Ocean Park, two places from which one can 
 <ul class="asset-thumbnails">
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01bb09a3c88f970d01b8d2d853b6970c-pi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb09a3c88f970d01b8d2d853b6970c-pi.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01bb09a3c88f970d01b8d2d853bc970c-pi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb09a3c88f970d01b8d2d853bc970c-pi.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01b7c94de8e6970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01b7c94de8e6970b.jpg" %}
 
 <div data-featherlight-filter="a" data-featherlight-gallery="" data-featherlight-type="image" id="featherlight-gallery"><fieldset class="asset featherlight-gallery border" gallery-width="250-auto">
 <div class="gallery-scroll" id="gallery-container">
 <ul class="asset-thumbnails">
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01b8d2d853cd970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01b8d2d853cd970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01b8d2d853c5970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01b8d2d853c5970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01b8d2d853c9970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01b8d2d853c9970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01b8d2d853c1970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01b8d2d853c1970c.jpg" %}
 

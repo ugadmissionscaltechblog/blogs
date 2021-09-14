@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura Santoso
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c32a294d4970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c32a294d4970b.jpg
 title: Rock pools, Boxing, Elections 
 categories: [culture]
 status: Publish
@@ -13,15 +13,15 @@ I was really nervous going into this term because I thought it was the most diff
 This last weekend was really fun. The highlight of it was definitely Sunday, when a few friends and I went hiking and climbing by some rock pools in the Santa Monica Mountains. I was really craving some time outdoors. We walked around for a couple hours before we followed a stream into an awesome set of rock pools. The rocks were white and volcanic, so there were tons of crevices for climbing and they looked really cool. The mountains were in the background too, and it was super beautiful. It reminded me of pictures I saw of my friend in white rock pools in Italy, but with a California twist. I would definitely go back!!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017ee446779d970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017ee446779d970d.jpg" %}
 
 *
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c32a29a28970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c32a29a28970b.jpg" %}
 **This week was also the start of boxing club, which is a club I started last year with funding from Caltech. We hire an instructor to teach a class once a week and then we sometimes practice casually outside of that. I really miss martial arts and having a regular team to practice with so I love boxing club. I would do it every day if I could! I thought the first practice went really well, and I hope that people keep coming regularly.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c32a2a229970b.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c32a2a229970b.png" %}
 
 *The club flyer.*
 I also got my absentee ballot in the mail which is pretty exciting since it's my first time voting. I have to say I'm not that into politics. I know my opinions about various topics but I really don't follow who does what. I did watch most of the first two presidential debates though so I'm not completely out of the loop regarding Obama and Romney. I'm actually thinking about going on a trip to Washington DC through the Caltech Y for a Science and Policy trip, which I think has potential to be really interesting. I just have to see if I have the time to do it with the other things I have planned for break.

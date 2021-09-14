@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01a73e11cd61970d-500wi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01a73e11cd61970d-500wi.jpg
 title: Meet the Rangel Gang!
 categories: [global]
 status: Publish
@@ -27,7 +27,7 @@ Morgan is newly eight and plays soccer and collects troll dolls and snow globes.
 Mateo is adorable and draws dinosaurs for me. Here's a picture of a dinosaur tooth, by the way. I was told to share this with anyone who visited my room and anyone really, so here ya go:
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d065fa67970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d065fa67970c.jpg" %}
 I'm really grateful for these fun neighbors. It really adds a familiar family aspect to the house life. Definitely looking forward to this coming year and chilling with this great gang. (:
 Keep lookin' up,
 Jenny.

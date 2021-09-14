@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2955970c01b7c9148ee5970b-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01b7c9148ee5970b-pi.jpg
 title: Flyaway Fun Part 1
 categories: [research]
 status: Publish

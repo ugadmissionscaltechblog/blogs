@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ariel O'Neill
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a017c3671e245970b01a511e7051c970c-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a017c3671e245970b01a511e7051c970c-pi.jpg
 title: Sandwiches are beautiful things
 categories: [local]
 status: Publish
@@ -15,7 +15,7 @@ On Sunday morning, when I left my dorm to go get lunch, I saw a friend longboard
 Getting to Which Which is easy!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a017c3671e245970b01a3fd3757d3970b-pi.jpg" %}<div class="photo-caption caption-xid-6a017c3671e245970b01a3fd3757d3970b" id="caption-xid-6a017c3671e245970b01a3fd3757d3970b">From https://www.whichwich.com/
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a017c3671e245970b01a3fd3757d3970b-pi.jpg" %}<div class="photo-caption caption-xid-6a017c3671e245970b01a3fd3757d3970b" id="caption-xid-6a017c3671e245970b01a3fd3757d3970b">From https://www.whichwich.com/
 
 I personally enjoy getting the humus sandwhich with:
 

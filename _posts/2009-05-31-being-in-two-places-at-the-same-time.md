@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Angela Zah
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b011570b2cebc970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011570b2cebc970b.jpg
 title: being in two places at the same time
 categories: [culture]
 status: Publish
@@ -17,6 +17,6 @@ Although the show *Numb3rs* has become known as THE show that is filmed on campu
 Here are some scenes you might remember from TV and film with their real life campus counter parts
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156fbd8c1d970c.jpg" %}Where it really is: The Gene Pool in front of the Beckman Institute (Where I work!)
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156fbd8c1d970c.jpg" %}Where it really is: The Gene Pool in front of the Beckman Institute (Where I work!)
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b011570b2d003970b.jpg" %}Where it really is: In front of Parsons-Gates
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011570b2d003970b.jpg" %}Where it really is: In front of Parsons-Gates

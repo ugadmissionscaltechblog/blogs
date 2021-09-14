@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Katie Brennan
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8c17b311970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8c17b311970d.jpg
 title: Going out on a school night?! 
 categories: [research]
 status: Publish
@@ -10,7 +10,7 @@ date: 2011-10-10
 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01539223b5ef970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01539223b5ef970b.jpg" %}
 (https://www.lunch.com/reviews/product/UserReview-The_Lion_King_musical_-1394517-11121-The_Lion_Roars_On_Broadway.html)
 
 Those giraffes are men with stilts on both their hands and feet! The musical was a lighthearted outing, a fun experience, and I've been humming the music since.
@@ -19,4 +19,4 @@ The student union here is a formidable six-person team. These students, once ele
 
 Last night was a big party for the freshman class (and us exchange students) at Ministry of Sound. MoS is undoubtedly the most highly regarded club in London and is frequently called the best club in the world! It was a great venue with fantastic music. One of the dance floors was even playing metal!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01539223bfb7970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01539223bfb7970b.jpg" %}

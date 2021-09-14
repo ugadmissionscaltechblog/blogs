@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b011571479389970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011571479389970c.jpg
 title: Light Lab Soldering and Hermann Park
 categories: [research]
 status: Publish
@@ -20,10 +20,10 @@ I also got to do some work in the light lab---so I had to pull out my steel toe 
 Here are some pictures of my day spent at Hermann Park this past weekend. Hermann park is a pretty popular place over by the museum district in Houston; it's pretty big and there's a ton to do there.People can go on the trails, have picnics and can visit the zoo. There is also an outdoor performance theater, Japanese gardens, golfcourse,paddleboats and little train that goes around the park. I went with a few new friends from work and just enjoyed a nice day out. Afterwards, we walked to the Natural Science Museum close by---and went for Texas BBQ, my favorite!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0115714793cd970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0115714793cd970c.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0115723c12ee970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0115723c12ee970b.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0115723c13fe970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0115723c13fe970b.jpg" %}

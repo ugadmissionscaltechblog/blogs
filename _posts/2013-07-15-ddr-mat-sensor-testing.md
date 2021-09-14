@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901e358778970b.png
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901e358778970b.png
 title: DDR Mat Sensor Testing 
 categories: [global]
 status: Publish
@@ -18,7 +18,7 @@ A wire will be soldered to each screw, and another wire will be soldered to the 
 plates should be pretty easy to replace. Each screw will have its own wire to make replacing it, if needed, even easier.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0191042bad80970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0191042bad80970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0191042badbe970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0191042badbe970c.jpg" %}
 An arrow panel will have four of these mending plate sensors; one centered on each edge. The most important edge is the edge closest to the center of the DDR mat, since that edge will be stepped on most often. For those edges, we'll use 6" mending plates instead of the 4" mending plates for the rest of the sides. It most likely won't make a difference in sensitivity, but we're putting them there just in case it does. Hopefully we will be able to build and test a few arrows in the next week!

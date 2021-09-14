@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Valère Lambert
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192acc54fd6970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192acc54fd6970d.jpg
 title: Flying and Shaking 
 categories: [research]
 status: Publish
@@ -16,16 +16,16 @@ To make up for this I decided to reward myself for finish the majority of my cod
 Here is the other side with the view of what we were about to jump into. I have been sky diving twice and paragliding was quite a bit different. They told us in the car to just start running off the hill and to not stop even when it got to the cliff. I thought it was going to be difficult with the fear factor of running off of a cliff but we basically just took a few steps and the sail was in the air, along with us.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104fc35ee970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104fc35ee970c.jpg" %}
 Choosing to fly over Interlaken was such a good choice since the mountains surrounding the city are phenomenal and there are two lakes to look at. It also began raining very lightly while we were in the air which actually made it more fun. My instructor was really cool too and taught me how to look for updrafts from the shapes of clouds. He was able to prolong our flight by quite a bit by catching rising air around the mountains and where the east and west winds met. He finished off the flight with some nice roller coast spins and then we landed in central park. This was definitely the perfect way to spend my Sunday and I highly recommend paragliding to anyone, especially those visiting the Alps. It's a great way to see the mountains and let your feet dangle a meter or two above the trees.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104fc3710970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104fc3710970c.jpg" %}
 
 On a completely different note I got to go on another detector tour today. I managed to sign up with a group of summer students for a tour of the ALICE experiment, short of <a class="zem_slink" href="https://en.wikipedia.org/wiki/A_Large_Ion_Collider_Experiment" rel="wikipedia" target="_blank" title="A Large Ion Collider Experiment">A Large Ion Collider Experiment</a>. ALICE collides lead nuclei which are accelerated by the LHC and the temperatures and energy density related to this experiment are expected to be high enough to form quark-gluon plasma.
 
 Our trip down to the detector was also somewhat unprofessional, or I guess some would say that it was completely professional in terms of PR. We were a group of twenty summer students and we went down to the platform in front of the detector to perform and film the CERN version of the Harlem Shake. It was quite hilarious actually since we were a bunch of international students from all over the place just coming up with the most random dance moves and dressed in the most ridiculous costumes we could fine right in front of the ALICE detector. It was even better that our official tour guides were involved and were filming us while we made complete fools of ourselves. Even better, it is going to be posted on the CERN website, so that should be exciting. If you happen to see it I am the one in the front in the full body suit. I was sweating to death down there but totally worth it!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104fc5ec9970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104fc5ec9970c.jpg" %}
 So that's the beginning of the week for you. It is our last official work week at CERN and then I am off on vacation. Now we shall see if the rest of the week can live up to this eventful start!
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Brad Chattergoon
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01761690eff5970c-800wi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01761690eff5970c-800wi.jpg
 title: A blog revived! And Ditch Day 2012!
 categories: [academics]
 status: Publish
@@ -23,10 +23,10 @@ Our first objective was to get to the map room, located in the building that the
 
 <iframe frameborder="0" height="344" src="https://www.youtube.com/embed/h7vdcdYHj3k?fs=1&amp;feature=oembed" width="459"></iframe>
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01774376f344970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01774376f344970d.jpg" %}
 Our next challenge was to dig through mud banks to locate the clue, which was a series of transparent flash cards each with a small piece of a drawing on it. Combined the pieces formed a picture that we were to use to determine the location of the next totem. This part definitely took a while. We were wondering around for quite some time and also trying to get help from the other teams on this. As it turned out we had to get to an elevated position for our view finder to help (thanks Green team for telling us). We got the totem and were off to the pool!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01761690f231970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01761690f231970c.jpg" %}
 We just kinda chilled at the pool to be honest. There was nothing for us there although we were able to watch one of the other house’s stacks: they were on floating mattresses in the pool and beating each other with noodles. It was quite a show. This is the point where I petered off and went to bed… But when I woke up I heard legendary tales of water fights and candy.
 
 So that’s basically my experience with Ditch Day. I would have liked to been awake for the rest of it but when you get a chance to nap… it’s hard to say no.

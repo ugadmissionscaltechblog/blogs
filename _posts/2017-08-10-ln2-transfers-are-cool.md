@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2955970c01b8d2978512970c-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01b8d2978512970c-pi.jpg
 title: Helium Transfers are "Cool"
 categories: [research]
 status: Publish
@@ -20,6 +20,6 @@ At the end, we all went out to the Ath to celebrate finishing the transfer, my P
 <span style="font-size: 8pt;">The biggest liquid helium dewar.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2955970c01b8d297854e970c-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01b8d297854e970c-800wi.jpg" %}
 <span style="font-size: 8pt;">Ominous "smoke" from the liquid helium surrounding the magnotometer set up.
 

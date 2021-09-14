@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Giordon Stark
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b143e3970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b143e3970b.jpg
 title: Olive Harvest "Linner" and why I love Mark Wise 
 categories: [research]
 status: Publish
@@ -14,7 +14,7 @@ So... ya know... I haven't really posted in a while... but... yeah... Let's leav
 Thanks for all those emails telling me how awesome my blog posts are - it's nice to know I'm not writing stuff that gets tossed into the big giant thing known as the internetz without being read. It's honestly been a relatively slow period of the term, as you've read from some other bloggers, an awkward "inbetweenness". This could be accounted for since we all just finished midterms/ getting the results of said midterms back. In my case, professors get lazy and release midterms a week later than the actual midterms week... But my midterms (two) went great - covering topics from Threshold High Energy Particle collisions, Perturbation theory, Relativistic Kinematics to Spherically Symmetric Potentials and talking about Angular Momentum and Linear Momentum measurements of electrons/bosons/pions/whatnot (Quantum Mechanically). Ahh, life of Physics majors. Speaking of Physics...
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b14437970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b14437970b.jpg" %}
 I'm writing this blog post on the back of finishing my first set in E&amp;M for Ph106b (I'd imagine it's comparable to graduate level, but don't take my word for it). As you can see, I'm blatantly advertising my house - Ruddock - on the back of Jessica Davis's (astrophysics, Junior) sweatshirt. Also, we tend to get really loopy past midnight... Collaboration at Caltech is always fun since you get to socialize and learn at the same time in perfect harmony (experimentally-determined). So, lemme introduce some of the things I'll talk about in this blog post...
 
 - Ruddock House's Formal Dinner
@@ -28,7 +28,7 @@ There were two main food-related stuff that I've been a part of with my house. F
 <h2>Formal Dinner</h2>
 The first is Formal Dinner - a tradition that every house (and Avery) partake in each term. All houses have it on different days (not on the same day, and food differs always). Caltech Dining Services (CDS) prepares the food, provides the tableclothes, silverware, and centerpieces - we provide the well-groomed empty stomachs. Here's the menu for second term's Formal Dinner:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b152fe970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b152fe970b.jpg" %}
 **Starter:** Butternut Squash soup with Creme Fraiche and Chive
 
 **Entree:** Baseball Steak and Seared Scallop with Roasted Red Potatoes
@@ -42,11 +42,11 @@ The first is Formal Dinner - a tradition that every house (and Avery) partake in
 I apologize in advance for not taking pictures of all the food before I ate it... I'm not used to taking pictures of food and then blogging about it... I think this is a good time to point out how well Caltech does with acommodations. I've mentioned it before with Housing situations - allergies and whatnot, but CDS also provides specialized meals for those of you with more particular diets as well as a separate dinner for vegan/vegetarian every weekday. In short - don't let your specific needs dictate how you choose your colleges - Caltech will help meet your needs, NO MATTER WHAT.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f563b80970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f563b80970c.jpg" %}
 Actually, really only the one picture - but the soup was delicious and looked awesome! It even had the fancy-writing "R" on it in homage to Ruddock house. On that same night, we had "Installiations" [always mispelled it by tradition] of the new House Officers including Ath Team (sports), Soc Team (social events), Librarian (has to be lazy and keep the house library clean), Treasurer (rules our monies), Secretary (types everything and handles emailing the house and so forth), Vice President (creates Alley Challenges), and President (the face of our house).
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b156e8970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b156e8970b.jpg" %}
 Also, you might be wondering why the cake is "Install-Dethrone-K-Bitz-Iation". Our ex-president is Daniel Kolodrubetz (or KBitz, Special-K, Ginger [he's red-haired]); a senior in Physics. It was a hilarious joke. Also, I think the dinosaur has something to do with our OPI being dinosaur-related, but that could just be coincidence...
 
 <h2>Olive Harvest "Linner"</h2>
@@ -54,26 +54,26 @@ Way way back before I started blogging - first term - we had an event called "Ol
 
 So we just had the Linner last week. We've called it a "linner" because it occured between lunch/dinner (around 3pm). So we got to the President's house which is less than a minute away from Ruddock - north of us. Here are some pictures of the event:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b16b17970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b16b17970b.jpg" %}
 Here's a picture of President Chameau talking with Rebecca Wernis (S'more, Physics) about how to play Petanque (a french game). The goal of the game was to start with a yellow ball - throw it to determine where you toss the metal balls next. The person who gets closest to the yellow ball (no restrictions about hitting it or other players' balls) wins. Here's the game in action...
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b16c4d970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b16c4d970b.jpg" %}
 Yellow ball's been thrown.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b16c82970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b16c82970b.jpg" %}
 And you start throwing metal balls... It's a hard game, seriously. Even making the metal balls super-heavy, they've still got some bounce to 'em. Here's a snapshot of the rules if any of you are interested in playing as well (we played with "official Caltech" equipment - Caltech branded and all).
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b16dd5970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b16dd5970b.jpg" %}
 After this short activity to distract us while the food was cooking - the food finished cooking! Here's some scenic pictures while I go find the list of food we ate...
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f56561d970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f56561d970c.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f565664970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f565664970c.jpg" %}
 So, here's what we ate (can you identify the theme?)
 
 - Greek Salad
@@ -85,11 +85,11 @@ So, here's what we ate (can you identify the theme?)
 Here's what all (most) of it looked on a half-eaten plate (my apologies again).
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b1764f970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b1764f970b.jpg" %}
 And for dessert, we had a French Vanilla Ice Cream, Peach Pie with Blueberries and Strawberries.. (I think, wasn't sure about the pie)...
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e863107e5970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e863107e5970d.jpg" %}
 <h2>Mark Wise and the Asian "Family" Dinner</h2>
 When I say "Iron Man", "High Energy Particles", and "Nuclear Physics" - what do they have in common? Tony Stark (hey, he's got my last name.. he's *totally*related to me.. I swear.. true story) and Mark Wise. Out of these two, Professor Wise is an actual person. Let's talk about his Iron Man affiliation first:
 
@@ -106,92 +106,92 @@ You can also read the Caltech Today's article about it:<a href="https://features
 Mark Wise is my professor for Quantum Mechanics (Ph125abc - all three terms) and is generally known for his quirky sense of humor, being overly self-confident, and giving away money when you answer his questions. Yes, every class, he always has money to give away for answering his questions... he's just that *awesome*. As for the quotes, we've been compiling a list of his quotes for this year on a twitter account:<a href="https://twitter.com/MarkWiseSays">https://twitter.com/MarkWiseSays</a>. Just recently, he decided to take the whole class out to dinner to "give us some pleasure after experiencing pain [on the midterm exam he gave us]". So he took us to this family-style Asian restaurant in Pasadena called "Panda Inn". I have to admit, the food was SUPER DELICIOUS (and there was so much, even with 30 people).
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f566849970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f566849970c.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b184c0970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b184c0970b.jpg" %}
 There were grad students, his TAs, and lots of undergrads there to enjoy the night with him. The table in the back was also part of it (albeit not obvious). He basically ordered everything on the menu (and paid for it!) and we got to enjoy his company, jokes, and just relax after midterms.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f566939970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f566939970c.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f5669e4970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f5669e4970c.jpg" %}
 And this is my plate, which consists of dishes like Beef and Broccoli, Baised String Beans, Ginger Sesame Asparagus, Honey Walnut Shrimp, Orange Chicken, Tea-Smoked Duck, and many others which I've failed to recall. And yes, I'm using chopsticks (until I get frustrated and fall back to using my fork like the American I am). This (and many more) is a reason why I love Mark Wise.
 
 <h1>Jurassic Park OPI Update</h1>
 So, over the past few weeks - we've experienced some rain to the point in which we had to take a day off because we can't work when it's wet. Apparently, electricity and water just don't mix reasonably... Who knew? Up to this point, we've finished the 16-foot gate supports and will proceed to cover them with OSB, wallboards, and add on the humongous doors as well. We've also got a painted T-rex ready to be mounted over our dance floor. We've finished bracing up a majority of our elevated platforms and just started adding railings around the sides of them, and we also started work on the ground pieces for the fake electric fence. Here's a photo montage to enjoy...
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b193bd970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b193bd970b.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b014e863129b6970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b014e863129b6970d.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e86312a20970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e86312a20970d.jpg" %}
 Here's a picture of the T-rex in front of the 16-foot gate pieces (for comparison).
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f56791b970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f56791b970c.jpg" %}
 The gates are pretty much the same height as our two-story house!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b19547970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b19547970b.jpg" %}
 A perspective picture of the elevated platforms sans braces at the end closest to the camera (we added them on after the picture was taken). From this angle, there's over 20 feet of elevated walkway! You can also see the octagonal pieces we built for the birdcages.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0147e2b19733970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0147e2b19733970b.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0147e2b19733970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0147e2b19733970b.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e86312ca1970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e86312ca1970d.jpg" %}
 Here's a picture of Steve leaning on the railings to show just how sturdy they are already!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f567c30970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f567c30970c.jpg" %}
 As you can see from the two pictures, we've been adding on more and more railings. Franz is simply checking out how sturdy they are after adding railing around the first birdcage piece.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e86312fda970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e86312fda970d.jpg" %}
 Here's a picture from the elevated platforms of how everything looks.. and it looks legen-*wait for it*-dary! Meanwhile, Art has been busy doing what they do best...
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f567dfc970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f567dfc970c.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e863137fe970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e863137fe970d.jpg" %}
 And this was the result:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f568258970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f568258970c.jpg" %}
 It's pretty darn impressive. Also, that's Franz getting swallowed whole by the t-rex of my nightmares... Yeah.
 
 The week after that - Art had finished up all the doors and pieces for the gate so it was on us (construction) to get those pieces up. So... we first went to go pick up some scaffolding from one of the other houses on campus who used it last for Big Interhouse. Then we went to work:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f59736b970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f59736b970c.jpg" %}
 Here, Carly Bond and Franz are putting up a horizontal 2x4 that'll hold the Jurassic Park sign.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f59752d970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f59752d970c.jpg" %}
 Then Alex Wein and Franz started putting up the walls of the gate while I worked on the doors (that would go inside the gate). But first - we needed a lunch break after working hard (or hardly working...)
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e863434fd970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e863434fd970d.jpg" %}
 So Soc Team got us free food from In-n-Out which was pretty good. Then we went back to work.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f5979cf970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f5979cf970c.jpg" %}
 Here's a picture of what we're doing in the back of the gate - building on the doors. You can see the painted doors on the left leaning against our birdcage platform. And here's the almost-finalized result we have:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f597c12970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f597c12970c.jpg" %}
 Pretty cool eh? For those of you nearby in the SoCal region (that means you Techers and Admission people who like to read the blogs), you should stop by, visit me in Ruddock 216, and check out the party (it's on March 5th, but if you wanna see it during the day, stop by beforehand or after the party before the term ends).
 
 Here is another nearly finalized picture of the gates - with the doors we just finished!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b4a376970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2b4a376970b.jpg" %}
 Compare it to the picture from the movie...
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e863446cc970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e863446cc970d.jpg" %}
 Pretty close huh?Join me next time (most likely next week) as I talk about:
 
 - Undetermined Caltech-related academic stuff

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yifei Huang
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0154366dc979970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0154366dc979970c.jpg
 title: How To Get To Cambridge
 categories: [culture]
 status: Publish
@@ -18,8 +18,8 @@ Everybody says that Cambridge is like Hogwarts, but the similarities were appare
 4. Sit back and enjoy the beautiful **English countryside**... there are lots of sheep and cows.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0154366dc84b970c.jpg" %}5. After arriving at Cambridge station, find a **thestral-driven taxi cab** and it will take you to school. (ok, not really, but I'd like to think so...)
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0154366dc84b970c.jpg" %}5. After arriving at Cambridge station, find a **thestral-driven taxi cab** and it will take you to school. (ok, not really, but I'd like to think so...)
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162fbef9bb1970d.jpg" %}6. And TADA, you've arrived at your castle-school. Like magic, huh?
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162fbef9bb1970d.jpg" %}6. And TADA, you've arrived at your castle-school. Like magic, huh?
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0154366dc73e970c.jpg" %}That's the main courtyard of Corpus Christi college, where I'm living this term! :D
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0154366dc73e970c.jpg" %}That's the main courtyard of Corpus Christi college, where I'm living this term! :D

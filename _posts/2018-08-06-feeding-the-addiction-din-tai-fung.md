@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01bb09a3c88f970d022ad3a6697c200b-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb09a3c88f970d022ad3a6697c200b-pi.jpg
 title: Feeding the Addiction
 categories: [local]
 status: Publish
@@ -15,4 +15,4 @@ The restaurant had a super long wait, as always. So in the intervening time, we 
 As for our meal at Din Tai Fung… what else can I say but that it was delicious. My only problem with the Bay Area DTF is that although the Xiao Long Bao are the same price, you only get 6 or them instead of 10. What a disappointment. I always want more of those delicious bao to eat.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01bb09a3c88f970d022ad386a62d200d-pi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb09a3c88f970d022ad386a62d200d-pi.jpg" %}

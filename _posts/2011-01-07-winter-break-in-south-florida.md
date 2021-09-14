@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Giordon Stark
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c7604d8b970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c7604d8b970c.jpg
 title: Winter Break in Sunny Florida (part 1 of 2)
 categories: [culture]
 status: Publish
@@ -17,61 +17,61 @@ Winter Break! It's that amazingly pleasant time of the year which I get to go ho
 The first thing we did when we got in Animal Kingdom, was go straight to the back and get on the Safari ride. As we're walking there, we pass by the center of the park, which contains the amazing, man-made Tree of Life.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e1469a97970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e1469a97970b.jpg" %}
 If you zoom in on it enough, you can note all the intricate carvings of animals in the actual tree.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c750329b970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c750329b970c.jpg" %}
 I found it ridiculously amazing how much work went into this. Everything about the Tree of Life is 100% fake, but it looks 100% real. So, we reached the Safari and got on the jeep.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c7503453970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c7503453970c.jpg" %}
 This is Sonya, our guide/driver for the trip. It was a beautiful, cold morning. I totally begged her not to drive freakishly fast, but she ignored me and I felt the cold sting of the wind. During the African Safari, we saw a lot of animals, such as Zebras, Gazelles, Lions, and Hippos; just to name a few.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e146a2e6970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e146a2e6970b.jpg" %}
 We didn't really get to see any elephants as it was apparently too cold for them... makes sense. At one point, we even went on a chase after some poachers who were stealing elephants for their ivory tusks! (Warning: picture slightly blurry. It was seriously bumpy.)
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e146a50a970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e146a50a970b.jpg" %}
 Afterwards, we left the safari and headed straight towards the biggest man-made mountain in Florida (which so happens to be located inside Animal Kingdom) - our very own mini-Mt. Everest. We saw a Disney employee striking a pose along the way - nearly missed her as she was completelycamouflaged...
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e146a7b6970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e146a7b6970b.jpg" %}
 Pretty cool huh? Shortly after that, we saw the brilliance of mini-Mt. Everest from a distance...
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c7503fd3970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c7503fd3970c.jpg" %}
 Trust me here, that is not a painting of a mountain or a facade of one, it's the real-fake deal. It hosts the ride, Expedition Everest, which is basically a roller coaster that goes forwards and backwards trying to escape the wrath of the Yeti. Afterwards, we took a break, had an early lunch, went on a couple more rides and then went park-hopping over to Magic Kingdom for the second park of the day! To get to Magic Kingdom, we took the Express Monorail to the Grand Floridian, and stopped by the gingerbread house to check it out.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e156a5d0970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e156a5d0970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e156ab0a970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e156ab0a970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e156ab90970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e156ab90970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c76058ff970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c76058ff970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c7605e5d970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c7605e5d970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c760607a970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c760607a970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c760662c970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c760662c970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e156c4b1970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e156c4b1970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e156c6dd970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e156c6dd970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e156c8e0970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e156c8e0970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e156cadb970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e156cadb970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c7607637970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c7607637970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c7607948970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c7607948970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c7607edf970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c7607edf970c.jpg" %}
 For those of you wondering... EPCOT stands for "Experimental Prototype Community of Tomorrow".
 
 In the next blog post (part 2), I'll cover a little bit more about my winter vacation. Next week, I'll have more current events to discuss such as Stephen Hawking coming to Caltech, my attempt at programming Mandelbrot sets in C++, and building Ruddock House's Jurassic Park OPI.

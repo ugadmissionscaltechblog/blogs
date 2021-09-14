@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01bb08213082970d01bb098c5bdd970d-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01bb098c5bdd970d-pi.jpg
 title: Prague - Spring Break Pt. 3
 categories: [global]
 status: Publish
@@ -16,8 +16,8 @@ Prague was a fairytale town - it was so beautiful, but it also felt the most tou
 <div class="photo-caption caption-xid-6a01bb08213082970d01bb098c5bdd970d" id="caption-xid-6a01bb08213082970d01bb098c5bdd970d">Old Town Square
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01bb08213082970d01bb098c5be3970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01bb098c5be3970d" id="caption-xid-6a01bb08213082970d01bb098c5be3970d">View from the Astronomical Clock Tower
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01bb098c5be3970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01bb098c5be3970d" id="caption-xid-6a01bb08213082970d01bb098c5be3970d">View from the Astronomical Clock Tower
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01bb08213082970d01b7c8e93298970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8e93298970b" id="caption-xid-6a01bb08213082970d01b7c8e93298970b">Astronomical Clock
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01b7c8e93298970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8e93298970b" id="caption-xid-6a01bb08213082970d01b7c8e93298970b">Astronomical Clock
 

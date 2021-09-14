@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d29ffda4970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d29ffda4970c.jpg
 title: Little Tokyo Revisited
 categories: [clubs]
 status: Publish
@@ -17,9 +17,9 @@ The tonkotsu ramen had extremely rich broth. It's made from pork bones boiled fo
 We also tried their ramen salad and stir fry.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d29ffdae970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d29ffdae970c.jpg" %}
 
 Afterwards, we went to <a href="https://www.facebook.com/LATeaMaster/">Tea Master Matcha Cafe and Green Tea Shop</a> for matcha ice cream. This place is the BOMBDOTCOM. We were feeling heavy after the ramen, but after some of this amazing soft serve, we felt like we had detoxed. This is quite ironic since the ice cream was extremely milky and creamy with a distinct tea flavor. My friend was such a fan that he wanted seconds.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c915aae1970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c915aae1970b.jpg" %}

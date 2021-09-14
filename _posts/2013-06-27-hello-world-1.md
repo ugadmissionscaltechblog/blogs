@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Debbie
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0192ab634d9d970d0192ab8770fc970d-150wi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0192ab634d9d970d0192ab8770fc970d-150wi.jpg
 title: Hello World! 
 categories: [research]
 status: Publish
@@ -24,6 +24,6 @@ So this year, I decided to do a SURF that is actually associated with my declare
 The Meister lab is a newish, modern styled facility. It's super fancy looking inside. The following GIF was made from several snapshots (with my phone camera) of the entrance to the lab.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b019103beda8c970c-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b019103beda8c970c-800wi.jpg" %}
 
 From outside, you can only see lights coming from a window, so it looks like someone's having a disco party or something. For the longest time, (since it is Caltech) I thought that there were some optics-related-crazy project going on. Turns out just pretty lights. :P

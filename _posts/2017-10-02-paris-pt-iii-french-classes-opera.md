@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09c13224970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09c13224970d.jpg
 title: Paris Pt. III - French classes + Opera
 categories: [culture]
 status: Publish
@@ -24,4 +24,4 @@ date: 2017-10-02
 <p lang="en-CA" style="margin: 0in; font-family: Calibri; font-size: 11.0pt;">
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c91dfb17970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c91dfb17970b.jpg" %}

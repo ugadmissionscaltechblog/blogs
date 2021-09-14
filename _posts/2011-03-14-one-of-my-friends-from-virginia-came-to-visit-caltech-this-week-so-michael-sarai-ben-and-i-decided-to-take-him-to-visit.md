@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny Yung
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5fd8cc67970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5fd8cc67970c.jpg
 title: Help Japan! Charity Event at Little Tokyo 
 categories: [global]
 status: Publish
@@ -17,5 +17,5 @@ All of you probably  know about the earthquake and tsunami that hit Japan recent
 *A singer performing for the charity event*
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e333d120970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e333d120970b.jpg" %}
 **

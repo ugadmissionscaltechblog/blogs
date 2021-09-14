@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ariel O'Neill
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a017c3671e245970b01a511f0b852970c-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a017c3671e245970b01a511f0b852970c-pi.jpg
 title: Chocolate Seahorses, Chocolate Unicorns
 categories: [research]
 status: Publish
@@ -18,7 +18,7 @@ date: 2014-08-08
 Somebody brought in a box of slightly melted and resolidified chocolates (BELGIAN chocolates) for the coffee room in lab today. I usually leave sweets for the evenings, but I feared they would be long gone by the afternoon. I am a chocolate enthusiast. I like chocolate milk, chocolate bars, and chocolate unicorns.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a017c3671e245970b01a73dfbec06970d-pi.jpg" %}<div class="photo-caption caption-xid-6a017c3671e245970b01a73dfbec06970d" id="caption-xid-6a017c3671e245970b01a73dfbec06970d">From https://www.squishable.com/pc/mini_squish_chocolate_unicorn_7/fp_mini_squishables/Mini+Squishable+Chocolate+Unicorn
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a017c3671e245970b01a73dfbec06970d-pi.jpg" %}<div class="photo-caption caption-xid-6a017c3671e245970b01a73dfbec06970d" id="caption-xid-6a017c3671e245970b01a73dfbec06970d">From https://www.squishable.com/pc/mini_squish_chocolate_unicorn_7/fp_mini_squishables/Mini+Squishable+Chocolate+Unicorn
 
 I don't actually own this mini Squishable, or any Squishables for that matter, but I think they are excellent and I am strongly pro-chocolate and pro-unicorn.
 

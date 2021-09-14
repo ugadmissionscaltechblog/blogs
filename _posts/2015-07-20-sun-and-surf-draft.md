@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Suzy
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7b1b18a970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7b1b18a970b.jpg
 title: Sun and Surf
 categories: [research]
 status: Publish
@@ -18,9 +18,9 @@ The next day was a sort of slow day. It was an errand day. I made crepes for bre
 Sunday was more exciting. We got up at 7 in the morning and went to the train station, taking a train down to my parents, who met us with a truck. They had also loaded this truck with a small barbecue, matches, and towels. We (me, JD, and my roommates Laura and Chet) drove down to the Santa Cruz Beach Boardwalk.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7b1b202970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7b1b202970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb0855c33b970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb0855c33b970d.jpg" %}
 I love my beaches! We actually went on a house beach trip last term. I'm glad we got to do this while I'm here.
 
 Anyway, until next time,

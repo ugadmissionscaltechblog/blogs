@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Monica Li
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0177449c8a5f970d01a51197d8bb970c-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0177449c8a5f970d01a51197d8bb970c-pi.jpg
 title: Tennis over Spring Break 
 categories: [academics]
 status: Publish
@@ -17,15 +17,15 @@ For the most part, the teams we play are driving distance away. The SCIAC school
 
 We got to stretch out and get comfortable during the drive there, and we caught someone sleeping!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0177449c8a5f970d01a73da2e99d970d-pi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0177449c8a5f970d01a73da2e99d970d-pi.jpg" %}
 *Hi sleeping Jenny :)*
 
 A typical Sunday meal for me is takeout Thai food. But over break, we have the time and the luxury of walking to the restaurant and dining in. I’ve always gotten chicken pad thai, except for this time, I thought if we were going out why not try something new! The shrimp salad was definitely a good choice. Yummy!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0177449c8a5f970d01a3fce8283e970b-pi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0177449c8a5f970d01a3fce8283e970b-pi.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0177449c8a5f970d01a3fce82856970b-pi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0177449c8a5f970d01a3fce82856970b-pi.jpg" %}
 I wouldn’t say I want classes to start again, but could say that I’m ready and feeling refreshed!
 
 Best,

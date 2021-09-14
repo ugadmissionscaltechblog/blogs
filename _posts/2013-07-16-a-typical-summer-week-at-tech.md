@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Michelle
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0191043b3e95970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0191043b3e95970c.jpg
 title: A Typical Summer Week at Tech 
 categories: [clubs]
 status: Publish
@@ -22,5 +22,5 @@ Me judging alongside Tom and another student.
 I had a very relaxing weekend catching up on my sleep and attending a few social events around campus, and now a new workweek begins. We have a famous magician coming to perform in Chandler this Tuesday during dinnertime...I'm certainly looking forward to that!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901e452ae8970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901e452ae8970b.jpg" %}
 Upcoming performances by well-known magicians! Come check them out if you are in the area :)

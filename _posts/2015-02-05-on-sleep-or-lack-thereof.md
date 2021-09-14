@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Gloria
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0c8714d970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0c8714d970c.jpg
 title: On Sleep (or lack thereof)
 categories: [research]
 status: Publish
@@ -33,4 +33,4 @@ Fourth, that I should keep my phone on my desk. This is my bed/desk setup, back 
 
 I’m used to having my phone right next to me when I’m sleeping at home, but it’s a little more complicated here. We aren’t allowed to use extension cables (only surge protectors), and my phone charger cable isn’t very long, so I’ve kept my phone on my desk for much of the year. This has contributed enormously to my ability to wake up -- in order to turn off my alarm, I have to get down from bed, ideally without tumbling off the edge, and turn it off. Sometimes that isn’t enough, so my first alarm is usually set 15 minutes before I have to wake up, and my second alarm shakes me further out of my drowsiness. It’s been very effective. However, my fancy new desk lamp arrived this week, complete with a USB charging port, so I’ve experimented with bringing my phone up to my bed. Here’s a photo of my snazzy new lamp dramatically illuminating my workspace while causing minimal disturbance to my sleeping roommate:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c73eedf5970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c73eedf5970b.jpg" %}

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Connor Rosen
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017ee63913b1970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017ee63913b1970d.jpg
 title: Big I! (A month late)
 categories: [research]
 status: Publish
@@ -26,8 +26,8 @@ At Space, we had a pretty simple dance platform with a tarp above to keep the ra
 Because it wouldn't be space without Nic Cage's face made out of flashing LEDs to make it so he blinks, right?
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d3ec4a3a3970c.jpg" %}The ceiling - pretty basic stuff.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d3ec4a3a3970c.jpg" %}The ceiling - pretty basic stuff.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017ee6391651970d.jpg" %}The dance platform, with the band's setup (music provided by <a href="https://www.facebook.com/blownoutband" target="_self">Blown Out</a>, a Lloydie band, and <a href="https://soundcloud.com/slopycopy" target="_self">Slopycopy</a>, a Ricketts DJ).
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017ee6391651970d.jpg" %}The dance platform, with the band's setup (music provided by <a href="https://www.facebook.com/blownoutband" target="_self">Blown Out</a>, a Lloydie band, and <a href="https://soundcloud.com/slopycopy" target="_self">Slopycopy</a>, a Ricketts DJ).
 

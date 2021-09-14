@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jessica Yeung
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c370184ed970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c370184ed970b.jpg
 title: VDay Brunch and CNY Hot Pot
 categories: [culture]
 status: Publish
@@ -21,9 +21,9 @@ frosh I didn’t get to meet last term while abroad. The class of 2016 is pretty
 cool, and I can’t wait to meet all you prospective prefrosh in April for
 Prefrosh Weekend (PFW)! :)
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d4130d817970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d4130d817970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c37018668970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c37018668970b.jpg" %}
 Anyways, Saurabh taught us a new playing card game, called
 29. We ended up playing until 4 am. It was nice catching up with him and
 hopefully we’ll see him again Tomorrow (for Ditch Day ;P). 
@@ -33,7 +33,7 @@ can see from the pictures. I had a good three day weekend and I’m looking
 forward to what this week brings.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d4130d863970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d4130d863970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d4130d89b970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d4130d89b970c.jpg" %}
 Jessica : )

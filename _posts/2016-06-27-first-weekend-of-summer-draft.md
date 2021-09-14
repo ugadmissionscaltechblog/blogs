@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Suzy
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb0915a553970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb0915a553970d.jpg
 title: First Weekend of Summer! 
 categories: [research]
 status: Publish
@@ -22,16 +22,16 @@ On Saturday, we went to see Finding Dory! It was super cute. I really liked it. 
 On Sunday, my family and I went to the newly redone SFMOMA (San Francisco Museum of Modern Arts) for Father's Day.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb0915a55e970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb0915a55e970d.jpg" %}
 It was pretty cool! To be honest, I'm not really into art. But some of it was really interesting. For instance, I really liked this series of portraits made up of smaller paintings.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1fc00c6970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1fc00c6970c.jpg" %}
 We wore out pretty quickly. Trying to understand art wears me out like no other. We went home mid afternoon and had a pretty quiet Sunday evening.
 
 I took Monday off work for moving and a dentist appointment. My apartment is really cool! Here's the view from the living room window at sunset:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1fc00ea970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1fc00ea970c.jpg" %}
 I'm really pleased to be done moving. Well, moving myself anyway. Work is moving offices this weekend and everyone's been pitching in with packing. Next post will cover the week.
 
 Until next time,

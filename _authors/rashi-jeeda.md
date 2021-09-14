@@ -1,7 +1,7 @@
 ---
 title:          Rashi Jeeda
 username:       rashi
-image:          https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/profile_pics/rjeeda.png
+image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/rjeeda.png
 option:         Bioengineering
 house:          Page, Ruddock
 meet:           false

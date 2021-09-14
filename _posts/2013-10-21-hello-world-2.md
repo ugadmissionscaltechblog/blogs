@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Karthik
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019b0020ba1c970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019b0020ba1c970c.jpg
 title: Hello, World
 categories: [research]
 status: Publish
@@ -12,7 +12,7 @@ As a supposedly seasoned Techer who has returned for more learning/pain (they ar
 With this, I no longer have to choose between eating breakfast and sleeping an extra 15 minutes, and standard grocery stores are no more than 5 minutes away--the world is my oyster. Going to campus? No problem! And just in time for the end of Rotation, too, to bounce with the newest Darbs!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019b00212fb8970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019b00212fb8970d.jpg" %}
 
 Having reduced the effective distances to grocery stores, I have found that the other blessing and curse of living off-campus--cooking for oneself--has shown itself to be almost entirely a blessing. As much as I appreciate the ease of <a href="https://www.cds.caltech.edu/" target="_blank" title="Caltech Dining Services ;-)">CDS</a>-prepared food, I recently discovered that preparing food for myself has proven approximately 20 times cheaper than following the Board plan, which is not mandatory for off-campus students. Moreover, I can control the nutrition and freshness of the food I eat, to which as a freshman I did not pay too much attention since I was not in charge of preparing the food.
 
@@ -22,6 +22,6 @@ Ingredients: Whole grain bread or sliced ciabatta bread, cayenne pepper, oregano
 Instructions: Place a slice of one of the cheeses on one slice of bread. If it does not cover the bread entirely already, break up the slice and spread it out on the bread. Sprinkle cayenne pepper and oregano (to taste) on the cheese. Add a layer of thinly sliced tomato if you like tomatoes. If you have another cheese to work with, add that layer and add another slice of bread. On a hot pan, spread a very small amount of butter and place the uncooked sandwich on the pan and cover with a lid. When the cheese starts to melt, flip the sandwich, and press down on it with a spatula for about 20 seconds to make sure that the sandwich does not fall apart because of ingredients like tomatoes inside. When the slice of the bread on the pan is crispy on the outside, the sandwich is ready.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019b000393f9970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019b000393f9970c.jpg" %}
 With spiced apple cider, these grilled cheese sandwiches make for a perfect "high-class" meal that one can use to impress friends without having any actual cooking skills or knowledge, and we all know that after a long day of being questioned about cross-disciplinary research, a grilled<a href="https://www.che.caltech.edu/undergrad_prog/courses.html" target="_blank" title="Chemical Engineering at Caltech">ChE</a>/<a href="https://www.ese.caltech.edu/academics/ugrad_minor" target="_blank" title="Environmental Science and Engineering at Caltech">ESE</a> major could use a hot grilled cheese sandwich.
 

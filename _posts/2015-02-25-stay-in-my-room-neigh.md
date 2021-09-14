@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Gloria
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0dbef28970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0dbef28970c.jpg
 title: Stay in my room? Neigh.
 
 categories: [research]
@@ -22,10 +22,10 @@ Once we sorted out all the waivers and helmet sizes, and seated all 25+ people o
 
 I was determined not to stay in the back, however, so I pretended I knew how to control my horse, and somehow got further up. Look at all the people behind me!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0dbef1f970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0dbef1f970c.jpg" %}
 Eventually, we found ourselves quite high up (horse butt for scale):
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0dbef04970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0dbef04970c.jpg" %}
 It was soon time to go back and dismount, but not before my roommate and I squeezed in a selfie (pre-horse on left):
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0dbeefa970c.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0dbeefa970c.png" %}

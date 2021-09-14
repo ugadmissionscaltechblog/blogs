@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Andrew Freddo
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a7bf6120970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a7bf6120970b.jpg
 title: Still At Home
 categories: [academics]
 status: Publish
@@ -14,4 +14,4 @@ If you didn't already know, our Honor Code essentially states that "no member of
 However, as you have seen on the other blogs, our winter trimester actually began this week! So classes have started, and I haven't even set foot outside of the Eastern Time Zone! How have I managed? I contacted all my professors and have been able to stay in the loop, so even though I'm missing lectures I'm not falling behind (too much...). I've found, through meeting students at other schools, how flexible our professors are at Caltech. There are horror stories from other schools of students missing exams and almost failing classes because of interviews and inflexible professors. I could never imagine this happening at Tech - everyone is really willing to work with you if something comes up so you stay on track. Overall, these other students have encountered some big obstacles to their classes that aren't even possible at Caltech, because our administration and faculty are so great!
 Well, time for me to go back to work... I have two more interviews this week (at Tufts and University of Michigan). But then next week I'll be back to the 70+ degree weather!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b012876c1b03b970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b012876c1b03b970c.jpg" %}

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jonathan Liu
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01a73ddbce6b970d01a511d70ee8970c-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01a73ddbce6b970d01a511d70ee8970c-pi.jpg
 title: Travel Shenanigans 
 categories: [research]
 status: Publish
@@ -30,6 +30,6 @@ The subsequent 4 hour flight to Chicago was uneventful, punctuated only by a del
 My first impression of Munich interntional airport:*wow, this place is really clean*. The well-run, almost sterile feeling was eliminated as soon as I entered customs, naturally. Taking my place at the end of the line, I waited some 30 odd minutes as a horde of Americans on vacation/Germans back from vacation slowly passed the border. Following that, the institute sent me a taxi driver to drop me off at my new place, and we exchanged some laboured conversation, with him peppering his heavily accented English with German and me struggling to understand both. It was a 30 minute drive from the airport to Garching, the town where I'm living - a drive tripled in duration due to the sudden failing of the driver's GPS, but at this point I was so tired that it really didn't matter anymore. The route was quite scenic, though.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01a73ddbce6b970d01a511d70f18970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01a73ddbce6b970d01a511d70f18970c" id="caption-xid-6a01a73ddbce6b970d01a511d70f18970c">It was really fun reading signs in kilometers and failing at unit conversions.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01a73ddbce6b970d01a511d70f18970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01a73ddbce6b970d01a511d70f18970c" id="caption-xid-6a01a73ddbce6b970d01a511d70f18970c">It was really fun reading signs in kilometers and failing at unit conversions.
 
 I'm a bit too jetlagged right now to really say much more, so I'll conclude this post - next time: where I'm living, where I'm working, and whereabouts I'll be exploring!

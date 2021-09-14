@@ -1,7 +1,7 @@
 ---
 layout: post
 author: MB3K
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019b007027b1970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019b007027b1970c.jpg
 title: Hope You Like Potatoes 
 categories: [culture]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Katie Brennan
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b015437f49a73970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b015437f49a73970c.jpg
 title: ATTENTION
 categories: [global]
 status: Publish
@@ -16,6 +16,6 @@ After the adventure was over we were let out onto the exhibition floor with old 
 SO CREEPY:
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b015437f49bd0970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b015437f49bd0970c.jpg" %}
 If you love Doctor Who and ever visit London it's totally worth a trip. But until then, remember that Christmas Day there is a new episode AND here's a youtuber eating fishsticks and custard: <a href="https://www.youtube.com/watch?v=8htMWfgl10U">https://www.youtube.com/watch?v=8htMWfgl10U</a>Enjoy.
 

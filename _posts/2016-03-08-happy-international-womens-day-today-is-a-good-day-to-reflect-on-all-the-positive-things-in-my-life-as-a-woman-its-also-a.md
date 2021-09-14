@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Suzy
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c820d5d5970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c820d5d5970b.jpg
 title: Being a Lady 
 categories: [clubs]
 status: Publish
@@ -26,7 +26,7 @@ I wear heels to class sometimes. I do my makeup when I want to and I usually hav
 I am lucky because at Caltech, these things don't matter. I am allowed to be myself and nobody questions it because not only did I get into Caltech, but I am doing well despite being in one of the most difficult majors (although as a freshman, when I said I was an electrical engineer lots of people said "Really? I was not expecting that"). I am lucky to be part of a community of smart people, where it's assumed you're bright because you're here. That doesn't mean Caltech is a haven of gender equality. Nowhere is, if we're being honest, and even less at institutions of higher learning.Faculty turnover is so slow that it will take a very long time to integrate women into our faculty body.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1ab3156970c.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1ab3156970c.png" %}
 
 Consider this, though: when my mom (pictured above in her yearbook photo) went here, she had nearly no female professors. Her only female professor was her French teacher. I have a very positive female professor in the electrical engineering department, and I've taken classes with two more women in the neurobiology department.
 

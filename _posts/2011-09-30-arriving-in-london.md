@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Katie Brennan
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8bca3a7d970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8bca3a7d970d.jpg
 title: Arriving in London 
 categories: [global]
 status: Publish

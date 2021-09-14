@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Debbie Tseng
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0128764cdbb1970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0128764cdbb1970c.jpg
 title: Leavin' On a Jet Plane
 categories: [culture]
 status: Publish
@@ -25,7 +25,7 @@ Yes, girls can like Star Trek too. Some of us also play WoW, but Elaine hasn't t
 Our last day here at Tech before the new decade consisted of shopping, shopping, and ... more shopping? And dinner at In-N-Out, of course, because it's only found in the western side of the States. 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0128765597d9970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0128765597d9970c.jpg" %}
 Hats, gloves, our wool coats and boots, sweaters, and all sorts of warm weather gear for the east coast. Supposedly, the nighttime temperature here is the daytime temperature in D.C.: we'll update you on that one once we get there in less than 24 hours. Our shuttle leaves the Caltech Y at 5:30 am [yes, you read that time right] and we'll be at our place of stay, the William Penn House, at around 4 pm tomorrow.
 
 Our plan for tonight is to pack, and then grab breakfast at IHOP [one of the only places nearby that's open 24 hours] at 4 before getting to the Y at 5. The general itinerary for the week is as follows:

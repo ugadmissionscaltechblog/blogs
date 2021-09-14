@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2955970c01bb09e36607970d-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01bb09e36607970d-pi.jpg
 title: Oh My Darling, Clementine!
 categories: [local]
 status: Publish
@@ -17,8 +17,8 @@ I have some big news! About a month ago, I adopted a kitty named Clementine as a
 <div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09e36607970d" id="caption-xid-6a01b8d28f2955970c01bb09e36607970d">Lounging around!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2955970c01b8d2caa31b970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b8d2caa31b970c" id="caption-xid-6a01b8d28f2955970c01b8d2caa31b970c">Watching movies for my humanities class in film together! Clementine loves to watch movies with me.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01b8d2caa31b970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b8d2caa31b970c" id="caption-xid-6a01b8d28f2955970c01b8d2caa31b970c">Watching movies for my humanities class in film together! Clementine loves to watch movies with me.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2955970c01bb09e3660e970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09e3660e970d" id="caption-xid-6a01b8d28f2955970c01bb09e3660e970d">Clementine in New York, posing with snow!
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01bb09e3660e970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09e3660e970d" id="caption-xid-6a01b8d28f2955970c01bb09e3660e970d">Clementine in New York, posing with snow!
 

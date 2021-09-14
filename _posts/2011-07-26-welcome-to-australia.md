@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Nadia Lara
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8a1a38a6970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8a1a38a6970d.jpg
 title: Welcome to Australia!
 categories: [research]
 status: Publish
@@ -28,10 +28,10 @@ Now that I’ve been in Melbourne for a few days, and I’ve drawn a few conclus
 RMIT Village, where I'll be living this semester, is similar in setup to a house at Caltech, except much, much bigger (around 400 people). It is also comprised of students from a few different universities, including RMIT, which it's named after, and the University of Melbourne, where I will be attending. I’m sharing an apartment on the first floor (which I think of as the second floor, since the 'first' is considered the ground floor) with Louisa, a girl from Singapore studying business. My room is a little bigger than a single in Fleming at Caltech. After a few days I had put up a ton of pictures that I had brought from home.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01539026ff5e970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01539026ff5e970b.jpg" %}
 I arrived on Bastille Day, which the Village RA’s were celebrating by having a barbecue of French toast and pancakes in the courtyard. Since most students were away for winter break before classes resumed (southern hemisphere!), most of the people there were study abroad or exchange students like myself. A few girls who had also recently arrived were looking into going shopping for very necessary cell phones and clothes hangers. Like my friend Ankita said, “It’s nice that girls from all over the world can bond over phones and clothes.”
 
 It is with this group of girls (plus a few others) that I’ve been hanging out with: Sarah, Natalie, and Fiona from England, Mia from Canada, Maria from Colombia, Caroline from Scotland, and Meg, one of the first Australians I met. On our first night out we saw Harry Potter in 3D after having dinner at a great burger place called Grill’d. It was at this dinner that somebody pointed out that all of us, except Meg, were studying science or engineering. Being from Caltech where this is the norm, I definitely hadn’t noticed. My last conclusion is that geeks attract each other.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8a1a34e2970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8a1a34e2970d.jpg" %}

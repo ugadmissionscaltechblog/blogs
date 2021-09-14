@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Suzy
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb091e4b5c970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb091e4b5c970d.jpg
 title: Here Fishy Fishy 
 categories: [research]
 status: Publish

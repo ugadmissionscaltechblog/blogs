@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Valerie
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb07955964970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb07955964970d.jpg
 title: Safely in Grenå 
 categories: [global]
 status: Publish
@@ -20,7 +20,7 @@ Flying over Iceland!
 After getting dropped off at the airport in Winnipeg, I flew seemingly backwards to Edmonton, had a two hour layover, then hopped on a plane to Iceland. I landed at Keflavik International Airport in Iceland at 7:35am, thus beginning my 5 month stay in Europe. Unfortunately, I was in Iceland for less than an hour before getting on the next plane, so I didn't get to see anything besides plenty of Duty Free signs and the lava flows surrounding the airport. I barely had time to clear customs and get on my next plane, let alone leave the airport. Finally, I landed in København [Copenhagen] at 12:35.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb07955921970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb07955921970d.jpg" %}
 København Hovedsbanegård [Central Station]
 And if only that was the only traveling I did that day. My first three weeks in Denmark will not be in København or Lyngby where I'll be studying at DTU, but in a small coastal town called Grenå on the east coast of Jylland [Jutland]. Here I'll be learning at snakke dansk [to speak Danish], learning a bit about Danish culture and history, and becoming friends with other exchange students who will also be studying at DTU.
 
@@ -30,13 +30,13 @@ The first train ride was relatively uneventful. However, I had to switch trains 
 We successfully made it onto the bus and asked the bus driver to let us know which stop to get off for the train. On the bus, we found another girl also from the US going to the language course. Yay, a second friend!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01b7c6f02de8970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01b7c6f02de8970b.jpg" %}
 The train station in Århus.
 
 We made it to the train station and boarded the train to Grenå. We were exhausted (it was 21:45 at this point), so we all fell asleep for the train ride. At around 23:00 we were awoken by the horn signaling the end of the line, and were deposited in Grenå. Unfortunately, it was so late that the bus that was supposed to take us to the hotel had stopped running. It was too far to walk with all our stuff, and we had no idea where the hotel was, so we had to walk about half a kilometer to a gas station and call a taxi. We arrived at the hotel at 22:30 and I was asleep in my bed by midnight.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c6f02e1d970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c6f02e1d970b.jpg" %}
 Kystvejens [Coastal Road] Hotel, my temporary home in Grenå.
 
 ---
@@ -44,7 +44,7 @@ Kystvejens [Coastal Road] Hotel, my temporary home in Grenå.
 The next day started bright and early. Breakfast was at 7:30 and class started at 8:30. From 8:30 to noon every weekday, we learn and practice Danish, with a half hour break at 10:00. Then we have an hour for lunch (my second favorite time of day), and after lunch is a few hours of activities or presentations about Danish history and culture; for example, we learned about the economy, Danish nationalism, and music; and went on a tour and scavenger hunt in Grenå. Then we have the afternoon off until dinnertime (my favorite time of day) at 18:00. Finally, we have an activity after dinner to help us get to know the other students in the class; so far, we've had a sports day where we competed in teams for a prize, learned how to salsa, and hiked through the nearby forest. And at some point in the day we need to find time to do our homework and study the Danish we've learned in class. Needless to say, I'm kept busy.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb079559d8970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb079559d8970d.jpg" %}
 Look! I'm being social and making friends and generally doing things!
 There are international students in the class from all over Europe, as well as a few from outside Europe (such as my fellow Americans, a couple girls from Nepal and Japan, and an Australian). Fortunately for me, they all speak English very well, as the course is taught in English; and they're all much better than me at Danish. Knowing both their native language and English helps them a lot, so I have to do a lot of work to keep up. Luckily in class I sit next to a Dutch guy who knows what he's doing (Dutch is very similar to Danish), so I bug him with all my questions during class.
 
@@ -53,6 +53,6 @@ As for the Danish itself, the grammar and vocabulary is not too bad, although it
 However, it is now Friday night, and my newfound friends are waiting for me to go with them to enjoy the great weather, beautiful beach, and cold beer that await us just outside the hotel, so that will be all for now.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c6f02e6a970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c6f02e6a970b.jpg" %}
 Enjoying the beautiful beach just outside my window.
 

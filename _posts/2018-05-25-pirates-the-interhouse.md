@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01bb09a3c88f970d0224e0380513200d-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb09a3c88f970d0224e0380513200d-pi.jpg
 title: Pirates
 categories: [research]
 status: Publish

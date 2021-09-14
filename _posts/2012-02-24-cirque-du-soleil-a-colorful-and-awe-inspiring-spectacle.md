@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Catherine Xie
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b016301cc6d43970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b016301cc6d43970d.jpg
 title: Cirque Du Soleil
 categories: [research]
 status: Publish

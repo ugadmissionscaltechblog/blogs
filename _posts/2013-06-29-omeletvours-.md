@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Chengyi L
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01901dd3c0e7970b-800wi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01901dd3c0e7970b-800wi.jpg
 title: Omeletvours 
 categories: [culture]
 status: Publish
@@ -14,18 +14,18 @@ I have no idea what to cook today. The ingredients we have left are the nappa ca
 1. Obtain eggs and things to put in omeletes. 
 2. Turn things to put in omelets into small pieces. 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01901dd3c489970b-800wi.jpg" %}3. Heat things in pan until GOOD ENOUGH.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01901dd3c489970b-800wi.jpg" %}3. Heat things in pan until GOOD ENOUGH.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01901dd3c6c0970b-800wi.jpg" %}4. Whatever.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01901dd3c6c0970b-800wi.jpg" %}4. Whatever.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b019103c9bcdf970c-800wi.jpg" %}So it turns out that omelets are actually kind of hard to make. It'd probably help if we tried to pile less stuffing onto the egg before we tried to omlete-ify it, but it can't be helped. 
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b019103c9bcdf970c-800wi.jpg" %}So it turns out that omelets are actually kind of hard to make. It'd probably help if we tried to pile less stuffing onto the egg before we tried to omlete-ify it, but it can't be helped. 
 Suddenly, Friend L showes up out of nowhere and decides to try her hand at making an omelete. Using the power of duelweilding spatulas, she manages to create the perfect omelete despite having no prior omelete cooking skills! 
 
 The finished product: 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b019103c9d22e970c-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b019103c9d22e970c-800wi.jpg" %}
 I guess the moral of this story is: even if you don't know how to cook, you can still make food. 
 (The omelets were delicious.)
 

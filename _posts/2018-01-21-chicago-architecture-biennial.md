@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01bb09e965bc970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01bb09e965bc970d.jpg
 title: Chicago Architecture Biennial
 categories: [clubs]
 status: Publish
@@ -15,4 +15,4 @@ There were a few inspiring exhibits like one about the re-purposing of hutongs i
 The tour even touched on the Cultural Center itself. It’s a really beautiful building, with a couple of different domes, and many jeweled inlays. There’s a lot of history, as half the building was actually designed for Civil War veterans, and the other half was used as a library. So it’s a large contrast to have such a majestic bejeweled part of the building that was made to be the library (we were told that the inlays were done by Tiffany Co.) while the other part was very dark and somber for the veterans and for the Civil War memorial.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01bb09e965b8970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01bb09e965b8970d.jpg" %}

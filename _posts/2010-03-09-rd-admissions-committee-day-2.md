@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a8fbe5b5970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a8fbe5b5970b.jpg
 title: RD Admissions Committee
 categories: [academics]
 status: Publish
@@ -14,8 +14,8 @@ Phew! After all the reading over the past 5 months, we have successfully process
 It was a relatively easy morning, and we finished by lunchtime.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f62bdf5970c.jpg" %}As happy as I am that we have finished putting together the class of 2014---I am pretty sad to not be reading for committee anymore. Admissions committee has been a big part of my upperclassmen years here at Caltech...and especially this year. It makes me feel good to know that I have personally helped shape the classes of students that have come to Caltech in the past years, and in the year to come when I have graduated. I am so lucky to have been involved in this process, thanks for having me admissions committee :)
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f62bdf5970c.jpg" %}As happy as I am that we have finished putting together the class of 2014---I am pretty sad to not be reading for committee anymore. Admissions committee has been a big part of my upperclassmen years here at Caltech...and especially this year. It makes me feel good to know that I have personally helped shape the classes of students that have come to Caltech in the past years, and in the year to come when I have graduated. I am so lucky to have been involved in this process, thanks for having me admissions committee :)
 Anyway, I think I'm pretty much having a chill rest of the week after all this...I kinda need to recover. Not much homework....but finals are coming up soon!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a8fbf455970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a8fbf455970b.jpg" %}

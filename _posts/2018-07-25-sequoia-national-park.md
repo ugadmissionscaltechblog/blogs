@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad35554a5200c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad35554a5200c.jpg
 title: Sequoia National Park
 categories: [local]
 status: Publish
@@ -14,16 +14,16 @@ I rented gear from the Caltech Y for camping. It was only $9 for the weekend (Fr
 This is our campsite!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad35554b9200c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad35554b9200c.jpg" %}
 We went on several different hikes around the area. There were huge waterfalls, green meadows, towering mountains, and roaring rivers. In certain areas, it was really foggy, and it seemed to be consistently foggy in those areas.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad35554b0200c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad35554b0200c.jpg" %}
 On one of our hikes, I saw a cute marmot! It was trying to take my food though, so I had to scare it away.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad355549a200c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad355549a200c.jpg" %}
 There are also beautiful lakes in Sequoia, in addition to the towering trees. In the lowlands, there are also lots of wildflowers -- on a 1 hour hike, we probably saw 100+ different plants!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad35554a9200c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad35554a9200c.jpg" %}

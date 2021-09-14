@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yang Hu
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01538f8cafc2970b-800wi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01538f8cafc2970b-800wi.jpg
 title: For Prospective Caltech Pre-meds (and everyone else)
 categories: [research]
 status: Publish

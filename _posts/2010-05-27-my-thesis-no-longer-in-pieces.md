@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133eefb1666970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133eefb1666970b.jpg
 title: My Thesis
 categories: [research]
 status: Publish
@@ -20,5 +20,5 @@ I just wanna get this done! So I can focus on the presentation next week....and 
 Here I am working in my office---just kidding...outside the bookstore, my usual spot to work on my thesis when its nice outside
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133eefbbe74970b.jpg" %}Anyway...I hope you guys have a fun Memorial Day weekend! I already saw the SATC2 movie when it premiered Wednesday night at Midnight...but I'm sure I'll find something to do to relax...including attending my house's interhouse party, BFP this Sunday ;)
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133eefbbe74970b.jpg" %}Anyway...I hope you guys have a fun Memorial Day weekend! I already saw the SATC2 movie when it premiered Wednesday night at Midnight...but I'm sure I'll find something to do to relax...including attending my house's interhouse party, BFP this Sunday ;)
 

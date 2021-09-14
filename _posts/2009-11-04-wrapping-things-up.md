@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Travis Scholten
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0128759f472c970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0128759f472c970c.jpg
 title: Wrapping things Up
 categories: [clubs]
 status: Publish
@@ -19,13 +19,13 @@ EDIT: Here are the pictures. Sorry for the delay.
 On the Caltech track. I do not recall how long it has been since we've hosted a meet there, though. However, I like to run there sometimes early in the morning and watch the sun rise over the trees.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a69d18a3970b.jpg" %}Another shot of the track, this time showcasing the soccer field.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a69d18a3970b.jpg" %}Another shot of the track, this time showcasing the soccer field.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0128759f48cb970c.jpg" %}Our amazing basketball court. I've watched a couple of volleyball games there, but I'm sad to say I have yet to see a basketball game.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0128759f48cb970c.jpg" %}Our amazing basketball court. I've watched a couple of volleyball games there, but I'm sad to say I have yet to see a basketball game.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a69d1953970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a69d1953970b.jpg" %}
 In closing, I just wanted to say thanks for reading. I hope I have conveyed a little of what it's like to be a Caltech athlete. I will admit that finding a balance can be difficult, and it's something I had to work through this year. Nevertheless, I am still glad I participate in athletics here at Tech.
 
 Ciao.

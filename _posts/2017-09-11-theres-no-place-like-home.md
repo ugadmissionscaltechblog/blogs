@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09bb3c51970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09bb3c51970d.jpg
 title: There's No Place Like Home
 categories: [research]
 status: Publish
@@ -14,4 +14,4 @@ Upon landing, I got to see my family waiting for me outside the terminal. It was
 We spent our weekend there, catching up with family and seeing my aunts and uncles again. Although not all of my extended family could make it, I enjoyed seeing whomever I could, and we had a nice Sunday dinner with everyone. Before leaving, I made sure to give my grandmother my newest crochet creation, which was an owl I made over my internship in my free time. She really loved it, and it joined the kitten I made when I first picked up crochet during winter break.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01bb09a3c88f970d01b7c91804cb970b-pi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb09a3c88f970d01b7c91804cb970b-pi.jpg" %}

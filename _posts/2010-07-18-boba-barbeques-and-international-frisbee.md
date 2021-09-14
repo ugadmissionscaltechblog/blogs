@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura Conwill
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133f260a3ca970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133f260a3ca970b.jpg
 title: Boba, Barbeques, and International Frisbee
 categories: [research]
 status: Publish
@@ -45,14 +45,14 @@ borrowed from somewhere…(that’s the Olive Walk they’re driving on, and
 beautiful Lloyd House in the background).
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133f260a564970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133f260a564970b.jpg" %}
 
 And, turning 180
 degrees, we see SURFers having an amazing time at the barbecue in front of the
 Fleming cannon.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01348585f8ec970c.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01348585f8ec970c.png" %}
 
 I met a bunch of
 students visiting for the summer from Cambridge University (including a few
@@ -70,7 +70,7 @@ It was too dark to take pictures, so you're going to have to just imagine us pla
 Ultimate on the grass below.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b013485867de7970c.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b013485867de7970c.png" %}
 
 Until next time…
 --Laura

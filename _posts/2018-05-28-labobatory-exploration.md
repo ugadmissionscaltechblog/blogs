@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0224e038dfad200d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0224e038dfad200d.jpg
 title: LaBobatory Exploration
 categories: [research]
 status: Publish
@@ -15,4 +15,4 @@ The way we settled on trying LaBobatory was quite simple really. She saw the nam
 
 First of all, the interior decorations are cute, and fit with the name to a T. Sciencey flasks are on all of the counters, some empty, some with tea leaves inside, others with stuffed animals. The boba itself is of very high quality, with a not-too-firm, not-too-soft consistency, and in my drink, I could actually taste the honey in the boba. The drinks themselves are also far more adventurous than other places: while I got an Horchata boba (yummy), my friend got a drink that was Cookie Butter flavored. Amazing right?
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0224e038dfb6200d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0224e038dfb6200d.jpg" %}

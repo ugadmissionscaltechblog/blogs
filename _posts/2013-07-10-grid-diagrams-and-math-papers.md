@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901e32da21970b.png
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901e32da21970b.png
 title: Grid diagrams and math papers
 categories: [research]
 status: Publish

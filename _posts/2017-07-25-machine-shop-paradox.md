@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01b7c90ad344970b-800wi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01b7c90ad344970b-800wi.jpg
 title: Machine Shop Paradox
 categories: [clubs]
 status: Publish
@@ -14,9 +14,9 @@ Machining is the biggest time sink. You would think a few cuts and holes would t
 This week for ME13, we learned to use a mill. First, we used a band saw to get a part down to roughly the right size. Then we used an end mill to clean off some faces of the part.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c90ad358970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c90ad358970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c90ad35c970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c90ad35c970b.jpg" %}
 
 *Mill (top), band saw (bottom)*
 
@@ -26,6 +26,6 @@ I also realized that machining makes me doubt my math abilities. Suddenly, decim
 This simple aluminum part that I milled took 2 hours. I have yet to put holes through it, but my patience has already expired for today.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d29527ac970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d29527ac970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d295279f970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d295279f970c.jpg" %}

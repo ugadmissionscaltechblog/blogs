@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jordan Theriot
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b010536639043970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b010536639043970c.jpg
 title: Let the Holidays Begin!
 status: Publish
 date: 2008-12-14
@@ -20,8 +20,8 @@ First, my biggest brush with a celebrity since moving to California. Sure, Keanu
  </span><br />Secondly, some pictures from our dress dinner. Each house (as far as I know) has a dress dinner once per term. It’s a fun excuse to act fancy together, and Dining whips up a special meal for the occasion. 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0105365b5c74970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0105365b5c74970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0105365b5cb1970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0105365b5cb1970b.jpg" %}
 So those were some fun things I wanted to share with you. If you have any ideas of some topics you might want me to cover in my next few blog entries, I’d love to know. Until then, I’ll be enjoying my holiday, and you guys enjoy yours too!
 

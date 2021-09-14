@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Andrew Freddo
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a8e971aa970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a8e971aa970b.jpg
 title: Formally Yours
 categories: [research]
 status: Publish
@@ -17,10 +17,10 @@ Dessert: Chocolate Guinness cake with Irish cream sabayon
 Yum! I had the vegetarian entrée (because it was a Friday during Lent), and everyone said their food was delicious. And chocolate cake for dessert can never be a mistake. ...Picture time!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f50425d970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f50425d970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f5043d8970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f5043d8970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f50462f970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f50462f970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f50498e970c.jpg" %}It's all kind of bittersweet, since it's my second-to-last formal meal. However, it was so fun that I'm not too sad yet! Have a great day!
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f50498e970c.jpg" %}It's all kind of bittersweet, since it's my second-to-last formal meal. However, it was so fun that I'm not too sad yet! Have a great day!

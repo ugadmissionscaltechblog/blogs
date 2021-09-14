@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kirit Karkare
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01127962eff128a4.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01127962eff128a4.jpg
 title: Waterworld
 categories: [culture]
 status: Publish
@@ -13,15 +13,15 @@ So the water system in Atlantis OPI has been giving us quite a few headaches rec
 
  
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b011168ee95cf970c.jpg" %} 
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011168ee95cf970c.jpg" %} 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b011168ee9617970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011168ee9617970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b011168ee965f970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011168ee965f970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01127962f1fd28a4.jpg" %} 
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01127962f1fd28a4.jpg" %} 
 When you're dealing with water, it turns out that (surprise surprise) water dripping is one of the worst things you'll encounter. Unfortunately, we have a ton of leaks. Everywhere there's water, we put down plastic sheeting. Thick plastic is expensive, so we have to settle for paper-thin .7 mil sheets. It tends to tear when it touches just about anything, so we spend a lot of time patching up all the leaks. You can see a lot of Gorilla tape holding our party together on the 16 inch level:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01127962f4d028a4.jpg" %}To get the water running sustainably, we need to fill up the bottom two levels most of the way. That takes a few hours, especially with the leaks -- we made a rough estimate that we lose about 5 gallons a minute! As long as that is less than the flow rate of a hose, though, we're safe. We measured the hose to be about 10 gallons a minute. Either way, it still takes forever to fill up the system, and we need to keep the hose running throughout the party for the water to stay at an acceptable level.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01127962f4d028a4.jpg" %}To get the water running sustainably, we need to fill up the bottom two levels most of the way. That takes a few hours, especially with the leaks -- we made a rough estimate that we lose about 5 gallons a minute! As long as that is less than the flow rate of a hose, though, we're safe. We measured the hose to be about 10 gallons a minute. Either way, it still takes forever to fill up the system, and we need to keep the hose running throughout the party for the water to stay at an acceptable level.
 
 Anyway, that's the water system. I'll hopefully get a post up soon about how the party actually went (hint: it was awesome)!

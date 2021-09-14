@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0e079cf970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0e079cf970c.jpg
 title: Science Olympiad 
 categories: [research]
 status: Publish
@@ -16,7 +16,7 @@ The organization itself does a ton of outreach: It trains middle school and high
 The Caltech Science Olympiad club organizes and helps run the LA regional and SoCal state Science Olympiad competitions, and several local invitational competitions. A ton of Caltech students participated in Science Olympiad in high school, so the club has a ton of volunteers. On February 28th, we hiked to Occidental College to host the regional competition. I helped proctor the Science Crime Busters (forensic science) event for the middle school division, an event I competed in for three years...about 6 years ago (oh god I am old oh dear). I also helped grade the protein models from the Protein Modeling event, which I competed in for three years in high school, and which kickstarted my love of bioengineering and biochemistry.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7573508970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7573508970b.jpg" %}
 
 Science Olympiad got me through high school. I was So. Damn. Bored. in all of my classes, except for the three hours after school every day where I got the chance to goof off and study with my friends. Probably no one, apart from the readership of these blogs, knows what I'm talking about when I say spending all of your free time learning something new, something awesome, something sciencey, is the best choice you could make. I seriously went into college admissions interviews and when asked, "What do you do for fun?" I would answer "Science Olympiad" with complete honesty. Science Olympiad gave me the opportunity to explore fields of science that I would have had no entry to in high school (or middle school, especially), and through that venue I found the fields that I fell in love with and decided to pursue. Science Olympiad is the reason I decided to go to a capital-I-Institute for college.
 

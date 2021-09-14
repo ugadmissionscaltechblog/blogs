@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Monica Li
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0177449c8a5f970d017ee6eef35c970d-800wi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0177449c8a5f970d017ee6eef35c970d-800wi.jpg
 title: Reflections on first term
 categories: [research]
 status: Publish

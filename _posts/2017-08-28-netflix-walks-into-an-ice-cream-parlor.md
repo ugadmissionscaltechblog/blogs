@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09b78240970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09b78240970d.jpg
 title: Netflix Walks Into an Ice Cream Parlor
 categories: [local]
 status: Publish
@@ -26,5 +26,5 @@ Cool Haus offers just as many varieties of cookies as scoops, so their main draw
 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c9144927970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c9144927970b.jpg" %}
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c9133e78970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c9133e78970b.jpg
 title: What's good at the Flea Market?
 categories: [research]
 status: Publish
@@ -30,7 +30,7 @@ One booth that really caught my attention was that of the Pasadena Humane Societ
 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09b67ab5970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09b67ab5970d.jpg" %}
 
 
 I probably won't be back any time soon unless I am in need of furniture, but it's definitely worth checking out once during your time at Caltech!

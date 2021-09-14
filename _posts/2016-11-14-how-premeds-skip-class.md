@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01b7c8abf6d9970b-500wi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01b7c8abf6d9970b-500wi.jpg
 title: How Premeds Skip Class
 categories: [culture]
 status: Publish
@@ -29,9 +29,9 @@ The school was really nice, too--the designof the building let in lots of light 
 So yeah. Yay for skipping class to do something important and fun (at the same time, ah)! Just a few more photos...
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01b7c8abf6dd970b-500wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01b7c8abf6dd970b-500wi.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb094ef0b7970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb094ef0b7970d.jpg" %}
 keep looking' up,
 <span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #bc6f95;">jenny.
 

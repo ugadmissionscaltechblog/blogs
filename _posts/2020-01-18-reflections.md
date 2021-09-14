@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Andrew
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a4dd0b4b200d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a4dd0b4b200d.jpg
 title: Reflections
 categories: [local]
 status: Publish
@@ -17,7 +17,7 @@ I’ll be honest, I miss Singapore. I miss waking up knowing that one of the bes
 I miss Scotland too, but a little bit less so. I don’t think I connected to Scotland quite as much as I did to Singapore. It was scold, for one, and as I’m sure y’all readers have figured out, I can’t really deal with cold weather. I really do miss all my friends though. I miss the late evenings out with Justin, the lack of homework, the constant, nonstop travelling. It was a great time being abroad, and it feels almost wrong to be stagnant in one location for the rest of the year.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a501ac88200b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a501ac88200b.jpg" %}
 And my takeaway from all of this is that I can find those same things back here at Tech too. I can take a weekend and go down to San Diego or camping in the mountains. I can hunt for that cheap and delicious roast duck.
 
 So that’s my takeaway. Life doesn’t need to change, but instead expand from all of the experiences that you live through. Take those same life lessons and apply them to your daily life.

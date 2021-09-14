@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb07e976a9970d.png
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb07e976a9970d.png
 title: Art/Tech Panel
 categories: [research]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Monica Li
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0177449c8a5f970d01a3fd0203e8970b-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0177449c8a5f970d01a3fd0203e8970b-pi.jpg
 title: Reflections on Tennis Season 
 categories: [culture]
 status: Publish

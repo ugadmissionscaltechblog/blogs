@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Katie Fisher
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c3619e263970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c3619e263970b.jpg
 title: An introduction to fencing
 categories: [clubs]
 status: Publish
@@ -44,11 +44,11 @@ Here's some pictures:
 Me fencing!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c3619e36d970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c3619e36d970b.jpg" %}
 Our men's epee team, plotting the demise of their next opponents. Or discussing what they want for lunch. I'm not sure.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d4048e20a970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d4048e20a970c.jpg" %}
 
 Emilia, looking incredibly intimidating in her sabre uniform.
 

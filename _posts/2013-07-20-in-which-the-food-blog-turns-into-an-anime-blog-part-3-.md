@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Chengyi L
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac08465f970d.png
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac08465f970d.png
 title: In Which The Food Blog Turns into an Anime Blog (Part 3) 
 categories: [global]
 status: Publish
@@ -36,37 +36,37 @@ The restaurant was quite nice. It had a busy and casual sort of atmosphere. The 
 And now, as promised, photos of food:
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901e4920d6970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901e4920d6970b.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901e492114970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901e492114970b.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac086603970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac086603970d.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901e492190970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901e492190970b.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac086697970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac086697970d.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0191043f3349970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0191043f3349970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901e4922da970b.jpg" %}
-
-
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac0867cf970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901e4922da970b.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901e492342970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac0867cf970d.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901e4923ac970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901e492342970b.jpg" %}
+
+
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901e4923ac970b.jpg" %}
 Dessert was macarons, which meant that we were obligated to pick the weirdest flavors. Protip: the weirder the macaron flavor, the more delicious it is. So never get chocolate or vanilla macarons! That's too boring. 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac086935970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac086935970d.jpg" %}
 Flavors: Earl Grey (top left), pistachio (top right), rose (bottom left), lavender (bottom right). 
 As expected, they were delicious. 10/10, would eat again (if I had the money). 
 ---
@@ -77,7 +77,7 @@ Helpful note: things tend to go on sale on the last day of conventions because a
 When the hall opened, everybody wandered off to do more things. Some friends and I headed over to the Artist's Alley for any last-minute impulse buys. I was going to buy more prints but suddenly got caught up in Pokemon trading. There was an artist's booth with a little<a href="https://en.wikipedia.org/wiki/Gashapon" target="_self"> gashapon</a> machine that spits out a pin with a random Pokemon on it when you input four quarters.Although I got some pins from the machine before, they weren't the Pokemon I was looking for, so I decided to camp out next to the machine and try to trade my pins with other people. 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901e491f19970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901e491f19970b.jpg" %}
 I'm sure the artist made tons of profit off of us. I probably would've stayed next to that machine for the rest of the day if not for the fact that my friends wanted to go back to Caltech. 
 And so ends an exciting four-and-a-half days of Anime Expo. Luckily, none of us got con sickness (a disease similar in nature to frosh plague). Our wallets significantly flatter than before, we metro'd back to Tech tired, but satisfied.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Tony Z. Jia
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a547903f970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a547903f970b.jpg
 title: A Hectic Day
 categories: [global]
 status: Publish
@@ -19,31 +19,31 @@ So Friday I went with the other kids in the program to various places around the
 Anyways, first we went to the Toyota Car Factory. There was a museum with the latest prototype models, and then we got to explore the car building factory. They didn’t let us take pictures of inside the factory, but I have a few of the museum and various prototype models and robots, including a trumpet playing robot.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a59e7114970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a59e7114970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a59e7223970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a59e7223970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a54792a2970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a54792a2970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a54792df970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a54792df970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a59e7350970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a59e7350970c.jpg" %}
 Next was a traditional Japanese tea house. We were able to enjoy Japanese matcha (抹茶, finely powdered green tea) and manjuu, a Japanese confection. It was pretty cool, and the tea was amazing. It had a very sophisticated taste, and wasn’t too bitter or too sweet. It also went down very smoothly, and the aftertaste was very “toasty” and deep.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a54793f0970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a54793f0970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a59e74e5970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a59e74e5970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a59e7584970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a59e7584970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a59e75ef970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a59e75ef970c.jpg" %}
 A side stop had us going to the burial grounds of Tokugawa Ieyasu, the founding shogun of the Tokugawa Shogunate. Apparently he was a very short guy. And finally, we ended the day at a miso production facility. Hatcho Miso, literally eight cubes miso, is a dark miso that is aged in cedar wood barrels for at least 2 years. This has been in business for 18 generations. One main difference between Hatcho Miso and standard miso is that Hatcho miso is darker in color, almost deep red. It is less sweet and more savory than regular miso, and has a deep taste with many different levels and a great lingering aftertaste. Unfortunately, I don’t think you can find much of this stuff in the US, so you’ll have to come to Okazaki to try it. 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a547987e970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a547987e970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a54796c4970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a54796c4970b.jpg" %}
 **Interesting Observations**
 
 Fruit is ridiculously expensive. Just today, I saw $2 apples, a $7 box of grapes, a $16 watermelon, and the big one: a $50 cantaloupe that is smaller than a soccer ball. 

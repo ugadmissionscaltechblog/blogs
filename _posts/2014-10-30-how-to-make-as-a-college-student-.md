@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0835e09970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0835e09970c.jpg
 title: How to make $ as a college student 
 categories: [research]
 status: Publish
@@ -22,7 +22,7 @@ I’m a waiter! Waiting pays $8/hour, so $12/night including set up (putting dis
 - Grill Team
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c6f94d4c970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c6f94d4c970b.jpg" %}
 Similar to house waiters, Grill Team is in charge of Thursday night grill night. That’s right, students grill your steak on Thursdays! Grill Team members also go through food handling training (online course) and get trained in person by current Grill Team members. You can join after your second Frosh term. Pays similarly to waiting.
 
 - Blogging for admissions!

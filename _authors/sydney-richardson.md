@@ -1,7 +1,7 @@
 ---
 title:          Sydney Richardson
 username:       sydney
-image:          https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/profile_pics/srichard.png
+image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/srichard.png
 option:         Mechanical Engineering
 house:          Fleming
 meet:           true

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Andrew Freddo
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a963761a970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a963761a970b.jpg
 title: Southern Night!
 categories: [academics]
 status: Publish
@@ -14,13 +14,13 @@ date: 2010-03-22
 And after cooking up applesauce, biscuits, greens, and some other accompaniments, it was time to EAT. But before that, we got schooled on the details of BBQ sauce (we had over 5 types to choose from!) and how different states do BBQ (Tom showed us a really funny video to explain it, but I can't find it - maybe I will soon). But most importantly, it was time to EAT! Delicious, of course. And we also had a lot of visitors enjoying our food, too! Tom said there were over 70 people crammed into his house that night!
 Having trouble visualizing...? Time for pictures!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310fca7678970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310fca7678970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310fca78b7970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310fca78b7970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a9637a47970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a9637a47970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a9637b3a970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a9637b3a970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a9637c0a970b.jpg" %}One final thing to post about cooking - the FINAL EXAM! Talk to you soon!
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a9637c0a970b.jpg" %}One final thing to post about cooking - the FINAL EXAM! Talk to you soon!
 

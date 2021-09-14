@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Alex Krikorian
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0115713035e7970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0115713035e7970b.jpg
 title: Post-Graduation activities
 categories: [local]
 status: Publish
@@ -12,5 +12,5 @@ A good thing about being a senior graduating is that all of your family and frie
 
 Then, I adopted a new puppy!! I can stay home with her all summer and train her and everything, so it's the perfect time! Hopefully I can teach her to wave and bark and everything, it took her a couple of days to learn "sit" but I think she's got it down. Her name is Mochi and she is 10 months old! Here she is:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0115713039c1970b.jpg" %}I can still give tours until August, so I will keep working with Admissions on that...I highly recommend exploring the Admissions office, and if you want to, apply to be a tour guide! They are amazing people and are a lot of fun to be involved with, I know I'll be back to visit very often. Next up for me: training the dog, seeing some friends because I have all day to do nothing until I start working in August, and cleaning up the apartment. As usual! But without the homework hanging over my head, I am going to read a lot of books I have wanted to read for a long time now. Caltech was great about getting student loans set up to be paid in the future, and getting us ready to leave the school. It's sad, but we're all moving on, and they do everything they can to make it a smooth transition out of there. On to the job market now! Toodles! <input id="gwProxy" type="hidden" /><input id="jsProxy" onclick="jsCall();" type="hidden" />
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0115713039c1970b.jpg" %}I can still give tours until August, so I will keep working with Admissions on that...I highly recommend exploring the Admissions office, and if you want to, apply to be a tour guide! They are amazing people and are a lot of fun to be involved with, I know I'll be back to visit very often. Next up for me: training the dog, seeing some friends because I have all day to do nothing until I start working in August, and cleaning up the apartment. As usual! But without the homework hanging over my head, I am going to read a lot of books I have wanted to read for a long time now. Caltech was great about getting student loans set up to be paid in the future, and getting us ready to leave the school. It's sad, but we're all moving on, and they do everything they can to make it a smooth transition out of there. On to the job market now! Toodles! <input id="gwProxy" type="hidden" /><input id="jsProxy" onclick="jsCall();" type="hidden" />
 <div id="refHTML">

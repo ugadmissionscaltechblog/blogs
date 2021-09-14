@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01bb08213082970d01bb09819393970d-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01bb09819393970d-pi.jpg
 title: KazuNori, Midori Matcha Cafe, and The Counter
 categories: [local]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ketaki Panse
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73d9a26a6970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73d9a26a6970d.jpg
 title: Building Bookcases out of Boredom 
 categories: [research]
 status: Publish
@@ -17,14 +17,14 @@ My parents are remodeling our house right now, so my siblings and I have the opt
 
 Much to my surprise, my father and our handy carpenter had already built the base of my bookcase by the time spring break rolled around. Armed with a bucket of white paint, I finished off the bookcase and promptly began filling it with my favorite books and my not-so-favorite class textbooks. Here's what the finished bookcase looks like:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fcdf4dc8970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fcdf4dc8970b.jpg" %}
 
 And here's one of the fiction shelves:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73d9a26f4970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73d9a26f4970d.jpg" %}
 My bookcase project allowed me to pass the time while my family was off doing important things last week,and I actually got some time to relax and bum around after an intense term. But, I'm pretty ecstatic to report that I'm actually writing this blog post from Quito, Ecuador and am about to board the flight to Baltra Island!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73d9a27db970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73d9a27db970d.jpg" %}
 Since I won't have internet for the next 9 days, I'll be updating Galapagos travel blogposts after the trip.
 
 Until then,

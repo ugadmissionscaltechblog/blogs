@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Catherine Xie
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01675f9048c5970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01675f9048c5970b.jpg
 title: A Tale of Two C's in a Winter Wonderland!
 categories: [research]
 status: Publish
@@ -17,34 +17,34 @@ However, a more important concept is definitely '*bailing*' when you are about t
 
 It was a lot of fun zooming downhill but the uphill walk was definitely more of a work outand a lot slower:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162fe9bd895970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162fe9bd895970d.jpg" %}
 Afterwards, we hiked on a trail through a frozen and snowy marsh and it led us to theocean!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01675f90634a970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01675f90634a970b.jpg" %}
 I actually didn't know it was the ocean until it was pointed out to me. The frozenand bumpy ridges in the ice were fascinating because it looked like the waves of the oceanhad been frozen in time (think of Narnia from "The Lion, the Witch and the Wardrobe")!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162fe9bf0bc970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162fe9bf0bc970d.jpg" %}
 Ialso noticed that the number of hours of daylight in Alaska were very few; the sunrise wasaround 10:30 am and sunset was around 3:00 pm!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162fe9bf4cc970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162fe9bf4cc970d.jpg" %}
 That evening, Carly and I hit up the Alaska zoo where they had cool light displaysthroughout the zoo. We saw many cold climate animals including a polar bear, seals, yaks,wolves, etc.
 
 The next day, we drove up to Wascilla, AK and passed by where I was told Sarah Palin lives.We got to drive snowmobiles on the frozen Rocky Lake. Ironically, the weather was sounusually warm for Alaska that instead of snowing, it was actually raining while we weresnowmobiling! Driving the snowmachines to up to 60/70mph was exhilarating!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01675f906ed1970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01675f906ed1970b.jpg" %}
 The next day, I was woken by excited voices, and to my amazement, there was a whole 45inches of snowfall overnight!!! The landscape had been transformed into a winter wonderlandwith untouched, pristine snow.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0168e491a501970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0168e491a501970c.jpg" %}
 Carly and I decided to go crosscountry skiing immediately that morning. However, when we arrived at the trails, wediscovered that the trails had not yet been groomed because the roads still had yet to beplowed (priorities, go figure).Undeterred, we decided to go ahead with our plans. Thefirst challenge not getting into the cross country skis but actually skiing through thefoot of fresh snow. I felt like a snow plow blazing a trail through the new snow. Therewere definitely a few falls--like one time I skied straight into a tree pit that wascovered in thick snow!
 
 The following day, we went downhill skiing at Alyeska Ski Resorts, which was about a 45minute drive. The road we drove along had cliffs to the left, where doll sheep inhabit.To the right, the view was gorgeous as we could see the sunrise coming over the mountainsand the reflections in the water and we could also see the places where avalanches had occured down the mountainsides.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162fe9c1176970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162fe9c1176970d.jpg" %}
 This drive to the slopes turned out to be an adventure: when we were about 30 minutes intothe drive when the heating system of the car broke down. Not thinking much of it, we droveon and 10 minutes later, as we were making a turn, the car decided to *break down*-- while wewere still driving. So we used the momentum of the car to pull into the parking lot of agas station. When we got out of the car, Carly and I saw smoke/vapor seeping out from thehood of the car-- **uh oh**! Luckily, we were close to ski resort, so after calling Carly'sdad, who got the car towed, we were able to take a shuttle bus and continue on.The recent huge snowfall made the skiing really fun and the views of the slopes waspicturesque.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01675f90899b970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01675f90899b970b.jpg" %}
 The next day I flew back to California and my adventure to Alaska came to an end. What anunforgettable and extremely fun-filled trip! Many thanks to Carly and her family for havingme. :)
 

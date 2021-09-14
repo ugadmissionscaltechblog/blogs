@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Chengyi L
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901ed9ccc2970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901ed9ccc2970b.jpg
 title: Silver Spoon
 categories: [research]
 status: Publish
@@ -14,19 +14,19 @@ It was quite fun getting our farm boxes every week, but SURF is almost over and 
 (Note: There's no photos of the 7/5 box because <a href="https://caltech.typepad.com/caltech_as_it_happens/2013/07/in-which-the-food-blog-turns-into-an-anime-blog-part-1.html" target="_self">I was at Anime Expo</a> and I accidentally forgot to take photos of the 7/19 box, but everything else is here. Also note that some of these bundles may have more/less food than others because we sometimes swapped for a bigger/smaller box due to having <a href="https://caltech.typepad.com/caltech_as_it_happens/2013/08/house-dinner.html" target="_self">other food plans</a>.)
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901ed9ceab970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901ed9ceab970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac992086970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac992086970d.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104cfc4fb970c.jpg" %}
-
-
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac992330970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104cfc4fb970c.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901ed9d379970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac992330970d.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac99243b970d.jpg" %}
+
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901ed9d379970b.jpg" %}
+
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac99243b970d.jpg" %}
 And now, time for information dump**! Food Quantity**You can sort of estimate how large the food items are from the yardstick in each photo, but, for anyone who cares, a regular-sized box has enough food so 3 people (my two roommates and I) can eat dinner every day of the week with some leftovers.
 
  However, do note that our dinners are not purely produce--usually we have some rice or pasta if we're stir-frying the vegetables, and we do go out and buy random food (such as cheese or tofu) every now and then. We also eat eggs pretty constantly for easy protein. Also note that the three of us are not very large or muscular and thus don't need very many calories to survive. **Food Quality**Food quality is usually really good. At the very least, they match the quality of what you can pick out at a supermarket--the none of the produce is ever wilted or bruised. Although the fruits sometimes can be smaller than what you can get at 
@@ -46,7 +46,7 @@ Sometimes the farms run out of a certain produce sooner than expected. In this c
 **For People with Allergies and Really Picky Eaters**While it's not possible to pick which produce you want each week (since what's produced depends on the seasons and the weather), it is possible to pick which produce you* don't* want. Once you sign up, you can go to your account page and choose which foods you *don't* want to receive in your box. 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac99c2cd970d.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac99c2cd970d.png" %}
 If the farm box for the week is planned to have a food on your exclusion list, the farmers will swap out your excluded item for another thing of equal value like how they replace foods that run out early. This way, you don't have to worry about getting produce you're allergic to.
 
 **Price******Roommate N did some calculations and estimated that our farm box produce is approximately 1.35 times more expensive than non-organic store-bought produce, which is entirely reasonable given that 1) the produce is delivered right to our doorsteps, 2) it's organic, and 3) it's from local, small farms that practice sustainable agriculture. 
@@ -60,10 +60,10 @@ you're not obligated to keep on buying boxes from them. I only have to click a f
 **Shameless Advertisement Time****
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104d076d4970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104d076d4970c.jpg" %}
 <a href="https://www.farmfreshtoyou.com/index.php" target="_self">Obligatory link to their website again.</a> Not sure how many people registered for their service with the name "Annie Lee", so note that my account number is 508080 in case they ever ask for it
 
 Also, I got an email from them saying that I'm invited to go on a free farm tour! I'll get to see the farm and meet the people that grow the food I'm eating! Sadly, the farm was too far away and hard to get to with only public transportation + walking... I'll just satisfy myself with my green onion farm instead...
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104d07bb9970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104d07bb9970c.jpg" %}

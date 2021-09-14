@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2955970c01b7c90f5b43970b-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01b7c90f5b43970b-pi.jpg
 title: Flurries of Fluffies
 categories: [clubs]
 status: Publish
@@ -15,7 +15,7 @@ When we walked in the gate, the overwhelming scent of dog hit me. While some peo
 <div class="photo-caption caption-xid-6a01b8d28f2955970c01b7c90f5b43970b" id="caption-xid-6a01b8d28f2955970c01b7c90f5b43970b">My dog, Doc, sitting on my porch back home in New York.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2955970c01b7c90f5b5d970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b7c90f5b5d970b" id="caption-xid-6a01b8d28f2955970c01b7c90f5b5d970b">Coco, the good girl I met at the PHS.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01b7c90f5b5d970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b7c90f5b5d970b" id="caption-xid-6a01b8d28f2955970c01b7c90f5b5d970b">Coco, the good girl I met at the PHS.
 
 There were also hoards of more exotic creatures, from chinchillas to rabbits to birds to turtles. They (barring the turtles, which are kept outside with the dogs), are housed in their own private building. The cats also have their own little house to call home.
 

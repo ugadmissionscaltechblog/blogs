@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Karsyn Bailey
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d412c13c8970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d412c13c8970c.jpg
 title: Celebrate Valentine's Day, the Fleming Way
 categories: [clubs]
 status: Publish
@@ -15,6 +15,6 @@ Here is the wonderful setup that our Social Team put together in our dining hall
 Here are the sophomore girls of Fleming House all dressed up!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c36fcbf24970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c36fcbf24970b.jpg" %}
 The dinner was a great event, and I think everyone had a good time. We had a huge turnout: 54 guests! And it was a lot of fun seeing everyone dressed up, since we don't always look this good :).
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Chengyi L
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01910453224f970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01910453224f970c.jpg
 title: Whatever.
 
 categories: [culture]
@@ -23,10 +23,10 @@ Don't know about the taste yet, but it* looks* fine...
 And now let's shove it in the oven. We didn't know what temperature to bake it at, so we just set it to 350 F because supposedly it's the temperature most things bake at. 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac1f24fe970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac1f24fe970d.jpg" %}
 And then we waited. Of course, we took the food(?) out every now and then and stabbed it with a knife to see if it's cooked enough, but the cheese wasn't really browning and neither was the onion even after waiting for a very long time. Finally we got impatient and took it out to eat. If it's hot in the inside, it should be fine... 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01910455d636970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01910455d636970c.jpg" %}
 The result was surprisingly legit. The chedder didn't taste out of place (could be because it wasn't very high quality chedder to begin with...), and the onions were actually cooked despite looking like they're still raw. The garlic on top added a nice touch to the flavor. 
 **Final verdict: surprisingly legit/10**

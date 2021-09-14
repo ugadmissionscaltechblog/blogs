@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Alison Lui
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01a73da10b05970d01a73dbac493970d-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01a73da10b05970d01a73dbac493970d-pi.jpg
 title: Welcome to the Greatest Birthday of Your Life 
 categories: [culture]
 status: Publish
@@ -28,19 +28,19 @@ Sitting in your room, tearing your hair out over some problem, the call for "Bir
 
 Enjoy pictures of some of our most recent cakes:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01a73da10b05970d01a3fcffeac7970b-pi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01a73da10b05970d01a3fcffeac7970b-pi.jpg" %}
 Andy's rainbow cake was definitely one for the record books. Kudos to UCC Grace! ^
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01a73da10b05970d01a73dbac430970d-pi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01a73da10b05970d01a73dbac430970d-pi.jpg" %}
 Nick turns 19 with a gourmet chocolate - ganache cake! Mad Props to UCC Katie! ^
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd0122ff970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd0122ff970b.jpg" %}
 The most recent birthday so far! Happy Birthday to Ritwik and Happy Cinco de May to you, Dear Reader!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73dbac377970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73dbac377970d.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01a73da10b05970d01a73dbac447970d-pi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01a73da10b05970d01a73dbac447970d-pi.jpg" %}
 Stan's amazing longboard Rice Krispie cake, courtesy of Caltech Dining Service (CDS) ^
 
 "And Many Moooooore!"

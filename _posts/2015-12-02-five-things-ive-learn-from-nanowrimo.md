@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d17b51d7970c.png
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d17b51d7970c.png
 title: Five Things I've Learn From NaNoWriMo 
 categories: [research]
 status: Publish
@@ -22,7 +22,7 @@ At the end of the summer, I set my sights on NaNoWriMo, also known as National N
 Today, November 26th, I have written 51,294 words and I have two more chapters left before I finish this story. My novel is completely unedited, a true rough draft, and it's going to need a lot of work on my part before I even give it to other people to help me edit. I have no grand expectations that I'm going to get a book published on my first try, especially because I have no training in fiction writing and this is truly a 51,000 word pile of "telling instead of showing" and awkward dialogue, but I am so proud of myself for completing this project. I set a goal and I reached it and I'm proud of myself. And I learned a ton along the way, so I'd like to share these widely-applicable lessons with you!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7f19acb970b.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7f19acb970b.png" %}
 
 **1.It is easy to find time to do something if you are motivated.**
 

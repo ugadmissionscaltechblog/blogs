@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb097b2423970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb097b2423970d.jpg
 title: The Politics of Protest Lecture
 categories: [culture]
 status: Publish
@@ -13,15 +13,15 @@ The Caltech Diversity Center has begun a lecture series on campus called "food f
 The talk began with an introduction to the vocabulary of protest, specifically the delineation between violent and non-violent action. We then talked about different types of non-violent action, as described very well by this list of over one hundred examples.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2625576970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2625576970c.jpg" %}
 
 Dr. Jahner described a few instances of non-violent action taken recently, that we had all seen in the news (and also participated in: many people who attended this lecture had recently been in the Women's March or in protests at LAX against the immigration ban).
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb097b243c970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb097b243c970d.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2625582970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2625582970c.jpg" %}
 
 Dr. Jahner also led a discussion about public reaction to nonviolent protest, specifically our individual reactions to observing protest. As an example, she asked us to reflect on our reactions to seeing Black Lives Matter protestors over the past few years. She then compared our reactions to reactions to the Civil Rights Movement, and discussed how public perception of the Civil Rights Movement in the 1960's was very negative towards the nonviolent sit-ins, marches, and even the Freedom Riders (across the country, not just in the South), while Americans believed the marchers and riders were being too confrontational. She brought up Dr. Martin Luther King Jr's "Letter From Birmingham Jail" as the best explanation for why nonviolent action is so necessary.
 

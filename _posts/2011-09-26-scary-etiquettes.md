@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Account Deleted
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b015391af6394970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b015391af6394970b.jpg
 title: Scary Etiquettes and Icky Food
 categories: [research]
 status: Publish
@@ -19,16 +19,16 @@ Great, Fresh and Easy (one of the local grocery stores I go to sometimes). I'm g
 
 Here's **another one**:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b015391b1df19970b.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b015391b1df19970b.png" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b015391b1e050970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b015391b1e050970b.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b015435851708970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b015435851708970c.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b015391b1e1b8970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b015391b1e1b8970b.jpg" %}
 These are the power bars that we get after hard sports practices here at Caltech. We're the beavers - nature's engineer! So engineering food for the human race... well, it sounds great. It sounds awesome. Lot's of us are engineers, and I think we are just partial to anything that has the word "engineering" in it - I am at least. It sounds methodical, thought out, and like it has a reason for being better than the alternative. And there's words like micro and peptides and absorption and perfect protein (but wait, starting to get suspicious - the only imperfect protein really is misfolded, or denatured, or indigestible, or ... what does that have to do with their food?) and TRIPLE CHOCOLATE (and yes, it tastes better than most sports bars that you get!) and .... Eat away! <a href="https://www.bodybuilding.com/store/bn/power.html" target="_self">This page </a>even talks about quantum leaps!!! (I'm sorry, but Dear Power Crunch, that's something else.)
 
 I googled the micropeptide technology they advertise so much. Hum. Not so happy anymore. They really do have an interesting idea but I don't like the rest of the stuff in the package - it isn't the proteins giving the bars the chocolate flavors! Here's the ingredients:
@@ -39,7 +39,7 @@ So, first for the ones I've heard of before:
 
 *L-Glutamine*: I'm pretty sure I heard of that in lab. It's also not bad for you, and has been shown to be good for muscle recovery after intense workouts - that's fine. It also has a pretty structure:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01543582d73e970c.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01543582d73e970c.png" %}
 *Partially Hydrogenated Soybean Oil*. Not so good. See <a href="https://www.treelight.com/health/nutrition/PartiallyHydrogenatedOils.html" target="_self">here</a>. The summary this page gives it is "Consuming partially hydrogenated oils is like inhaling cigarette smoke. They will kill you -- slowly, over time, but as surely as you breathe. And in the meantime, they will make you fat!" This CS-major and consumer advocate also writes about the replacement of bad fats and partially hydrogenated oils with mono and di-glycerides, which are also hydrogenated oil products! However, these get to be listed as emulsifiers on the label (via food industry advocacy - grrrr! don't mess with my health, big companies!) instead of fats. (You should always do your own research on anything I write because, again, I just googled this!) I also figured out why I've never really looked at percentages on food labels after deciding that they didn't really tell me as much as the ingredients a very long time ago - they aren't percentages in the food, but the percentage of the food standard serving size in a 2,000 calorie diet, which frankly is stupid, industry-driven, and needs to change (just cut the standard serving size in half and down goes that icky high salt intake - even though people are still going to eat several of the standard serving size!!!!) (maybe we can get rid of the percentages as a whole? they just don't seem to help much... and even if you do percentages in the food - what do you go by? Mass? Calories? Nutritional value percentage?).
 
 *Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate,**Riboflavin, Folic Acid), Sugar, Partially Hydrogenated Soybean and Palm Oils, Cocoa Processed with**Alkali, Dextrose, Nonfat Milk Powder, Lecithin, Natural and Artificial Flavors, Soy Lecithin, Sucralose, Salt,** Baking Soda, Citric Acid, Yellow 5 &amp; 6, Red 3, Blue 1: *basically this is all stuff I don't really want to be eating (the salt is fine, especially for an athlete it is important because it keeps us hydrating, but the rest... not so fine). It comes at the end of the list, so people tend to ignore it. So, going back to the chemistry - my lab mentor was doing work with a quencher, and got really wierd results. We think it might be an impurity that just has an extinction coefficient in the 70 thousands (that's really high). Some stuff is fine in small quanitites, but some stuff just isn't. And most of this, I'd rather not have - even if it is at the end of the list. Q: What is sucralose anyway (beyond a failure to use IUPAC nomenclature)? (A: splenda. Except with a different name, so people like me, who think splenda is unhealthy and try to avoid it, don't know that's exactly what they are getting. Fun fact: the company is also advertising a new "crunchy" bar that doesn't have sucralose.)

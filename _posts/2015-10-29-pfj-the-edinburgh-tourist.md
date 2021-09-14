@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7e2a9c4970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7e2a9c4970b.jpg
 title: Postcards from Jenny
 categories: [global]
 status: Publish
@@ -22,11 +22,11 @@ In the time since you last heard from me, I've been a complete tourist here in E
 <span style="font-family: arial, helvetica, sans-serif; font-size: 11pt; color: #ff7f00;">Arthur's Seat
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb0886ea3a970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb0886ea3a970d.jpg" %}
  Arthur's Seat is an extinct basalt volcano in the heart of the city. It's a short trek with different paths that suit hikers of any expertise. The view from the top (as well as the hike up) is breath-taking: Princes Street is fun to identify, as well as each of the spiraling towers of various monuments. To the northeast is the massive blue ocean. I've climbed twice to catch the sunset, but naturally Edinburgh's autumn brings clouds at just the most inconvenient moments. If you make the trek, make sure to bring a hat to stay warm, but watch out for the wind! During my more recent attempt with some friends, the wind whipped at us really strongly. Fortunately, it was blowing us into the mountain rather than plucking us off!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01b7c7e31cca970b-500wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01b7c7e31cca970b-500wi.jpg" %}
 <span style="font-family: arial, helvetica, sans-serif; font-size: 11pt; color: #ff7f00;">Ghost tours
 Auld Reekie and Mercat both offer great ghost tours of the vaults. There are also several stands along the Royal Mile. The tour guides are talented storytellers, and their stories sent waves of chills dancing down my spine.
 

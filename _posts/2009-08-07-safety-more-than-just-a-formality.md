@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Shruti Mishra
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a4d05b68970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a4d05b68970b.jpg
 title: Safety... more than just a formality
 categories: [research]
 status: Publish

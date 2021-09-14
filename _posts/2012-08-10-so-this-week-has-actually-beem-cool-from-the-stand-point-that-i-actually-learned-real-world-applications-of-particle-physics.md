@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Valère Lambert
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017743e35ba6970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017743e35ba6970d.jpg
 title: Thank Goodness for Radiation 
 categories: [research]
 status: Publish
@@ -19,13 +19,13 @@ Today I went on a tour of ISOLDE which is a nuclear radiation facility with many
 
 It was a pretty fun tour and we got a very informative and energetic guide. She was telling us about how they spend 50,000 swiss francs on each radiation source set up which burns off uranium and lasts 3 weeks. The set up gets so hot that they need robots to move everything and after the 3 weeks they store them in giant lead vaults down in the caverns. After a year they have robots take them to a recycling facility but they basically have to use a new one each week. Apparently the heat is so great from the radiation that it would burn your skin off and still expose you to high radiation in a radiation suit, however, she told us that when there have been problems with the robots they just grab an engineer, put them in a white suit and send them into the room with a time limit. It turns out that engineers are useful for something after all. :)
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017743e35c81970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017743e35c81970d.jpg" %}
 This was the control room for the facility. Notice the blue lanyard around the guide's neck. That is actually a geiger monitor to make sure the radiation levels weren't too high. Note, pregnant women and people with pacemakers are not allowed to work at ISOLDE, or enter it.
 
 As a side note: it was pretty cool to find out that they ship a lot of the isotopes from the detector up to Germany for experiments on cancer treatments.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017616fd1da2970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017616fd1da2970c.jpg" %}
 This was an astrophysics set up. I don't actually remember what it did since they guy in charge spoke very softly, but it's a huge piece of machinery. The highlight of the day was having to wait in line to pass through the radiation monitor before the door would open for each of us to leave.
 
 Anyways, I found it interesting to learn about medical applications to particle physics and hopefully you found this somewhat interesting. My project is finally coming to its final stages since my refined data set is ready and I can finally start producing the 2012 statistics. Tomorrow I leave for Nice and I'll be spending the weekend there and in Monaco.

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Catherine Xie
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b017c35b7379e970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b017c35b7379e970b.jpg
 title: Day 1
 categories: [research]
 status: Publish
@@ -29,31 +29,31 @@ and decided to explore Lausanne Oldtown by doing a walked tour after lunch. We b
 We went to the Cathedral de Francois, which had a very magnificent organ above the door. The Lausanne Cathedral or the Cathedral of Notre Dame in Lausanne was more interesting because of the very intricate and flamboyant Gothic architecture, stained glass windows from the 13th century and a very cool organ above the door. It is apparently Switzerland's largest Gothic cathedral.The 7000 pipe organ is one of the most expensive instruments in the world and was inaugurated in 2003. It took ten years and 150 000 hours of work to build the organ by the American firm Charles Breton Fisk in Boston. We found out that the Cathedral had a public organ performance the next day at 8pm and made a note to come back. 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017ee75a883d970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017ee75a883d970d.jpg" %}
 *The Lausanne Cathedral.*
 
 *
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c35b73e54970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c35b73e54970b.jpg" %}
 *Statues and carvings from the 13th century*
 
 *
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c35b7407d970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c35b7407d970b.jpg" %}
 *The very magnificent Fisk organ above the door, which apparently cost millions of dollars.*
 
 We were also able to explore the bell tower of the Lausanne Cathedral, by climbing narrow spiralling stairs to the four different levels. The air was very fresh (away from the numerous smokers) and the breeze was nice too. The view was extraordinary from the top of the Tower of the Cathedral because it was overlooking the rooftops of quaint French-style buildings and of the sparkling Lake Geneva waters in the distance.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d3fe637da970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d3fe637da970c.jpg" %}
 *Climbing the 153 steps of the narrow spiraling stairs up to the Bell Tower...
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c35b74714970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c35b74714970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c35b74bf1970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c35b74bf1970b.jpg" %}
 *The bell tower of Lausanne Cathedral.*
 
 During the Middle Ages, many medival cities had a nightwatch who would be stationed to prevent the threat of devestating fires and that no enemies were approaching. In Lausanne, the watchman walks up the 153 stairs to the top of the tower and every hour on the hour from 10pm - 2 am he calls out to the four directions "*C'est le guet; il a sonné l'heure*("This is the nightwatch; the hour has struck"). Lausanne is the only city in Europe to continue this age-old tradition!
@@ -70,13 +70,13 @@ The cobblestone strees contribute to a quaint feeling that I was walking in a to
 *
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017ee75adba7970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017ee75adba7970d.jpg" %}
 *Carly with the Fountain of Justice in Lausanne. Unless the fountains explicitly state they are not drinkable, the water from these public fountains is potable!*
 
 *
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d3fe68337970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d3fe68337970c.jpg" %}
 *Typical building and architecture style in Lausanne.*
 
 We
@@ -87,7 +87,7 @@ that there was a fete or holiday that is only celebrated in Geneva. Even the Jet
 off! 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c35b785b7970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c35b785b7970b.jpg" %}
 *Lake Geneva with the Jet d'Eau turned off in celebration of the Fete.*
 
 We asked a few others as we walked around but no one seemed to know exactly

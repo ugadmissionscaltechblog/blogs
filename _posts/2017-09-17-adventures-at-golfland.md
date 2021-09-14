@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2857970c01bb09bdde1a970d-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2857970c01bb09bdde1a970d-pi.jpg
 title: Adventures at Golfland
 categories: [culture]
 status: Publish
@@ -13,9 +13,9 @@ A friend from came up from Caltech for the weekend, so we decided to go to Golfl
 We were pretty silly with our mariokart selfies, so it was a lot of fun.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2857970c01b7c91aa06e970b-pi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2857970c01b7c91aa06e970b-pi.jpg" %}
 After playing some games, we decided to try our hand at mini-golf. The course featured a lot of trick shots, like having to hit a ball through a small door in a lighthouse that opened and closed, or hitting the ball up a ramp into a set of rings, similar to skee-ball.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09bdde25970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09bdde25970d.jpg" %}
 I have to say, there's definitely room for improvement in our mini-golfing skills.😛

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b012876cb86ef970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b012876cb86ef970c.jpg
 title: California's natural beauty
 categories: [research]
 status: Publish
@@ -22,7 +22,7 @@ We left long after my toes froze.
 On the way back, between fresh beef jerky and a capella sing-along in the car, we stopped at California's Red Rock Canyon. Geology lovers: California wants you to visit! How can you say no to this canyon, not to mention the San Andreas fault?
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a7c94d1b970b.jpg" %}Climbing up the "hill" was difficult-- if my two-inch heels could have talked, they would have been yelling at me.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a7c94d1b970b.jpg" %}Climbing up the "hill" was difficult-- if my two-inch heels could have talked, they would have been yelling at me.
 
 And now, it's time for me to learn some more mind-bending special relativity.... Till next time!
 

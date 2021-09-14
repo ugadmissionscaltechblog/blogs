@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Theresa
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e605cb3d6970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e605cb3d6970c.jpg
 title: Summer in Tokyo Part 8
 categories: [global]
 status: Publish
@@ -15,24 +15,24 @@ My aunt and uncle live just outside of Tokyo, so we had to take the shinkansen, 
 The first place we visited on the tour was Nijo castle:
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e87380acf970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e87380acf970d.jpg" %}
 Despite the tour being in English, I don't remember a lot about this castle, except that it had nightingale floors. These are floors that are specifically designed to creak so that you can hear intruders trying to sneak up on you.
 
 The next place we went was Kinkakuji, or the Golden Pavillion.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e3b7e1c0970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e3b7e1c0970b.jpg" %}
 The interesting thing about the Golden Pavillion is that it's golden because it's covered in real gold leaf, which was overlayed on the original lacquer, to *protect the lacquer*. The gold was cheaper than the lacquer it covers. Crazy.
 
 We also visited Kiyomizudera, which is a famous temple. There is an old myth that says that if one were to survive a jump from the Kiyomizudera veranda (pictured below) to the ground 13m below, one would be granted a wish. In the Edo period, 34 jumps were recorded, and about 85% of these people survived. However, the practice is now prohibited.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8738178e970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8738178e970d.jpg" %}
 Kiyomizudera is also home to three streams of water, said to confer wisdom, health and longevity to those who drink from them. However, you are not told which is which, and it is said to be unlucky to drink from all three.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e3b7ecfe970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e3b7ecfe970b.jpg" %}
 The final place we visited, was the Phoenix Pavillion, or Hoodoo. This place is featured on the Japanese 10 Yen coin. It's a beautiful building, decorated in phoenixes.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e3b7edfc970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e3b7edfc970b.jpg" %}

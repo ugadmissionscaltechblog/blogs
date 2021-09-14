@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01a73d94d1a8970d01bb0963dee8970d-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01a73d94d1a8970d01bb0963dee8970d-pi.jpg
 title: Rare Japanese Lessons
 categories: [global]
 status: Publish
@@ -22,8 +22,8 @@ The story was well-crafted, but hearing the Japanese (there were subtitles) and 
 Have y'all ever felt that? Or am I just getting old?
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d24ab6e5970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d24ab6e5970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d24ab6e5970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d24ab6e5970c.jpg" %}
 <span style="color: #8dae94; font-family: arial, helvetica, sans-serif; font-size: 10pt;">jenny.
 

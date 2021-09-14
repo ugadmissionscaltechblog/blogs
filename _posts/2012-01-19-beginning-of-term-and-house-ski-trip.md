@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Teo Wilkening
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162ff4c6e5e970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162ff4c6e5e970d.jpg
 title: Beginning of Term and House Ski Trip 
 categories: [global]
 status: Publish
@@ -25,7 +25,7 @@ Other than skiing, it was fun hanging out with all my Ruddock friends.
 On the way back, one group of cars drove by Johnny Depp!! After basically stalking him on the highway for about an hour, my roommate got the photo below. I don't know if you can, but if you download the photo and zoom in, it really does look like him. He seems a little angry too...
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162ff8b39c3970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162ff8b39c3970d.jpg" %}
 
 Unfortunately, it turned out that the tattoos were a little different than the ones on the real Johnny Depp, though this guy could have definitely fooled me.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jennifer Zhu
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e895cbc7d970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e895cbc7d970d.jpg
 title: Fin, Part II 
 categories: [research]
 status: Publish
@@ -29,13 +29,13 @@ We have to wear lots of ridiculous clean room gear when we use the SEMentor, lik
 
 And look! Here's a picture of the super cute nanopillars that Jarvis, another SURF student, made! This is of 100 nm nickel nanopillars, magnified at 40x. Normally, 100 nm is too small to see easily, but these pillars were overplated. [I'd show you a picture of mine, but my project currently isn't working... My mentor and I are working to figure out why.]
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01538f68ecf3970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01538f68ecf3970b.jpg" %}
 <span style="color: #111111;">Oh, and here's a picture of some of my iron nanopillars, taken by the SEMentor:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0154335647e2970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0154335647e2970c.jpg" %}
 <span style="color: #111111;">And here's a close-up of one:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01538f830847970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01538f830847970b.jpg" %}
 <span style="color: #111111;">Anyways, this has only been the past two weeks of my SURF project. There's a lot more stuff to come.
 
 **<span style="color: #111111;">Tour Guide**

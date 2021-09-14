@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Monica Li
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0177449c8a5f970d017eea0b2999970d-800wi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0177449c8a5f970d017eea0b2999970d-800wi.jpg
 title: A Day in the Life of a Caltech Athlete
 categories: [clubs]
 status: Publish
@@ -46,11 +46,11 @@ their room.
 This is my friend Cat; she plays volleyball!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0177449c8a5f970d017d4296e196970c-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0177449c8a5f970d017d4296e196970c-800wi.jpg" %}
 We are very well stocked with tape.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0177449c8a5f970d017c3867d21c970b-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0177449c8a5f970d017c3867d21c970b-800wi.jpg" %}
 One of the stem machines. I haven't needed to use it and hopefully don't have to. Not quite sure what it does but it's for more serious injuries.
 
 After all this, we get back to the dorms just in time for

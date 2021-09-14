@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Valère Lambert
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901dfa0063970b.png
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901dfa0063970b.png
 title: Let the projects commence
 categories: [research]
 status: Publish

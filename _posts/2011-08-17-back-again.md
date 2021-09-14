@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yang Hu
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01543492fa9a970c-800wi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01543492fa9a970c-800wi.jpg
 title: Back Again!
 categories: [research]
 status: Publish
@@ -15,7 +15,7 @@ Hey everyone! I am finally back again after my unintended 2 week hiatus from blo
 
 #2: Never put a cup of liquid like milk near electronics! I got lucky this time!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b015390bf7609970b-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b015390bf7609970b-800wi.jpg" %}
 I decided to get a haircut on Saturday, but the problem was the barber I went to only accepted cash, so after I arrived, I found that I was short $4, and I had to walk all the way back to Tech to use the ATM since there were none nearby just so I can get $4. Unfortunately, I don't carry debit, so I couldn't get cash back at the stores either. Moral of the story is for me to carry a modest amount of cash with me at all times.
 
 After I got back from the barber, I went grocery shopping with my friend Elise and bought some milk. I poured a cup of milk next to this laptop I'm typing on, and accidentally spilled the entire cup of milk on the laptop keyboard. All the liquid seeped into the keys before I got to wiping it up with a paper towel. Fortunately the laptop keyboard was unaffected. Unfortunately, I wasn't thinking and forgot to check where the milk had gone. Of course, it had to seep through the keyboard and fall out on the other side. So, the next morning when I went to remove the laptop from the desk, I found a puddle of milk underneath it, and you can just imagine how dumb I felt! Anyway, there's a milk stain on the bottom of my laptop, but oh well, it still works so I can't complain. Moral of the story is for me to not put cups of liquid near the laptop or any other electronics for that matter.
@@ -36,10 +36,10 @@ Hope you guys enjoy this music video! We spent a long time making it, but we had
 
 Now, onward to the pictures and see you next time!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b015390c06a78970b-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b015390c06a78970b-800wi.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b014e8ab3bc62970d-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b014e8ab3bc62970d-800wi.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b014e8ab3bd29970d-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b014e8ab3bd29970d-800wi.jpg" %}

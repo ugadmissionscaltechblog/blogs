@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb08cbc59d970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb08cbc59d970d.jpg
 title: Spring Break
 categories: [global]
 status: Publish
@@ -17,28 +17,28 @@ So here I am in Peru! I´ll be sending in my stories this week whenever I can. I
 
 Winter finals ended on Wednesday, March 16. We left LA on Friday, March 18, and flew first to Mexico City before arriving here in Lima, Peru. We spent Saturday morning exploring the Pachacamac ruins close to Lima. The Pachacamac ruins are super old. They´ve been around for at least four civilizations: the Lima, Wari, Ichma, and Inca. I wasn´t aware before this trip that we knew so much about the civilizations before the Inca. The following are some pictures from Pachacamac:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1b1c14f970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1b1c14f970c.jpg" %}
 I also saw a small human skull near what used to be the cemetery. The tour guide said that skull was not of archaeological significance, so it was just left there... I don´t think I´ll post a picture of that, though, but you can imagine how strange it was to actually see that in the ruins!
 We spent today exploring Miraflores, the district that we´re living in. Lima consists of 43 districts. Miraflores is a lovely one, filled with colorful and peaceful parks right on the edge of the sea. The coast is a meeting point for two different currents--a cold one from Antarctica, and a warm one from El Niño. This year, the warm one actually made it down the coast to southern Peru, which is where Lima is, so the fish population in the Lima coast is smaller and different from the norm. That said, here are some pictures of the coast. See if you can spot the divide between the two currents! (At least, that´s what I suspect it to be.)
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c82733a7970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c82733a7970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c82732e5970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c82732e5970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1b1c1c0970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1b1c1c0970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1b1c1db970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1b1c1db970c.jpg" %}
 There´s a gorgeous park along the coast called the Parque del Amor. The first thing that catches your eye is the large red sculpture of a couple in love. There is also acolorful tiled wall that winds around the sculpture that reminds me of Gaudi´s Park Guell in Barcelona.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01bb08cbc624970d-320wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01bb08cbc624970d-320wi.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb08cbc64e970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb08cbc64e970d.jpg" %}
 For lunch, I had ceviche--I tried some the night before and it was absolutely amazing. See, about 200 years ago, some Japanese immigrants moved to South America for work, and they brought their yum sashimi with them. The ingredients for sauces were different here, though, so instead in Peru they used a certain species of lime to marinate their sashimi. The juice of that lime is so acidic that it sort of cooks the outer layers of the fish. And it´s delicious. I tried it again for lunch, but this time octopus and shellfish, too. The fish-shaped dish was an added touch (:
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c82733a7970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c82733a7970b.jpg" %}
 keep lookin´ up,
 jenny.
 

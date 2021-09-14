@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2857970c01b8d29d6a8d970c-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2857970c01b8d29d6a8d970c-pi.jpg
 title: $2 Ice Cream Sandwiches
 categories: [clubs]
 status: Publish

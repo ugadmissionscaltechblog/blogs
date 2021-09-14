@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ariel O'Neill
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a017c3671e245970b01a73de43ea3970d-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a017c3671e245970b01a73de43ea3970d-pi.jpg
 title: A Sketchy Sketched Map About Biking
 categories: [research]
 status: Publish
@@ -27,5 +27,5 @@ I started my day with Led Zeppelin's "Stairway to Heaven" and now I'm working my
 I'll end with a picture of an axolotl.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a017c3671e245970b01a511d8d5af970c-pi.jpg" %}<div class="photo-caption caption-xid-6a017c3671e245970b01a511d8d5af970c" id="caption-xid-6a017c3671e245970b01a511d8d5af970c">From https://southerncrossreview.org/73/axolotl.jpg
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a017c3671e245970b01a511d8d5af970c-pi.jpg" %}<div class="photo-caption caption-xid-6a017c3671e245970b01a511d8d5af970c" id="caption-xid-6a017c3671e245970b01a511d8d5af970c">From https://southerncrossreview.org/73/axolotl.jpg
 

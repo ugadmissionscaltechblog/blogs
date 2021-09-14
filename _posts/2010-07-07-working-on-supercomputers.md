@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura Conwill
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01348525684d970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01348525684d970c.jpg
 title: Working on Supercomputers
 categories: [global]
 status: Publish
@@ -24,7 +24,7 @@ computer science (investigating explicit constructions of tensors!) and I’m
 working on a natural language processing project in…
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133f2000281970b.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133f2000281970b.png" %}
 the Powell-Booth
 Laboratory for Computational Science! I have an office on the second floor that
 I share with three other SURF students.
@@ -34,15 +34,15 @@ be a senior at Caltech; some of the matrix computations he is doing are on the
 whiteboard behind him.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01348525676e970c.png" %}Stephanie is in my class and is a mechanical engineering
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01348525676e970c.png" %}Stephanie is in my class and is a mechanical engineering
 major. She and Andre are both working in materials science.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133f200020a970b.png" %}Andy is visiting
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133f200020a970b.png" %}Andy is visiting
 from Stanford and is designing an algorithm for decomposing large matrices.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133f200037a970b.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133f200037a970b.png" %}
 
 The hallways in
 Powell-Booth look like those of a typical, pretty modern building. However, if
@@ -55,15 +55,15 @@ one of the main projects these computers are used for is the processing of data
 from the Large Hadron Collider at CERN in Switzerland.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b013485256c41970c.jpg" %}</o:p><o:p> One of the
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b013485256c41970c.jpg" %}</o:p><o:p> One of the
 supercomputers is made from a bunch of Play Station 3s hooked together! It
 turns out that in addition to running video games, their cell processors
 function well for doing heavy-duty computations.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b013485256ca9970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b013485256ca9970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b013485256d27970c.png" %}</o:p>
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b013485256d27970c.png" %}</o:p>
 …and there’s the
 Play Station logo. I’m not going
 to be using any of these computers during my SURF, but Andy might run some of

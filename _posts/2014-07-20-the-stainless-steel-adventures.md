@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anita
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a511e1e00d970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a511e1e00d970c.jpg
 title: The Stainless Steel Adventures
 categories: [research]
 status: Publish
@@ -18,25 +18,25 @@ Tomatoes turn a lovely golden brown when they're heated, I learned. They tasted 
 Figure 2:Carrot Grating
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd322a42970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd322a42970b.jpg" %}
 From way back when, we bought a 2-lb bag of carrots from Pavs. Now the rest carrots were about to go bad and no one was in the mood to eat another scrambled carrot-and-egg dish just yet. At a loss for what to do ("Go ahead and cook carrot soup if you want, but I just don't feel like eating that either," my roommate said) we turned from savory to sweet for ideas.
 
 We found a recipe from Food Network for carrot cake and decided to go with it. Eggs, sugar, sifted flower, oil, cinnamon, baking soda, and three cups of grated carrots all went into the mixing bowl...
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd322a66970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd322a66970b.jpg" %}
 The cakes turned out like this. We made one in a large round tin (I was so excited! I'd never made a round cake before!) and the rest of the batter went into cupcake molds. We couldn't find a cupcake pan in the kitchens and so made do with triple-layering the cupcake paper and shoving it into the oven as quickly as we could. There was a crispy crust of golden-brown sugar on the edges of the cake, but it wasn't burnt. It was delicious.
 
 As tasty as it was fresh, however, we couldn't resist frosting it. (It was the first time I'd ever frosted a cake too!)
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd322aec970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd322aec970b.jpg" %}
 This is a slice of our beautiful frosted carrot cake! Hands down, it seriously was the best cake I have ever eaten, storebought or homemade, excluding chocolate cake of course. Chocolate has its own competitive category, which we'll save for another day perhaps...
 
 Figure 3: Napa and Silken Eggs
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73ded34cf970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73ded34cf970d.jpg" %}
 Recently, a stainless steel pan came into my possession, as did one large napa. A napa is a vegetable similar to cabbage, but softer and finer-fibered. My mother usually cooks it in shitake mushrooms a base broth of meat or seafood, but since my roommate is vegetarian, I had to invent some kind of vegetable broth. With no mushrooms or meat to give it an umami flavor, I decided to try sizzling garlic in hot oil to release the flavor, then adding ginger and simmering for a few minutes with a bit of water. This yielded a vegetarian base that actually somewhat resembled my mother's, because she would often use ginger to make napa too.
 
 After washing and cutting up the leaves, I tossed the napa into the broth and added salt. Then I put the lid on and let the whole thing simmer for over twenty minutes. The recipe called this braised napa--fancy word!--but to me it was the same as simmering... In the meantime, I cooked another dish called *hua dan*. In Chinese, this means *slippery egg*. I beat the eggs and poured them into an oiled pan, adding some cornstarch dissolved in water to aid the slippery texture. When the eggs were almost done, I added chopped scallions for flavor. It turned out as a pretty yellow, white and green dish, not bad for my first time making it.

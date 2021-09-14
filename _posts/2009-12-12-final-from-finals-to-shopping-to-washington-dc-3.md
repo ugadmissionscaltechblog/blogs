@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Elaine To
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0128764ae13b970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0128764ae13b970c.jpg
 title: From Finals to Shopping to Washington DC!
 categories: [research]
 status: Publish
@@ -17,4 +17,4 @@ date: 2009-12-12
 
 <span style="font-size: 13px; ">So the goal of the DC Science Policy trip is to expose a group of 20-25 Caltech undergrad and graduate students to the ins and outs of working in science policy. At a research university like Caltech, across the country from the nation's capital, wenormally wouldn't get much of an insider look at science in the government. Debbie and I, who participate in leading many Y events, signed up to lead this trip back in the beginning of term. Most of the hotel and flight information is repeated from previous years; what we got to do is pick out and contact the guest speakers we would be meeting with in DC! It's a very exciting list we've gathered this year, and includes Steve Koonin, Undersecretary of Science, and Mike Nelson, the former science Advisor to VP Al Gore.
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0128764ae384970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0128764ae384970c.jpg" %}

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Connor Rosen
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d3ca74201970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d3ca74201970c.jpg
 title: A Trip to Shpongolia 
 categories: [clubs]
 status: Publish

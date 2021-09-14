@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Suzy
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7afd3b6970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7afd3b6970b.jpg
 title: I Met Someone Important
 categories: [research]
 status: Publish
@@ -20,7 +20,7 @@ I left early on Wednesday for a Kleiner Perkins Fellows event - dinner with John
 The guy on my left is really really important. That's why he's standing up and holding a whiteboard marker. I know it looks like I'm texting, but I'm taking notes. There is an excellent case to be made for carrying a tiny paper pad and pen everywhere. I actually got some excellent takeaways from this talk. I'm signing up for some activities to improve my public speaking and sales capabilities; I used to be pretty good but I've fallen out of practice in college. Also here's another picture of me during the post-talk Q&amp;A, which was also very valuable. He made a real effort to focus on and speak with everyone who came to talk to him.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb0853ea50970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb0853ea50970d.jpg" %}
 This afternoon I worked from home. I went into work in the morning, decided today I wasn't focused enough at work, and I went home. I went to the gym in between and did some lifting, and did yoga when I got home to stretch it out. Working in bed is actually really nice - big fluffy pillows, snacks you pick whenever you want. I've never been a big desk person, I like to work on couches and beds and sometimes the floor. Boyfriend is very jealous - he's a chemistry major and he obviously cannot bring his super explosive chemicals home with him (I don't actually know what his job is, so I'm forced to assume that he's using lab chemicals to make fire).
 
 That's all for this post. Until next time,

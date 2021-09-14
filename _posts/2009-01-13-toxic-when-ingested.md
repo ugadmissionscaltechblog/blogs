@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jordan Theriot
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b010536c239f2970b-500wi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b010536c239f2970b-500wi.jpg
 title: Toxic When Ingested
 categories: [research]
 status: Publish

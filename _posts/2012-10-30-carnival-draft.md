@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Connor Rosen
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017ee47b5780970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017ee47b5780970d.jpg
 title: Carnival!
 categories: [culture]
 status: Publish
@@ -21,4 +21,4 @@ Now, the dunk tank was manned by yours truly for the entirety of the 4-hour carn
 There's not much more to say about that, but here's a couple of pictures of me as the ball hits the target, and immediately after as I start to fall!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c32d779fd970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c32d779fd970b.jpg" %}

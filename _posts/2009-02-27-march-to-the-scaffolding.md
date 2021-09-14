@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kirit Karkare
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0111689b883c970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0111689b883c970c.jpg
 title: March to the Scaffolding
 categories: [clubs]
 status: Publish
@@ -13,12 +13,12 @@ This last week, we've worked mainly on the temple. It's basically a giant facade
 The top level of the scaffolding, where we've occasionally eaten lunch, is something like 22 feet high.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0112791041c228a4.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0112791041c228a4.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0112791041e528a4.jpg" %} 
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0112791041e528a4.jpg" %} 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01127910448d28a4.jpg" %} 
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01127910448d28a4.jpg" %} 
 In other news, we finally put in orders for T-shirts, so I'll get pictures of those when they come in. We're also starting on the water system, which involves getting pumps, building reservoirs, and cutting gutters. That's probably going to occupy most of our time during the last week and a half, so stay tuned to see everyone get soaked (no really, it's happened already!).
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0111689b8e40970c.jpg" %} 
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0111689b8e40970c.jpg" %} 

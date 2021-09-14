@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2857970c022ad3785206200d-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2857970c022ad3785206200d-pi.jpg
 title: Trip to San Diego
 categories: [local]
 status: Publish
@@ -14,5 +14,5 @@ San Diego has amazing tacos (and amazing Mexican food in general). I ate *so* ma
 We also visited Balboa Park, which has many museums, a garden, and an artist's market. It's a really nice area to walk around, and the artisan market was interesting. The tiles were all painted different colors, so it was quirky and cute.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2857970c022ad3983804200b-pi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2857970c022ad3983804200b-pi.jpg" %}
 The beaches in San Diego and Carlsbad were both beautiful as well -- I would highly recommend visiting. Make sure to eat fish and shrimp tacos when you go!

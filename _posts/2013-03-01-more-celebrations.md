@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jessica Yeung
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d41479432970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d41479432970c.jpg
 title: More Celebrations!
 categories: [research]
 status: Publish
@@ -20,7 +20,7 @@ them will put some serious thought into becoming scientists or engineers
 someday.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c37185a5d970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c37185a5d970b.jpg" %}
 So this past weekend, we played against Biola on Saturday
 and Arizona Christian University on Sunday. We won 7-2 for both matches. The
 women’s tennis team is off to a good start undefeated (3-0) so far. Our next
@@ -34,7 +34,7 @@ email list dedicated towards special events, which you can request to take the
 sweets, and card signings this past weekend.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d41479528970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d41479528970c.jpg" %}
 It was Jessica’s 21<sup>st</sup> birthday this past weekend,
 so a small group of us surprised her by kidnapping her from her problem sets
 and taking her out for dinner. We went to Golden Deli, which is a typical
@@ -43,6 +43,6 @@ afterwards to get her some egg tarts. It’s been a busy weekend, so it was nice
 to take a break from Caltech and catch up with these girls.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d414794c1970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d414794c1970c.jpg" %}
 Jessica :)
 

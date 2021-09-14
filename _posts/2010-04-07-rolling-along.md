@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Nina Budaeva
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133ec884462970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133ec884462970b.jpg
 title: Rolling along.
 
 categories: [research]
@@ -34,7 +34,7 @@ meantime, my roommate Hanna was out of town because she went to Florida for the
 weekend. No, she did not go there for an extended beachy spring break. Rather,
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133ec8845cc970b.jpg" %}More and more Prefrosh are appearing on
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133ec8845cc970b.jpg" %}More and more Prefrosh are appearing on
 campus and on Monday I was quite amazed to learn that one of my preschool
 friends not only got admitted to Caltech but was also to be on campus from
 Monday to Tuesday! I saw him and introduced him to as many people as I could.

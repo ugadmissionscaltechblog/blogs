@@ -1,7 +1,7 @@
 ---
 layout: post
 author: MB3K
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0120a721c2d7970b012877819360970c-800wi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0120a721c2d7970b012877819360970c-800wi.jpg
 title: The Merry Wanderers of the Night 
 categories: [culture]
 status: Publish

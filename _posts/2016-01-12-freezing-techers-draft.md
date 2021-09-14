@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Suzy
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8061f46970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8061f46970b.jpg
 title: Freezing Techers 
 categories: [culture]
 status: Publish
@@ -21,11 +21,11 @@ After that we drove out to the Long Valley Caldera. It turned out one of our num
 It was still pretty fun, though. We made snow angels and stuff.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb08aac057970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb08aac057970d.jpg" %}
 That didn't take very long, so we also drove out to Mono Lake. We hung out there for a bit and then drove home for dinner.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb08aac06f970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb08aac06f970d.jpg" %}
 My unit cooked dinner that night too - a gigantic pasta feast. We hung out with everyone, watched Pulp Fiction for a bit, and went to bed. I still haven't seen the end of Pulp Fiction, so no spoilers!
 The next day, I went skiing for the first time since I was 8. I'm told there's video of me falling. That video will not be included here.
 
@@ -38,4 +38,4 @@ That brings us to today, which was kinda slow but errand-filled. Ker Lee (roomie
 That's about all. Until next time,
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb08aac09b970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb08aac09b970d.jpg" %}

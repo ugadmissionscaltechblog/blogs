@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2b371e2970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2b371e2970c.jpg
 title: Arriving in Singapore
 categories: [global]
 status: Publish
@@ -13,18 +13,18 @@ Before heading to study abroad in Cambridge, I travelled to Singapore, Taiwan, a
 When I arrived, I was greeted with great peking duck (thanks so much!!):
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2b29523970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2b29523970c.jpg" %}
 Then, I went to the Singapore Botanic Gardens. Fun fact: it is the only tropical garden to be named a UNESCO World Heritage Site. It's very large, with different sections including an orchid garden, an area featuring plants used for medicine, an educational dinosaur-themed area, and an open park for picnics.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2b295a2970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2b295a2970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09cb4ed8970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09cb4ed8970d.jpg" %}
 There were a lot of interesting ferns and tropical plants around.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2857970c01b7c9285ffd970b-pi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2857970c01b7c9285ffd970b-pi.jpg" %}
 I didn't get to go to the orchid garden section this time since it was near closing, but I got to eat great Hainan chicken rice instead. It was actually the best chicken rice I've ever had. Guess you can't find this in LA :P
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c92860a1970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c92860a1970b.jpg" %}

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Juan Cardenas
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a7b74ce6970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a7b74ce6970b.jpg
 title: California Cruisin' and The Week in Review
 categories: [research]
 status: Publish

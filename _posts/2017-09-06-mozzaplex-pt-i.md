@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2a11318970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2a11318970c.jpg
 title: Mozzaplex Pt. I
 categories: [research]
 status: Publish
@@ -26,23 +26,23 @@ If you go to Osteria Mozza on a Friday or Saturday, you would need to reserve ro
 Our meal begin with a complimentary amuse-bouche from the chef that had burricotta and olive tapenade. Our appetizers followed with Burricotta with braised artichokes, pine nuts, currants and mint pesto, and Smoked Mozzarella di Bufala with Porscuitto di Parma.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09b9f74a970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09b9f74a970d.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2a1134f970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2a1134f970c.jpg" %}
 
 For primi, we got Orecchiette with sausage and Swiss chard and Calf's Brain Ravioli with burro e limone.
 
 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09b9f756970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09b9f756970d.jpg" %}
 
 Finally, we ended with desserts of Cioccolato (bittersweet chocolate cake with Perugian chocolates), Strawberry Crespelle (sauteed Albion strawberries with spiced almonds), and Honey Baked Peach (hazelnut cake, poached blueberries, sweet corn gelato).
 
 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09b9f766970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09b9f766970d.jpg" %}
 
 
 It was the most sublime dining experience of my life. Next up: Pizzeria Mozza.

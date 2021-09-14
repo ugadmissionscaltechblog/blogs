@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Suzy
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1e6bd23970c.png
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1e6bd23970c.png
 title: Planning Your Schedule 
 categories: [research]
 status: Publish
@@ -26,7 +26,7 @@ There are some really useful tools that should always be used when planning your
 - **When should I use it?**Before you choose any elective class. Some sound fun and relaxed but are really challenging. Some sound challenging but are really relaxed. Know your workload. TQFR's can help you choose between options that you already know you have, but they aren't very good at helping you figure out what your options are.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1e6c5b6970c.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1e6c5b6970c.png" %}
 
 - **Degree Audit**
 
@@ -37,7 +37,7 @@ There are some really useful tools that should always be used when planning your
 - **When should I use it?** When you're about to fill out your ASCIT Course Planner.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c85cf8d9970b.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c85cf8d9970b.png" %}
 
 - **ASCIT Course Scheduler**
 
@@ -47,7 +47,7 @@ There are some really useful tools that should always be used when planning your
 - **When should I use it?**About a week before course registration, when you're figuring out what classes/sections you're actually going to be in. You can also use it to find what's available in a specific category (e.g., if you need a frosh hum, search for classes labeled "Hum" and it will bring up all the frosh hums offered in the next term. Use in conjunction with TQFR's to find the best classes in the right categories.) Definitely use this to choose the sections you want for all your core curriculum classes.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1e6c5f6970c.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1e6c5f6970c.png" %}
 
 - **ASCIT Course Planner**
 
@@ -58,7 +58,7 @@ There are some really useful tools that should always be used when planning your
 - **When should I use it?**When you're thinking you don't have time fora humanities/social sciences (HSS) course this term and you're trying to figure out when you can make up the difference.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1e6fe73970c.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1e6fe73970c.png" %}
 
 - **Lottery Classes**
 
@@ -69,7 +69,7 @@ There are some really useful tools that should always be used when planning your
 - **When should I use it**? When you need to fill your advanced/additional humanities requirements.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c85cf9a7970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c85cf9a7970b.jpg" %}
 
 - **Upperclassmen**
 

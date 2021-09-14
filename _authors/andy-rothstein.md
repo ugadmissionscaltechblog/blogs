@@ -1,7 +1,7 @@
 ---
 title:          Andy Rothstein
 username:       andy
-image:          https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/profile_pics/arothstein.png
+image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/arothstein.png
 option:         Physics
 house:          Lloyd
 meet:           false

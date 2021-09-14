@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yubo
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01a73dbab781970d01b8d17f3143970c-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01a73dbab781970d01b8d17f3143970c-pi.jpg
 title: Jorge Cham Talk + Misc 
 categories: [research]
 status: Publish

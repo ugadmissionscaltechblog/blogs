@@ -5,7 +5,7 @@ categories: [academics]
 author: Andrew
 featured: false
 hidden: false
-image: https://blueberry-elephant.s3.us-east-2.amazonaws.com/amchan/12_17/Ventura.JPG
+image: https://d3g9s82edwzh8v.cloudfront.net/amchan/12_17/Ventura.JPG
 ---
 
 
@@ -16,7 +16,7 @@ So, the scene: December 15, 2016. A cold, chilly day in Denver, Colorado. I’m 
 #### How did you decide to attend Caltech?
 For me, it came down 100% to academics. When I visited Caltech on a tour, one of the fencing team members had told me that Caltech Geological and Planetary Sciences was objectively and subjectively the best undergraduate program in the world. And honestly that’s true. It’s a 2:1 faculty to student ratio, and we get a trip to Hawaii senior year (although maybe not this year).
 
-![A Fieldtrip to Death Valley](https://blueberry-elephant.s3.us-east-2.amazonaws.com/amchan/12_17/Ge+11a+Field+Trip.JPG)
+![A Fieldtrip to Death Valley](https://d3g9s82edwzh8v.cloudfront.net/amchan/12_17/Ge+11a+Field+Trip.JPG)
 
 What really sold it was the interactions I had on my visit to campus. One of the professors, Paul Asimow, spent an hour showing me every geosciences lab and talking about the research. It’s this connection that immediately made me realize the potential of Caltech. A tenured faculty member was taking time to interact with me, a student who hadn’t even committed yet. I’ll talk about this more in another post, but I really didn’t relate to any of the students I met (although I’ve since met great people on campus). But when I committed, I was willing to completely sacrifice my social life for four years to get that student-faculty relationship. 
 #### What do you wish you could go back and tell yourself senior year of high school?

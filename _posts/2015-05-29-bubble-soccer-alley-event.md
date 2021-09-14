@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c78fbd56970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c78fbd56970b.jpg
 title: Bubble Soccer Alley Event! 
 categories: [culture]
 status: Publish
@@ -15,7 +15,7 @@ And they were so much fun to play with. We obviously started with running into e
 We got a lot of time to fool around with the bubbles, then got down to a game. we got about 25 people to come out and had a class vs. class tournament. I think the seniors won.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c78fbd65970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c78fbd65970b.jpg" %}
 
 I took my alley event (about 5 people came with me) to see *Mad Max: Fury Road* on Thursday night. I loved the movie, and it was fully subsidized by my house and Caltech Housing! Alley events are such a good way to get out of the bubble or even just take a quick weekend break.
 

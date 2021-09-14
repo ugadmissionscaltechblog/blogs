@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Wesley Chen
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01157046b742970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01157046b742970b.jpg
 title: Pirates? At Caltech?!
 categories: [culture]
 status: Publish
@@ -33,14 +33,14 @@ Then, we topped it off with a couple of
 - And finally, they pulled out a miniature model of a pirate boat (4 feet long, 3 feet tall...at least). This was a 21 layer cake of vanilla and chocolate, covered in icing to resemble Jack Sparrow's on ship from Pirates of the Caribbean. 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156f50aaa4970c.jpg" %}But that's enough about the food. They even got us all pirate hats and beachballs!
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156f50aaa4970c.jpg" %}But that's enough about the food. They even got us all pirate hats and beachballs!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01157046b7fa970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01157046b7fa970b.jpg" %}
 There were only about...100 of these. A spontaneous dodgeball fight ensued shortly after dinner....no casualties though!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01157046b85c970b.jpg" %}Oh, here's our Senior Student Body President for next year. No worries, she didn't eat that all by herself...I think.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01157046b85c970b.jpg" %}Oh, here's our Senior Student Body President for next year. No worries, she didn't eat that all by herself...I think.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01157046b909970b.jpg" %}Did I mention the hats? A lucky few got captain versions too...
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01157046b909970b.jpg" %}Did I mention the hats? A lucky few got captain versions too...
 
 But yeah, definitely one of the many perks about Caltech. See ya around, mate!

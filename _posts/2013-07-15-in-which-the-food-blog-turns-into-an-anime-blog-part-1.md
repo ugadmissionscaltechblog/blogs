@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Chengyi L
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192abf5694e970d.png
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192abf5694e970d.png
 title: In Which the Food Blog Turns into an Anime Blog (Part 1)
 categories: [research]
 status: Publish
@@ -12,12 +12,12 @@ Today, I will hijack the blog and talk about something completely unrelated to f
 Day 0 is for people who preregistered to pick up their badges, so it doesn't have any events. However, everybody decided to go anyway because it means that we won't have to wait in line and miss out on events and things when the convention opens.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0191042c600e970c.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0191042c600e970c.png" %}
 Our taisetsuna senpaitachi*/creepy alums were super awesome and decided to drive everyone over to LA. 
 (*important/favorite/SUPER AWESOME/BESTEST PEOPLE EVER upperclassmen) 
 
 We arrived a little bit before badge-pick up started and the line was already super long, as expected.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01901e363876970b-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01901e363876970b-800wi.jpg" %}
 It took us three hours to get our badges. Random note: lines are part of the convention experience! If you go to an anime convention and didn't have to wait in line, you're doing something terribly wrong. After we got our badge, we hung around in the hall for a while for the friends (who arrived late) to get their badges and for the other (even later) friends to get to LA. We didn't go in costume on Day 0 because we were lazy, but there were already many people in cosplay--we found a pair of cosplayers of characters from <a href="https://www.vgperson.com/games/ib.htm" target="_self">Ib</a>, a horror game about a girl trapped in an art museum. Ib held special meanings in our hearts because it was the game we played together when we first arrived at Caltech as fresh new froshlings, so we were quite excited to see those cosplayers! After a very long time, everybody arrived and we headed off to the hotel where some of us will be staying at for the duration of the con. It was quite interesting seeing all the cosplayers filling up the high-class hotel lobby. To keep this blog at least somewhat related to food, dinner was California Pizza Kitchen. Random note: their cheese pizza (it had some fancy name that I don't remember) doesn't have tomato sauce in it! It was super strange but still delicious. Although I forgot to take photos of the pizza, I'll have pictures of other food soon, I promise! ***To be continued...*** 

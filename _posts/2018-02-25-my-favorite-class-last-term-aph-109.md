@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Noelle
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c9506a2d970b.png
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c9506a2d970b.png
 title: My Favorite Class Last Term
 categories: [research]
 status: Publish
@@ -20,17 +20,17 @@ Our first project was to fabricate LEDs, or light emitting diodes, which are use
 Our next project was electron-beam lithography. Electron beam lithography, or EBL, is a method for drawing tiny shapes on a silicon chip. To do EBL, you coat a chip with drops of a particular liquid called photoresist, heat it up until the liquid gels, and then use a machine to shoot electrons at the surface, as if coloring in the region you want to erase the photoresist from. Being bombarded by electrons changes the solubility of the photoresist, and so afterward, when you wash the chip with a particular chemical, you’re left with the desired pattern.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c9506a49970b.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c9506a49970b.png" %}
 In another project, we took this a step further, and instead of stopping with the design in photoresist, we actually etched it into the silicon chip. To do this, we let the chip sit in a really nasty chemical which eats into silicon but can’t get through the photoresist. After washing everything off, the pattern was etched into the chip itelf. For this project, we used a template pattern—some boring rectangles.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c9506a50970b.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c9506a50970b.png" %}
 The next project, using a scanning electron microscope, didn’t involve designing or building anything, but was my absolute favorite. Here’s why:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c9506a71970b.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c9506a71970b.png" %}
 The last project I’m going to describe is microfluidics. Microfluidic devices are, simply, devices that handle microliters (cubic millimeters) of liquid. They’re used for a variety of purposes, such as sorting cells for molecular screening or drug discovery. Our device was made from a clear, firm but squishy polymer. It had channels cut out inside it and inlet holes for injecting liquid with tiny syringes. We made the molds for the polymer layers out of silicon chips, etching out our designs using the same techniques as in past projects.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09f3c6ee970d.png" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09f3c6ee970d.png" %}
 I generally enjoy lab classes, but this one was particularly fun because the projects involved buzzwords like “microfluidics,” “etching,” and “scanning electron microscope,” which I’d heard before in research seminars and held in a kind of distant awe. It was exciting to get to actually use these techniques that are involved in the cutting edge of research.
 

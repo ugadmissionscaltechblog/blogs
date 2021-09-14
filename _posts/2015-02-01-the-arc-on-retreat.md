@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb07e1fcfa970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb07e1fcfa970d.jpg
 title: The ARC on Retreat 
 categories: [research]
 status: Publish
@@ -16,21 +16,21 @@ In a few weeks, we are going to host the Student Faculty Conference, a biannual 
 I arrived at the ARC retreat about 18 hours late; most of the ARC left on Friday night, but I drove out on Saturday afternoon with another ARC representative who had an interview for the Hertz graduate fellowship on Saturday morning. We arrived in Buelleton, CA at 3pm, after driving for three hours down the PCH. We spent about an hour driving through beautiful mountains and vineyards, and about an hour driving directly along the Pacific ocean. It was GORGEOUS. More beautiful? The countryside around the house we are staying in for the weekend:
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb07e1fd05970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb07e1fd05970d.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0c7cc7f970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0c7cc7f970c.jpg" %}
 
 We had lunch when we arrived, and then the whole ARC went for a walking meeting on a trail around the property we are staying at.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c73e3ff7970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c73e3ff7970b.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c73e4005970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c73e4005970b.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0c7cca2970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0c7cca2970c.jpg" %}
 
 We're going to spend the rest of the weekend inside, most likely, so it was nice to get out. We are still putting finishing touches on the SFC, which includes finding students to sit on the two morning panels (MOOCs and writing and communication). The good news is that there are a ton of student leaders at Caltech, both elected and not, who, when they see an issue at Caltech, make it their own responsibility to try to improve it. I know dozens of students on various committees (the Curriculum Committee, the Committee for Undergraduate Education, the ARC, the Study Abroad Committee, the Student Health Advisory Committee, the Dean's Council, the Title IX Committee, the Board of Control, the Conduct Review Committee, etc.) who have stepped up to improve undergraduate life. There definitely is not a dearth of students who care, so finding student panelists for the SFC shouldn't be too hard.
 

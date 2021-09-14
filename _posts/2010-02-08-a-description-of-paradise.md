@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01287772a320970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01287772a320970c.jpg
 title: A description of paradise
 categories: [research]
 status: Publish
@@ -25,7 +25,7 @@ Here, I'm getting ready to kayak.Kayaking
 is very fun when you capsize, and even more fun when you have to paddle away as fast as you can from a huge, honking cruise ship.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b012877795856970c.jpg" %}One day, we ate lunch on the rocks overlooking this view before a hike.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b012877795856970c.jpg" %}One day, we ate lunch on the rocks overlooking this view before a hike.
 
 Sometimes, I didn't join the graduate students on their
 afternoon excursions. The sad truth is

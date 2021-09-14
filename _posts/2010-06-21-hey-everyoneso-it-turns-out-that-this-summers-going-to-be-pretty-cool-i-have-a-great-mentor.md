@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mario Zubia
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0134849ac8cb970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0134849ac8cb970c.jpg
 title: Minipreps, Mishaps, and Matt and Kim
 categories: [research]
 status: Publish
@@ -17,19 +17,19 @@ Oh! AndI finally got to taking some pictures!
 On my way to lab, I walked down the Olive Walk and was like wow, this school is amazing. Here is a picture why.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b013484a53223970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b013484a53223970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133f17d5a2d970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133f17d5a2d970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133f172cccc970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133f172cccc970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b013484a5326d970c.jpg" %}And now that my first week of SURFing is done, time to have fun! Pasadena's a pretty cool place. Yesterday was Make Music Pasadena. Basically, there were stages set up all over Old Pasadena and every hour, each stage had a different band. And it was free! Last night I went to see Matt and Kim. It was a pretty good concert.A crowd surfer. There were several of them. Personally, I think they're crazy! Haha.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b013484a5326d970c.jpg" %}And now that my first week of SURFing is done, time to have fun! Pasadena's a pretty cool place. Yesterday was Make Music Pasadena. Basically, there were stages set up all over Old Pasadena and every hour, each stage had a different band. And it was free! Last night I went to see Matt and Kim. It was a pretty good concert.A crowd surfer. There were several of them. Personally, I think they're crazy! Haha.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b013484a9960f970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b013484a9960f970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133f181bf36970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133f181bf36970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b013484a99952970c.jpg" %}Later,
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b013484a99952970c.jpg" %}Later,
 Mario
 

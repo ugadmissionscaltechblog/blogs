@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sakthi Vetrivel
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2989c1e970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2989c1e970c.jpg
 title: intern[“Sakthi”].bowl()
 categories: [clubs]
 status: Publish
@@ -16,4 +16,4 @@ This past Thursday, Microsoft rented out Lucky Strike, a luxurious bowling alley
 With two embarrassing bowling games under my belt, I headed out to the arcade only to find more lack of success at the basketball hoop and the skeeball machines. But despite my displays of athletic prowess, I had a great time, meeting a lot of the amazing interns and hearing stories from the full-time employees.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09b18a19970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09b18a19970d.jpg" %}

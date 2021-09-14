@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jordan Theriot
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0105369a7580970c-320wi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0105369a7580970c-320wi.jpg
 title: Some More to Say
 status: Publish
 date: 2008-12-27

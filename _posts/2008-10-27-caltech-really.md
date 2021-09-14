@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Janis Intoy
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/images/2008/10/28/transom_2.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/images/2008/10/28/transom_2.jpg
 title: Caltech? Really?
 categories: [culture]
 status: Publish

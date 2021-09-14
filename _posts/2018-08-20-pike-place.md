@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad35d256a200c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad35d256a200c.jpg
 title: Pike Place
 categories: [culture]
 status: Publish
@@ -16,4 +16,4 @@ Pike Place is also home to the original Starbucks. Of course, there was a huge l
 Next to Starbucks, there's a Russian bakery called Piroshky Piroshky. Their savory pastries are really good, but there was also a huge line outside! I didn't try it when I came to Pike Place, but I found another outlet of the shop, with no line, and tried it there :P
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad35d256e200c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad35d256e200c.jpg" %}

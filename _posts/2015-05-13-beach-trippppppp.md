@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7882c46970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7882c46970b.jpg
 title: Beach trippppppp 
 categories: [culture]
 status: Publish
@@ -18,10 +18,10 @@ Saturday morning a group of us made pancakes and bacon for the whole house, and 
 We then changed into bathing suits and made it back to the beach with the rest of the house, who were boogey-boarding and building sand castles.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7882c63970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7882c63970b.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d111add7970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d111add7970c.jpg" %}
 
 Yeah, just because you're 20 years old doesn't mean you stop building sand castles. There was actually a competition going on, over whose castle could withstand the most waves. The mechanical engineers won (duh).
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3e3c36a200b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3e3c36a200b.jpg
 title: Nevada
 categories: [culture]
 status: Publish
@@ -31,23 +31,23 @@ date: 2019-02-17
 <p style="margin: 0px; font-stretch: normal; font-size: 17px; line-height: normal; font-family: '.SF UI Text'; color: #454545;">
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad39e0b3b200c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b022ad39e0b3b200c" id="caption-xid-6a0105349b8251970b022ad39e0b3b200c">Some hole-y sandstone. Fluids dissolved less stable regions of the rock, creating the little pockets you see.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad39e0b3b200c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b022ad39e0b3b200c" id="caption-xid-6a0105349b8251970b022ad39e0b3b200c">Some hole-y sandstone. Fluids dissolved less stable regions of the rock, creating the little pockets you see.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad39e0b3f200c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b022ad39e0b3f200c" id="caption-xid-6a0105349b8251970b022ad39e0b3f200c">This rock looks like a painting!
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad39e0b3f200c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b022ad39e0b3f200c" id="caption-xid-6a0105349b8251970b022ad39e0b3f200c">This rock looks like a painting!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad39e0b41200c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b022ad39e0b41200c" id="caption-xid-6a0105349b8251970b022ad39e0b41200c">Ice on my tent in the morning. It was very cold!
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad39e0b41200c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b022ad39e0b41200c" id="caption-xid-6a0105349b8251970b022ad39e0b41200c">Ice on my tent in the morning. It was very cold!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad39e0b45200c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b022ad39e0b45200c" id="caption-xid-6a0105349b8251970b022ad39e0b45200c">My favorite picture. You can really see the layers within the sandstone here.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad39e0b45200c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b022ad39e0b45200c" id="caption-xid-6a0105349b8251970b022ad39e0b45200c">My favorite picture. You can really see the layers within the sandstone here.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad39e0b49200c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b022ad39e0b49200c" id="caption-xid-6a0105349b8251970b022ad39e0b49200c">Petroglyphs.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad39e0b49200c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b022ad39e0b49200c" id="caption-xid-6a0105349b8251970b022ad39e0b49200c">Petroglyphs.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad39e0b4d200c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad39e0b4d200c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad39e0b4f200c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b022ad39e0b4f200c" id="caption-xid-6a0105349b8251970b022ad39e0b4f200c">Our trusty "Yukon," one of the finest members of the GPS fleet of vans.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad39e0b4f200c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b022ad39e0b4f200c" id="caption-xid-6a0105349b8251970b022ad39e0b4f200c">Our trusty "Yukon," one of the finest members of the GPS fleet of vans.
 
 <p style="margin: 0px; font-stretch: normal; font-size: 17px; line-height: normal; font-family: '.SF UI Text'; color: #454545;">

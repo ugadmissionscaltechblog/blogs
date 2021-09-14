@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0224e03c387b200d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0224e03c387b200d.jpg
 title: Events on Campus
 categories: [culture]
 status: Publish
@@ -15,4 +15,4 @@ There was also a stage where people from different groups were performing. The g
 In 3rd term, Page hosts a cocktail party for its members. There are hors d'oeuvres, live music, games (poker, trivia, and newlyweds), a photobooth, and of course, cocktails for the 21+ students.Sorry the photo is really dark, but this is the stage, where people were playing jazzy music.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0224e03c3836200d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0224e03c3836200d.jpg" %}

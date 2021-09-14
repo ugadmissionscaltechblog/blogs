@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yubo
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb07a29a6f970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb07a29a6f970d.jpg
 title: Roma the Ancient City 
 categories: [global]
 status: Publish
@@ -17,15 +17,15 @@ I arrived midday on Friday, as I have no classes Friday. I took the greater part
 Since I had only a half day, I took the scenic route and tried to visit a few public places, places with no admission required. This would include the iconic Piazza di Spagna, the Trezi fountain, the Pantheon, and whatever else I ran into, such as pizza and gelato! Ultimately, the Trezi fountain was closed for renovations, but everything else proceeded fairly smoothly, and I got a nice view of the Roman tribute to their Gods.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb07a29a7b970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb07a29a7b970d.jpg" %}
 The inside I cannot overstate, and in fact cannot state at all. Let this panorama be the the least I can do.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c6fd6395970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c6fd6395970b.jpg" %}
 I also made it atop this monument, but the view was not the best. While Rome is a significant city beyond all others, it really isn't too pretty compared to others:
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb07a29a45970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb07a29a45970d.jpg" %}
 
 After then some shenanigans at the Capitolini museum and the Vittorio Emanuel II memorial (the most celebrated king of Italy), I headed over to a food tour I had booked. This was recommended as the single best way to see Rome, with one's stomach, by TripAdvisor, and indeed I had a great time! Though perhaps a not quite my money';s worth, but I promised myself I would worry about saving and earning money only once I was back home.
 
@@ -34,5 +34,5 @@ The next day I found out I'd missed the most celebrated part of the Vatican, the
 After wandering to a bit more places I made my way to the famous Colosseum, by which time the day, and my stay, was nearing its end. The titanic scope of the monument again cannot be captured, and one can really quite imagine two millennia ago tens of thousands of Romans yelling throughout.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c6fd62b1970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c6fd62b1970b.jpg" %}
 That was all for my Rome stay. Many a museum went neglected, an entire half of the Capitolini. If I could do it again with more time, I think that audioguides are a must. They allow you to explore the museum at your own pace while simultaneously providing the information that you need to understand the significance of what is before you. Either that or go with a friendly expert, a luxury I did not have this trip, but one I will seek upon returning to the States; art has massively gained in appeal for me upon coming to Europe! The other option, an audioguide, I would try at my next destination, Florence, a city whose size allows for a much more leisurely exploration. Stay tuned!

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Noah Rahman
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b011278d5d31928a4.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011278d5d31928a4.jpg
 title: Mexican night!
 categories: [academics]
 status: Publish
@@ -18,27 +18,27 @@ after prepping ingredients and cleaning up), we can relax in Tom's
 awesomely appointed living room. Below is Tom's dog, Murphy.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b011278d5d50728a4.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011278d5d50728a4.jpg" %}
 Behold the man himself, Tom Mannion, who gets his hands dirty almost every class.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0111685f7655970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0111685f7655970c.jpg" %}
 A pot of baked beans the kitchen staff was making for the vegetarians in our class to accompany the meal.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b011278d5d70928a4.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011278d5d70928a4.jpg" %}
 This is Gilberto, a member of the CDS kitchen staff who cleans out dishes for us. Without him, we would never be able to get stuff done on time, and he is the real power behind the cooking class.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b011278d5d78e28a4.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011278d5d78e28a4.jpg" %}
 For the mole recipe, we had to deseed the guajillos and toast them in the pans very briefly. They tried doing so over open flames and apparently it went badly. :(
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b011278d5d8d828a4.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011278d5d8d828a4.jpg" %}
 Here you see the front living room of Mannion's house, where we all gather at the beginning of class to hear lectures about cooking technique and practice and eat our delicious creations afterwards.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b011278d5d95928a4.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011278d5d95928a4.jpg" %}
 And here were our results for that class, you can see the mole on top and the seafood enchiladas on the bottom.
 
 I hope to join you next when Stephen Hawking vists us for Indian food night!

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Noelle
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb0985c662970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb0985c662970d.jpg
 title: Hollywood Hiking
 categories: [culture]
 status: Publish
@@ -18,19 +18,19 @@ However, we almost didn’t go. That day, instead of sunshine, moody California 
 We liked it so much that we decided to come back with more friends and have a picnic. A week later, ten of us woke before 8 a.m. (no small feat on any day, much less a weekend), piled into cars, attended the morning church service, and then drove to Griffith.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01bb098344c1970d-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01bb098344c1970d-800wi.jpg" %}
 *Looking out in awe of the majestic mountains. Or is that just the sun in his eyes…*
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01bb098344b9970d-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01bb098344b9970d-800wi.jpg" %}
 *Dramatic flag at the top of the mountain *
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01bb098344c5970d-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01bb098344c5970d-800wi.jpg" %}
 *A big fluffy cloud casts a shadow on a hundred blocks of LA.*
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01bb098344bd970d-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01bb098344bd970d-800wi.jpg" %}
 *Munching on our lunch of PB &amp; honey sandwiches. Yum…*
 In sum, things Iwant to do more often are
 

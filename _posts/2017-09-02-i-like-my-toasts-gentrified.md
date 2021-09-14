@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c91606c2970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c91606c2970b.jpg
 title: I Like My Toasts Gentrified
 categories: [local]
 status: Publish
@@ -24,14 +24,14 @@ Anyways, on to the food. We actually went a really great time since Jessica was 
 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09b94497970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09b94497970d.jpg" %}
 
 Here's what we got: French toast, almond butter and cacao nib butter toast with a latte, sorrel pesto rice bowl, and house made granola with house made yogurt and boysenberry jam. The brioche toasts were AMAZING. There's nothing more heavenly than burnt brioche. Everything else was also extremely satisfying.
 
 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c91606a0970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c91606a0970b.jpg" %}
 
 All in all, 10/10 would wait again for over-priced hipster Californian food. Now I need to go buy her cookbook :P By the way, check out how this awesome food is made:
 

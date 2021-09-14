@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sakthi Vetrivel
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b7c80685b6970b01b7c879a926970b-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b7c80685b6970b01b7c879a926970b-pi.jpg
 title: frosh_year.end()
 categories: [clubs]
 status: Publish

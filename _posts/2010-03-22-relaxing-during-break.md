@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mythili
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310fbfab31970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310fbfab31970c.jpg
 title: Relaxing During Break
 categories: [academics]
 status: Publish
@@ -34,4 +34,4 @@ Until next time, Mythili.
 This is the pineapple upside down cake we made for a friend's 20th birthday.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310fbfabda970c.jpg" %}This is the lemon cake that my friends made for my 20th. :)
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310fbfabda970c.jpg" %}This is the lemon cake that my friends made for my 20th. :)

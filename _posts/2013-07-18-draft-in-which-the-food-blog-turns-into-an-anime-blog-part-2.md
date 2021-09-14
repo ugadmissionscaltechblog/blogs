@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Chengyi L
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01910432a64c970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01910432a64c970c.jpg
 title: In Which The Food Blog Turns into an Anime Blog (Part 2)
 categories: [research]
 status: Publish
@@ -16,21 +16,21 @@ We finally made it inside the hall a little before noon. Lunch was abandoned as 
 The rest of Artist Alley went by like this: 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01901e3c86e4970b-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01901e3c86e4970b-800wi.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0192abfbd18a970d-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0192abfbd18a970d-800wi.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01910432a407970c-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01910432a407970c-800wi.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0192abfbd386970d-800wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0192abfbd386970d-800wi.jpg" %}
 
 The Astist Alley was huge. It was endless. It was ridiculous. You can't even see the other end of the hall when standing at one end. When we finally made it out of the Artist Alley, it was 6pm and we were kicked out of the hall because it was closing. 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01910432adbe970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01910432adbe970c.jpg" %}
 And so Day 1 ended in a whirl. Checking on the schedule back at the hotel, it was decided that Day 2 is going to be "go to ALL the panels" day. 
 
 **Day 2**
@@ -73,7 +73,7 @@ Haha, yeah right.
 After the LWA panel, we went back and strolled around the Exhibition Hall for a bit (my friends and I were trapped in Artist's Alley all day yesterday and didn't have time to view all the merch) before deciding to grab dinner at the many many food trucks surrounding AX, ready to take money from hungry congoers. 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192abfee1fe970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192abfee1fe970d.jpg" %}
 We actually went to the foodtruck camp across the street. There were about 10 foodtrucks parked in the same lot--it was a foodtruck convention! I bought a curry taco and it was delicious. 
 ***To be continued...***
 

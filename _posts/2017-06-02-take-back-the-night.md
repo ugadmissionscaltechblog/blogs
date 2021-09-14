@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8fad8bd970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8fad8bd970b.jpg
 title: Take Back the Night
 categories: [clubs]
 status: Publish
@@ -18,7 +18,7 @@ date: 2017-06-02
 <p class="p2">
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8fad8c2970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8fad8c2970b.jpg" %}
 <p class="p2">
 <p class="p1">The Feminist Club Executive Committee (Excomm) and a few of the staff from the CCD took about an hour to set up everything at the Alumni House. Once guests arrived, we handed out some stories submitted anonymously by Caltech students to other students who had volunteered to read submissions. We ate dinner, and then the program started.
 
@@ -28,7 +28,7 @@ date: 2017-06-02
 <p class="p2">
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2851ae5970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2851ae5970c.jpg" %}
 <p class="p2">
 <p class="p1">We ended the night by handing out tea light candles to everyone in attendance and holding a circle of light and moment of silence. The staff from the CCD was present to help everyone decompress and debrief, and many attendees hung out afterwards to talk about what we’d just heard and experienced.
 

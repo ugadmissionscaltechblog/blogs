@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kayane
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b019aff26dc4f970b-500wi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b019aff26dc4f970b-500wi.jpg
 title: My Research Environment 
 categories: [research]
 status: Publish
@@ -20,7 +20,7 @@ This is the Warren and Katharine Schlinger Laboratory for Chemistry and Chemical
 My office is located on the north side of the first floor, which I share with two postdocs and an associate professor. There are two other offices containing other grad students and postdocs - I am the only undergrad! We all work for a team of two professors who specialize in atmospheric particles, and have won numerous awards and recognitions from ACS, AIChE, etc. for their discoveries.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b019aff2787f2970c-500wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b019aff2787f2970c-500wi.jpg" %}
 I work with my professor on modeling how weather factors affect the growth and dispersion of pollen and ways to predict its seasons. In the process of researching, I gained new sets of skills and learned to use and improve on the latest technology for collecting and analyzing pollen data (it's exciting that we have our own pollen collecter!). My professor and the team encourage me to go beyond what's known and make new discoveries, which is why I treasure the support I get at Caltech. I work with my peers and professors in a competition-free environment, where everyone is asked to bring their best to the research table.
 
 My lab also has a diverse set of students and international networks in the research world. The postdoc that sits next to me comes from Finland with a background in aerosol physics, and the lab members and I exchange information about our respective cultures. This diverse background is representative of the entire campus, where we bring minds from all over the world to unite for the advancement of science and the betterment of humanity.

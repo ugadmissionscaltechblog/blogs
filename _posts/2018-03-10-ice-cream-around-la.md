@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2857970c01b8d2dc260f970c-320wi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2857970c01b8d2dc260f970c-320wi.jpg
 title: Ice Cream Around LA Part 1
 categories: [local]
 status: Publish

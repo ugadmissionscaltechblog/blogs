@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901ec2619b970b.png
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901ec2619b970b.png
 title: DDR Mat Diagnostics 
 categories: [global]
 status: Publish
@@ -19,13 +19,13 @@ Details: We had to do a lot of adjusting to get the screws in the sensors at exa
 It was difficult to make sure all the screws were at the same height, so for the second DDR mat we're building, we're going to modify the sensor design a little. Instead of drilling into the foam weatherstripping, we'll cut gaps in the weatherstripping, and then drill the screws in, using washers or spacers to adjust the height. Once we find the correct number of washers or spacers to use, it will be very easy to make sure all the screws are at the same height. The changes were inspired by the <a href="https://members.shaw.ca/lluk/ddrpad/" target="_blank">Matrix Sensor design</a>. 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104b84974970c.png" %}<div class="photo-caption caption-xid-6a0105349b8251970b019104b84974970c" id="caption-xid-6a0105349b8251970b019104b84974970c">Sensor v2, with washers
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104b84974970c.png" %}<div class="photo-caption caption-xid-6a0105349b8251970b019104b84974970c" id="caption-xid-6a0105349b8251970b019104b84974970c">Sensor v2, with washers
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104c5f8c8970c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b019104c5f8c8970c" id="caption-xid-6a0105349b8251970b019104c5f8c8970c">Sensor v2 prototype
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104c5f8c8970c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b019104c5f8c8970c" id="caption-xid-6a0105349b8251970b019104c5f8c8970c">Sensor v2 prototype
 
 We also probably need to recalibrate the software we use to play DDR on a computer. The new DDR mat tends to register just a little earlier than the old DDR mats, most likely because the sensors are different. Fortunately, there's an option in the DDR software intended to calibrate the sound and arrows to account for input delay. Once we work out most of the kinks with the new DDR mats, we should start seeing a very low number of pad misses, and also better scores!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac9661ad970d.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b0192ac9661ad970d" id="caption-xid-6a0105349b8251970b0192ac9661ad970d">Grace playing on the new DDR mat
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac9661ad970d.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b0192ac9661ad970d" id="caption-xid-6a0105349b8251970b0192ac9661ad970d">Grace playing on the new DDR mat
 

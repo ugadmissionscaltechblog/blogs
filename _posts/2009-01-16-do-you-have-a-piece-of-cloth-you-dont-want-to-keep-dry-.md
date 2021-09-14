@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Julianne Gould
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b010536cfb911970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b010536cfb911970b.jpg
 title: Do you have a piece of cloth you don't want to keep dry? 
 categories: [clubs]
 status: Publish
@@ -23,4 +23,4 @@ After lunch, we gathered the 2 robots and took them down to Millikan Pond to tes
 Now, I am sitting in my room, with my 2 robots...once again trying to accomplish things before basketball practice (which is in an hour). Will just left to go home for the long weekend, and I am going to spend some extra time re-soldering things, fixing the foam base...etc. Monday will be spent practicing our entry and remote control skills, and then Tuesday is the deadline! 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b010536cfb9a5970b.jpg" %} 
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b010536cfb9a5970b.jpg" %} 

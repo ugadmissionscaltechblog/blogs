@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Andrew
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3c4cc22200b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3c4cc22200b.jpg
 title: Huntington Trip #2! 
 categories: [culture]
 status: Publish
@@ -15,14 +15,14 @@ I decided to do a few things different this time. First, I got lunch at the nood
 Second, I went to the museum of science history. Or more properly I skipped to the lightbulb section. As I’m sure you’ve discovered by now, I have a fascination with light in whatever form it comes in, and the Huntington’s Edison bulbs were awesome, as were the fiber optic cables that they had strung from the ceilings.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3a51375200d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3a51375200d.jpg" %}
 Finally, I decided to explore two new regions of the gardens. I spent more time in the rainforest section, which was a trip down memory lane of the rainforest section I worked in at the zoo. It was also very reminiscent of Jurassic park. It’s funny how tropical gardens are like that. I also went to the lily ponds. There weren’t really too many lilies, but there were lots of koi. The koi also knew where they were normally fed, which you could tell by the little congregation they formed when you approached their pond.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3c4cc32200b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3c4cc32200b.jpg" %}
 Oh. And we saw some books. That might’ve been the purpose of the trip actually. The highlight for me was the signed copy of James Joyce’s <u>Dubliners</u>. Joyce embodies the way that I wish I could write. The beautifully crafted short story with the ending line that makes you rethink your life and your worldview. That’s something I’ve always aspired to.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad37f131e200c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad37f131e200c.jpg" %}
 Order the noodles
 -- Chandrew

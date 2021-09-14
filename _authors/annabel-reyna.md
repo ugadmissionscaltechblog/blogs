@@ -1,7 +1,7 @@
 ---
 title:          Annabel Reyna Gomez
 username:       annabel
-image:          https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/profile_pics/agomez.png 
+image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/agomez.png 
 option:         Mechanical Engineering
 house:          Ruddock
 ---

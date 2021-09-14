@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Valerie
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb079634bf970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb079634bf970d.jpg
 title: Home Sweet Home 
 categories: [global]
 status: Publish
@@ -26,7 +26,7 @@ The first thing I did when I got into my room, after dumping my bags on the floo
 The next afternoon, I finished unpacking my things. My room is fairly standard: it’s 3m x 4m plus a small hallway and (my own, yay!) bathroom. I have a bed, desk and chair, drawers, shelves, nightstand, desk and floor lamps that come standard with the room. I also managed to acquire a small couch (just long enough that I can sleep on it) for free that someone was trying to get rid of. It’s a bit sparse because I had to leave most of my furnishings at home, but I brought a lot of pictures to put up in my room, and I have been filling it with souvenirs from my travels, so it doesn’t feel too empty.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c6f10b38970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c6f10b38970b.jpg" %}
 I had just cleaned my room, so I took the opportunity to take a decent picture or two.
 
 After mostly unpacking, I found the other Grenå girls living in Kampsax, and we figured out groceries together. This consisted of finding a grocery store and trying to interpret the Danish labels by staring at them for a very long time. The first part was easy — there’s a Døgn Netto [Døgn literally means “open until midnight] at the other end of my kollegium that puts the C-Store to shame: things aren’t ridiculously, only marginally, overpriced; it’s actually open when it should be; and it has a large selection of goods, including all kinds of alcohol. Because we didn’t have a dictionary or internet to look things up with, the second part was not as simple — we ended up being fruit and vegetables and things like “mælk” that didn’t need translation.

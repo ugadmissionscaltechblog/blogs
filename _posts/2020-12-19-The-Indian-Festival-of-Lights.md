@@ -5,7 +5,7 @@ categories: [culture]
 date: 2020-12-19
 author: rashi 
 categories: [ ]
-image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/12/diwali_candles.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/images/2020/12/diwali_candles.jpg
 youtubeId: FeR7GkrP-0Y
 ---
 
@@ -16,10 +16,10 @@ The festivity (and Bollywood music) also makes me miss Dhamaka, the Bollywood da
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FeR7GkrP-0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![ Dhamaka ](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/12/dhamaka_promo.JPG)
+![ Dhamaka ](https://d24slhcvzhzz82.cloudfront.net/images/2020/12/dhamaka_promo.JPG)
 
 Earlier this year, Dhamaka also paired with OASIS (Organization of the Associated Students of the Indian Subcontinent), a grad student-led cultural club on campus, to put on a Holi event! Holi is another festival celebrated in India, during which people welcome the season of spring with lots of color. I celebrated Holi with family and friends every year without fail before coming to Caltech, so it was rewarding to be able to share the experience with my college friends for the first time.
 
-![ Holi ](https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/12/holi_group.JPG)
+![ Holi ](https://d24slhcvzhzz82.cloudfront.net/images/2020/12/holi_group.JPG)
 
 I also performed at this event with Dhamaka right before everyone had to leave campus in March. I suppose it was sort of our last hurrah for the year, but I’m looking forward to continuing all these traditions and events next year and am glad to be part of a community that is full of culture!

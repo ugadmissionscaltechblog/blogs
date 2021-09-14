@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Valère Lambert
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019aff40303b970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019aff40303b970c.jpg
 title: Barcelona 
 categories: [global]
 status: Publish
@@ -20,21 +20,21 @@ It turned out that we spent most of that day just walking up hill since afterwar
 Thursday, we took a day trip to Montserrat outside of the city. There is this impressive mountain range there with a Monastery built into the mountains. The view from the top alone is phenomenal, but the architecture of the Monastery just makes it breathtaking. This is a photo taken from the train as we approached the mountain range.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019aff408bb6970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019aff408bb6970d.jpg" %}
 We ended up not finishing all of our climbing the day before and decided to hike up to the top of the mountains from the Monastery. The view was just fantastic!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019aff4032c4970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019aff4032c4970c.jpg" %}
 Our final day we decided to wanderer around a bit and finally visit <a class="zem_slink" href="https://maps.google.com/maps?ll=41.4036111111,2.17444444444&amp;spn=0.01,0.01&amp;q=41.4036111111,2.17444444444 (Sagrada%20Fam%C3%ADlia)&amp;t=h" rel="geolocation" target="_blank" title="Sagrada Família">La Sagrada Familia</a>, probably the most famous part of Barcelona. As would be expected, the church was huge and amazing and pretty much all that is impressive in the world. I have seen many churches throughout Europe but Gaudi really made something unique with this one. To say it is monumental is an understatement.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019aff408cb6970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019aff408cb6970d.jpg" %}
 Spending the week in Barcelona was awesome not only because the city is pretty darn amazing and the weather was spectacular but also because I got to catch up with one of my friends after the long summer. We got to catch up on stuff from the summer and discuss Ditch Day, which is coming up Tomorrow. Don't get us wrong though, vacation was filled with hard times such as long hot days requiring multiple hour long siestas, as well as true hardships like Christine having her phone stolen by a street kid. :P
 But all was well overall and now we are back at CERN, waiting for our flights tomorrow. Christine will be heading over to the UK to start orientation and I am finally heading back State-side. It has been a long summer and I'm finally ready to head back to San Diego, work on some Grad applications and sleep a little before term starts. Exciting things lie ahead as I start to have phone interviews with Grad schools starting the second day after returning to the US.
 
 At last I must reminisce about the final night of vacation when I finally succeeded at finding real Spanish hot chocolate. It was basically just a cup of super rich, melted chocolate which Christine and I spent every night searching for, trying at least 6-7 different chocolate and coffee shops. Finally I found it in the last place we looked, ironically the coffee shop right below our apartment. I know, look upon it and let your mouth water. I myself am jealous of past-me and this delicious Spanish chocolate. All I have to look forward to is the 20 lbs of Swiss chocolate that has taken the place of my clothing in my suitcase. :)
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019aff408d31970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019aff408d31970d.jpg" %}
 I shall wrap it up now and prepare for my travels back home. Next time you hear from me I shall be back in the USA.
 

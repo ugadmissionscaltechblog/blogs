@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anita
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd3eba14970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd3eba14970b.jpg
 title: San Diego
 categories: [global]
 status: Publish
@@ -15,27 +15,27 @@ On Saturday night, we went to dinner at the Barona Casino buffet, where there wa
 On the top, starting at 12 o'clock and going clockwise: German chocolate cake, brownie, marshmallow rice crisp, mini pecan pie. On the bottom: cream puff, creme brulee, fruit tart, and custard eclaire.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a511eec30e970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a511eec30e970c.jpg" %}
 I asked for hot tea and they gave me the fanciest tea bag I've ever used, made of thick mesh and trimmed with a lace border:
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd3ef7b9970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd3ef7b9970b.jpg" %}
 On Sunday, we went to one of San Diego's most scenic beaches at the Coronado peninsula. They import sand from Hawaii to replace the eroding shoreline, so at certain times of the year, the sand at Coronado is black flecked with beautiful gold specks of pyrite.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd3ef567970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd3ef567970b.jpg" %}
 Built by right the beach is the Hotel del Coronado, one of the last remaining vestiges of the Victorian seaside resort era of American architecture. Around Christmas, part of the lawn between the hotel and the beach is converted into an ice-skating rink and the place is extra festive and beautiful, though the hotel is magnificent no matter the time of year.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a511eec693970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a511eec693970c.jpg" %}
 A six-person golf cart!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73dfa03e9970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73dfa03e9970d.jpg" %}
 There doesn't seem to be a single ugly feature on the Coronado peninsula. Everything is always green, well-paved, or freshly painted. I can't imagine what this does for the drought in California...
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a511eec8df970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a511eec8df970c.jpg" %}
 My cousin's visit to Southern California ended on Sunday night with a dinner with cousins from the other side of the family LA before dropping me off back at Tech. He went back to Taiwan five days later. I hadn't seen him in seven years!
 After overdosing heavily on seafood and sugar for the weekend, I was rather glad to be back at school where my roommate and I could cook vegetable-heavy meals once again ;)
 Till next time,

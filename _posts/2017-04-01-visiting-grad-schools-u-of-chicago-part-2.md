@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anita
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09872e3d970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09872e3d970d.jpg
 title: Visiting Grad Schools
 categories: [research]
 status: Publish
@@ -28,10 +28,10 @@ In the afternoon after my last meeting with Professor Chuan He, my host Dan took
 Despite its name, the Manhattan project actually had its start at the University of Chicago, and there are plaques, a Lego miniature, and even a mushroom-like bronze sculpture on campus to commemorate it.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d26e5bc2970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d26e5bc2970c.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09872eee970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09872eee970d.jpg" %}
 This is a Lego version of the stadium at Stagg Field of the University of Chicago, where the world's first artificial nuclear reactor was built in November of 1942! Sadly, I didn't manage to get a picture of the mushroom sculpture as well.
 
 Next up: night life in Chicago, featuring splendid views of the city from the penthouse of the tallest building downtown.

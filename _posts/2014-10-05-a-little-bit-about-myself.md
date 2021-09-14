@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Grace
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c6ebfdf7970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c6ebfdf7970b.jpg
 title: A little bit about myself..
 
 categories: [culture]

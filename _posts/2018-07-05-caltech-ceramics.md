@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad397e972200b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad397e972200b.jpg
 title: Caltech Ceramics
 categories: [academics]
 status: Publish
@@ -20,4 +20,4 @@ Here they are right after I've dipped them into the glazes -- the color of the u
 I've really enjoyed taking Ceramics this term, and I'd recommend it to anyone who comes to Caltech! It's a great way to destress after a long day.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad397e976200b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad397e976200b.jpg" %}

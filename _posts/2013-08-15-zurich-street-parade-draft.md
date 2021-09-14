@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Valère Lambert
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac7d2cf1970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac7d2cf1970d.jpg
 title: Zurich Street Parade 
 categories: [research]
 status: Publish
@@ -18,7 +18,7 @@ It was even better that my roommate from Tech, Marec, was able to come. He is do
 Today I worked at CERN to prepare for my presentation and Marec went into the city to buy chocolate. He has been trying to survive with British food and I must say that it is sad to see a fellow Frenchman in that state. But he was succesful in findng plenty of chocolate, even with most stores closed on Sundays.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104b3ccb7970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104b3ccb7970c.jpg" %}
 Sunday night we went to another barbecue at Professor Newman's chalet and it was awesome as usual. It didn't rain this time but the night sky was incredibly clear above us so we could see plenty of stars. It was nice to sit there and talk with the Newmans as well as their guests from all over the world. We had a bit of a scare since the blinds on the patio are automated and somewhat touchy so they started going off and would have locked us out of the house if Mrs. Newman hadn't heard them, rushed over and crawled under into the house before they closed. She was succesful though and saved it. It was a good evening and it was nice to catch up with the lab group and Marec. 
 
 It was nice to see a friendly face this weekend and have Marec here. It makes me realize that we now only have three weeks left. It's crazy and means that it is crunch time to get stuff done before leaving CERN but also means I will soon be meeting up with another one of my friends from Tech to spend a week chilling in Barcelona. Good times ahead!

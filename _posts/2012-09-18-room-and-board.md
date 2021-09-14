@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Monica Li
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0177449c8a5f970d017744bae563970d-800wi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0177449c8a5f970d017744bae563970d-800wi.jpg
 title: Room and Board 
 categories: [culture]
 status: Publish
@@ -18,13 +18,13 @@ date: 2012-09-18
 This picture is carved into the space above the main entrance. Way clever!
 <div id="yui_3_2_0_20_134746314946842">
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017744b7f726970d.jpg" %}<div id="yui_3_2_0_20_134746314946842">Something that holds true across houses is the critters! We do have a surprising number of crickets here. One that found its way into our room was successfully captured and released, but not before a photo shoot.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017744b7f726970d.jpg" %}<div id="yui_3_2_0_20_134746314946842">Something that holds true across houses is the critters! We do have a surprising number of crickets here. One that found its way into our room was successfully captured and released, but not before a photo shoot.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b017d3c088be3970c.jpg" %}<div id="yui_3_2_0_20_134746314946842">And now onto food! Our main dining hall is Chandler Cafe, which serves breakfast, lunch, and dinner on weekdays. Eating elsewhere is common too; most of us just eat lunch at Chandler. Just a couple streets west of campus, Lake Avenue has grocery stores and restaurants. My personal favorite is Chipotle, and the other places on Lake are good too.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b017d3c088be3970c.jpg" %}<div id="yui_3_2_0_20_134746314946842">And now onto food! Our main dining hall is Chandler Cafe, which serves breakfast, lunch, and dinner on weekdays. Eating elsewhere is common too; most of us just eat lunch at Chandler. Just a couple streets west of campus, Lake Avenue has grocery stores and restaurants. My personal favorite is Chipotle, and the other places on Lake are good too.
 
 <div id="yui_3_2_0_20_134746314946842"><br id="yui_3_2_0_20_1347463149468193" />
 <div id="yui_3_2_0_20_134746314946842">Once or twice a week, Caltech gives us free food. The BBQs
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b017d3c088be3970c.jpg" %}Best,
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b017d3c088be3970c.jpg" %}Best,
 Monica

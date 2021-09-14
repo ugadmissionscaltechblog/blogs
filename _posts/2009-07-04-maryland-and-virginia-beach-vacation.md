@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b011570b9e38d970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011570b9e38d970c.jpg
 title: Maryland and Virginia Beach Vacation
 categories: [culture]
 status: Publish
@@ -14,4 +14,4 @@ On my first day there, I celebrated my cousin's graduation at this huge party wi
 Later that night, my newly graduated cousin took my cousins and me out to a lounge in Baltimore to celebrate at an after party with his college friends--and then to a late night diner for some munchies!
 After a few days in Maryland, a whole lot of us drove 4 hours to have some R&amp;R in Virginia Beach. For 3 days, my cousins, aunts, uncles and I spent time on the beach and explored the VB pier. 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b011571aeff3f970b.jpg" %}I still am on vacation from work---so I'm just hanging around Houston, and recovering from my exciting week. I'll be celebrating the 4th of July with some new friends at a Crawfish Boil/BBQ pool party. Hope y'all enjoy your holiday!
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011571aeff3f970b.jpg" %}I still am on vacation from work---so I'm just hanging around Houston, and recovering from my exciting week. I'll be celebrating the 4th of July with some new friends at a Crawfish Boil/BBQ pool party. Hope y'all enjoy your holiday!

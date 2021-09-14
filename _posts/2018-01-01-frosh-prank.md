@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09df94d6970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09df94d6970d.jpg
 title: Frosh Prank
 categories: [research]
 status: Publish
@@ -16,4 +16,4 @@ This year, their idea was to do a snow globe with a miniature Millikan inside of
 Upperclassmen always help a lot with the execution of the prank on the night it goes up. They are important to help coordinate and keep frosh safe as they have previous experience about 1: how to actually put things on Millikan roof and 2: how to be safe while doing it. I helped earlier in the night, as they were lacking manpower at first. However, people finished their other work and commitments quickly, so I was able to go back and sleep at a regular time. There were however people working on it until past dawn on the next day. The prank was very well done; when they finished the morning after, it looked really good.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01bb09a3c88f970d01bb09df950e970d-pi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb09a3c88f970d01bb09df950e970d-pi.jpg" %}

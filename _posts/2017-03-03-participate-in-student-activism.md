@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ker Lee
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb097f208c970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb097f208c970d.jpg
 title: Participate in student activism
 categories: [culture]
 status: Publish
@@ -17,12 +17,12 @@ Caltech values diversity and makes efforts to welcome citizens of all nations. I
 On March 1, professors held an open gathering supporting Caltech's international scholars where faculty and students gave brief speeches and the community was invited to sign a poster stating: "We, as members of the Caltech community, stand by our international scholars who have been affected by travel restrictions."
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b7c8d66748970b01b8d2665fb2970c-pi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b7c8d66748970b01b8d2665fb2970c-pi.jpg" %}
 Of course, in discussion of American immigration, the concept of walls inevitably comes to mind. Walls have become a symbol of segregation and hostility, but I think as Techers, we use our walls as a celebration of community instead. From the unfinished rendition of Eugene Delacroix's "Liberty Leading the People" to images of the mobile game fad Plant vs Zombies, the walls and doors of Page House record the psyche of the house throughout its existence.
 
 Painting murals isn't something unique to one house. Many other houses paint, and others put up posters to imbue their walls with personality and liveliness. For example, among Avery House's hallway posters is a map that marks each house member's hometown. Almost every house I can think of has nametags next to room doors with the names of the inhabitants and often something humorous about the people written under it. Ephemeral pulses of the whole student body also perpetually spring up on our walls: posters advertising events around campus, announcements of interhouse events and at one point, rampant pairs of craft googly eyes, courtesy of a Lloyd House prank. The point is, each house's walls are ever-changing representations of the house's culture in conversation with those of other students in the community.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2665fe9970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2665fe9970c.jpg" %}
 So, armed with just masking tape and paper, I set out to participate in a simple act of student activism.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901df5e6dd970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901df5e6dd970b.jpg
 title: DDR Mat Construction and Stockrooms 
 categories: [research]
 status: Publish
@@ -16,11 +16,11 @@ In the last few years, I've built two simpler DDR mats, but the sheet metal cont
 <div class="photo-caption caption-xid-6a0105349b8251970b01901df5e6dd970b" id="caption-xid-6a0105349b8251970b01901df5e6dd970b">Bottom half of an arrow - the folded paper around the edges separates the bottom layer of sheet metal from the top
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019103ebd97b970c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b019103ebd97b970c" id="caption-xid-6a0105349b8251970b019103ebd97b970c">Simpler DDR mat I built during winter term
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019103ebd97b970c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b019103ebd97b970c" id="caption-xid-6a0105349b8251970b019103ebd97b970c">Simpler DDR mat I built during winter term
 
 So this time, we'll be using a different sensor design. Unlike the commercial DDR mats or the DDR mat in the pictures above, we'll either be using DDR floor pressure sensors (the same kind they use in arcade machines) or thin steel mending plates that contact screws when you step on an arrow. The floor pressure sensors would last for a long time, and the steel mending plates and screws would be relatively easy to replace (and/or clean). 
 Since finding someone with a flatbed truck is difficult, we had some trouble figuring out how to transport plywood for the DDR mats from Home Depot. But, I recently learned that the Carpenter shop on campus has plywood, so some friends and I went over there and bought the plywood we needed. It's now sitting in the dorm lounge, and hopefully we'll be able to cut it on a table saw soon.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901dfe4839970b.png" %}<div class="photo-caption caption-xid-6a0105349b8251970b01901dfe4839970b" id="caption-xid-6a0105349b8251970b01901dfe4839970b">CAD model of the DDR mats we plan to build
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901dfe4839970b.png" %}<div class="photo-caption caption-xid-6a0105349b8251970b01901dfe4839970b" id="caption-xid-6a0105349b8251970b01901dfe4839970b">CAD model of the DDR mats we plan to build
 

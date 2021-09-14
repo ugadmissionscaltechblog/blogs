@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Christina Weng
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156e7c2b9e970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156e7c2b9e970c.jpg
 title: A picture perfect day
 categories: [local]
 status: Publish
@@ -31,27 +31,27 @@ had from pulling out a deep-rooted weed). We started out with gardening gloves,
 but by the end many of us had decided to go barehanded.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156f76566c970b.jpg" %} 
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156f76566c970b.jpg" %} 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156e7c36f8970c.jpg" %} 
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156e7c36f8970c.jpg" %} 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156e7c5714970c.jpg" %} 
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156e7c5714970c.jpg" %} 
 Below is a picture of the Nuttall's Lotus, the native plant we're trying to preserve within the tern habitat. It actually lies flat on the group, and the photo is a shot from below. 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156e7c4440970c.jpg" %} 
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156e7c4440970c.jpg" %} 
 After our work, we decided to visit the lighthouse in Point
 Loma, continuing the trend of breathtaking scenery for the day. I have never
 seen a more gorgeous view of the ocean. There is even a seaside trail that goes
 along the cliffs; we didn’t have time to hike it, but it is now officially on
 my to-do list for this summer. 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156f764443970b.jpg" %} 
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156f764443970b.jpg" %} 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156e7c677c970c.jpg" %} 
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156e7c677c970c.jpg" %} 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156f764f4e970b.jpg" %} 
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156f764f4e970b.jpg" %} 
 For dinner, we decided to have some fun and have a barbeque
 on the beach, complete with s’mores afterward. It took a while to get the
 campfire started and the charcoal warmed up (how many techers does it take to
@@ -59,7 +59,7 @@ light a fire?), but it was definitely worth it as everyone ate burgers and
 watched the sunset.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156f765343970b.jpg" %} 
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156f765343970b.jpg" %} 
 
 Tomorrow, we will actually be working on the beach. Can’t
 wait!

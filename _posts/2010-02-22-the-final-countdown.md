@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Andrew Freddo
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f28c3ca970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f28c3ca970c.jpg
 title: The FINAL Countdown!
 categories: [research]
 status: Publish
@@ -24,7 +24,7 @@ Miles Traveled (approx.): 30,000
 
 Days From First to Last Interview: 126
 But you're more concerned with the pictures, so here they are!
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f28c4a1970c.jpg" %}
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a8c1def2970b.jpg" %}
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a8c1df79970b.jpg" %}The other way that this title is fitting is that the third term class schedule just came out! It's kind of bittersweet, because it is my last term at Caltech. But it's exciting, because the end is now in sight. Needless to say I don't have much left to do so I can finish my double degree. I have two humanities classes: one "advanced social science" (for which I am planning on taking The Neuronal Basis of Consciousness, a biology/psychology class) and one "any humanities." For the latter, I'm more divided. Either epic poetry (I do love The Aeneid!) or Saints and Sinners in the Middle Ages. Hmmm tough choice! Also, I'll be continuing to do some research. And most importantly, prepping for DITCH DAY!!!
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f28c4a1970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a8c1def2970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a8c1df79970b.jpg" %}The other way that this title is fitting is that the third term class schedule just came out! It's kind of bittersweet, because it is my last term at Caltech. But it's exciting, because the end is now in sight. Needless to say I don't have much left to do so I can finish my double degree. I have two humanities classes: one "advanced social science" (for which I am planning on taking The Neuronal Basis of Consciousness, a biology/psychology class) and one "any humanities." For the latter, I'm more divided. Either epic poetry (I do love The Aeneid!) or Saints and Sinners in the Middle Ages. Hmmm tough choice! Also, I'll be continuing to do some research. And most importantly, prepping for DITCH DAY!!!
 Time to unpack and RELAX for a bit! :)

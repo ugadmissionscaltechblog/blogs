@@ -4,7 +4,7 @@ title: "From Algorithms to Sprung Rhythms"
 categories: [research]
 tags: [featured]
 author: annabel
-image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/10/Annabel+/A2C2CD26-7AF2-4C94-A0D3-9295C937346B.jpeg 
+image: https://d24slhcvzhzz82.cloudfront.net/images/2020/10/Annabel+/A2C2CD26-7AF2-4C94-A0D3-9295C937346B.jpeg 
 hidden: true
 ---
 
@@ -17,4 +17,4 @@ My post-Caltech plan is to attend graduate school and obtain a Master of Science
 I’m thrilled to join the Caltech Fission team as a new blogger and look forward to sharing with you my experience, both as a Techer as well as an intern at JPL!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2020/10/Annabel+/2B850710-7F41-4AF6-ACD8-58B7C313A9E2.jpeg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/images/2020/10/Annabel+/2B850710-7F41-4AF6-ACD8-58B7C313A9E2.jpeg" %}

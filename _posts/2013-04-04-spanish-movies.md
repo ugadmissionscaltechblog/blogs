@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Rainbow Beaver
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c383aac23970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c383aac23970b.jpg
 title: Spanish Movies
 categories: [research]
 status: Publish
@@ -22,7 +22,7 @@ The first gay themed movie is “Fresa y Chocolate” (Strawberry and Chocolate,
 My friends and I took this is an excuse to look up all the gay slang we could find for Spanish. I think the best word we picked up was a toss-up between “comehombres” literally man-eater, or “reina”, which literally translates to queen, but has a meaning much closer to diva. 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d4269d1be970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d4269d1be970c.jpg" %}
 **
 
 <strong id="internal-source-marker_0.465418636566028">
@@ -33,7 +33,7 @@ My friends and I took this is an excuse to look up all the gay slang we could fi
 <strong id="internal-source-marker_0.465418636566028">
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c383aad82970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c383aad82970b.jpg" %}
 If you have read the book, you would know the male protagonist, named completely coincidentally Cercas, is dating a girl named Conchi. Now, in the movie, the director replaced the male protagonist with a female one, also coincidentally with the last name Cercas. The director changes the relationship up between the two characters and makes it a more significant focus of the movie relative to the book. The characters do have real depth and realistic dates and such, and they are not merely one-dimensional fan-service objects. The treatment of their relationships was impressively realistic and occasionally hit a little too close to home. 
 
 **I definitely recommend all these movies. They're so fantastic!

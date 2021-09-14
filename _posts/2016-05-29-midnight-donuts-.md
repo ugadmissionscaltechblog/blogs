@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sakthi Vetrivel
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b7c80685b6970b01bb090ab0fd970d-320wi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b7c80685b6970b01bb090ab0fd970d-320wi.jpg
 title: Midnight Donuts 
 categories: [culture]
 status: Publish

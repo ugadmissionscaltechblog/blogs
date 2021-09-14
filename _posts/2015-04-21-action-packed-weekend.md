@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yubo
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c77b4428970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c77b4428970b.jpg
 title: Action-Packed Weekend! 
 categories: [clubs]
 status: Publish
@@ -13,7 +13,7 @@ So as promised in the last post (though at this point much belated as usual), I 
 We got up at 745 and took an Uber downtown where the challenge was being hosted. Uber is truly the savior of college students; it costed a mere $30 to get downtown, and split among the four of us the cost wasn't very great at all! It plays quite an integral part of the college student experience if one does not have a car.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb081f3e31970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb081f3e31970d.jpg" %}
 Unfortunately, the public transit to the Getty Center from Caltech takes a full two hours*single way*, so this is certainly a trip one would usually want to Uber. However, I brought work to do on the rides and was for the most part fairly productive!
 However, my fun this weekend, with both the CPC and the Getty Center, did not go unnoticed by the Homework Gods sitting somewhere up in the skies. I tried my best to get ahead on work on Monday and Tuesday, but the typically murderous end of the week came around I ended up sleeping only five hours for three straight nights (Tuesday-Thursday night). This is with my GRE coming up on Saturday, so I really should be getting more rest! Alas, it wasn't something I could afford with all the work, and I*certainly* will never get away with an extension. However, I know that in the future if I don't try to indulge on the weekends (I figured I'd try once before the work really kicked in) I can certainly get significantly more ahead on the weekends (to the tune of finishing 1.5 of the 2 assignments I have due on*Wednesday* by Sunday night) and actually have a reasonable week. Time will tell whether this proves doable...
 

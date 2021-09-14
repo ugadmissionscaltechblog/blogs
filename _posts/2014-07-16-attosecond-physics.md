@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jonathan Liu
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01a73ddbce6b970d01a3fd306173970b-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01a73ddbce6b970d01a3fd306173970b-pi.jpg
 title: Attosecond Physics 
 categories: [research]
 status: Publish
@@ -26,10 +26,10 @@ Anyway, I'm contributing a very small portion to the research going on at MPQ, s
 What I'll be working on for the next few weeks is designing the beam profiler in Autodesk Inventor, a 3d modeling software. Basically, I need to figure out how to arrange all the components in a way that fits with the rest of the experiment, and design the enclosure that will comprise the beam profiler. It sort of feels like art; at least for me, a person who can't draw to save his life, this is the closest I'll ever get. Since I'd never used a CAD software before, learning was fun, and I actually have a preliminary profiler ready! Now it's just a matter of taking the design to the mechanic shop in the institute, where the technicians will tell me exactly how impossible and infeasible my design really is.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01a73ddbce6b970d01a73deb69e8970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01a73ddbce6b970d01a73deb69e8970d" id="caption-xid-6a01a73ddbce6b970d01a73deb69e8970d">My (preliminary, rough, hesitant, possibly disastrous) profiler design.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01a73ddbce6b970d01a73deb69e8970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01a73ddbce6b970d01a73deb69e8970d" id="caption-xid-6a01a73ddbce6b970d01a73deb69e8970d">My (preliminary, rough, hesitant, possibly disastrous) profiler design.
 
 And now, some Bavarian culture. At the cafeteria I had this for lunch:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd3063c7970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd3063c7970b.jpg" %}
 At first glance, I thought I was eating meatballs for lunch. Turns out it's actually a thing called Knödeln! What they are, are dumplings made out of potato or bread and usually served with a sauce. Here, it's served with sauerkraut. According to one of my office mates, this is a very traditional Bavarian dish. It tasted pretty good!
 

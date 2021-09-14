@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mythili
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0120a92e94b4970b-500wi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0120a92e94b4970b-500wi.jpg
 title: An Introduction
 categories: [clubs]
 status: Publish
@@ -23,7 +23,7 @@ We had one rehearsal after the concert, to look over our new music for the comin
 
 Having that one extra rehearsal is especially important because the band is going to Disneyland for a performance on April 10th! Originally, we had optimistic plans to tour Italy--the band had a great time touring in Carnegie Hall (this was before I was at Caltech), and we wanted to do something bigger. However, there's been a bit less funding to go around, so we were forced to downsize to Disney. While I would have loved to visit Italy again, I simply LOVE everything Disney, so I can't wait to play at the park!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0120a92ea90e970b-500wi.jpg" %}It's tiny, but it's right between the mouthpiece and the body of the flute, so it's in an acoustically important area and not just cosmetic.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0120a92ea90e970b-500wi.jpg" %}It's tiny, but it's right between the mouthpiece and the body of the flute, so it's in an acoustically important area and not just cosmetic.
 
 However, when I got there it turns out that my poor flute was the victim of a botched resizing job! The juncture of the headjoint and body was much too tight, which apparently dampens the resonance (wow, Ph 2a in real life...). He's going to try and fix it and promised me that it would sound much, much better when I got it back.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d16cea15970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d16cea15970c.jpg
 title: Postcards from Jenny
 categories: [global]
 status: Publish
@@ -20,34 +20,34 @@ Perhaps my mind takes off and makes more of a Texan autumn than there really is.
 As seen on the walk home!♡❤♡❤♡
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01b8d1719b7b970c-500wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01b8d1719b7b970c-500wi.jpg" %}
 You know it's Edinburgh when you see Edinburgh Castle!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01b8d16cea3a970c-500wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01b8d16cea3a970c-500wi.jpg" %}
 Welcome to the Kings Buildings campus (where most of the science happens)! This is my daily walk to class. :D
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01b7c7e31e98970b-500wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01b7c7e31e98970b-500wi.jpg" %}
 i found this apple on my way home from class. There are a couple of apple trees that border the Kings Buildings campus. I rubbed this on my sleeve and ate it as a snack for the walk.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01b7c7e31f37970b-500wi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01b7c7e31f37970b-500wi.jpg" %}
 Shot this also on the border of KB campus.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb0886ebfb970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb0886ebfb970d.jpg" %}
 On the walk home from class. Sunny afternoons here are different from the blinding SoCal sort. Afternoons are gentle and warm. (:
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7e31f5b970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7e31f5b970b.jpg" %}
 Found these flowers along the walk to the KB campus where I have most of my classes.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d16ceaf0970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d16ceaf0970c.jpg" %}
 In the heart of the KB campus.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb088ba471970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb088ba471970d.jpg" %}
 On the edge of the George Square central campus. I love how the trees got progressively more orange as I walked from the left-most tree to the position from which I took this photo.
 

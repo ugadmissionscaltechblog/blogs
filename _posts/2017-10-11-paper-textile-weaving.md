@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09c89489970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09c89489970d.jpg
 title: Paper Textile Weaving and More!
 categories: [research]
 status: Publish
@@ -15,17 +15,17 @@ To start, we picked out a poster as a base. Then, we cut vertical strips down th
 
 I had a bit of trouble choosing a color scheme (it looks like I changed my mind halfway through on how I wanted the poster to look), but in the future I'll do better :)
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2857970c01b8d2afd17e970c-pi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2857970c01b8d2afd17e970c-pi.jpg" %}
 This was the first class I took at the ARL, and it was a great way to be creative and de-stress. It was also my first time seeing paper textile weaving, so it was pretty cool to learn.
 
 I just want to also mention other fun events at the ARL: It has also hosted a Print Fest, where we could screenprint (and keep!) our own bags.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c92589fb970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c92589fb970b.jpg" %}
 And lastly, I wanted to mention the intro to watercolor class. There were three activities involved, with the first being mixing colors to create a color wheel, the second involving mixing shapes and color, and the third a free watercolor. The ARL is definitely my favorite space at Facebook, and I'm really happy I got to take classes and participate in events here.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2afde20970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2afde20970c.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2afde29970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2afde29970c.jpg" %}

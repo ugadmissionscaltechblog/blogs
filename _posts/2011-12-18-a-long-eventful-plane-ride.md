@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Stanford Schor
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01675eb3ea33970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01675eb3ea33970b.jpg
 title: A long, eventful plane ride
 categories: [research]
 status: Publish
@@ -54,6 +54,6 @@ I guess the freakishly large number of cows and the elephant that we passed a da
  I was certainly excited for all that lay in store for me in the next week and a half, but at that moment all I cared about was that my new bed in India was quite possibly more comfortable than my bed at Caltech.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b01675ed2a3e3970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01675ed2a3e3970b.jpg" %}
 *Katherine trying to steal my spotlight by wildly waving her arms. Nice try.*
 

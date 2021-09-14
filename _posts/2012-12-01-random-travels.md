@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ketaki Panse
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d3e48d203970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d3e48d203970c.jpg
 title: In a land Faro, Faro away.. 
 categories: [research]
 status: Publish
@@ -22,22 +22,22 @@ The first time I met my American group of friends, most of them were sitting at 
 Ryanair is well-known for its cheap prices and notorious for its bad service and lack of 'perks.' But when you're paying 16 pounds for a flight, you can't really afford to be picky.After planning and coordinating via facebook and google docs (my favorite thing ever) we finally flew out to Dublin during mid-October. We flew in Saturday morning and flew back Monday morning, just in time for 9 am class.While parts of Dublin are picturesque, I didn't think the city was nearly as charming as Edinburgh. Still though, we managed to fit in a walking tour, trip to the coast, visit to the Guinness factory, and lots of Temple Bar pub hopping during our two day visit.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c3419e5fe970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c3419e5fe970b.jpg" %}
 We were in Dublin for 48 hours; we slept for 3. The nightlife is great and the live bands especially made each night memorable. Strangely enough, every pub and club we visited had one common aspect-- flirty middle aged Irish women. Needless to say, the guys in our group were both flattered and weirded out by all the unexpected attention they received..
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017ee5bd98ed970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017ee5bd98ed970d.jpg" %}
 *One of the guys' many suitors. I think she added them on facebook.*
 
 **
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d3e498733970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d3e498733970c.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d3e498733970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d3e498733970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017ee5bd9a7a970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017ee5bd9a7a970d.jpg" %}
 **
 
 Other than the typical beach trip and bicycle tour through the city, my favorite part of this vacation was the group of people we met at the hostel.
@@ -50,7 +50,7 @@ Other than the typical beach trip and bicycle tour through the city, my favorite
 - Diego from Lagos: The hip local and one of the hostel owners, Diego told us tidbits about the Portuguese music industry and made us vegetarian quiche, rice pudding, and pasta salad. An all-around cool, macho guy.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d3e4989f6970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d3e4989f6970c.jpg" %}
 My third and final 'college kid trip' this term will be to Barcelona, and I promise to blog about it as soon as I get back to Edinburgh.I hope this lengthy post makes up for my briefblogginghiatus! And if not.. I still have to catch you guys up on the Higgs lecture, Scottish rugby, a Celtic/Halloween parade, and the Edinburgh Christmas lights show. Yeee!
 
 Cheers!

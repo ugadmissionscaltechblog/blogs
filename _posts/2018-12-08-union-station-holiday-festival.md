@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3a6477c200d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3a6477c200d.jpg
 title: Union Station Holiday Festival
 categories: [culture]
 status: Publish
@@ -13,15 +13,15 @@ Last weekend, there was a holiday festival at Union Station. On the way there, w
 Once we got to Union Station, we could see it was clearly Christmas themed! There was a huge wreath on the clock tower, and also a big Christmas tree in the courtyard next to the Station :)
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3a64774200d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3a64774200d.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3a64787200d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3a64787200d.jpg" %}
 In the courtyard, there were a bunch of vendors selling artisan goods, like jewelry that they made themselves, artwork, soap, socks, etc. I thought this person's artwork was really cool -- he was selling prints as well as coasters!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3a64780200d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3a64780200d.jpg" %}
 There also was a gingerbread house making event happening for the kids there. I kind of want to make one :P
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3a64770200d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3a64770200d.jpg" %}
 Overall, it was a pretty small event, so we only spent about 20-30 minutes there, but it was fun overall :)

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Chengyi L
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0191048d184b970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0191048d184b970c.jpg
 title: Not-Really-Curry
 categories: [culture]
 status: Publish
@@ -13,7 +13,7 @@ We didn't have a recipe for Indian-style curry things, so Friend N just went by 
 Here's a photo of a stash of some of the things we used: 
 The finished dish:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac567d2b970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac567d2b970d.jpg" %}
 The dish ended up tasting... not very Indian curry-like. I think we 
 didn't add enough spices or something, because the yogurt's taste is quite overwhelming. We have a tendency to underspice 
 things because we're afraid of over spicing, but now the combination of spice in this dish just kinda tastes... weird. Not sure how we could've fixed it. 

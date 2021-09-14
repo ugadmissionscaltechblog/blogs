@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Nerissa Hoglen
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0153929b96b4970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0153929b96b4970b.jpg
 title: Living—and Eating—Off-Campus 
 categories: [culture]
 status: Publish
@@ -19,10 +19,10 @@ This is why it is important to be good at making things efficiently. This does n
 The idea behind the calzones is much like buying frozen food from the grocery store, only much healthier and custom-fitted to my tastes. I used fresh pizza dough from Fresh and Easy (a grocery store very convenient to campus) and a combination of frozen and fresh vegetables and cheese for the filling. I cooked frozen bell peppers and onions, fresh tomatoes, and kalamata olives then mixed them with ricotta, mozzarella, parmesan, and a little bit of goat cheese. Then I wrapped the filling with pizza dough into little semi-circular shapes. I froze three of them and baked the fourth for dinner that night. It was delicious.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162fbf108eb970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162fbf108eb970d.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0153929b9b50970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0153929b9b50970b.jpg" %}
 The calzones are convenient not only because I now have to do a bare minimum of cooking to acquire a filling meal's worth of tasty hot food, they're also pretty portable. As much as I'm glad to be out of a dorm, it's still important to socialize. I must admit I'm not a big fan of eating alone. The calzones are the perfect thing to bring to campus. I can cook them in the oven right before house dinner starts then eat with the rest of my friends.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0153929b9e61970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0153929b9e61970b.jpg" %}

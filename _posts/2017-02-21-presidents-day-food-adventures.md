@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01bb08213082970d01b7c8d85959970b-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01b7c8d85959970b-pi.jpg
 title: President's Day Food Adventures
 categories: [local]
 status: Publish
@@ -25,11 +25,11 @@ Finally, for a late night snack, I went to EE convenient store. EE convenient st
 <div class="photo-caption caption-xid-6a01bb08213082970d01b7c8d85959970b" id="caption-xid-6a01bb08213082970d01b7c8d85959970b">Bea Bea's
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01bb08213082970d01bb097b88bc970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01bb097b88bc970d" id="caption-xid-6a01bb08213082970d01bb097b88bc970d">Big Catch Seafood House
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01bb097b88bc970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01bb097b88bc970d" id="caption-xid-6a01bb08213082970d01bb097b88bc970d">Big Catch Seafood House
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01bb08213082970d01bb097b88cd970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01bb097b88cd970d" id="caption-xid-6a01bb08213082970d01bb097b88cd970d">Bon Appetea Cafe
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01bb097b88cd970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01bb097b88cd970d" id="caption-xid-6a01bb08213082970d01bb097b88cd970d">Bon Appetea Cafe
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01bb08213082970d01b7c8d85980970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8d85980970b" id="caption-xid-6a01bb08213082970d01b7c8d85980970b">EE Convenient Store
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01b7c8d85980970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8d85980970b" id="caption-xid-6a01bb08213082970d01b7c8d85980970b">EE Convenient Store
 

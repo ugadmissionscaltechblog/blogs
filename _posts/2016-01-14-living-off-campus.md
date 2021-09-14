@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb08ab402c970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb08ab402c970d.jpg
 title: Living Off Campus 
 categories: [culture]
 status: Publish
@@ -14,10 +14,10 @@ This year I'm living off campus. "Off campus" at Caltech means "in Caltech housi
 Our house is called "the Holly," because Page's off-campus house used to be located on Holliston street (it no longer is). 5-6 Pageboys can live there at a time, and it is currently inhabited by five girls. We chose to live together, and petitioned the Page Excomm (the executive committee, consisting of the President, VP, Secretary, Treasurer, and Athletics Manager) to let us live there. The house is sooo spacious compared to dorms! And we have our own kitchen (filled with our personal pots and pans, etc.). We all cook for ourselves, although I still go to Page House every evening at dinner time because I'm still a house waiter. We hang out in Page House and do work with people there, but having our own space is pretty great.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d19088c7970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d19088c7970c.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c80698ae970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c80698ae970b.jpg" %}
 
 Other benefits of living off campus include:
 

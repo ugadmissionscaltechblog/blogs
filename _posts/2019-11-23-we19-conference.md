@@ -4,7 +4,7 @@ author: sunny
 title: "WE19 Conference"
 categories: [clubs]
 date: 2019-11-23
-image: https://ug-admissions-caltech-blog-publish.s3-us-west-1.amazonaws.com/images/2019/11/6a0105349b8251970b0240a4a10d32200c-800wi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/images/2019/11/6a0105349b8251970b0240a4a10d32200c-800wi.jpg
 ---
 
 Every year, the Caltech Society of Women Engineers attends the National SWE conference to network with other SWE Chapters and to hustle for jobs. Last year, the event was in Minneapolis, and the year before in Austin. This time around, it's in Anaheim which is much more convenient for us. Since it is much closer, we were able to send many more delegates to attend and miss fewer classes in the process of doing so.

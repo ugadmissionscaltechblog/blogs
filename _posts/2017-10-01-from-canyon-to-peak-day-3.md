@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2955970c01b8d2ac4da7970c-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01b8d2ac4da7970c-pi.jpg
 title: From Canyon to Peak
 categories: [global]
 status: Publish
@@ -21,11 +21,11 @@ We woke up while the sky was still filled with the Milky Way on day 3 of our bac
 <div class="photo-caption caption-xid-6a01b8d28f2955970c01b8d2ac4da7970c" id="caption-xid-6a01b8d28f2955970c01b8d2ac4da7970c">Phelps lake, again. This time, the picture was taken while walking downhill!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2955970c01b7c921ee65970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b7c921ee65970b" id="caption-xid-6a01b8d28f2955970c01b7c921ee65970b">The beautiful woods!
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01b7c921ee65970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b7c921ee65970b" id="caption-xid-6a01b8d28f2955970c01b7c921ee65970b">The beautiful woods!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2955970c01b8d2ac4f1c970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b8d2ac4f1c970c" id="caption-xid-6a01b8d28f2955970c01b8d2ac4f1c970c">The view of the valley near our lunch spot.
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01b8d2ac4f1c970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b8d2ac4f1c970c" id="caption-xid-6a01b8d28f2955970c01b8d2ac4f1c970c">The view of the valley near our lunch spot.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2955970c01bb09c51ff2970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09c51ff2970d" id="caption-xid-6a01b8d28f2955970c01bb09c51ff2970d">The valleys and peaks near Static Peak
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01bb09c51ff2970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09c51ff2970d" id="caption-xid-6a01b8d28f2955970c01bb09c51ff2970d">The valleys and peaks near Static Peak
 

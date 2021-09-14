@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d111c8d6970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d111c8d6970c.jpg
 title: Page Beach Trip 
 categories: [clubs]
 status: Publish
@@ -15,5 +15,5 @@ This past weekend, Page House rented a place in Carlsbad, CA (near San Diego) fo
   After the beach, a few of my friends and I walked to In-N-Out before heading back to the house. I had to leave beach trip early to be back home for Mother's Day, but overall, I had a great experience and I can't wait for next year's beach trip!
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d111c8df970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d111c8df970c.jpg" %}
 

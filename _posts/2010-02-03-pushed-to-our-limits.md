@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a858eea8970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a858eea8970b.jpg
 title: Pushed to our limits
 categories: [research]
 status: Publish
@@ -31,11 +31,11 @@ I found myself pushing through the hours in the night, blasting music to keep me
 The rigorous curriculum and fast-paced classes are quite the challenge for those who come here--but because of it all, I truly believe that all of us Techers develop the same characteristics that prepare us for any career we hope to pursue after Caltech. ALL Techers are resourceful, self-motivating, inquisitive, insightful and focused. We all learn quickly our freshman year what study habits we must use to get through our classes, and to never give up. I came to Caltech to challenge myself and push myself to the limit intellectually---and it has given me just that and so much more...
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0128775b28a9970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0128775b28a9970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a858f122970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a858f122970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0128775b2bb3970c.jpg" %}After I commute back to Tech in a few minutes, I'll take a nap during lunch, then meet
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0128775b2bb3970c.jpg" %}After I commute back to Tech in a few minutes, I'll take a nap during lunch, then meet
 up again with Yicheng (hopefully the TA has emailed us back with
 answers to our questions!) to finish the set before 5pm.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anita
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09a37db2970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09a37db2970d.jpg
 title: Quest Through Amsaria
 categories: [research]
 status: Publish
@@ -32,27 +32,27 @@ A quick refresher of the story/activities covered in the last post which will ma
 The first station I had conceived was the portal section. My initial idea had been to have the stackees build a portal out of Lego-shaped frozen blocks of jello. It would be tremendously pretty, not to mention add the exciting component of time as the ice slowly melted into the equation. For this express purpose I bought 5 boxes of jello mix from Vons and ordered some Lego molds online. When the molds arrived, I tested them using different juices from open kitchen:
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09a37dee970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09a37dee970d.jpg" %}
 The juice ice cubes turned out in beautiful colors, but there were several problems. First, ice molds can only shape one side of the Lego, but in order to build anything useful with a Lego you need both the indentations and the protrusions. I had Mugdha attempt to make a clay mold of the models so I could use them as a stamp to make double-sided Legos; the clay failed dramatically to hold the shape without folding in on itself or having air bubbles. Another issue was that I hadn't accounted for the non-zero thickness of the silicon mold itself, which would make the indented holes of the Legos of larger diameter than the protrusions--a poor fit that would definitely not hold up in the air. Yet another problem I ran into was the breaking off of the little ice protrusions. Plain water ice cubes were fine; sugared juice or jello Lego ice cubes would not stay in one piece. Eventually, when it became a pain in the rear to heat up exactly the right amount of water twice a day to make the jello ice, I gave up on the idea of this happening. We would find another material for the arch.
 
 Eric was put in charge of figuring out how to make balloon swords, and ordering the balloon and pump. Mugdha and Bolton wrote the murder mystery, with memorable characters such as Bob the grapefruit farmer; a love triangle between the farmer's daughter, a Jewish bard, and a Christian knight; Heloise, the vampire-hunting nun; Turpin the crusading archbishop who wins extra points for persuading the knight to join his army (borrowed straight from the Medieval Romance class Bolton and I were in); Og the village idiot; and Arthur the stable boy. Meanwhile, Anjali worked on various puzzles for the 1st hour and the costumes--felt hats and fur belts, which careful variations in color for the Troll game.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d28a9658970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d28a9658970c.jpg" %}
 It is a Caltech tradition for each stack to also have a themed T-shirt. Lucky for us, Caltech has a silk-screening room that we can use. Mugdha was in charge of ordering the shirts and making the screens after I drew the designs for the front and back of the shirt.
 
 Here's the front of the shirt:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09a37e16970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09a37e16970d.jpg" %}
 Traced:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d28a964a970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d28a964a970c.jpg" %}
 Anjali, Mugdha, Eric (and I) screening the shirts:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c9007099970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c9007099970b.jpg" %}
 How they turned out!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09a37e2f970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09a37e2f970d.jpg" %}
 Next up: painting set pieces for the murder mystery and painting the wallboard mural for the stack.
 
 Till next time!

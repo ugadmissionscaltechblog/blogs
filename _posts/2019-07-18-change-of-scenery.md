@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Lexy LeMar
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a46f836c200c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a46f836c200c.jpg
 title: Change of Scenery
 categories: [global, research]
 status: Publish
@@ -17,4 +17,4 @@ Other than the whole growing up and being an adult part, this summer has been qu
 
 -LEXY
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b0240a46f83b8200c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0240a46f83b8200c.jpg" %}

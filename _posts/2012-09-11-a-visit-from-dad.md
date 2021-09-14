@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Slwright13
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c31b29e1f970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c31b29e1f970b.jpg
 title: A Visit from Dad! 
 categories: [culture]
 status: Publish

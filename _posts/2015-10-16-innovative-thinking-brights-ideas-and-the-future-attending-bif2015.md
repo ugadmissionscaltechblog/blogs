@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Phillip
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01bb084574dd970d01b8d15b0932970c-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb084574dd970d01b8d15b0932970c-pi.jpg
 title: Innovative thinking, Brights Ideas, and the Future
 categories: [research]
 status: Publish

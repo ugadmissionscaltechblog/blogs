@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Debbie
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019103dd8c77970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019103dd8c77970c.jpg
 title: Caltech InnoWorks Tshirt! 
 categories: [culture]
 status: Publish
@@ -15,6 +15,6 @@ So this year, I wanted to generate a design that students would want to wear out
 I was inspired in part by my friend's <a href="https://www.geeky-gadgets.com/wp-content/uploads/2011/04/Circuit-board-tie1.jpg" target="_blank" title="tie">tie</a> and the 2011 Caltech prefrosh shirts (I would put a picture in here, but my shirt is lost somewhere in the abyss of my closet).I'm still not sure what background color we will go with, but here it is (with a massive watermark):
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192aba2c4f0970d.gif" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192aba2c4f0970d.gif" %}
 
 Which color do you think would work best (can be one not shown above)? I'd love to get feedback in the comments!

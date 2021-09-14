@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anita
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb097d631d970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb097d631d970d.jpg
 title: Triple-Story Dance Floor and a Spiral Staircase
 categories: [research]
 status: Publish
@@ -23,33 +23,33 @@ Another type of wood we use is called "OSB," which stands for "oriented strand b
 
 In the picture below, you can see how the 2x4's really do make the backbone of the dance floor, but without the flat OSBs, one would simply fall through the holes!
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2649ab1970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2649ab1970c.jpg" %}
 The OSB is conveniently already cut in the same dimensions as the individual platform segments, but we use the miter saw to cut up the 2x4's to the heights we want them:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8da4d34970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8da4d34970b.jpg" %}
 The impact driver utilizes a quick spinning motion and magnetism to insert screws into wood, for the purposes of joining two pieces of dance platform legs, cementing OSB to the platform, etc:
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2649aca970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2649aca970c.jpg" %}
 A sander is used to smooth out finished surfaces, both to even out two segments that we've screwed together at slightly different heights and to obtain a splinter-free surface party-goers can rest their hands on. Disclaimer: it is highly possible that I am missing some things here, as I have mostly helped with art in the past. For anyone who is curious, Caltech provides construction training at the beginning of the year to teach those who want to help out with building interhouse how to use basic power tools.
 
 Dance floors are a thing, but so are stairs and guardrails, and wallboard supports to hold up the murals that I will be talking about in my next post (on the artsier side of things, as opposed to construction). I won't go into too much detail here, except to say that stairs in particular are a pain in the rear end because we have to make them all uniform heights.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb097d6377970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb097d6377970d.jpg" %}
 As you might imagine, building a dance floor might get tedious. So, how do we vary it up between the years?
 
 My freshman year, for the Ancient China-themed OPI, we built a big crack down the dance floor representing a river. We lit it up with neon lights and brought in a fog machine to create a misty, humid effect.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb097d6381970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb097d6381970d.jpg" %}
 My junior year, for Star Wars OPI, we had 2 fully elevated platforms (8 feet above the ground) and 1 half-elevated (4 feet) connected with overpasses. Each elevated section represented a different planet world in the Star Wars universe.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2649b31970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2649b31970c.jpg" %}
 This year, the construction team is really outdoing themselves. We're building a doubly elevated, 16-feet tall platform that just barely reaches the roof, as well as a spiral staircase. Work in progress picture below, with Henry, one of the leaders of the construction team, descending the steps from the singly-elevated platform.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2649b3d970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2649b3d970c.jpg" %}
 All of our construction is inspected multiple times by safety officers from the Caltech Housing Office before the actual date of the party. We've never had any structural failure. In the above picture, note the extensive cross-bracing, as well as the bracing of the wallboard supports on the second floor against the wall of the building when applicable. Henry briefly explained to me the other day that for the 20-foot DJ platform in that middle corner of the picture, we designed the structure so all the tension is forced toward the building. This way, when anyone in a frenzied partied state attempts to climb up to the DJ platform (not that they can, because the empty space will be blocked by a mural), there will be no danger of the supports snapping back in the person's face. Henry is a math and computer science major, not a mechanical engineer, and I'm a chemist--but listening to him explain the physics considerations behind the dance platform design never fails to impress me with the degree of detail to which our designs have been so thoroughly thought out. And most people start out as complete construction novices, too, learning from upperclassmen and gaining experience to pass along.
 
 Yeah...I'm still amazed at the construction we do. It blows my mind every time. Kudos to Henry, Jimmy, and Joe, our construction leaders this year, for all of the designing, supervising, teaching, coordinating, and actual building they've done. Since Week 1 of winter term!

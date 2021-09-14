@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b022ad3a66a2c200b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b022ad3a66a2c200b.jpg
 title: Intern Field Day 2018
 categories: [clubs]
 status: Publish
@@ -17,8 +17,8 @@ I was on Operation, which unfortunately had yellow as their team color. I’m so
 Anyway, I found the day fun and entertaining for many different reasons this year. I am glad that I got to play the sport that I like: volleyball. Afterwards, I did not continue to embarrass myself trying to play in sports that I can only marginally play. Instead, I chose to play with giant inflatable basketballs (they were literally 4ft in diameter) and race with my friends on the slides and race course. I definitely had a lot of fun that day. And amazingly enough, Operation came out as the winning team. Good thing I didn’t contribute much, otherwise it might have gone the other way.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b022ad3a66a30200b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b022ad3a66a30200b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b022ad3a66a34200b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b022ad3a66a34200b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/6a0105349b8251970b022ad3a66a38200b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b022ad3a66a38200b.jpg" %}

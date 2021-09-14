@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8d368c9970b.png
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8d368c9970b.png
 title: Pasadena Outings
 categories: [research]
 status: Publish
@@ -18,4 +18,4 @@ This Friday, to celebrate a long week of homework (and a weekend ahead full of e
 I have been working on my reading list still, but between two project classes, TAing a class, and occasionally going off campus, I haven't had much more free time. Let's hope things calm down after midterms.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8d2a378970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8d2a378970b.jpg" %}

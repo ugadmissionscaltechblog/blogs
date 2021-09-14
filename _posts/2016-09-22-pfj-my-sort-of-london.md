@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb088ff354970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb088ff354970d.jpg
 title: Postcards from Jenny
 categories: [research]
 status: Publish
@@ -27,7 +27,7 @@ This is the third installment of my postcards from London! Read about my tourist
 
 <span style="font-family: arial, helvetica, sans-serif; color: #ff7f00; font-size: 10pt;"><a href="https://www.britishmuseum.org/" target="_blank"><span style="color: #ff7f00;">British Museum</a>
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1759778970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1759778970c.jpg" %}
 <span style="font-family: arial, helvetica, sans-serif; color: #111111; font-size: 10pt;">Sunday was spent roaming the British Museum and stumbling upon tall rooms after rooms of mummies, Assyrian reliefs, walls of hieroglyphs, and the Rosetta Stone. It was smaller than some of us expected. the handwriting is so neat and the letters are in really straight rows. i wonder what it was like to find this slab. Surely it wasn't as clean and legible as it is right now. An image on the information panel said it was broken and that there used to be a top section that made it a much taller tablet-sort of thing.
 
 <span style="font-family: arial, helvetica, sans-serif; color: #111111; font-size: 10pt;">It's funny to think about the people who once used these things that now live in our museums. i don't suppose too many of our things will end up in museums--we keep pretty good records now. i saw an old toy in the National Museum of Scotland the other day, and it seemed a representative of an artifact of which we still have plenty. when do our things start feeling like real museum artifacts?
@@ -37,18 +37,18 @@ This is the third installment of my postcards from London! Read about my tourist
 <span style="font-family: arial, helvetica, sans-serif; color: #111111; font-size: 10pt;">Oh and on that note, there also happened to be a Day of the Dead exhibit and performance.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1759811970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1759811970c.jpg" %}
 <span style="font-family: arial, helvetica, sans-serif; color: #ff7f00; font-size: 10pt;"><a href="https://www.sherlock-holmes.co.uk/" target="_blank"><span style="color: #ff7f00;">221B Baker Street: Sherlock Museum</a>
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01a73d94d1a8970d01bb088ff51f970d-pi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01a73d94d1a8970d01bb088ff51f970d-pi.jpg" %}
 <span style="font-family: arial, helvetica, sans-serif; color: #111111; font-size: 10pt;">The lighting was pretty tricky, so i don't have many decent pictures from the Sherlock Holmes museum. The gift shop is full of fun Sherlocky things, so drop by if you're a fan!
 
 <span style="color: #ff9f40;"><a href="https://www.ucl.ac.uk/" target="_blank"><span style="color: #ff9f40;">University College London (</a><a href="https://www.ucl.ac.uk/" target="_blank"><span style="color: #ff9f40;">UCL)</a>
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb088ff536970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb088ff536970d.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1759861970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1759861970c.jpg" %}
 <span style="font-family: arial, helvetica, sans-serif; color: #111111; font-size: 10pt;">Caltech also offers an exchange program with University College London (UCL). i got to see some of UCL during my stay. The campus isn't super big and there are some campus buildings throughout the city. UCL is also right next to other university neighbors. The students, families, and tourists all contribute to the diverse culture that is characteristic of London.
 
 <span style="font-family: arial, helvetica, sans-serif; color: #111111; font-size: 10pt;">__

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09abb148970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09abb148970d.jpg
 title: Getting Cultured at Norton Simon Museum
 categories: [culture]
 status: Publish
@@ -19,7 +19,7 @@ I went this afternoon with a group of Lloydies and summer students. Some people 
 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d292c32b970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d292c32b970c.jpg" %}
 
 I was thoroughly impressed by the Picasso, Degas, Monet, Renault and Cézanne. I tried my best to read the descriptions of the paintings, but I was still the first to breeze through the exhibits. I probably spent more time in the gift shop than in any exhibit hall.
 
@@ -28,23 +28,23 @@ One thing I noticed was that the Renaissance and Contemporary paintings all had 
 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09abb10e970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09abb10e970d.jpg" %}
 #CanvasEatsFirst (#cameraeatsfirst)
 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09abb118970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09abb118970d.jpg" %}
 Before Mirror Selfies Were Cool
 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c9088214970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c9088214970b.jpg" %}
 Size 00000 (or Legs For Days)
 
 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09abb120970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09abb120970d.jpg" %}
 Those Squats Killed My Glutes
 
 Apart from goofing around, I learned quite a lot. Degas was going blind, so he sculpted models out of clay to feel as a reference for his paintings. Monet's struggle with depression made his boat paintings too dark and abstract to sell. Representation of Buddhist gods were fairly similar across ancient Nepalese, Cambodian, Thai, and Indian populations.
@@ -52,7 +52,7 @@ Apart from goofing around, I learned quite a lot. Degas was going blind, so he s
 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d292c344970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d292c344970c.jpg" %}
 
 I'm not sure if I am any more cultured now.
 

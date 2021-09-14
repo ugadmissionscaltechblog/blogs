@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019103fe144d970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019103fe144d970c.jpg
 title: Cookies and Table Saws 
 categories: [research]
 status: Publish
@@ -14,17 +14,17 @@ Since it's summer, we don't have to do any homework sets or work on the weekends
 <div class="photo-caption caption-xid-6a0105349b8251970b019103fe144d970c" id="caption-xid-6a0105349b8251970b019103fe144d970c">Oatmeal chocolate chip cookies (one is missing...)
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019103fe15b2970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019103fe15b2970c.jpg" %}
 We didn't exactly follow all the instructions, but they turned out pretty tasty! After making (and eating) cookies, I started to work on cutting the plywood for DDR (Dance Dance Revolution) pads (see my <a href="https://caltech.typepad.com/caltech_as_it_happens/2013/07/ddr-mat-construction-and-stockrooms.html" target="_blank">previous blog post</a>). One of the dorms has a table saw, so I went over there and got help from an upperclassman to cut the plywood.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192abc74926970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192abc74926970d.jpg" %}
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019103fe1b5d970c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b019103fe1b5d970c" id="caption-xid-6a0105349b8251970b019103fe1b5d970c">Table saw
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019103fe1b5d970c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b019103fe1b5d970c" id="caption-xid-6a0105349b8251970b019103fe1b5d970c">Table saw
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192abc74a83970d.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b0192abc74a83970d" id="caption-xid-6a0105349b8251970b0192abc74a83970d">Plywood laid out in the shape of a DDR mat (still some cutting to do)
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192abc74a83970d.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b0192abc74a83970d" id="caption-xid-6a0105349b8251970b0192abc74a83970d">Plywood laid out in the shape of a DDR mat (still some cutting to do)
 
 I ended up with lots of wood chips and sawdust all over my shirt, but I shouldn't need to cut much more wood for the DDR mats. The arrow panels will be made out of acrylic (lucite) plastic, while the rest of the DDR mat pieces will be plywood. Unfortunately, I'm really bad at measuring wood on a table saw, so some of the square pieces aren't exactly square. It should still be fine though, and we can make some adjustments later. Each "square" wood panel is supposed to be 11"x11", and will be covered with sheet metal before being attached to the plywood base. The acrylic arrows will sit on top of high density weatherstripping foam, which will compress slightly when someone steps on the arrow. Now we just have to wait for the rest of the parts to arrive in the mail! (The local Home Depot, according to the inventory online, actually does not have enough of the corner brackets that we need in stock, so we have to order those online anyway.) For people interested in building DDR mats, <a href="https://zenius-i-vanisher.com/v5.2/viewthread.php?threadid=3350&amp;page=1" target="_blank">this thread</a> has been very useful for design ideas.
 

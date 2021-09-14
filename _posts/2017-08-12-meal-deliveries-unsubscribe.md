@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2984efe970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2984efe970c.jpg
 title: Meal Deliveries -> Unsubscribe
 categories: [research]
 status: Publish
@@ -22,4 +22,4 @@ The amount of produce you get for the price you pay is not worth it if you are p
 If you want a more detailed review, you should check out <a href="https://www.thekitchn.com/i-tried-the-meal-kits-from-hellofresh-and-heres-what-i-thought-product-review-220171">this one by The Kitchn</a>. It was this review that convinced me to give meal subscription a shot. Apparently subscription boxes are all the rage these days because you can get monthly deliveries of anything and everything, from cosmetics, books, snacks, to art supplies, razors, and underwear.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2984f13970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2984f13970c.jpg" %}

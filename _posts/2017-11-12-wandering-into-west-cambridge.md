@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2b894d8970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2b894d8970c.jpg
 title: Wandering into West Cambridge
 categories: [clubs]
 status: Publish
@@ -13,5 +13,5 @@ Across the river Cam about a thirty minute walk away is West Cambridge. This are
 On the way, there are large grassy fields. It was beautiful this afternoon as the sun was lowering.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c92e237d970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c92e237d970b.jpg" %}
 These fields are home to cute hares, magpies, robins, and more. Last time I came here I cycled, but today I walked along it to look for hares. Although I didn't see any in the morning, I saw a robin with a red throat and chest, and it was so cute!

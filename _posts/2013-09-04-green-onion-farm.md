@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Chengyi L
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019105005ce1970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019105005ce1970c.jpg
 title: Green Onions Forever
 categories: [research]
 status: Publish
@@ -12,9 +12,9 @@ date: 2013-09-04
 We still have like 5 bunches of uneaten green onions left. Good luck, Roommate N! Please eat all of the green onions for us! 
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019105006259970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019105006259970c.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901f0a8fad970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901f0a8fad970b.jpg" %}
 So what are we going to do with all the green onions? Make green onion pancakes, of course! 
 
 **What is a green onion pancake? It sounds nasty**.
@@ -34,13 +34,13 @@ After that, flatten the pancake with the palm of your hand. If you do it with a 
 Now it's time to cook it! Heat up oil in a pan in medium-high (the most generic temperature; when in doubt, assume medium high) until the oil is hot/you're too lazy to wait, then stick the pancake in:
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019aff26f487970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019aff26f487970b.jpg" %}
 Flip when the bottom is slightly burnt/it looks cooked argh why is it not becoming slightly burnt. 
 
 **(Protip: If it's not becoming slightly burnt, turn the heat up a little. Or squish the pancake with your spatula.)**
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019aff26ff07970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019aff26ff07970b.jpg" %}
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b019aff27c0c6970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019aff27c0c6970d.jpg" %}
 **Final Verdict: 9/10 why can I never get the texture correct (it's delicious though)**
 

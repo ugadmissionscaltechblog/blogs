@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Alex Krikorian
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b011570b0a060970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011570b0a060970b.jpg
 title: Ditch Day Successful!!
 categories: [culture]
 status: Publish

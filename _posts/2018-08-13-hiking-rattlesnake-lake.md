@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad38856c5200d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad38856c5200d.jpg
 title: Hiking Rattlesnake Lake
 categories: [clubs]
 status: Publish
@@ -13,4 +13,4 @@ One of my friends from Seattle recommended that I hike Rattlesnake Lake and Snow
 Right next to the lake is a steep 2 mile trail that heads up to the closest peak, where you get an amazing view of the lake below and the surrounding mountains! It is a pretty short hike, but there are other longer trails around the lake. Unfortunately some of us had to get back to Seattle in time for dinner, so we headed back down after reaching this summit. It's really an amazing view though, and even visiting the lake for a picnic and a swim would be worth it :)
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01b8d28f2857970c022ad3a815b5200b-pi.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2857970c022ad3a815b5200b-pi.jpg" %}

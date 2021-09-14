@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Lori Dajose
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0163042984e3970d.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0163042984e3970d.jpg
 title: A Recap of PFW 
 categories: [culture]
 status: Publish
@@ -17,26 +17,26 @@ Each House holds a lot of special events. For example, Ricketts hosted an open m
 We also turned the fabulous room 119 into A GIGANTIC HOT TUB. Everything--beds, chairs, inhabitants--was removed from the room, the floor and walls were covered in plastic, and the entire thing was filled halfway with water.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01630429b2be970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01630429b2be970d.jpg" %}
 *The moral of the story is that Techers like to go all out on things.*
 
 Although the PFW slogan was "It's bright here," for Thursday and Friday there was nothing but thunderclouds and pouring rain. (Personally, I loved it. I've grown up in super sunny Cali and so gray skies are really nice. I think something about having the combination of coffee and rain is very conducive to thought.)
 But just to make sure you don't think we're deceiving you with the promises of eternal sunshine, here are some pictures from earlier in the week, when in between classes my best friend Caroline and I frolicked in the grass by Millikan Library.
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0167651d92bb970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0167651d92bb970b.jpg" %}
 *Millikan Pond*
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0167651d9355970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0167651d9355970b.jpg" %}
 ***ROSES ARE PRETTY &lt;3***
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01630429795d970d.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01630429795d970d.jpg" %}
 *This building is non-eponymously named Bridge. It's home to a lot of physics classes.*
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0168ea1f2620970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0168ea1f2620970c.jpg" %}
 
 *And here is the lovely Millikan Library, home to a lot of books. Anybody know what Millikan was famous for?*
 

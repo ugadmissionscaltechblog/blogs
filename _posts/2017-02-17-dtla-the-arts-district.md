@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://ug-admissions-caltech-blog-dev.s3.us-west-1.amazonaws.com/old_pictures/6a01a73d94d1a8970d01bb097a2588970d-pi.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01a73d94d1a8970d01bb097a2588970d-pi.jpg
 title: DTLA
 categories: [research]
 status: Publish

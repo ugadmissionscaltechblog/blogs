@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Slwright13
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0176170e2b98970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0176170e2b98970c.jpg
 title: The Ins and Outs of the BRC
 categories: [research]
 status: Publish
@@ -16,16 +16,16 @@ Here are some different views!
 Looking up from the ground...
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0167691948f5970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0167691948f5970b.jpg" %}
 ...looking out from the 6th floor at downtown with the Medical Centers on the right (can you spot that molecule again?)
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0176170e2c77970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0176170e2c77970c.jpg" %}
 View from the office
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b016769194ba4970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b016769194ba4970b.jpg" %}
 Typical lab stuff :)
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b016769194ac8970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b016769194ac8970b.jpg" %}
 It's a really nice building and reminds me of the new buildings at Tech. Thanks to the Honor Code, we can get access to a lot of buildings after hours using our ID card or a key. That means I can use empty classrooms and lounge areas in fancy new buildings to study and take exams - an environment I find preferable to a crowded library during exam weeks. There have been quite a few buildings partially or completely renovated in the last 5-6 years - they all look really cool with lots of glass and a modern feel. I especially like the ones that have kept the classic architecture on the outside but look nice and new inside.
 
 Hope your summers are going well!

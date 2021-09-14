@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kt Brennan
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0134876db551970c.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0134876db551970c.jpg
 title: Latrines and edema
 categories: [research]
 status: Publish
@@ -17,11 +17,11 @@ Below are pictures of a boy we treated the day after we were in Namandaje. The b
 
 This boy has severe edema. His face is so swollen that his left eye can't even open. 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0134876dd39d970c.jpg" %}This is the boy's foot after I pressed my thumb for five seconds. 
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0134876dd39d970c.jpg" %}This is the boy's foot after I pressed my thumb for five seconds. 
  
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0134876dd87c970c.jpg" %}Given the effectiveness of the peanut based food, RUTF, that we give out at Chiponde Clinic, this boy will very likely recover fully from this acute bout of malnutrition within two months. Having seen this boy last fortnight, I can gladly say that his edema is actually resolving! 
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0134876dd87c970c.jpg" %}Given the effectiveness of the peanut based food, RUTF, that we give out at Chiponde Clinic, this boy will very likely recover fully from this acute bout of malnutrition within two months. Having seen this boy last fortnight, I can gladly say that his edema is actually resolving! 
 I've been at clinic long enough to be able to see children I enrolled with edema look healthy again and to see very skinny children look a bit chubby. It's all very exciting!
 Kate
 

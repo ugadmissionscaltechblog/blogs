@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Tyler Hannasch
-image: https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0115702e1a8a970b.jpg
+image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0115702e1a8a970b.jpg
 title: ELECTIONS!!!!
 categories: [research]
 status: Publish
@@ -151,11 +151,11 @@ the beach (pics below)!
 This is the Santa Monica Pier
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156f377971970c.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156f377971970c.jpg" %}
 This is Grace and her boyfriend Alex (nice pose) :)
 
 
-{% include image.html img="https://ug-admissions-caltech-blog-dev.s3-us-west-1.amazonaws.com/old_pictures/caltech_as_it_happens/6a0105349b8251970b0115702e1b28970b.jpg" %}
+{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0115702e1b28970b.jpg" %}
 Until next time!
 "Quantum Mechanics: The dreams stuff is made of"
 
