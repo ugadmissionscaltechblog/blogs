@@ -1,6 +1,6 @@
 ---
 title: Isha Chakraborty
-author: ishachakraborty
+author: Isha Chakraborty
 image: https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/profile_pics/ishachakraborty_squareheadshot.jpg 
 option: Computer Science 
 house: Page
