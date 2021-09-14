@@ -17,7 +17,7 @@
         {% if post.id and post.categories %}
           <div class="uk-text-uppercase article-title-font card-categories">
             {% for category in post.categories %}
-                <a class="link-primary" href="{{ site.baseurl }}/category/{{ category }}">{{category}}</a>
+                <a class="link-primary" href="{{ site.url }}/category/{{ category }}">{{category}}</a>
                 {% unless forloop.last %}{% endunless %}
             {% endfor %}
           </div>
@@ -25,7 +25,7 @@
       <h3 class="card-title-small article-title-font"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
       <div class="content-secondary">{{ post.excerpt }}</div>
       <div class="card-meta">
-        {{ site.strings.author_by | default: 'By' }} <b><a href="{{ site.baseurl }}/{{ author.url }}" rel="author" title="{{ author.title }}">{{ author.title }}</a></b>
+        {{ site.strings.author_by | default: 'By' }} <b><a href="{{ site.url }}/{{ author.url }}" rel="author" title="{{ author.title }}">{{ author.title }}</a></b>
         <time class="uk-margin-small-left" datetime="{{ post.date | date_to_xmlschema }}">
           {% assign date_format = site.date_format | default: "%b %-d, %Y" %}
           {{ post.date | date: date_format }}
