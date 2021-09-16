@@ -1,6 +1,6 @@
 ---
 title: Isha Chakraborty
-author: Isha Chakraborty
+username: Isha Chakraborty
 image: https://d24slhcvzhzz82.cloudfront.net/profile_pics/ishachakraborty_squareheadshot.jpg 
 option: Computer Science 
 house: Page

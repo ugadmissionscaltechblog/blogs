@@ -1,6 +1,6 @@
 ---
 title: Jen Yu 
-author: jenyu7
+username: jenyu7
 image: https://d24slhcvzhzz82.cloudfront.net/profile_pics/jenyu7.png
 option: Computer Science 
 house: Fleming 

@@ -1,6 +1,6 @@
 ---
 title: Arielle Tycko
-author: Arielle Tycko
+username: Arielle Tycko
 option: Computation & Neural Systems 
 house: Page
 image: https://d24slhcvzhzz82.cloudfront.net/profile_pics/arielle_tycko.jpeg
