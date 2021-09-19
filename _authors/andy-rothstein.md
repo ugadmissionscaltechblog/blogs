@@ -1,9 +1,10 @@
 ---
 title:          Andy Rothstein
 username:       andy
-image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/arothstein.png
+image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/arothstein.jpeg
 option:         Physics
 house:          Lloyd
+class:          2021
 meet:           false
 ---
 
