@@ -1,7 +1,7 @@
 ---
 title:          Sydney Richardson
 username:       sydney
-image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/srichardson2.jpg
+image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/sydney_richardson.jpg
 option:         Mechanical Engineering
 house:          Fleming
 class:          2022

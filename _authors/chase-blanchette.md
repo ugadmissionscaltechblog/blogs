@@ -3,7 +3,7 @@ title:          Chase Blanchette
 username:       Chase Blanchette
 option:         Electrical Engineering 
 house:          Ruddock
-image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/chase_blanchette.JPG
+image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/chase_blanchette.jpg
 youtube:        https://www.youtube.com/thergmguy01
 meet:           true
 class:          2023

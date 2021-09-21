@@ -1,7 +1,7 @@
 ---
 title:          Andrew Chan
 username:       Andrew
-image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/achan2.png
+image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/andrew_chan.jpg
 option:         Geophysics + English
 house:          Fleming
 class:          2021

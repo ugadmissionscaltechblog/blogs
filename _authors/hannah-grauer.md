@@ -3,7 +3,7 @@ title:          Hannah Grauer
 username:       Hannah Grauer
 option:         Electrical Engineering
 house:          Page 
-image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/hannah_grauer.jpeg 
+image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/hannah_grauer.jpg 
 meet:           false
 class:          2023
 ---

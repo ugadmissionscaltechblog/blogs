@@ -1,7 +1,7 @@
 ---
 title:          Annabel Reyna Gomez
 username:       annabel
-image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/agomez.JPG
+image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/annabel_gomez.jpg
 option:         Mechanical Engineering
 house:          Ruddock
 class:          2023

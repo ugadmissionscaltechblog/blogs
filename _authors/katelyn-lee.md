@@ -3,7 +3,7 @@ title:          Katelyn Lee
 username:       Katelyn Lee
 house:          Lloyd
 option:         Bioengineering
-image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/KL_profile.jpg
+image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/katelyn_lee.jpg
 class:          2023
 ---
 

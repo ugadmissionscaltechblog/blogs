@@ -1,7 +1,7 @@
 ---
 title:          Tyler Colenbrander
 username:       Tyler Colenbrander
-image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/tyler-colenbrander.jpg
+image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/tyler_colenbrander.jpg
 option:         Electrical Engineering 
 house:          Ruddock 
 meet:           true
