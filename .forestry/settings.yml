@@ -9,17 +9,14 @@ sections:
   label: Authors
   create: all
   match: "**/*"
+- type: jekyll-posts
+  label: Posts
+  create: all
 - type: directory
   path: _category
   label: Category
   create: all
   match: "**/*"
-- type: jekyll-posts
-  label: Posts
-  create: all
-- type: jekyll-pages
-  label: Pages
-  create: all
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
