@@ -1,0 +1,24 @@
+---
+label: post_template
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+- type: list
+  name: categories
+  label: categories
+- type: file
+  name: image
+  label: image
+- type: datetime
+  name: date
+  label: date
+pages:
+- _posts/2021-09-22-hello-stranger.md
