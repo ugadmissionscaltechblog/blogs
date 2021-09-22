@@ -6,20 +6,17 @@ fields:
   name: layout
   label: layout
 - type: text
-  name: author
-  label: author
-- type: file
-  name: image
-  label: image
-- type: text
   name: title
   label: title
+- type: text
+  name: author
+  label: author
 - type: list
   name: categories
   label: categories
-- type: text
-  name: status
-  label: status
+- type: file
+  name: image
+  label: image
 - type: datetime
   name: date
   label: date
