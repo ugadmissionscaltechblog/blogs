@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2021-09-22-hello-stranger
+title: Hello You
 author: Brian Nguyen
 categories:
 - academics
