@@ -1,4 +1,14 @@
 ---
 label: post_template
 hide_body: false
-fields: []
+fields:
+- name: filename
+  type: text
+  config:
+    required: false
+  label: filename
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
