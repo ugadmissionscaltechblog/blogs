@@ -14,8 +14,10 @@ fields:
 - type: list
   name: categories
   label: categories
-- type: file
-  name: image
+- name: image
+  type: text
+  config:
+    required: false
   label: image
 - type: datetime
   name: date
