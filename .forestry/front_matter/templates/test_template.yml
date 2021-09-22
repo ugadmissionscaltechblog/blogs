@@ -1,0 +1,25 @@
+---
+label: test_template
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: author
+  label: author
+- type: file
+  name: image
+  label: image
+- type: text
+  name: title
+  label: title
+- type: list
+  name: categories
+  label: categories
+- type: text
+  name: status
+  label: status
+- type: datetime
+  name: date
+  label: date
