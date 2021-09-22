@@ -1,5 +1,5 @@
 ---
-label: test_template
+label: post_template
 hide_body: false
 fields:
 - type: text
