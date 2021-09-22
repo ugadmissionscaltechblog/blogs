@@ -3,7 +3,7 @@ layout: post
 title: "Senior Send-Off" 
 categories: [academics]
 author: andy
-image: https://d24slhcvzhzz82.cloudfront.net/images/2021/06/Senior+Ambassadors+2021.PNG
+image: https://d24slhcvzhzz82.cloudfront.net/images/2021/06/Senior+Ambassadors+2021.jpeg
 featured: true
 comments: true
 hidden: true
