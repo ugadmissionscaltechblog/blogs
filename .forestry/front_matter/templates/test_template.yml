@@ -20,3 +20,5 @@ fields:
 - type: datetime
   name: date
   label: date
+pages:
+- _posts/hello-world.md
