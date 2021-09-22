@@ -12,3 +12,5 @@ fields:
   config:
     required: false
   label: title
+pages:
+- _posts/hello-world.md
