@@ -2,8 +2,12 @@
 layout: default
 ---
 
-{% assign current_class = 'now' | date: '%Y' %}
-{% assign current_class = current_class | plus: 0 %}
+<!-- 
+  Get the current date as a fraction of the entire year
+-->
+{% assign month = 'now' | date: '%m' | times: 1.0 | divided_by: 12 | round: 2%}
+{% assign year = 'now' | date: '%Y' | plus: 0%}
+{% assign current_class = year | plus: month %}
 
 <div class="uk-container uk-margin-medium-bottom uk-margin-xlarge-top">
   <hr class="uk-margin-remove-top">
@@ -15,18 +19,26 @@ layout: default
   <h1 class="uk-margin-large uk-margin-large-bottom uk-heading-line uk-text-center uk-heading-small"><span>Current</span></h1>
   <div class="uk-margin-small-top uk-grid-column-small uk-grid-row-large uk-child-width-1-3@s uk-text-center uk-grid-divider" uk-grid>
     {% for author in site.authors %}
-      {% if author.class >= current_class %}
+      {% assign class = author.class | plus: 0.58 %}
+      {% if class > current_class %}
         {% include content-author.html %}
       {% endif %}
     {% endfor %}
   </div>
 </div>
 
+<!--
+  Seniors graduate at the end of June (beginning of July). So if the current 
+  date is past July of that editor's graduating year, then set the editor as
+  a previous blogger.
+-->
+
 <div class="uk-container uk-container-small uk-margin-medium-bottom">
-  <h2 class="uk-heading-line uk-text-center"><span>Previous</span></h2>
+  <h1 class="uk-margin-large uk-margin-large-bottom uk-heading-line uk-text-center"><span>Previous</span></h1>
   <div class="uk-grid-column-small uk-grid-row-large uk-child-width-1-3@s uk-text-center uk-grid-divider" uk-grid>
     {% for author in site.authors %}
-      {% if author.class < current_class %}
+      {% assign class = author.class | plus: 0.58 %}
+      {% if class <= current_class and author.image %}
         {% include content-author.html %}
       {% endif %}
     {% endfor %}
