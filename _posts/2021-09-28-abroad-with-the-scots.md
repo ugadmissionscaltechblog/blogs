@@ -1,6 +1,6 @@
 ---
 title: Abroad with the Scots
-author: camila-buitrago
+author: Camila Buitrago 
 image: https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/images/2021/09/mZF8E.heic
 categories: [study abroad,international]
 date: 2021-09-28
