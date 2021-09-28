@@ -1,14 +1,14 @@
 ---
 title: Abroad with the Scots
-author: Camila Buitrago 
-image: https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/images/2021/09/mZF8E.heic
-categories: [study abroad,international]
+author: Camila Buitrago
+image: https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/images/2021/09/arthur.jpg
+categories: [study abroad,global]
 date: 2021-09-28
 ---
 
 "After a year spent in “soft-lockdown” at home in Atlanta, and as Caltech students prepared to finally return to campus, I was aboard an eight hour flight towards Edinburgh, Scotland. Since my junior year plans were interrupted by *the virus who shall not be named*, I’m spending my first term of senior year studying abroad through the Caltech - Edinburgh University International Exchange program. I’ve only been here just over a week yet have been exposed to so many new people, perspectives, foods, and classes."
 
-{% include image.html img="https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/images/2021/09/IMG_8464.HEIC" %} "A view of the city from Arthur's Seat"
+{% include image.html img="https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/images/2021/09/city.jpg"%} "A view of the city from Arthur's Seat"
 
 # Lots of Buses, Bagpipes, and Beer
 
