@@ -17,15 +17,10 @@ fields:
 - type: datetime
   name: date
   label: date
-- name: image1
-  type: text
-  config:
-    required: false
-  label: image1
-- name: image2
+- name: image
   type: file
   config:
     maxSize: 64
-  label: image2
+  label: image
 pages:
 - _posts/2021-09-30-hello-world.md
