@@ -1,9 +1,9 @@
 ---
-title:          Jen Yu 
-username:       jenyu7
+title:          Jen Yu
+username:       Jen Yu
 image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/jen_yu.jpg
-option:         Computer Science 
-house:          Fleming 
+option:         Computer Science
+house:          Fleming
 meet:           false
 class:          2023
 ---
