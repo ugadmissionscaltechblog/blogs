@@ -4,7 +4,7 @@ title: Hello World 3
 author: Jen Yu
 categories: []
 date: 2021-09-30 07:00:00 +0000
-image: images/Optimized-6a0105349b8251970b0240a4d6d170200b-2.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/images/Optimized-6a0105349b8251970b0240a4d6d170200b-2.jpg
 
 ---
 It's so easy!
