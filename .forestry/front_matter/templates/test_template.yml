@@ -28,4 +28,4 @@ fields:
     maxSize: 64
   label: image2
 pages:
-- _posts/hello-world.md
+- _posts/2021-09-30-hello-world.md
