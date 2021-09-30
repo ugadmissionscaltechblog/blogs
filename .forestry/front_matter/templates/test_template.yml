@@ -17,18 +17,15 @@ fields:
 - type: datetime
   name: date
   label: date
-- name: image1
+- name: image
   type: text
   config:
     required: false
-  label: image1
-- name: image2
-  type: file
-  config:
-    maxSize: 64
-  label: image2
+  label: image
+  description: 1) Optimize your images at <a href="http://www.imageoptimizer.net/Pages/Home.aspx"
+    title="Image Optimizer" target="_blank">http://www.imageoptimizer.net/Pages/Home.aspx</a>
+    and <a href="https://tinypng.com" title="Tinypng" target="_blank">https://tinypng.com</a><br>2)
+    Upload to AWS and <strong>make public</strong> <br>3) Replace "https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com"
+    with "https://d24slhcvzhzz82.cloudfront.net"
 pages:
-- _posts/2021-09-22-hello-stranger.md
-- _posts/2021-09-22-test123.md
-- _posts/test1.md
-- _posts/test2.md
+- _posts/2021-09-30-hello-world-3.md

@@ -17,10 +17,10 @@ sections:
   label: Authors
   create: all
   match: "**/*"
-upload_dir: images
-public_path: https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com
-front_matter_path: https://d24slhcvzhzz82.cloudfront.net
-use_front_matter_path: true
+upload_dir: ''
+public_path: ''
+front_matter_path: ''
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_env:
