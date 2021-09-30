@@ -22,10 +22,10 @@ fields:
   config:
     required: false
   label: image
-  description: 1. Optimize your images at <a href="http://www.imageoptimizer.net/Pages/Home.aspx"
+  description: 1) Optimize your images at <a href="http://www.imageoptimizer.net/Pages/Home.aspx"
     title="Image Optimizer" target="_blank">http://www.imageoptimizer.net/Pages/Home.aspx</a>
-    and <a href="https://tinypng.com" title="Tinypng" target="_blank">https://tinypng.com</a><br>2.
-    Upload to AWS and <strong>make public</strong> <br>3. Replace "https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com"
+    and <a href="https://tinypng.com" title="Tinypng" target="_blank">https://tinypng.com</a><br>2)
+    Upload to AWS and <strong>make public</strong> <br>3) Replace "https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com"
     with "https://d24slhcvzhzz82.cloudfront.net"
 pages:
 - _posts/2021-09-30-hello-world-2.md
