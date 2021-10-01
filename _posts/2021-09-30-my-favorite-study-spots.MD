@@ -4,6 +4,7 @@ title: "My Favorite Study Spots"
 author: Jen Yu
 categories: [ Academics ]
 image: https://d24slhcvzhzz82.cloudfront.net/images/2021/jen/study/gene_pool.jpeg
+date: 2021-09-30
 ---
 
 As the first week of fall term whizzes past, many of us are beginning to feel the schoolwork kick into high gear. While Rotation, the process through which freshmen choose their houses, wraps up, we can begin to discuss some relaxing study spots on campus. Studying is not everyone’s favorite activity but it can be synonymous with learning — and having fun! Here are a few of my favorite places. I’ve also rated each area out of three stars on various factors to give a better picture of each space.
