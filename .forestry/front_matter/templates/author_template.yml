@@ -1,4 +1,60 @@
 ---
 label: author_template
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+  description: Enter your full name.
+- name: username
+  type: text
+  config:
+    required: false
+  label: username
+  description: 'If a previous or existing author shares your name, enter a unique
+    username. This will be the name you sign off all your posts on. For example, if
+    your username is <strong>Jane Doe</strong>, then on all your posts the author
+    needs to be <strong>Jane Doe</strong>.<br><br>---<br>title: This is a title for
+    a blog post<br><strong>author: Jane Doe<br></strong>---'
+- name: option
+  type: text
+  config:
+    required: false
+  label: option
+  description: If you have a long major name, consider abbreviating it. This is true
+    of double majoring too i.e CS + BEM.
+- name: house
+  type: text
+  config:
+    required: false
+  label: house
+  description: Enter your house/hovse.
+- name: meet
+  type: text
+  config:
+    required: false
+  label: meet
+  description: If you want/are allowed to be added to the "Meet the Bloggers" row
+    on the homepage, put true. Else, put <strong>false</strong>.
+- name: class
+  type: text
+  config:
+    required: false
+  label: class
+  description: Enter your graduating class year.
+- name: image
+  type: text
+  config:
+    required: false
+  label: image
+  description: Needs to be optimized and then uploaded to AWS. If you're up to this
+    stage and don't know what to do, pause and head back to the Google Doc.
+- name: pronouns
+  type: text
+  config:
+    required: false
+  label: pronouns
+  description: If you feel comfortable with it, enter your pronouns. You can leave
+    this blank if you don't want to too.
