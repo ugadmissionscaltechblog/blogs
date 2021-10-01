@@ -6,7 +6,6 @@ categories:
 - study abroad
 - global
 date: 2021-09-28
-
 ---
 After a year spent in “soft-lockdown” at home in Atlanta, and as Caltech students prepared to finally return to campus, I was aboard an eight hour flight towards Edinburgh, Scotland. Since my junior year plans were interrupted by _the virus who shall not be named_, I’m spending my first term of senior year studying abroad through the Caltech - Edinburgh University International Exchange program. I’ve only been here just over a week yet have been exposed to so many new people, perspectives, foods, and classes.
 
