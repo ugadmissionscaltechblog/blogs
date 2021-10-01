@@ -44,13 +44,6 @@ fields:
     required: false
   label: class
   description: Enter your graduating class year.
-- name: image
-  type: text
-  config:
-    required: false
-  label: image
-  description: Needs to be optimized and then uploaded to AWS. If you're up to this
-    stage and don't know what to do, pause and head back to the Google Doc.
 - name: pronouns
   type: text
   config:
@@ -58,3 +51,10 @@ fields:
   label: pronouns
   description: If you feel comfortable with it, enter your pronouns. You can leave
     this blank if you don't want to too.
+- name: image
+  type: text
+  config:
+    required: false
+  label: image
+  description: Needs to be optimized and then uploaded to AWS. If you're up to this
+    stage and don't know what to do, pause and head back to the Google Doc.
