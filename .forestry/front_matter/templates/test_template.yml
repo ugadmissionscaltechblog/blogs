@@ -29,4 +29,4 @@ fields:
     Upload to AWS and <strong>make public</strong> <br>3) Replace "https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com"
     with "https://d24slhcvzhzz82.cloudfront.net"
 pages:
-- _posts/2021-10-10-the-road-to-grad-school-(and-unsolicited-life-advice).md
+- _posts/2021-10-10-t-minus-x-days-to-grad-school-(and-unsolicited-life-advice).md
