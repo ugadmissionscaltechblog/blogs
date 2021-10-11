@@ -4,10 +4,14 @@ title: 'From San Diego to Brooklyn: My Summer 2021 SURF Experience'
 author: Arielle Tycko
 categories: []
 date: 2021-10-11 21:00:00 +0000
-image: ''
+image: https://d24slhcvzhzz82.cloudfront.net/images/2021/10/brooklyn view.jpg
 
 ---
 This summer, from the confines of my Brooklyn apartment, you could find me typing away on a tiny 13-inch laptop screen. At times I was looking for answers on countless Stack Exchange pages, editing a Jupyter notebook, or making blood flow measurements on a software called Arterys. This was my 2021 Summer Undergraduate Research Experience (SURF) experience.
+
+[https://d24slhcvzhzz82.cloudfront.net/images/2021/10/arterys.jpg](https://d24slhcvzhzz82.cloudfront.net/images/2021/10/arterys.jpg)
+
+_This image shows how we label vessels using the Arterys software. The measurement shown is the blood flow through this particular vessel, which is the aorta._
 
 Over the past few months, I’ve been doing research remotely for Dr. Albert Hsiao’s lab at the University of California, San Diego. Dr. Hsiao is a Caltech alum-- and a current MD/PhD and practicing radiologist-- who offers SURFs in his lab to current Caltech undergrads every summer. His lab focuses on using deep learning techniques to automate radiological analyses. My SURF project focused on analysis of a particular type of MRI images called 4D Flow, which provides both 3D anatomical information as well as blood flow velocity information (the fourth dimension). In the context of cardiology, this technology provides key diagnostic information for patients with congenital heart disease. Radiologists typically use 4D Flow MRI to generate images that they then use to manually perform blood flow measurements.
 
