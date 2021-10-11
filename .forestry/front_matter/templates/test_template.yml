@@ -28,3 +28,5 @@ fields:
     and <a href="https://tinypng.com" title="Tinypng" target="_blank">https://tinypng.com</a><br>2)
     Upload to AWS and <strong>make public</strong> <br>3) Replace "https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com"
     with "https://d24slhcvzhzz82.cloudfront.net"
+pages:
+- _posts/the-road-to-grad-school-and-some-unsolicited-life-lessons.md
