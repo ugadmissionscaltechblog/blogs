@@ -2,7 +2,8 @@
 layout: post
 title: 'From San Diego to Brooklyn: My Summer 2021 SURF Experience'
 author: Arielle Tycko
-categories: []
+categories:
+- Research
 date: 2021-10-11 21:00:00 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/images/2021/10/brooklyn view.jpg
 
