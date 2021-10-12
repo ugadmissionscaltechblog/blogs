@@ -18,8 +18,15 @@ fields:
   config:
     use_select: true
     source:
-      type: documents
+      type: simple
       section: category
+    options:
+    - academics
+    - research
+    - global
+    - local
+    - clubs
+    - culture
 - type: datetime
   name: date
   label: date
