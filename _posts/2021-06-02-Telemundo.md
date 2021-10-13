@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "Paving the Way & Enjoying the Journey on the Road Less Traveled"
-categories: [research]
+title: Paving the Way & Enjoying the Journey on the Road Less Traveled
+categories:
+- research
 author: annabel
 image: https://d24slhcvzhzz82.cloudfront.net/images/2021/D72B3CE5-4A42-4FA8-84B0-1AB71C3BCD47.jpeg
 featured: true
 hidden: true
+
 ---
+Almost a year ago now, I was just about to start my first Summer Undergraduate Research Fellowship  (SURF) at JPL. NASA had sent out an email to all of their summer interns containing a social media template to announce that we had been selected as NASA interns. Excited to show my NASA pride, I posted it on my Instagram story, unaware of what would come out of this small action.
 
-Almost a year ago now, I was just about to start my first Summer Undergraduate Research Fellowship  (SURF) at JPL. NASA had sent out an email to all of their summer interns containing a social media template to announce that we had been selected as NASA interns. Excited to show my NASA pride, I posted it on my Instagram story, unaware of what would come out of this small action. 
-
-My friends and family were all very proud and happy to hear about my accomplishment. In fact, my aunt wanted to repost my story to show off my achievement to her friends. Then, a few days later, I wake up (at a reasonable time for a Caltech student in the summer), with my messy, curly hair to my mom on the phone telling me that the news station would like to do a story on me; like now, about my JPL internship. Obviously, I didn’t want to be interviewed in my pajamas and didn’t believe her at first; I thought that it was just a joke. However, after further investigation, it turned out that one of my aunt’s followers is a reporter at a Telemundo news station and saw my aunt’s story about me. (Telemundo is one of the two national Spanish stations.) Fast  forward two months and many obstacles due to COVID, I finally conducted my interview. 
+My friends and family were all very proud and happy to hear about my accomplishment. In fact, my aunt wanted to repost my story to show off my achievement to her friends. Then, a few days later, I wake up (at a reasonable time for a Caltech student in the summer), with my messy, curly hair to my mom on the phone telling me that the news station would like to do a story on me; like now, about my JPL internship. Obviously, I didn’t want to be interviewed in my pajamas and didn’t believe her at first; I thought that it was just a joke. However, after further investigation, it turned out that one of my aunt’s followers is a reporter at a Telemundo news station and saw my aunt’s story about me. (Telemundo is one of the two national Spanish stations.) Fast  forward two months and many obstacles due to COVID, I finally conducted my interview.
 
 I was really excited to share my interview with my friends, family, and peers. More importantly, I knew the interview was in Spanish and would be viewed by many Hispanic families. My goal was to inspire and encourage other Latino girls to dream big and work hard towards their goals. Being the daughter of two Mexican immigrants, and the first female in my family to pursue a career in STEM, I know how hard it can be to have big dreams when everyone around you is expecting you to fail. I have encountered many people who think that Latinas aren’t destined for success, especially in a male dominated fields. I was happy to be an example proving that Latinas can also thrive in STEM. I hope that other girls who want to pursue STEM and/or higher education watch my interview and understand that the most important thing is that they believe in themselves because they’re not always going to have the support of their community. It’s not easy but it’s also not impossible. It takes a lot of focus, determination, sacrifice and persistence. Overall, I hope to be an example of the fact that students, scientists, and engineers come in many forms and from different backgrounds. In addition to that, it’s not necessary to be a genius to succeed in STEM; what matters the most is that you are passionate. Latinas have the ability to realize all of their dreams and goals if they are willing to put in the work required.
 
@@ -20,4 +21,4 @@ I was excited to conduct this interview and would be happy if it could potential
 
 Even now, I take every chance I get to present my Caltech, SURF, or research experience. I enjoy connecting with prefrosh and prospective students and have spoken at SURF, UpClose, and Prefrosh Experience (PFE) events (you can see me in 2021's PFE below!). I also appreciate being there to clarify any of the uncertainties students may have. In general, the college application process is difficult, and even more so when you’re the first in your family to go through the process. From my experience, I understand the importance of seeing someone from a similar background doing something you aspire to do. In fact, it was when I participated in UpClose that I realized the diverse and family-like community at Caltech. I hope to also help in making someone’s decision to come to Caltech a little bit easier <3
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aNaSqu-_pVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/tS9aAC_XVmY](https://www.youtube.com/embed/tS9aAC_XVmY "https://www.youtube.com/embed/tS9aAC_XVmY")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
