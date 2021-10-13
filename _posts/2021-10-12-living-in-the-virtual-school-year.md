@@ -6,7 +6,7 @@ author: Tyler Colenbrander
 categories:
 - culture
 date: 2021-10-12 19:00:00 +0000
-
+youtubeId: tS9aAC_XVmY
 ---
 This past year was so different than most of us could have ever imagined. Living in “the virtual school year” posed a plethora of challenges, but at the same time, it opened the door to new possibilities. As a society, we learned how to better operate in a virtual world, and as individuals, we had time for new endeavors. For myself, this meant taking the leap of faith to move away from home and live with some fellow Techers. While I had already had the experience of moving away from home and coming to live in the Caltech houses, this was quite different. Instead of living in organized student residences with hundreds of other students, a meal plan, and tons of support resources, I was about to go live with just 5 other people (some of which I did not know super well) and we had to find and manage our own housing, food, and necessities.
 
@@ -29,4 +29,4 @@ For winter term, 7 of us (our group grew!) lived in Ann Arbor, MI in a giant hou
 
 Lastly, for spring term, 4 of us came back to California to live in Running Springs, CA, which is near Lake Arrowhead in the San Bernardino Mountains. With COVID-19 restrictions easing up around this time due to the introduction of the vaccine, we were also able to say hi to some friends living in Pasadena on some weekends! Overall, the past year was certainly not what I expected, but I still was able to have an amazing time due to my peers at Caltech, both those who I was living with and those who I interacted with virtually. I made a video with pictures from the whole year to show a quick glimpse into what life was like, which you can view here:
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/tS9aAC_XVmY](https://www.youtube.com/embed/tS9aAC_XVmY "https://www.youtube.com/embed/tS9aAC_XVmY")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtubePlayer.html id=page.youtubeId %}
