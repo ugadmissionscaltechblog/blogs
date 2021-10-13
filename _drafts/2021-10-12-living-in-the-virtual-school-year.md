@@ -29,6 +29,4 @@ For winter term, 7 of us (our group grew!) lived in Ann Arbor, MI in a giant hou
 
 Lastly, for spring term, 4 of us came back to California to live in Running Springs, CA, which is near Lake Arrowhead in the San Bernardino Mountains. With COVID-19 restrictions easing up around this time due to the introduction of the vaccine, we were also able to say hi to some friends living in Pasadena on some weekends! Overall, the past year was certainly not what I expected, but I still was able to have an amazing time due to my peers at Caltech, both those who I was living with and those who I interacted with virtually. I made a video with pictures from the whole year to show a quick glimpse into what life was like, which you can view here:
 
-[https://drive.google.com/file/d/15IyQKYGOJdTjDthqKGDOFbXtLHqjOWQK/view?usp=sharing](https://drive.google.com/file/d/15IyQKYGOJdTjDthqKGDOFbXtLHqjOWQK/view?usp=sharing "https://drive.google.com/file/d/15IyQKYGOJdTjDthqKGDOFbXtLHqjOWQK/view?usp=sharing")
-
-\[Picture Slideshow/Video\]
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/tS9aAC_XVmY](https://www.youtube.com/embed/tS9aAC_XVmY "https://www.youtube.com/embed/tS9aAC_XVmY")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
