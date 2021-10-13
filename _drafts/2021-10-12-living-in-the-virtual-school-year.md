@@ -12,7 +12,7 @@ This past year was so different than most of us could have ever imagined. Living
 
 Over the course of three quarters, we lived in Lake Arrowhead, CA, Ann Arbor, MI, and Running Springs, CA. While living on our own wasn’t always easy, I’m glad that I lived with other Techers this past year. These housemates have become some of my best friends, including fellow Admissions Ambassador and blogger, Chase Blanchette! Look for a blog coming from Chase soon where he talks more about the experience of living in different places over the past year!
 
-[https://d24slhcvzhzz82.cloudfront.net/images/2021/10/lake_arrowhead_house.HEIC](https://d24slhcvzhzz82.cloudfront.net/images/2021/10/lake_arrowhead_house.HEIC "https://d24slhcvzhzz82.cloudfront.net/images/2021/10/lake_arrowhead_house.HEIC")
+![https://d24slhcvzhzz82.cloudfront.net/images/2021/10/lake_arrowhead_house.HEIC](https://d24slhcvzhzz82.cloudfront.net/images/2021/10/lake_arrowhead_house.HEIC "https://d24slhcvzhzz82.cloudfront.net/images/2021/10/lake_arrowhead_house.HEIC")
 
 \[Group Picture at Lake Arrowhead House\]
 
