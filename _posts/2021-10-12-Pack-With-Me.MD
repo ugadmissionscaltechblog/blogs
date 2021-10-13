@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pack With Me!" 
-author: isha chakraborty
+author: Isha Chakraborty
 categories: [ Student Life ]
 image: https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/images/2021/isha/JamieAlexRoom.jpeg
 ---
