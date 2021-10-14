@@ -4,7 +4,7 @@ title: T minus X days to Grad School (and some unsolicited life lessons)
 author: Emily Du
 categories:
 - academics
-date: 2021-10-10 07:00:00 +0000
+date: 2021-10-10T07:00:00.000+00:00
 image: ''
 
 ---
@@ -23,4 +23,4 @@ This is quickly becoming just an advice column, so I’ll lean into that. As I�
 * **You’re here to learn.** Don’t worry about appearing uneducated, because compared to your professors and the grad students, you probably are. It’s their job to change that. Ask the stupid questions. Interrupt for clarifications. The fear of looking stupid was paralyzing me for so long. Realizing that it wasn’t necessarily a me problem, but it could also just be that a professor was so familiar with a concept that they didn’t realize they needed to explain things, made my classes and research experiences go so much smoother. 
 * In a similar vein, **don’t be afraid to ask for help.** In the academic sense, this applies to asking your friends, classmates, TAs, even the professor. If you find a class difficult, it’s not a reflection on you at all, that’s because it probably is. They’re meant to challenge you! And outside academics, it’s just as important. Having a bad day? Communicate that. At Caltech, there will always be people watching out for you. I can’t even count the number of times I’ve come back from lab or class and announced that I desperately needed ice cream or boba, and my roommates have declared on the spot that we’d go, regardless of how busy we all were.
 
-That ends my senior citizen moment. Back to the original purpose of this blog post: yes, applying to grad school is stressful. But it's also important to keep in mind that Caltech prepares its students well. I'm incredibly excited to just turn my applications in, and then never think about them again until the results start coming in. December 1st can't come soon enough. 
+That ends my senior citizen moment. Back to the original purpose of this blog post: yes, applying to grad school is stressful. But it's also important to keep in mind that Caltech prepares its students well. I'm incredibly excited to just turn my applications in, and then never think about them again until the results start coming in. December 1st can't come soon enough.
