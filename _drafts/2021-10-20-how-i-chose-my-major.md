@@ -18,10 +18,16 @@ Unfortunately, I kept coming back to the same few majors, and the time to declar
 
 [https://d24slhcvzhzz82.cloudfront.net/images/2021/10/GTL](https://d24slhcvzhzz82.cloudfront.net/images/2021/10/GTL "https://d24slhcvzhzz82.cloudfront.net/images/2021/10/GTL") 2015.PNG
 
-Thanks to all that continual exploration, I finally discovered what major I wanted to take: Mechanical Engineering. I enjoyed the classes way more than I had anticipated and learned that I did not previously have an accurate concept of what it meant to be a mechanical engineer at Caltech. Only through my discussions with professors (who were very knowledgeable and accessible and willing to take the time to discuss with me), and through my exploration of higher-level classes, did I come to this decision. I’ll admit it was a very close toss-up between mechanical and electrical engineering, but I enjoyed the classes and the increased flexibility of MechE slightly more, so my gut told me to go down that path.
+_Caltech's MechE Building!_
+
+Thanks to all that continual exploration, I finally discovered what major I wanted to take: **Mechanical Engineering**. I enjoyed the classes way more than I had anticipated and learned that I did not previously have an accurate concept of what it meant to be a mechanical engineer at Caltech. Only through my discussions with professors (who were very knowledgeable and accessible and willing to take the time to discuss with me), and through my exploration of higher-level classes, did I come to this decision. I’ll admit it was a very close toss-up between mechanical and electrical engineering, but I enjoyed the classes and the increased flexibility of MechE slightly more, so my gut told me to go down that path.
 
 Since then, I haven’t regretted it. As I progress through the classes in my major, I find them more and more interesting, and the experiences I gain through both my theoretical and project classes have greatly fulfilled my expectations. I now greatly enjoy designing and controlling robots for various tasks (but that can be a topic for another time). The underlying mathematics and challenges that stem from these tasks are those which I have found thoroughly fascinating. As a whole, the MechE major has given me tools to understand how systems in our immediate environment, both man-made and natural, work. It turns out that was what I was looking for this whole time.
 
+[https://d24slhcvzhzz82.cloudfront.net/images/2021/10/Shri](https://d24slhcvzhzz82.cloudfront.net/images/2021/10/Shri "https://d24slhcvzhzz82.cloudfront.net/images/2021/10/Shri") Setup.jpg
+
+_My work setup when I'm working on a project. Quite busy, but I'll be having a blast!_
+
 As a senior now I look back. Would I have liked to have known my major coming into Caltech? Absolutely - I only have four years and having known what I wanted to do would help me make the most out of the opportunities available to me here at Caltech.
 
-But would I do anything differently? No. I needed this experience for myself and to convince myself that the path I’m on is the path I want to be on.
+_But would I do anything differently?_ No. I needed this experience for myself and to convince myself that the path I’m on is the path I want to be on.
