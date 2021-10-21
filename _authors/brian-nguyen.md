@@ -14,3 +14,11 @@ I'm obssessed with making the reader's experience more enjoyable, so please let 
 
 Outside of admissions, I love learning about physics, reading fiction, and spending time with family & friends.
 
+{% if site.disqus.shortname %}
+  <div class="uk-container uk-container-small">
+    <hr class="uk-margin-remove-top uk-margin-medium-bottom">
+  </div>
+  <div class="uk-container uk-container-xsmall">
+  {% include disqus-comments.html %}
+</div>
+{% endif %}
