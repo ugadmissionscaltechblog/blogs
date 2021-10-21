@@ -70,7 +70,11 @@ exclude:
   - LICENSE
   - README
   - /docs
-  - [vendor]
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 sass:
   style:            compressed
