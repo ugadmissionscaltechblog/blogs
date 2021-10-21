@@ -10,13 +10,9 @@ Thinking about being back as a Junior at Caltech this year was nothing short of 
 
 Nevertheless, I am very much excited to be back on campus. A lot of things have changed, like the  twice a week COVID-19 testing and the absence of blue books for midterms and finals. Some things never change (favorites including Red Door Caramel Lattes and playing pool in the Page lounge with my friends).  But to get back on campus, I did a lot of planning and shoving things into my suitcases. I may suffer from a very serious condition known as overpacking, but I whittled down my items into a list of essentials to succeed at Caltech. 
 
-This combination of items below are from my own packing list along with some honorable mentions from the wonderful people in my alley. Let’s go through every item together! 
-
-{% include image.html img="https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/images/2021/isha/Items.jpg" %}  
-
+This combination of items below are from my own packing list along with some honorable mentions from the wonderful people in my alley. Let’s go through every item together!
 
 {% include image.html img="https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/images/2021/isha/ItemsNumbered.jpg" %}  
-
 
 *Headphones* - An essential for doing sets in the Sherman Fairchild Library if you’re going to be sitting and working for a long time. Usually, I listen to a combination of R&B and new playlists made by friends. 
 
