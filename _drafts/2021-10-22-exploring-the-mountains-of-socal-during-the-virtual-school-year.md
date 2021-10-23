@@ -3,7 +3,8 @@ layout: post
 image: https://d24slhcvzhzz82.cloudfront.net/images/2021/10/2_pinnacle.jpg
 title: Exploring the Mountains of SoCal during the Virtual School Year
 author: Chase Blanchette
-categories: []
+categories:
+- local
 date: 2021-10-22 16:00:00 +0000
 
 ---
