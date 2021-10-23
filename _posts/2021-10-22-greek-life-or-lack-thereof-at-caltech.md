@@ -19,12 +19,12 @@ All houses and residences are co-ed and have a variety of students living in the
 
 This house system is not only unique but very beneficial to the student population. This system gives students a sense of community and comradery, from a social standpoint. Additionally, due to the rigorous curriculum at Caltech, it is imperative for students to have a support system throughout their four years of college. The house system allows students to interact and collaborate with other students, including upperclassmen, which is essential for students’ success at Caltech.
 
-Here is what my room looks like! 
+Here is what my room looks like!
 
-[https://d24slhcvzhzz82.cloudfront.net](https://d24slhcvzhzz82.cloudfront.net "https://d24slhcvzhzz82.cloudfront.net")/images/2021/10/door.jpg
+![](https://d24slhcvzhzz82.cloudfront.net/images/2021/10/door.jpg)
 
-[https://d24slhcvzhzz82.cloudfront.net](https://d24slhcvzhzz82.cloudfront.net "https://d24slhcvzhzz82.cloudfront.net")/images/2021/10/closet.jpg
+![](https://d24slhcvzhzz82.cloudfront.net/images/2021/10/closet.jpg)
 
-[https://d24slhcvzhzz82.cloudfront.net](https://d24slhcvzhzz82.cloudfront.net "https://d24slhcvzhzz82.cloudfront.net")/images/2021/10/desk.jpg
+![](https://d24slhcvzhzz82.cloudfront.net/images/2021/10/desk.jpg)
 
-[https://d24slhcvzhzz82.cloudfront.net](https://d24slhcvzhzz82.cloudfront.net "https://d24slhcvzhzz82.cloudfront.net")/images/2021/10/wall.jpg
+![](https://d24slhcvzhzz82.cloudfront.net/images/2021/10/wall.jpg)
