@@ -15,8 +15,6 @@ New students at Caltech selected their houses through a unique process we call â
 
 Here is what my room looks like!
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2021/10/door.jpg)
-
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2021/10/closet.jpg)
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2021/10/desk.jpg)
