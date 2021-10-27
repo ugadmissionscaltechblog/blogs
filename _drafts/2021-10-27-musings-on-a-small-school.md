@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/
+image: https://d24slhcvzhzz82.cloudfront.net/images/2021/10/20200118_165359.jpg
 title: Musings on a Small School
 author: Katelyn Lee
 categories:
@@ -17,3 +17,5 @@ To the second point : this question always puzzled me. What I think they mean is
 It's worth noting that the smaller class reduces acceptances from the same or neighboring high schools, a phenomenon in larger colleges which I've noticed can prevent people from mingling outside their familiar high school circles. At Caltech, everyone is new, and just about everyone is new to each other. My closest friends span from all along the East coast to SoCal natives to Midwesterners to Canadians. We have different academic, athletic, and extra curricular interests—I can cheer for my MechE peers as they compete in a robotics competition, watch a women's soccer game and learn about offsides, or attempt ballroom dance with my competition-level dancer friend. I've eaten authentic Turkish delight, Latin American pupusas, and home-made Indian sweets from people in my house (Lloyd house!). I was persuaded by upperclassmen to change my major from Biology to Bioengineering and to learn how to skateboard to class on my Pennyboard. On an academic note, I've spent weekly office hours with the course professor himself in a group of just five people and found myself 3D printing and laser cutting materials to develop a new COVID-19 paper test after one cold email to the principal investigator (PI) of the lab. If it isn't abundantly clear, I haven't found Caltech's small size limiting to my college experience. If anything, a small class affords a large student to faculty ratio that has given me opportunities to talk and work intimately with professors I couldn't have found elsewhere.
 
 What I end up responding to those worried about Caltech's small size is something along these lines: I have only ever attended Caltech, so I can't speak to what attending a larger college is like. But in the end, as an upperclassman friend of mine wisely put, you can only ever have around 5 close friends, give or take, at any sized college. This college of <1000 undergrads just made it easier for me to find those people.
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2021/10/20190923_190301.jpg "Beckman Auditorium at Sunset")![](https://d24slhcvzhzz82.cloudfront.net/images/2021/10/20191119_164404.jpg "Looking for gold at track practice")![](https://d24slhcvzhzz82.cloudfront.net/images/2021/10/20200118_165359.jpg "A study room with a view")
