@@ -14,31 +14,31 @@ This combination of items below are from my own packing list along with some hon
 
 {% include image.html img="https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/images/2021/isha/ItemsNumbered.jpg" %}  
 
-*Headphones* - An essential for doing sets in the Sherman Fairchild Library if you’re going to be sitting and working for a long time. Usually, I listen to a combination of R&B and new playlists made by friends. 
+1. *Headphones* - An essential for doing sets in the Sherman Fairchild Library if you’re going to be sitting and working for a long time. Usually, I listen to a combination of R&B and new playlists made by friends. 
 
-*iPad* - Now that most of our sets and exams are submitted virtually, I’ve found it life-changing to do my assignments on the iPad and submit them directly without having to scan a paper copy. An iPad is also great for sharing notes with friends or screensharing to collaborate on a set. Caltech offers an iPad loaner program for all students, where you can borrow a new iPad for the duration of your time at Caltech. 
+2. *iPad* - Now that most of our sets and exams are submitted virtually, I’ve found it life-changing to do my assignments on the iPad and submit them directly without having to scan a paper copy. An iPad is also great for sharing notes with friends or screensharing to collaborate on a set. Caltech offers an iPad loaner program for all students, where you can borrow a new iPad for the duration of your time at Caltech. 
 
-*Phone Wallet/Keychain Wallet* - Your Caltech ID is necessary for entering buildings and purchasing food across campus, so getting a nifty restickable pocket wallet to put on the back of my phone helps me carry it everywhere I go. 
+3. *Phone Wallet/Keychain Wallet* - Your Caltech ID is necessary for entering buildings and purchasing food across campus, so getting a nifty restickable pocket wallet to put on the back of my phone helps me carry it everywhere I go. 
 
-*Laptop* - My preferred device when I am supposed to be “working”.
+4. *Laptop* - My preferred device when I am supposed to be “working”.
 
-*Chargers/Cables* - I am a fan of the extra long cables (I’m talking 6 to 10 feet) especially if you end up in a Loft Room where the beds are about 7 feet up in the air. This way, I can keep my phone charging at night with my alarms set right next to me. 
+5. *Chargers/Cables* - I am a fan of the extra long cables (I’m talking 6 to 10 feet) especially if you end up in a Loft Room where the beds are about 7 feet up in the air. This way, I can keep my phone charging at night with my alarms set right next to me. 
 
-*Desk Lamp* - Super important for studying at night or during the day if your roommate is sleeping in.
+6. *Desk Lamp* - Super important for studying at night or during the day if your roommate is sleeping in.
  
-*Speaker* - When you just need a little bit of background noise when you’re churning through a set. 
+7. *Speaker* - When you just need a little bit of background noise when you’re churning through a set. 
 
-*Masks* - In the time we live in right now, I like to have a variety of masks at my disposal. I keep them in every bag and in a box on my bookshelf for visitors to wear! 
+8. *Masks* - In the time we live in right now, I like to have a variety of masks at my disposal. I keep them in every bag and in a box on my bookshelf for visitors to wear! 
 
-*Water Bottle* - Caltech has great water filter stations and fountains all over the place so this is super handy if you’re walking between classes.
+9. *Water Bottle* - Caltech has great water filter stations and fountains all over the place so this is super handy if you’re walking between classes.
 
-*Shower Caddy/Shoes* - With almost all students using communal bathrooms, shower shoes and having a caddy of all of your products is a necessity.
+10. *Shower Caddy/Shoes* - With almost all students using communal bathrooms, shower shoes and having a caddy of all of your products is a necessity.
 
-*Slim Hangers* - As a symptom of my overpacking syndrome, I definitely brought more clothes than the average person would need so these slim hangers did the trick! They save a ton of room and are more lightweight. (I got mine from the local Target but they can be found anywhere).
+11. *Slim Hangers* - As a symptom of my overpacking syndrome, I definitely brought more clothes than the average person would need so these slim hangers did the trick! They save a ton of room and are more lightweight. (I got mine from the local Target but they can be found anywhere).
 
-*Winter Jacket/Bathing Suit* - Living in sunny Pasadena is perfect because we are roughly an hour from the mountains, an hour from the beach, and an hour from the snow. Having a jacket and a bathing suit is great in case your house wants to go on an impromptu trip to Manhattan Beach (my favorite around here) or skiing at Big Bear. 
+12. *Winter Jacket/Bathing Suit* - Living in sunny Pasadena is perfect because we are roughly an hour from the mountains, an hour from the beach, and an hour from the snow. Having a jacket and a bathing suit is great in case your house wants to go on an impromptu trip to Manhattan Beach (my favorite around here) or skiing at Big Bear. 
 
-*Laundry Basket (with straps)* - My freshman year, I quickly realized that lugging my hamper down multiple flights of stairs was not fun in the slightest so I fashioned some straps to wear it as a backpack.
+13. *Laundry Basket (with straps)* - My freshman year, I quickly realized that lugging my hamper down multiple flights of stairs was not fun in the slightest so I fashioned some straps to wear it as a backpack.
 
 Here’s my two cents on dorm essentials from someone who has moved in and out of Caltech a few times now. The rooms have an ample amount of storage but bringing your own bins and organizers (drawer liners, pencil cases, etc) is never a bad idea. Add and subtract personal items that best fit your needs to this list and you’ll be ready for a year at Caltech! Check out the thumbnail for a picture of my friend's dorm room!
 

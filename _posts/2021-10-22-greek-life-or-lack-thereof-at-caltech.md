@@ -2,9 +2,8 @@
 layout: post
 image: https://d24slhcvzhzz82.cloudfront.net/images/2021/10/Me.jpg
 title: Greek Life or Lack Thereof at Caltech
-author: Annabel Reyna Gomez
+author: Annabel Gomez
 categories:
-- culture
 - culture
 date: 2021-10-22 07:00:00 +0000
 
