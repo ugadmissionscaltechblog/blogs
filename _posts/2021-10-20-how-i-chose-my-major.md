@@ -5,7 +5,7 @@ title: How I Chose My Major
 author: Shri Deshmukh
 categories:
 - academics
-date: 2021-10-20 07:00:00 +0000
+date: 2021-10-20T07:00:00.000+00:00
 
 ---
 Coming into Caltech, I was not like some of my peers who, from the first day of entering campus, knew exactly which field they wanted to pursue. I arrived at Caltech finding everything around me intriguing. From mathematics to mechanical engineering, from biology to computer science, all of the above! As (somewhat of) a joke, I would claim I wanted to do 18 majors at once! Once I reached campus, there came my challenge of trying to definitively determine what major fits best for me.
