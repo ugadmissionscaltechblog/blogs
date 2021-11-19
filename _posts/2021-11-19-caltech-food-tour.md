@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/images/2021/jen/foodtour/fri.png
+image: https://d24slhcvzhzz82.cloudfront.net/images/2021/jen/foodtour/unnamed.png
 title: 'Caltech Food Tour '
 author: Jen Yu
 categories:
@@ -14,7 +14,7 @@ Caltech may be a small campus, but it has a large variety of food options. There
 
 ![](https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/images/2021/jen/foodtour/mon.png)
 
-**Monday** 
+**Monday**
 
 I had dinner at Lloyd House, of which I’m a social member. The dinner special in the North Houses that week was brisket with cabbage and creamy potatoes. There were also additional vegetarian options that I indulged in, such as the stuffed pepper fried rice on the bottom right of my plate. For dessert, the kitchen staff gave me two chocolate chip cookies. It was a sweet way to end off my meal.
 
