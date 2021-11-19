@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/images/2021/jen/foodtour/unnamed.png
+image: https://d24slhcvzhzz82.cloudfront.net/images/2021/jen/foodtour/mon.png
 title: 'Caltech Food Tour '
 author: Jen Yu
 categories:
