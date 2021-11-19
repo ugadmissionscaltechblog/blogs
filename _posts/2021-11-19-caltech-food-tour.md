@@ -36,8 +36,6 @@ For lunch, I decided to trek out to Broad Cafe, which is located on the other si
 
 I went back to Broad Cafe the next day to try a classic sandwich, the Bacon Chicken sandwich with sundried tomatoes. This time, I chose to satisfy my sweet tooth with a chocolate scone.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2021/jen/foodtour/fri.png)
-
 **Friday**
 
 To celebrate the end of the week, I got some food from the Mongolian barbecue station at Browne Cafe. Here, you get to pick out vegetables you want (I got baby corn, mushrooms, spinach and broccoli), your proteins (tofu + shrimp), and then the different sauces for the stir fry (I chose garlic oil, hoisin sauce and oyster sauce). It was a big lunch but I enjoyed every bite.
