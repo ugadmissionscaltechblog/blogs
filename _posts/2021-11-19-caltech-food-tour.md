@@ -40,6 +40,6 @@ I went back to Broad Cafe the next day to try a classic sandwich, the Bacon Chic
 
 **Friday**
 
-To celebrate the end of the week, I got some food from the Mongolian barbeque station at Browne Cafe. Here, you get to pick out vegetables you want (I got baby corn, mushrooms, spinach and broccoli), your proteins (tofu + shrimp), and then the different sauces for the stir fry (I chose garlic oil, hoisin sauce and oyster sauce). It was a big lunch but I enjoyed every bite.
+To celebrate the end of the week, I got some food from the Mongolian barbecue station at Browne Cafe. Here, you get to pick out vegetables you want (I got baby corn, mushrooms, spinach and broccoli), your proteins (tofu + shrimp), and then the different sauces for the stir fry (I chose garlic oil, hoisin sauce and oyster sauce). It was a big lunch but I enjoyed every bite.
 
 This was some of the food I ate at Caltech over the course of the week. I'm always excited to see what’s being offered every day. Being just a five minute walk away from good food on campus, I hope to be able to do more of these mini-tours in the future.
