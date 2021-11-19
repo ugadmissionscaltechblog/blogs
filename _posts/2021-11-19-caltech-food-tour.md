@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/images/2021/jen/foodtour/mon.png
+image: https://d24slhcvzhzz82.cloudfront.net/images/2021/jen/foodtour/unnamed.png
 title: 'Caltech Food Tour '
 author: Jen Yu
 categories:
@@ -8,8 +8,6 @@ categories:
 date: 2021-11-19 08:00:00 +0000
 
 ---
-![](https://d24slhcvzhzz82.cloudfront.net/images/2021/jen/foodtour/unnamed.png)
-
 Caltech may be a small campus, but it has a large variety of food options. There are three main dining locations on campus — The Lee F. Browne Dining Hall, the Hameetman Center (which houses our beloved Red Door Cafe), and the Broad Café. All on-campus students also have access to open kitchens in their houses, where a dinner special is served everyday and different breakfast options are available. There were countless times this past week that I ate my meal and then remembered that I forgot to take a picture of my food -- here’s a brief diary of just some of the meals I had.
 
 ![](https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/images/2021/jen/foodtour/mon.png)
@@ -35,6 +33,8 @@ For lunch, I decided to trek out to Broad Cafe, which is located on the other si
 **Thursday**
 
 I went back to Broad Cafe the next day to try a classic sandwich, the Bacon Chicken sandwich with sundried tomatoes. This time, I chose to satisfy my sweet tooth with a chocolate scone.
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2021/jen/foodtour/fri.png)
 
 **Friday**
 
