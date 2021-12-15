@@ -17,6 +17,8 @@ Riding a skateboard around campus is most useful if you, like me, work in a lab 
 
 Honestly, you don't need a practical reason to start skateboarding — it's simply fun to ride around by yourself or with friends. Just maybe be prepared to fall a bunch of times before you're comfortable cruising on the new, smooth-as-butter concrete by the Chen Neuroscience building. But hey, isn't all the fun in getting back up again?
 
-[https://d24slhcvzhzz82.cloudfront.net/images/2021/12/skateboards-1.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2021/12/skateboards-1.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2021/12/skateboards-1.JPG")
+[https://d24slhcvzhzz82.cloudfront.net/images/2021/12/skateboards-1.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2021/12/skateboards-1.JPG "Image 1")
 
-[https://d24slhcvzhzz82.cloudfront.net/images/2021/12/skate-2.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2021/12/skate-2.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2021/12/skate-2.JPG")
+[https://d24slhcvzhzz82.cloudfront.net/images/2021/12/skate-2.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2021/12/skate-2.JPG "Image 2")
+
+Here are two skateboard racks you can find in Lloyd House!
