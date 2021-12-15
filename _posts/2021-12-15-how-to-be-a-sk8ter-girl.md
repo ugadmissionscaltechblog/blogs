@@ -3,7 +3,8 @@ layout: post
 image: ''
 title: How to be a sk8ter girl
 author: Katelyn Lee
-categories: []
+categories:
+- culture
 date: 2021-12-15 05:00:00 +0000
 
 ---
