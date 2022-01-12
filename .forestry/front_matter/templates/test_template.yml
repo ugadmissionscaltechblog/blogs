@@ -42,6 +42,11 @@ fields:
     after "<a href="https://d24slhcvzhzz82.cloudfront.net/" title="https://d24slhcvzhzz82.cloudfront.net/"
     target="_blank">https://d24slhcvzhzz82.cloudfront.net/</a>"'
   default: https://d24slhcvzhzz82.cloudfront.net/
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+  description: Type in "spotlight" to make this post a spotlight post
 pages:
 - _posts/2021-10-10-t-minus-x-days-to-grad-school-(and-unsolicited-life-advice).md
 - _posts/2021-10-11-from-san-diego-to-brooklyn-my-summer-2021-surf-experience.md
