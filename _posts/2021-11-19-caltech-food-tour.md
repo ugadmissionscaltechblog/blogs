@@ -5,7 +5,9 @@ title: 'Caltech Food Tour '
 author: Jen Yu
 categories:
 - culture
-date: 2021-11-19 08:00:00 +0000
+date: 2021-11-19T08:00:00.000+00:00
+tags:
+- spotlight
 
 ---
 Caltech may be a small campus, but it has a large variety of food options. There are three main dining locations on campus — The Lee F. Browne Dining Hall, the Hameetman Center (which houses our beloved Red Door Cafe), and the Broad Café. All on-campus students also have access to open kitchens in their houses, where a dinner special is served everyday and different breakfast options are available. There were countless times this past week that I ate my meal and then remembered that I forgot to take a picture of my food -- here’s a brief diary of just some of the meals I had.
