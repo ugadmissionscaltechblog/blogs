@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "Pasadena, City of Roses"
-categories: [local, culture]
+title: Pasadena, City of Roses
+categories:
+- local
+- culture
 author: rashi
-tags: [ spotlight ]
+tags: []
 image: https://d24slhcvzhzz82.cloudfront.net/images/2021/06/pasadena_cover.jpeg
+
 ---
-
-
 Even if you’ve heard of Caltech before, you might never have heard of Pasadena, the quaint Los Angeles suburb it’s tucked into. 
 
 While Pasadena is certainly a bit calmer than much of flashy LA, it’s nonetheless a beautiful, charming place.It’s personally one of my favorite cities in the world, mostly because I called it home for a large part of my childhood. It's the first place I have real memories of living in—I went to preschool on Colorado Boulevard just blocks away from Caltech, and, as a six-year-old, Heely-ed through the halls of campus buildings. Having grown up in the city and then returning for college, I’ve explored it through and through, and I wanted to collect a list of some of my favorite spots to share with you.
