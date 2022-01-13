@@ -5,14 +5,16 @@
 {% endif %}
 
 <article class="uk-card uk-grid-collapse uk-margin-large" data-uk-grid>
-  <div class="uk-width-1-3@s uk-card-media-left media-1-3 uk-cover-container">
-    {% if post.image %}
-      <a href="{{ post.url | relative_url }}">
-        <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ site.uploads | absolute_url }}{{ post.image }}{% endif %}" alt="{{ post.title }}" data-uk-cover>
-        <canvas width="600" height="450"></canvas>
-      </a>
-    {% endif %}
-  </div>
+  
+  {% unless post.image == "https://d24slhcvzhzz82.cloudfront.net/" %}
+    <div class="uk-width-1-3@s uk-card-media-left media-1-3 uk-cover-container">
+        <a href="{{ post.url | relative_url }}">
+          <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ site.uploads | absolute_url }}{{ post.image }}{% endif %}" alt="{{ post.title }}" data-uk-cover>
+          <canvas width="600" height="450"></canvas>
+        </a>
+    </div>
+  {% endunless %}
+
   <div class="uk-width-expand@s">
       <div class="uk-card-body">
         {% if post.id and post.categories %}
