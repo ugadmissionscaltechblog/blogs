@@ -15,7 +15,9 @@
       {% for category in post.categories %}
           {% if post.url != page.url %}
               {% if page.categories contains category %}
-                  {% assign sameTagCount = sameTagCount | plus: 1 %}
+                  {% unless post.image == "https://d24slhcvzhzz82.cloudfront.net/" %}
+                    {% assign sameTagCount = sameTagCount | plus: 1 %}
+                  {% endunless %}
               {% endif %}
           {% endif %}
       {% endfor %}
