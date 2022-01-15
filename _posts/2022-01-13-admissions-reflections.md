@@ -9,8 +9,6 @@ categories:
 date: 2022-01-13 08:00:00 +0000
 
 ---
-### **What do you remember feeling when you found out you had been accepted to Caltech?**
-
 I was sitting at the kitchen table, having just finished a meal, when I decided to check my admissions decision for Caltech. While I was nervous for what might happen, I’ve always had a “rip the band-aid off” attitude. The decision had been made and it was just up to me now to observe what it was. I remember the moment very vividly – I clicked on the link in my application portal and a stream of virtual orange confetti rained down my computer screen. The first line of the letter said “Congratulations!”
 
 My first emotion was absolutely nothing. I was just stunned. I loved the STEM subjects but had been worried that my background was too “humanistic”. I was captain of the Speech and Debate team but not involved with the math team or Science Olympiad. Instead of building robots afterschool, I would work on writing the script for the big annual theatre production. The grades in my humanities courses had always been consistently higher than those in my STEM classes. Truly, I believed that Caltech was the last school that would admit me.
