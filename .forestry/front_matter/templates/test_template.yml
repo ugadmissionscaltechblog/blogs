@@ -48,6 +48,7 @@ fields:
   label: tags
   description: Type in "spotlight" to make this post a spotlight post
 pages:
+- _posts/2021-02-03-takeaways-from-four-years-at-caltech.md
 - _posts/2021-10-10-t-minus-x-days-to-grad-school-(and-unsolicited-life-advice).md
 - _posts/2021-10-11-from-san-diego-to-brooklyn-my-summer-2021-surf-experience.md
 - _posts/2021-10-12-living-in-the-virtual-school-year.md
@@ -62,4 +63,3 @@ pages:
 - _posts/2021-12-15-how-to-be-a-sk8ter-girl.md
 - _posts/2022-01-07-01-07-2022-admission-reflection-KL.md
 - _posts/admissions-reflections-jen-yu.md
-- _posts/takeaways-from-four-years-at-caltech.md
