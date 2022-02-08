@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "From Algorithms to Sprung Rhythms" 
-categories: [research]
-tags: [featured]
+title: From Algorithms to Sprung Rhythms
+categories:
+- research
+tags: []
 author: annabel
-image: https://d24slhcvzhzz82.cloudfront.net/images/2020/10/Annabel+/A2C2CD26-7AF2-4C94-A0D3-9295C937346B.jpeg 
+image: https://d24slhcvzhzz82.cloudfront.net/images/2020/10/Annabel+/A2C2CD26-7AF2-4C94-A0D3-9295C937346B.jpeg
 hidden: true
----
 
+---
 Hello everybody! My name is Annabel Reyna Gomez. I was born and raised in Northern California. I am the oldest child in a family of four and live with my parents and younger brother in the San Francisco Bay Area. I am first-generation Mexican-American and the first female in my family to study STEM. Currently, I am a sophomore at Caltech pursuing a major in Mechanical Engineering with a minor in Aerospace Engineering. 
 
 On campus, I am a member of Ruddock House, Club Latino, Women Mentoring Women, an Admissions Ambassador, and a volunteer tutor helping local at-risk high school students through the Caltech Y Rise Tutoring program. Off campus, I am an intern at NASA’s Jet Propulsion Laboratory (JPL), using machine-learning to research ionospheric and atmospheric remote sensing. Geomagnetic storms, charged particle precipitation, plasma convection, and associate dynamics in the high-latitude ionosphere can produce various ionospheric disturbances depending on location, geomagnetic conditions, and presence of field-aligned currents. These disturbances, including plasma instabilities, give rise to irregular structures in ionospheric density distribution, or ionospheric irregularities. My task is to apply machine-learning techniques to develop a prediction system, using historical GPS and magnetometer data, to predict the location, time, and intensity of these irregularities. The goal is to use these predictions to eventually reduce signal reception interruptions and improve the integrity of navigation and communication technology applications that rely on Global Navigation Satellite System (GNSS) and GPS data. 
