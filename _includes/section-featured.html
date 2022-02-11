@@ -6,6 +6,13 @@
   </div>
 {%- endif -%}
 
+{%- for post in site.posts | limit: include.limit -%}
+  <div class="uk-container uk-margin-medium-bottom">
+  {% include content-media-left-1-2.html %}
+  </div>
+{%- endfor -%}
+
+<!-- 
 {%- for post in site.posts -%}
   {%- if post.tags contains 'featured' -%}
     <div class="uk-container uk-margin-medium-bottom">
@@ -13,3 +20,4 @@
     </div>
   {%- endif -%}
 {%- endfor -%}
+-->

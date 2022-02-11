@@ -7,7 +7,6 @@ author: Jen Yu
 categories:
 - local
 date: 2022-02-07 08:00:00 +0000
-
 ---
 Maybe you’ve hopped on a plane to LAX and now you’re trying to get to campus. Or you found some free time in between the 5 sets due next week and the sport you’re playing to take a trip out to LA. Whatever your reasons are, I hope this post offers some useful resources on how to get on/off campus. While Pasadena is a beautiful neighborhood, it’s not located in the most convenient areas of Los Angeles, an urban sprawl in and of itself. Please note this article is updated as of 2/3/2022. 
 

@@ -7,8 +7,6 @@ categories:
 - academics
 date: 2022-01-07T08:00:00.000+00:00
 tags:
-- featured
-
 ---
 I remember huddling around my laptop with my mom and dad at the dining room table. While counting down from three, I took a few quick breaths and finally clicked on my application decision—the confetti on the screen was all we needed to jump up and scream! I remember hugging my parents as they happily shouted, "I knew it! I knew it!" It was an extremely exciting moment, and the rest of the day was really just a blur of my friends and family congratulating me on the acceptance.
 
