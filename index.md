@@ -2,7 +2,7 @@
 layout: full
 ---
 
-{% include section-featured.html title="Featured Story" limit="1"%}
+{% include section-featured.html title="Featured Story" limit="4"%}
 
 {% include section-spotlight.html title="Spotlight" %}
 

@@ -7,9 +7,12 @@
 {%- endif -%}
 
 {%- for post in site.posts | limit: include.limit -%}
-  <div class="uk-container uk-margin-medium-bottom">
-  {% include content-media-left-1-2.html %}
-  </div>
+  {%- if post.image != 'https://d24slhcvzhzz82.cloudfront.net/' -%}
+    <div class="uk-container uk-margin-medium-bottom">
+        {% include content-media-left-1-2.html %}
+        {% break %}  
+    </div>
+  {%- endif -%}
 {%- endfor -%}
 
 <!-- 
