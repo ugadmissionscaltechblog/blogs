@@ -1,12 +1,12 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/
+image: https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/images/2022/arielle/B9013C46-2357-434E-8D3E-D3E57B248520.jpeg
 tags: []
 title: Admissions Reflections
 author: Arielle Tycko
 categories:
 - academics
-date: 2022-02-21 03:00:00 +0000
+date: 2022-02-21T03:00:00.000+00:00
 
 ---
 The email app has always been one of my most used apps on my phone, and this was especially true my senior year of high school. One Saturday, I was checking my email for maybe the 7th or 8th time that day, which was normal for me. What wasn’t normal that day though, was the surprise email I received from the Caltech admissions office. When I saw the message sitting in my inbox, my heart immediately began racing. I quickly opened it, and my heart rate doubled; I had been accepted. In total shock, I ran into the living room of my boyfriend’s apartment (who I was staying with at the time), and told him the good news. After celebrating, he told me to call my parents. I called my dad first, and his reaction was “Really?! I was not expecting that”... (thanks, Dad). I then called my mom, who was very excited and happy for me. Needless to say, that was one of the best emails I ever received.
