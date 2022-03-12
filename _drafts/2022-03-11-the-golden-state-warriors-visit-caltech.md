@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/
+image: https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-steph.png
 tags: []
 title: The Golden State Warriors “Visit” Caltech
 author: Tyler Colenbrander
@@ -15,9 +15,11 @@ I am a huge Warriors fan and have been watching all their games for years, so I 
 
 And, this tweet:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="[https://twitter.com/hashtag/Warriors?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/Warriors?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/Warriors?src=hash&amp;ref_src=twsrc%5Etfw")">#Warriors</a> drew a crowd for shootaround this morning <a href="https://t.co/QlmBZTkyOV">pic.twitter.com/QlmBZTkyOV</a></p>&mdash; Evan Webeck (@EvanWebeck) <a href="[https://twitter.com/EvanWebeck/status/1493317488343322624?ref_src=twsrc%5Etfw](https://twitter.com/EvanWebeck/status/1493317488343322624?ref_src=twsrc%5Etfw "https://twitter.com/EvanWebeck/status/1493317488343322624?ref_src=twsrc%5Etfw")">February 14, 2022</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="[https://twitter.com/hashtag/Warriors?src=hash&ref_src=twsrc%5Etfw](https://twitter.com/hashtag/Warriors?src=hash&ref_src=twsrc%5Etfw "https://twitter.com/hashtag/Warriors?src=hash&ref_src=twsrc%5Etfw")">#Warriors</a> drew a crowd for shootaround this morning <a href="https://t.co/QlmBZTkyOV">pic.twitter.com/QlmBZTkyOV</a></p>— Evan Webeck (@EvanWebeck) <a href="[https://twitter.com/EvanWebeck/status/1493317488343322624?ref_src=twsrc%5Etfw](https://twitter.com/EvanWebeck/status/1493317488343322624?ref_src=twsrc%5Etfw "https://twitter.com/EvanWebeck/status/1493317488343322624?ref_src=twsrc%5Etfw")">February 14, 2022</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
 
 After the Warriors were done practicing, some of us waited outside the gym to try to catch a glimpse of the players when they walked out. When Draymond Green, one of my favorite players, walked out of the gym, he kindly stopped for a minute to sign autographs for some of us waiting outside! He signed my Warriors hat and Caltech frisbee, and I honestly was speechless. It was again a surreal moment that I’ll for sure remember forever.
+
+[https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6374.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6374.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6374.JPG")
 
 To make the day even better, later that night I went to my very first live Warriors game ever. They were playing the Los Angeles Clippers (which is why they were in town and practicing at Caltech). Despite following the Warriors for years, I had never gotten a chance to see them play in person (those tickets are quite expensive!). So, this was truly a dream come true. Wearing my newly-autographed Warriors hat, I finally got to experience the live, exciting atmosphere of an NBA game!
 
