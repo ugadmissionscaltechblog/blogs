@@ -25,7 +25,7 @@ To make the day even better, later that night I went to my very first live Warri
 
 ![https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6467.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6467.JPG")
 
-The game started off as a close battle the entire first half, and it seemed like Steph Curry couldn’t even miss; I guess that practice at Caltech earlier in the day paid off! Before the end of the first quarter, Steph already had 16 points!
+The game started off as a close battle the entire first half, and it seemed like Steph Curry couldn’t miss; I guess that practice at Caltech earlier in the day paid off! Before the end of the first quarter, Steph already had 16 points!
 
 ![https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6445.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6445.JPG")
 
