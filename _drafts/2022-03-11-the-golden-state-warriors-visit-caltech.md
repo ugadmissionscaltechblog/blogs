@@ -19,7 +19,7 @@ I am a huge Warriors fan and have been watching all their games for years, so I 
 
 And, this tweet: [https://twitter.com/EvanWebeck/status/1493317488343322624?s=20&t=J7cMccpr6waZxVoJQd3stw](https://twitter.com/EvanWebeck/status/1493317488343322624?s=20&t=J7cMccpr6waZxVoJQd3stw "https://twitter.com/EvanWebeck/status/1493317488343322624?s=20&t=J7cMccpr6waZxVoJQd3stw")
 
-After the Warriors were done practicing, some of us waited outside the gym to try to catch a glimpse of the players when they walked out. When Draymond Green, one of my favorite players, walked out of the gym, he kindly stopped for a minute to sign autographs for some of us waiting outside! He signed my Warriors hat and Caltech frisbee, and I honestly was speechless. It was again a surreal moment that I’ll for sure remember forever.
+Imagine being able to say that you've played on the same basketball court as Steph Curry. Well, at Caltech, now you can! After the Warriors were done practicing, some of us waited outside the gym to try to catch a glimpse of the players when they walked out. When Draymond Green, one of my favorite players, walked out of the gym, he kindly stopped for a minute to sign autographs for some of us waiting outside! He signed my Warriors hat and Caltech frisbee, and I honestly was speechless. It was again a surreal moment that I’ll for sure remember forever.
 
 ![https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6374.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6374.JPG")
 
