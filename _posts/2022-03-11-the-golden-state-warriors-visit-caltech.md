@@ -9,7 +9,7 @@ categories:
 date: 2022-03-11 20:00:00 +0000
 
 ---
-Title image: Caltech students crowding around the windows to see Steph Curry shoot, credit: Mark Medina (NBA.com, [**_https://twitter.com/MarkG_Medina/status/1493313096076574720?s=20&t=l4zg1sNZtlsEyRCRAPMRyw_**](https://twitter.com/MarkG_Medina/status/1493313096076574720?s=20&t=l4zg1sNZtlsEyRCRAPMRyw "https://twitter.com/MarkG_Medina/status/1493313096076574720?s=20&t=l4zg1sNZtlsEyRCRAPMRyw"))
+Title image: Caltech students crowding around the windows to see Steph Curry shoot, credit: Mark Medina ([**_https://twitter.com/MarkG_Medina/status/1493313096076574720?s=20&t=l4zg1sNZtlsEyRCRAPMRyw_**](https://twitter.com/MarkG_Medina/status/1493313096076574720?s=20&t=l4zg1sNZtlsEyRCRAPMRyw "https://twitter.com/MarkG_Medina/status/1493313096076574720?s=20&t=l4zg1sNZtlsEyRCRAPMRyw"))
 
 A few weeks ago, I woke up to a message to my house group chat that said “_Yoo the golden state warriors are practicing in our gym omg_.” Of course, everyone else was incredulous; why would the Warriors be practicing at Caltech out of all places? But then, someone sent a picture through the gym window in which you could clearly see Steph Curry, Kevon Looney and Nemanja Bjelica with the Caltech gym scoreboard in the background. It was real!
 
