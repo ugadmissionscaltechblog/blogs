@@ -59,6 +59,7 @@ plugins:
   - jekyll-gist
   - jekyll-avatar
   - jekyll-sitemap
+  - jekyll-twitter-plugin
 
 exclude:
   - Gemfile
