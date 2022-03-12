@@ -19,7 +19,7 @@ And, this tweet:
 
 After the Warriors were done practicing, some of us waited outside the gym to try to catch a glimpse of the players when they walked out. When Draymond Green, one of my favorite players, walked out of the gym, he kindly stopped for a minute to sign autographs for some of us waiting outside! He signed my Warriors hat and Caltech frisbee, and I honestly was speechless. It was again a surreal moment that I’ll for sure remember forever.
 
-[https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6374.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6374.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6374.JPG")
+![https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6374.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6374.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6374.JPG")
 
 To make the day even better, later that night I went to my very first live Warriors game ever. They were playing the Los Angeles Clippers (which is why they were in town and practicing at Caltech). Despite following the Warriors for years, I had never gotten a chance to see them play in person (those tickets are quite expensive!). So, this was truly a dream come true. Wearing my newly-autographed Warriors hat, I finally got to experience the live, exciting atmosphere of an NBA game!
 
