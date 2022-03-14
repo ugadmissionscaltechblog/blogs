@@ -14,11 +14,11 @@ I'm sure all of you must have heard about the harsh winter that Southern Califor
 
 
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0f374a5970c.jpg" %}
-***Figure 2:** This is what Ruddock House Courtyard looks like from my window at sunset, and one of the reasons why I particularly love my room. Two reasons to dislike it? The first is that such a beautiful sunset view means that, as is typical for rooms facing west, we get blasted with sunshine every morning. The second: as you can see in the picture, our interhouse party gets built in the courtyard, meaning that the lovely sounds of miter saws and impact drivers permeate our Saturday mornings. Although sometimes, I'm the source of the noise rather than the receiver - I tried to chip in with construction near the party, because power tools are fun.*
+***Figure 2:** This is what Venerable House Courtyard looks like from my window at sunset, and one of the reasons why I particularly love my room. Two reasons to dislike it? The first is that such a beautiful sunset view means that, as is typical for rooms facing west, we get blasted with sunshine every morning. The second: as you can see in the picture, our interhouse party gets built in the courtyard, meaning that the lovely sounds of miter saws and impact drivers permeate our Saturday mornings. Although sometimes, I'm the source of the noise rather than the receiver - I tried to chip in with construction near the party, because power tools are fun.*
 
 
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0f374c2970c.jpg" %}
-***Figure 3: ****As I mentioned, my phone camera is a masterpiece of ineptitude. I applied no filter for this shot - I thought the purple tint and slight inversion looked pretty cool, though, so I kept it. This is the back of Ruddock House, by the way, popularly known as RLZ (Ruddock Loading Zone); it provides a handy parking place for people with cars and a quick route to Chandler Cafe.*
+***Figure 3: ****As I mentioned, my phone camera is a masterpiece of ineptitude. I applied no filter for this shot - I thought the purple tint and slight inversion looked pretty cool, though, so I kept it. This is the back of Venerable House, by the way, popularly known as RLZ (Venerable Loading Zone); it provides a handy parking place for people with cars and a quick route to Chandler Cafe.*
 
 
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c769e19a970b.jpg" %}

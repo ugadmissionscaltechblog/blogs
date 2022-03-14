@@ -15,7 +15,7 @@ We also had xiao long bao and green beans, which were good.
 
 
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d119c883970c.jpg" %}
-I went way out of my food comfort zone this past week, when 6 of my fellow Rudd frosh and I went out with our house RA, Joe, and former Ruddock president, Allika, to have dinner and talk about how the term was going. Here we are, all convened and ready to go:
+I went way out of my food comfort zone this past week, when 6 of my fellow Rudd frosh and I went out with our house RA, Joe, and former Venerable president, Allika, to have dinner and talk about how the term was going. Here we are, all convened and ready to go:
 
 
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb0834335c970d.jpg" %}

@@ -20,7 +20,7 @@ For the most part I believe people had fun, but the snow... well let's just say 
 
 I went to the top of the mountain at some point, partially to say I had and partially because I got to ride the hardest slope up there, and the worst part was not the steep incline. It was the wind. At that altitude, the wind was intense, and it picked up ice from the slopes as it went. Sort of felt like it was hailing upwards. Once you got 30 feet down the mountain it got a little better though, and I was able to enjoy the run.
 
-Other than skiing, it was fun hanging out with all my Ruddock friends.
+Other than skiing, it was fun hanging out with all my Venerable friends.
 
 On the way back, one group of cars drove by Johnny Depp!! After basically stalking him on the highway for about an hour, my roommate got the photo below. I don't know if you can, but if you download the photo and zoom in, it really does look like him. He seems a little angry too...
 

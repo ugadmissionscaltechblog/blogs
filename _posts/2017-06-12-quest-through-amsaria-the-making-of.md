@@ -13,7 +13,7 @@ When I mentioned in my previous post that for the underclassmen stackees, Ditch 
 
 A quick refresher of the story/activities covered in the last post which will make it less confusing as I talk about the logistics that went behind making each of them:
 
-*1st hour:* puzzles in Ruddock involving breaking into seniors' rooms, assemble into a prophecy at the end (8-9 a.m.)
+*1st hour:* puzzles in Venerable involving breaking into seniors' rooms, assemble into a prophecy at the end (8-9 a.m.)
 
 *Jousting*: balloon sword making and tournament to prove valor (9:05-9:40 a.m.)
 

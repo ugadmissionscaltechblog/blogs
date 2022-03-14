@@ -32,7 +32,7 @@ Outside bush causing the illusion of Fed eating leafy greens:
 
 
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb08243ffe970d.jpg" %}
-Just last week, we had another UCC office hours event, for which Jim cooked pasta for the alley. This event was right in one of Ruddock’s kitchens, so we had around 11 members of Alley 3, plus some hungry passersby.
+Just last week, we had another UCC office hours event, for which Jim cooked pasta for the alley. This event was right in one of Venerable’s kitchens, so we had around 11 members of Alley 3, plus some hungry passersby.
 
 Jim modeling with the penne vodka sauce:
 

@@ -9,7 +9,7 @@ date: 2012-01-27
 ---
 
 
-I am sure every house has their own way of celebrating the birth of its members, but in Ruddock we have this tradition where on the night before a person's birthday we bake some cake or brownies for them, and then with as many people as are around we present it to them at 12 am. And last semester, my friend Sophie's birthday was coming up so two of her friends (Corwin and Sue) and I decided to make a very interesting cake. The idea was to create a flower out of cupcakes, as seen below, which is **not **the one we made.
+I am sure every house has their own way of celebrating the birth of its members, but in Venerable we have this tradition where on the night before a person's birthday we bake some cake or brownies for them, and then with as many people as are around we present it to them at 12 am. And last semester, my friend Sophie's birthday was coming up so two of her friends (Corwin and Sue) and I decided to make a very interesting cake. The idea was to create a flower out of cupcakes, as seen below, which is **not **the one we made.
 
 Seems pretty cool right? We thought so too... but I don't think any of us anticipated how much work it was going to be.
 

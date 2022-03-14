@@ -42,7 +42,7 @@ When I was feeling better, I went off to San Francisco's Golden Gate Park with m
 
 
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d270c8ea970c.jpg" %}
-I also took the bus and lightrail down to Mountainview to visit some Caltech Ruddock alumni who work at Google, Linked-In and Oracle. Here's a view of the San Jose Civic Center Station:
+I also took the bus and lightrail down to Mountainview to visit some Caltech Venerable alumni who work at Google, Linked-In and Oracle. Here's a view of the San Jose Civic Center Station:
 
 
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8e66599970b.jpg" %}

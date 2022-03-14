@@ -27,7 +27,7 @@ and I recommend this to anyone who is a kid, or at least partially a kid, on the
 
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019b005b748c970d.jpg" %}
 
-We had Zombie Night tonight, during which Ruddock House dresses up as zombies
+We had Zombie Night tonight, during which Venerable House dresses up as zombies
 and tries to break into Dabney. Of course, we did a house tour first of all the houses minus Avery, and banged
 on people’s doors and made dying cat noises for the fun of it. The Darbs’
 effort was impressive--one door was barricaded by a line of tables that

@@ -32,7 +32,7 @@ My friend, a summer student, had soft serve at Honeymee. While I had a black ses
 
 
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09ac425d970d.jpg" %}
-After we fueled up, we went back to campus for a BBQ collaboration between Lloyd and Ruddock. We grilled burgers and hot dogs and chilled out with music all evening. The turnout was way greater than expected, and we ran out of food TWICE. Then people went their separate ways to watch fireworks.
+After we fueled up, we went back to campus for a BBQ collaboration between Lloyd and Venerable. We grilled burgers and hot dogs and chilled out with music all evening. The turnout was way greater than expected, and we ran out of food TWICE. Then people went their separate ways to watch fireworks.
 
 
 

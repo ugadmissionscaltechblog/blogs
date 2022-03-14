@@ -3,7 +3,7 @@ title:          Rashi Jeeda
 username:       rashi
 image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/rashi_jeeda.jpg
 option:         Bioengineering
-house:          Page, Ruddock
+house:          Page, Venerable
 meet:           false
 class:          2022
 ---

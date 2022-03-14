@@ -8,7 +8,7 @@ status: Publish
 date: 2015-02-20
 ---
 
-Lurve is in the air! It’s Valentine’s Day, just in time for the three-day weekend. Throughout the week, the girls and guys of the houses have been plotting Valentine’s Day surprises. The Ruddock girls took over the house library and kitchens last night, with signs like these gracing the doors to discourage potential intruders:
+Lurve is in the air! It’s Valentine’s Day, just in time for the three-day weekend. Throughout the week, the girls and guys of the houses have been plotting Valentine’s Day surprises. The Venerable girls took over the house library and kitchens last night, with signs like these gracing the doors to discourage potential intruders:
 
 Behind closed doors, we busted out the glitter pens, stamps, and stickers to make cards for all 90 Rudd men. It got a little chaotic, and empty table space was soon nonexistent (photo creds to Chloe):
 

@@ -9,7 +9,7 @@ date: 2011-04-13
 ---
 
 
-So it's 3rd term at Caltech. This term is full of events - from PF<sup>2</sup> (prefrosh friday) to PFW (prefrosh weekend) to MAD Day (Make-A-Difference day) to the Ruddock Camping trip. Adventure abounds! For those of you who don't know already - PF<sup>2</sup> was April 8th, PFW is April 14th - 16th. Please note: there ARE activities on April 16th (Saturday) which we call 'Student Life Saturday' so you don't need to leave until 5pm when all events for the day end [unless you already booked your plane tickets or w/e]. If you have any questions, feel free to contact me or Admissions (for PFW information, ask for Karly!)
+So it's 3rd term at Caltech. This term is full of events - from PF<sup>2</sup> (prefrosh friday) to PFW (prefrosh weekend) to MAD Day (Make-A-Difference day) to the Venerable Camping trip. Adventure abounds! For those of you who don't know already - PF<sup>2</sup> was April 8th, PFW is April 14th - 16th. Please note: there ARE activities on April 16th (Saturday) which we call 'Student Life Saturday' so you don't need to leave until 5pm when all events for the day end [unless you already booked your plane tickets or w/e]. If you have any questions, feel free to contact me or Admissions (for PFW information, ask for Karly!)
 
 For those of you who are attending PFW 2011 and you have a bunch of pictures (please share :D) to share with the rest of Caltech - send them to Undergraduate Admissions Media Submissions group via the email address ugmedia@caltech.edu ! It would also help if you identified as many people in any photo you have or provide brief comments to make it easier for the rest of us when we post them online. I hope everyone enjoys PFW and I'll see you all tomorrow at 1pm!
 
@@ -36,7 +36,7 @@ And Franz is sitting on it... Yeah. What a beast.
 
 .. Oh - I meant the T-rex.
 
-And then we had the party the next night. Here's a guest (one of my favorite Ruddock Alums)
+And then we had the party the next night. Here's a guest (one of my favorite Venerable Alums)
 
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e604c5d28970c.jpg" %}
 Anton! He's with his girlfriend. Here's my story - They came to the party separately and were embarrassed that they were wearing the same outfit!

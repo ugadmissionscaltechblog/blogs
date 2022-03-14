@@ -2,15 +2,15 @@
 layout: post
 author: Gloria
 image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d100ed60970c.jpg
-title: Alley 3 Does Ruddock Greens
+title: Alley 3 Does Venerable Greens
 categories: [culture]
 status: Publish
 date: 2015-04-18
 ---
 
-I was not a very active prefrosh, so I went to very few of the house events during Prefrosh Weekend and Rotation. My participation in Ruddock Greens, a mini golf course that goes through all of the alleys in the house, consisted of me walking over mini golf course obstacles on the way to my host’s room on Friday night. Two days before Prefrosh Weekend this year, I was talking to some UCCs about rescheduling Ruddock Greens, and I learned that in Alley 3, frosh are responsible for setting up Ruddock Greens. 
+I was not a very active prefrosh, so I went to very few of the house events during Prefrosh Weekend and Rotation. My participation in Venerable Greens, a mini golf course that goes through all of the alleys in the house, consisted of me walking over mini golf course obstacles on the way to my host’s room on Friday night. Two days before Prefrosh Weekend this year, I was talking to some UCCs about rescheduling Venerable Greens, and I learned that in Alley 3, frosh are responsible for setting up Venerable Greens. 
 
-I was rather distressed, because I hadn’t planned to be in the house during the event, let alone set it up. Our UCC, Jim, assured me that we could do whatever we wanted, and that he would help us. The point of Alley 3’s portion of Ruddock Greens is to get the golf ball from the first floor to the second floor using a leafblower, some PVC pipes, cardboard, a Pirouettes can, and lots of duct tape. As I’m not the constructing type, I asked some of the former frosh of Alley 3 for help. Andrew ended up digging behind the shed to find the pipes, Victor got the leafblower, and Andrew and Fed put it all together, including the construction of a cardboard ramp:
+I was rather distressed, because I hadn’t planned to be in the house during the event, let alone set it up. Our UCC, Jim, assured me that we could do whatever we wanted, and that he would help us. The point of Alley 3’s portion of Venerable Greens is to get the golf ball from the first floor to the second floor using a leafblower, some PVC pipes, cardboard, a Pirouettes can, and lots of duct tape. As I’m not the constructing type, I asked some of the former frosh of Alley 3 for help. Andrew ended up digging behind the shed to find the pipes, Victor got the leafblower, and Andrew and Fed put it all together, including the construction of a cardboard ramp:
 
 
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d100ed68970c.jpg" %}
@@ -72,7 +72,7 @@ And then the prefrosh started coming (photo creds to Chloe):
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7775de1970b.jpg" %}
 Since I didn’t have work due Friday, I volunteered to work the leafblower. I sat at the end of the hallway, braced myself as prefrosh attempted to putt the ball up the ramp and into the Pirouette can. One of them hit me in the leg, and another one almost broke the set-up, but it all ended up fine. When I turned on the leafblower, the ball would fly through the pipes and up to Alley 6. It was a crowd pleaser.
 
-Ruddock Greens unexpectedly brought our alley together (almost as much as the free burgers!), and was hopefully fun for the prefrosh as well. I’m glad I finally got to be a part of it. Now to clean everything up...
+Venerable Greens unexpectedly brought our alley together (almost as much as the free burgers!), and was hopefully fun for the prefrosh as well. I’m glad I finally got to be a part of it. Now to clean everything up...
 
 
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb081b3d11970d.jpg" %}

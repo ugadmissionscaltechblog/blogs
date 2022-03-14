@@ -8,7 +8,7 @@ status: Publish
 date: 2014-02-07
 ---
 
-This past Saturday the Caltech Y held the final part of the house ice cream competition. If you don’t know already, Caltech has eight houses: Avery, Blacker, Dabney, Fleming, Lloyd, Page, Ricketts, and Ruddock. They each have a motto and house color(s). Tom Mannion, the Senior Director of Student Activities and Programs, had this great idea to hold a contest though the Y where each house designs an ice cream flavor, preferably in the theme of the house color, and students and judges will vote on which one is the best. Fosselman's would make the custom-made ice cream for each house, and the Y would host the ice cream competition. Fosselman’s ice cream is a small local ice cream parlor that makes some of the best ice cream that I’ve tasted. They have ice cream flavors that you can’t find elsewhere and they’re not odd flavors like Philly cheesesteak, but flavors that just sound plain delicious, like almond mocha fudge. There are also the traditional flavors like chocolate and butter pecan. I like getting one of the plain flavors just so I can taste how rich and creamy it is compared to grocery store ice cream.
+This past Saturday the Caltech Y held the final part of the house ice cream competition. If you don’t know already, Caltech has eight houses: Avery, Blacker, Dabney, Fleming, Lloyd, Page, Ricketts, and Venerable. They each have a motto and house color(s). Tom Mannion, the Senior Director of Student Activities and Programs, had this great idea to hold a contest though the Y where each house designs an ice cream flavor, preferably in the theme of the house color, and students and judges will vote on which one is the best. Fosselman's would make the custom-made ice cream for each house, and the Y would host the ice cream competition. Fosselman’s ice cream is a small local ice cream parlor that makes some of the best ice cream that I’ve tasted. They have ice cream flavors that you can’t find elsewhere and they’re not odd flavors like Philly cheesesteak, but flavors that just sound plain delicious, like almond mocha fudge. There are also the traditional flavors like chocolate and butter pecan. I like getting one of the plain flavors just so I can taste how rich and creamy it is compared to grocery store ice cream.
 
 We decided to hold the contest in three rounds: two separate contests for the north houses and the south houses, where people could vote on the four ice creams, and then one big contest showcasing all eight flavors and a panel of judges would determine the winner. The houses that won the initial contest would get prize money for the house to go on a house trip of their choosing, and could win additional money at the final contest.
 
@@ -16,7 +16,7 @@ The first contest’s contenders:
 Avery - Red Bean Ice Cream with Mochi
 Lloyd - The Golden Ratio
 Page - Blueberry Steel
-Ruddock - Blueberry Pie Ice Cream
+Venerable - Blueberry Pie Ice Cream
 Some houses decided to give their recipe a name, but Lloyd’s was a caramel pretzel-containing ice cream, and Page’s was based on blueberry cheesecake. They all tasted delicious! Lloyd’s recipe won this round.
 
 The second contest’s contenders:

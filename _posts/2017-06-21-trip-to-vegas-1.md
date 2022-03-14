@@ -15,7 +15,7 @@ I've probably been to Vegas at least 7 times between the ages of 8 and 17 with m
 
 We were staying in the hotel Excalibur, which is loosely King Arthur-themed. I was happy to be rooming with my best friend Jagriti, who had been my roommate freshman year but never since. While waiting for check-in, some of us wandered the area near the lobby. On the way to the bathroom, my friend Lily and I found this cool alcove:
 
-After everyone was settled, we had a couple of hours before dinner. A group of Rudds (members of Ruddock House) went hotel-hopping. Luxor is an Egypt-themed, pyramid-shaped hotel. We heard that there were incline elevators to get to the top rooms of the pyramid, but to our disappointment, we weren't allowed to ride them if we weren't staying at the hotel. We did see a really cool steampunk-themed cafe or bar called the Boiler Room, though:
+After everyone was settled, we had a couple of hours before dinner. A group of Rudds (members of Venerable House) went hotel-hopping. Luxor is an Egypt-themed, pyramid-shaped hotel. We heard that there were incline elevators to get to the top rooms of the pyramid, but to our disappointment, we weren't allowed to ride them if we weren't staying at the hotel. We did see a really cool steampunk-themed cafe or bar called the Boiler Room, though:
 
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c902dd15970b.jpg" %}
 The weather was actually beautiful outside. The times I've been to Vegas in the summer, it's never failed to be in the 110s. But for some reason it was only 90 outside today. Sunglasses were still necessary, but we could walk around and not die. Here's Jagriti and me in front of Mandalay Bay in our shades:

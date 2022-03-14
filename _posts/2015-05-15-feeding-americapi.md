@@ -8,7 +8,7 @@ status: Publish
 date: 2015-05-15
 ---
 
-Every year, Ruddock frosh hold a party during third term. Since the workforce is purely frosh, it’s much less ambitious/involved than Ruddock interhouse. This year’s theme was America. Each category of the party was headed by one or two frosh — some of my friends put together 4 hours of music, some toiled away at constructing a mini White House, and others painted wallboards with flags and eagles. Chloe and I signed up to be in charge of food, so we had brainstorming sessions on quick and easy red, white, and blue recipes over the months before frosh party. When we learned of our limited budget, we cut down our plans (fresh berries are not cost-effective) and headed to Costco.
+Every year, Venerable frosh hold a party during third term. Since the workforce is purely frosh, it’s much less ambitious/involved than Venerable interhouse. This year’s theme was America. Each category of the party was headed by one or two frosh — some of my friends put together 4 hours of music, some toiled away at constructing a mini White House, and others painted wallboards with flags and eagles. Chloe and I signed up to be in charge of food, so we had brainstorming sessions on quick and easy red, white, and blue recipes over the months before frosh party. When we learned of our limited budget, we cut down our plans (fresh berries are not cost-effective) and headed to Costco.
 
 One of our fellow frosh, Nick, recently acquired an automobile, so he graciously drove us to Costco:
 
@@ -50,5 +50,5 @@ And so did Tara and Alex:
 
 
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb082c188f970d.jpg" %}
-In the actual party, people could play Rock Band, blackjack, roulette, or poker, have floats provided by Soc Team, or head to the dance floor. So many different Ruddock frosh contributed to this party, all organized by Sandra, our new librarian. This was my first experience being behind the food at a Caltech party, and it has made me decide to eat reasonable serving sizes at other parties, for the sake of the hardworking people in the kitchen.
+In the actual party, people could play Rock Band, blackjack, roulette, or poker, have floats provided by Soc Team, or head to the dance floor. So many different Venerable frosh contributed to this party, all organized by Sandra, our new librarian. This was my first experience being behind the food at a Caltech party, and it has made me decide to eat reasonable serving sizes at other parties, for the sake of the hardworking people in the kitchen.
 

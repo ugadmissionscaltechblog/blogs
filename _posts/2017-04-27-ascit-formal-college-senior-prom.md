@@ -28,7 +28,7 @@ Of course, what is a dance without taking some group pictures?
 
 
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a019b0005f8ce970d01b8d2786181970c-pi.jpg" %}
-*A haphazard group portrait of some of the Ruddock House women while we were waiting for the bus*
+*A haphazard group portrait of some of the Venerable House women while we were waiting for the bus*
 
 
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a019b0005f8ce970d01b7c8edff3d970b-pi.jpg" %}

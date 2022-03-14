@@ -10,7 +10,7 @@ date: 2012-04-16
 
 Hi everybody!!
 So as you all know, these past two days were Prefrosh Weekend! This is where all the admitted students come to stay for a couple days and learn about how AWESOME Caltech is :)
-Each House holds a lot of special events. For example, Ricketts hosted an open mic night, and Blacker had "deconstruction," which is where everybody takes sledgehammers to things. Ruddock made a mini-golf course out of the entire house!
+Each House holds a lot of special events. For example, Ricketts hosted an open mic night, and Blacker had "deconstruction," which is where everybody takes sledgehammers to things. Venerable made a mini-golf course out of the entire house!
 
 *Alley Six! Seems more like an obstacle course for the player, not the ball.*
 

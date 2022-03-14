@@ -9,7 +9,7 @@ date: 2014-04-09
 ---
 
 
-Ever since our Ruddock president Sherman had passionately advocated this Thai place on Colorado Street (just north of the Caltech campus), my roommate and I had wanted to try it out. We thought it was decent, but not great. Service was a little slow and the pad thai noodles were rather undercooked. Entrees range from $10.50 to 12 or up.
+Ever since our Venerable president Sherman had passionately advocated this Thai place on Colorado Street (just north of the Caltech campus), my roommate and I had wanted to try it out. We thought it was decent, but not great. Service was a little slow and the pad thai noodles were rather undercooked. Entrees range from $10.50 to 12 or up.
 
 
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a51191f609970c.jpg" %}

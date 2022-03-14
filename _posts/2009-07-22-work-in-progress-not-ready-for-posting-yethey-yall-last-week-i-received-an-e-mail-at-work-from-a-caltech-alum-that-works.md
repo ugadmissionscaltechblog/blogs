@@ -11,7 +11,7 @@ date: 2009-07-22
 
 Hey y'all! 
 
-Last week, I received an e-mail at work from a Caltech alum that works here at Schlumberger!Her name is Kamalah Chang, class of 2005 in Mechanical Engineering,who was a member of Ruddock House. She has been working at Schlumberger since she graduated (so about 4 years now) and is originally from Northern California. 
+Last week, I received an e-mail at work from a Caltech alum that works here at Schlumberger!Her name is Kamalah Chang, class of 2005 in Mechanical Engineering,who was a member of Venerable House. She has been working at Schlumberger since she graduated (so about 4 years now) and is originally from Northern California. 
 
 On Monday, Kamalah took Stassy and I out for a Texas BBQ lunch at Joe's. It was great to just pick her brain about her experience with the company, relocating to Houston and life after graduating Caltech. Even though I had just met Kamalah, I felt like I had known her for longer--having Caltech in common definitely gave us a ton of things to talk about and relate to. We asked her about her transition to Schlumberger, and she asked us if a certain quirky professor was still teaching.
 

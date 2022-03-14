@@ -19,7 +19,7 @@ Andrew is freshman from Denver, Colorado (the land of Patagonia jackets and unpr
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01b8d2a88266970c.jpg" %}
 **Option:** Chemistry
 
-**House Affiliations:** Fleming and Ruddock
+**House Affiliations:** Fleming and Venerable
 
 Ciara hails from the small town of Niceville, FL (which, before you ask, is actually a real place). She is a senior triene to graduate with a bachelor's in chemistry. When she’s not using 200 proof ethanol in lab, she enjoys drinking pH 14 beverages. After graduating, she hopes to get a Ph.D. in alchemy and make the sorcerer’s stone. But, in the meantime enjoy her attempts at weaving bad chemistry puns into weekly blog entries.
 
@@ -59,9 +59,9 @@ Noelle is a Texan who used to love cold weather, but ever since the first month 
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01bb09a80231970d.jpg" %}
 **Options:** Computer Science and Business, Economics, &amp; Management (BEM)
 
-**House Affiliations:** Fleming and Ruddock
+**House Affiliations:** Fleming and Venerable
 
-Hi everyone! I’m Sakthi Vetrivel from Seattle, WA (Let’s go Seahawks!). I’m a member of the Class of 2019 with a dual membership in Fleming and Ruddock, and a CS/BEM double major. I’m the 2017-18 ASCIT President, captain of the volleyball team, and an upperclassman counselor. So if you have any questions about student government or intercollegiate athletics at Caltech, feel free to tune into to my biweekly ramblings.
+Hi everyone! I’m Sakthi Vetrivel from Seattle, WA (Let’s go Seahawks!). I’m a member of the Class of 2019 with a dual membership in Fleming and Venerable, and a CS/BEM double major. I’m the 2017-18 ASCIT President, captain of the volleyball team, and an upperclassman counselor. So if you have any questions about student government or intercollegiate athletics at Caltech, feel free to tune into to my biweekly ramblings.
 
 <hr style="color: blue;" />
 
@@ -89,7 +89,7 @@ Sunny is from Vancouver, BC where it rains over 200 days a year. At Caltech, she
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0224df318f35200b.jpg" %}
 **Option:** Biology
 
-**House Affiliations:** Ruddock and Avery
+**House Affiliations:** Venerable and Avery
 
 Victoria is from New Jersey, where people enjoy Playa Bowls and good bagels. She is a pre-med involved with RISE tutoring, Pipettes a cappella, Health Advocates, and neuroscience research. She can often be found chilling and reading in Pasadena coffee shops and Avery lounges. Her favorite activities include stuffing her face with yummy food, hanging out with friends, traveling, watching movies / TV shows, and folding origami.
 

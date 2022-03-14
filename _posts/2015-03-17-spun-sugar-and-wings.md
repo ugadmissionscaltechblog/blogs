@@ -8,7 +8,7 @@ status: Publish
 date: 2015-03-17
 ---
 
-Soon after Ruddock Interhouse was Avery Interhouse! This year, Avery's theme was "Victoria's Secret Fashion Show," so basically, everything was pink. Pink cotton candy, pink runway, pink wallboards, pink balloons, pink dance floor, pink streamers...pink no longer looks like a real word. As a member of Avery, I received all of the emails, from the theme surveys, to the runway ideas, to the pleas to help with construction, art, and food. In less than a month, Avery pulled together a really impressive party!
+Soon after Venerable Interhouse was Avery Interhouse! This year, Avery's theme was "Victoria's Secret Fashion Show," so basically, everything was pink. Pink cotton candy, pink runway, pink wallboards, pink balloons, pink dance floor, pink streamers...pink no longer looks like a real word. As a member of Avery, I received all of the emails, from the theme surveys, to the runway ideas, to the pleas to help with construction, art, and food. In less than a month, Avery pulled together a really impressive party!
 Avery is known for having great food at their Interhouse, and this year was no different. There was of course the cotton candy, expertly manned by John:
 
 This is a picture taken early on in the party, before he was covered in spun sugar. In addition to the cotton candy, there were delicious mini cupcakes, tea sandwiches (cucumber and ham varieties), ham/cheese/cracker platters, pink sparkling lemonade, and frosted animal crackers. Here's a picture of the tea sandwiches, which I was rather taken by:
@@ -31,5 +31,5 @@ We left the party to attend the alternate Interhouse, where people watched a mov
 
 
 {% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb08083568970d.jpg" %}
-I wasn't expecting to spend so much time at Avery Interhouse, but I ended up having a great time! I appreciated how both Ruddock OPI and Avery Interhouse had something for everyone to enjoy, from milkshakes to dancing to boba. The two houses had different approaches to their parties, and both were very successful (and beautiful and delicious!).
+I wasn't expecting to spend so much time at Avery Interhouse, but I ended up having a great time! I appreciated how both Venerable OPI and Avery Interhouse had something for everyone to enjoy, from milkshakes to dancing to boba. The two houses had different approaches to their parties, and both were very successful (and beautiful and delicious!).
 
