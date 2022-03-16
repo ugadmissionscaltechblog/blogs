@@ -6,21 +6,20 @@ title: The Golden State Warriors “Visit” Caltech
 author: Tyler Colenbrander
 categories:
 - local
-date: 2022-03-11 20:00:00 +0000
+date: 2022-03-11T20:00:00.000+00:00
 
 ---
-**Title image**: Caltech students crowding around the windows to see Steph Curry shoot, credit: Mark Medina 
+**Title image**: Caltech students crowding around the windows to see Steph Curry shoot, credit: Mark Medina
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cal Tech students crowding around the windows to see Steph Curry shoot <a href="https://t.co/YJc3nDw4HY">pic.twitter.com/YJc3nDw4HY</a></p>&mdash; Mark Medina (@MarkG_Medina) <a href="https://twitter.com/MarkG_Medina/status/1493313096076574720?ref_src=twsrc%5Etfw">February 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cal Tech students crowding around the windows to see Steph Curry shoot <a href="https://t.co/YJc3nDw4HY">pic.twitter.com/YJc3nDw4HY</a></p>— Mark Medina (@MarkG_Medina) <a href="https://twitter.com/MarkG_Medina/status/1493313096076574720?ref_src=twsrc%5Etfw">February 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 A few weeks ago, I woke up to a message to my house group chat that said “Yoo the golden state warriors are practicing in our gym omg.” Of course, everyone else was incredulous; why would the Warriors be practicing at Caltech out of all places? But then, someone sent a picture through the gym window in which you could clearly see Steph Curry, Kevon Looney and Nemanja Bjelica with the Caltech gym scoreboard in the background. It was real!
 
-I am a huge Warriors fan and have been watching all their games for years, so I couldn’t believe it. I ran over to the gym to try to see for myself. Pretty soon, swarms of students were coming to the gym to try to peek in through the gym windows and watch the Warriors practice. Watching these players practice up close was such a mesmerizing experience; it felt so surreal. Steph Curry was effortless draining threes. Juan Toscano-Anderson and Gary Payton II were practicing dunks. Even the injured players Draymond Green and James Wiseman were there doing some lighter workouts. The attention that the Warriors drew was also noted in a variety of tweets and news articles, including this this NBA.com article: [**_https://www.nba.com/news/stephen-curry-driven-do-more-pursue-title_**](https://www.nba.com/news/stephen-curry-driven-do-more-pursue-title "https://www.nba.com/news/stephen-curry-driven-do-more-pursue-title")
+I am a huge Warriors fan and have been watching all their games for years, so I couldn’t believe it. I ran over to the gym to try to see for myself. Pretty soon, swarms of students were coming to the gym to try to peek in through the gym windows and watch the Warriors practice. Watching these players practice up close was such a mesmerizing experience; it felt so surreal. Steph Curry was effortlessly draining threes. Juan Toscano-Anderson and Gary Payton II were practicing dunks. Even the injured players Draymond Green and James Wiseman were there doing some lighter workouts. The attention that the Warriors drew was also noted in a variety of tweets and news articles, including this this NBA.com article: [**_https://www.nba.com/news/stephen-curry-driven-do-more-pursue-title_**](https://www.nba.com/news/stephen-curry-driven-do-more-pursue-title "https://www.nba.com/news/stephen-curry-driven-do-more-pursue-title")
 
+And, this tweet:
 
-And, this tweet: 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Warriors?src=hash&amp;ref_src=twsrc%5Etfw">#Warriors</a> drew a crowd for shootaround this morning <a href="https://t.co/QlmBZTkyOV">pic.twitter.com/QlmBZTkyOV</a></p>&mdash; Evan Webeck (@EvanWebeck) <a href="https://twitter.com/EvanWebeck/status/1493317488343322624?ref_src=twsrc%5Etfw">February 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Warriors?src=hash&ref_src=twsrc%5Etfw">#Warriors</a> drew a crowd for shootaround this morning <a href="https://t.co/QlmBZTkyOV">pic.twitter.com/QlmBZTkyOV</a></p>— Evan Webeck (@EvanWebeck) <a href="https://twitter.com/EvanWebeck/status/1493317488343322624?ref_src=twsrc%5Etfw">February 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Imagine being able to say that you've played on the same basketball court as Steph Curry. Well, at Caltech, now you can! After the Warriors were done practicing, some of us waited outside the gym to try to catch a glimpse of the players when they walked out. When Draymond Green, one of my favorite players, walked out of the gym, he kindly stopped for a minute to sign autographs for some of us waiting outside! He signed my Warriors hat and Caltech frisbee, and I honestly was speechless. It was again a surreal moment that I’ll for sure remember forever.
 
