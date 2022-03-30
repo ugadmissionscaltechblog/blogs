@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/https://d24slhcvzhzz82.cloudfront.net/images/2022/annabel/Optimized-Caltech_flag.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/images/2022/annabel/Optimized-Caltech_flag.jpg
 tags: []
 title: Admissions Reflection
 author: Annabel Reyna Gomez
