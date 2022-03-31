@@ -9,10 +9,6 @@ categories:
 date: 2022-03-30 07:00:00 +0000
 
 ---
-Topic: My Admissions Reflection
-
-Due Date: March 22, 2022
-
 As I sit down to write this blog, I can’t help but reflect on how fast the years go by. It has been over three years already since I received my Caltech admissions decision. That was a very special day in my life, and I remember it like it was yesterday. As soon as I submitted my application to Caltech, my dad and I made it our job to read endless articles about Caltech. I wanted to learn everything about my dream school. The more I read, the more excited I became. It was also nerve-wracking, and I was anxious to learn when decisions were to be announced.
 
 In high school, I was the Mechanical Lead of my high school’s Lemelson-MIT Inventeam where we worked to design, prototype, and construct robotic machines, for the local Special Olympics, that would allow students with disabilities to play basketball and soccer more interactively. There were several very smart teammates, and I knew that some of them had also applied to Caltech. This didn’t help with my anxiety regarding my decision!
