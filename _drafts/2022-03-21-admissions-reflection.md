@@ -2,7 +2,7 @@
 layout: post
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/annabel/Optimized-Caltech_flag.jpg
 tags: []
-title: Admissions Reflection
+title: 'Admissions Decision Retrovision  '
 author: Annabel Reyna Gomez
 categories:
 - academics
