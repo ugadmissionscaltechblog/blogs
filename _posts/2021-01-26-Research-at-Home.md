@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Forging Ahead with Research while Sheltering in Place" 
-categories: [research]
-author: annabel
+title: Forging Ahead with Research while Sheltering in Place
+categories:
+- research
+author: argomez
 image: https://d24slhcvzhzz82.cloudfront.net/images/2020/12/5F5C8D29-8ADD-48C0-A0C6-FEEDF09F40ED.jpeg
----
 
+---
 The transition period to remote learning was a very uncertain time, especially for research and the Caltech Summer Undergraduate Research Fellowships (SURF) program. Many hands-on projects had to pivot at the last minute to facilitate off-campus contributions. However, many Techers were able to take advantage of the research opportunities offered at Caltech and JPL to make the best out of remote learning and research. To paint a picture, I’ve interviewed a few talented Techers for some insight on what researching from home looks like for them. 
 
 ### Q: What does your research consist of?
@@ -40,4 +41,4 @@ The transition period to remote learning was a very uncertain time, especially f
 
 Similar to my peers, my experience, conducting research at JPL remotely, hasn’t been much different from distance learning, structure wise. Luckily, the project I’m involved in is heavily computational, so I am still able to conduct research and contribute to the project remotely. However, just because my internship is online does not mean that the standards at which I need to perform have diminished. It does take a lot of planning and time management to ensure that I stay on track and to reach my research goal in a timely manner. My mentor and I Zoom regularly to discuss updates and results and we share all our work via cloud to make things more accessible. Additionally, my lab has weekly meetings to explore the different research being conducted by members in the lab and catch up with one another. JPL has also been doing a great job at finding creative ways to ensure that interns can continue to learn, conduct research, and feel included. For example, there are multiple informational events and seminars held virtually every week.
 
-Although it’s not ideal to work remotely, and I would have preferred to be on site, obviously no one can control the pandemic. Remote research has been a great learning experience nonetheless and I am thankful for the growth opportunities it’s provided, not only for me but for many other Caltech students as well. 
+Although it’s not ideal to work remotely, and I would have preferred to be on site, obviously no one can control the pandemic. Remote research has been a great learning experience nonetheless and I am thankful for the growth opportunities it’s provided, not only for me but for many other Caltech students as well.
