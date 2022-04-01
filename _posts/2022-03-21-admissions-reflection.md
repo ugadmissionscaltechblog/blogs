@@ -3,7 +3,7 @@ layout: post
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/annabel/Optimized-Caltech_flag.jpg
 tags: []
 title: 'Admissions Decision Retrovision  '
-author: Annabel Reyna Gomez
+author: argomez
 categories:
 - academics
 date: 2022-03-30 07:00:00 +0000
