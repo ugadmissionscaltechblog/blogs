@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "An Interview with a JPL Mentor!" 
-categories: [research]
-author: annabel
-image: https://d24slhcvzhzz82.cloudfront.net/images/2020/12/E2A82F2A-948E-4862-A304-E5E92409F442.jpeg 
+title: An Interview with a JPL Mentor!
+categories:
+- research
+author: argomez
+image: https://d24slhcvzhzz82.cloudfront.net/images/2020/12/E2A82F2A-948E-4862-A304-E5E92409F442.jpeg
 featured: false
 hidden: false
 comments: true
+
 ---
-
-
 Over the past several months, I have had the opportunity to intern at the NASA Jet Propulsion Laboratory (JPL) under the mentorship of senior research technologist Dr. Xiaoqing Pi. Dr. Pi’s guidance and mentorship has been instrumental to the development and success of my internship at JPL, where I use machine-learning to enhance the accuracy and integrity of navigation and communication signals. In addition to helping me develop an understanding of atmospheric and ionospheric remote sensing and machine-learning, Dr. Pi has often offered his insights on how to improve my researching skills. Dr. Pi was generous enough to take the time to answer a few questions regarding his research and advice for future student interns. I believe many students can benefit from some of the lessons that he has taught me: 
 
 ### Q: What does your research consist of?
@@ -32,4 +32,3 @@ Over the past several months, I have had the opportunity to intern at the NASA J
 
 ### Q:   What are some qualities you look for when selecting an intern?
 **Dr. Xiaoqing Pi:** "When selecting interns, I look for their enthusiasm about the project, preparedness of the required skills and knowledge about the field, eagerness of learning, good communications, active pursuit of solutions, and team work spirit. In terms of knowledge, one of my research projects requires knowledge of machine learning and its applications, as well as software tools that can be used for machine learning projects. There are some good machine learning libraries written in Python so that Python programming skills are very helpful. In addition, when conducting a specific machine learning task, a large amount of historical data sets is required. With Python programming skills, students can write programs to organize, process and analyze the data and outcome".
-
