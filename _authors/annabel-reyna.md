@@ -1,6 +1,6 @@
 ---
 title: Annabel Reyna Gomez
-username: annabel
+username: argomez
 image: https://d24slhcvzhzz82.cloudfront.net/profile_pics/annabel_gomez.jpg
 option: Mechanical Engineering
 house: Venerable
