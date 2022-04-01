@@ -4,7 +4,7 @@ title: From Algorithms to Sprung Rhythms
 categories:
 - research
 tags: []
-author: annabel
+author: argomez
 image: https://d24slhcvzhzz82.cloudfront.net/images/2020/10/Annabel+/A2C2CD26-7AF2-4C94-A0D3-9295C937346B.jpeg
 hidden: false
 
