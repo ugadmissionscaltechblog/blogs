@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Applying for a Caltech SURF!" 
-categories: [research]
-author: annabel
+title: Applying for a Caltech SURF!
+categories:
+- research
+author: argomez
 image: https://d24slhcvzhzz82.cloudfront.net/images/2020/10/Annabel+/D72F8AC9-6788-42C3-ACB8-82031AFA2C84.jpeg
+
 ---
-
-
 The research opportunities, offered to all students at Caltech, are second to none! There are many labs on campus, and I am constantly amazed by the ground-breaking research being conducted by professors, graduates, and undergraduates in each of these labs on a daily basis. The best part is that Caltech undergraduates have the opportunity to apply for and obtain internships in many of these labs. They get to participate and be an integral part of ingenious research. From what I’ve heard, this is not the case in other undergraduate programs. Students elsewhere are usually not given such tremendous opportunities and respect, especially so early in their college career. Instead, they are usually tasked with cleaning beakers or secretarial work; not getting the opportunity to apply what they’ve learned in class to study a discipline they're passionate about, firsthand.
 
  
