@@ -1,7 +1,7 @@
 ---
 title:          Vanessa Mechem
 username:       vmechem
-image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/vanessa_mechem.jpg
+image:          https://ik.imagekit.io/u9ndqdgam20/profilePics/vanessa_mechem.jpg
 option:         Chemistry 
 house:          Page
 class:          2022

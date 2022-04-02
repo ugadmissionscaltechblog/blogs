@@ -3,7 +3,7 @@ layout: post
 title: "Senior Send-Off" 
 categories: [academics]
 author: andy
-image: https://d24slhcvzhzz82.cloudfront.net/images/2021/06/Senior+Ambassadors+2021.jpeg
+image: https://ik.imagekit.io/u9ndqdgam20/images/2021/06/Senior+Ambassadors+2021.jpeg
 featured: true
 comments: true
 hidden: true
@@ -18,7 +18,7 @@ With the Admissions office, we had a great virtual farewell (the pic at the top)
 
 Next Friday is our virtual Graduation which will be live-streamed online. There has been a good amount of drama related to having in-person graduation, but all the (vaccinated) graduating seniors and grad students are allowed to gather in the soccer field to watch the stream together in person. I’m going to be heading home to my family so I will be sipping on champagne from afar. 
 
-![meme](https://d24slhcvzhzz82.cloudfront.net/images/2021/06/meme.jpg)
+![meme](https://ik.imagekit.io/u9ndqdgam20/images/2021/06/meme.jpg)
 
 For me, I’m most excited to have a real break. The kind of break where I can stare at a wall and know that I have no responsibilities I’m procrastinating. I can’t think of the last break where I haven’t had some work from research, grad school applications, or anything else to worry about so I’m very excited to be able to relax. I’m heading off to Princeton in the fall to get my Ph.D. in Mechanical and Aerospace Engineering likely working on Fusion Reactors, so I’ve got to make the most of a break while I still can. 
 

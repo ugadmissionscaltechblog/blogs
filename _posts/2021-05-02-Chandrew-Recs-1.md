@@ -3,7 +3,7 @@ layout: post
 title: "Chandrew's Recs #1: Bubble Tea!"
 categories: [research]
 author: Andrew
-image: https://d24slhcvzhzz82.cloudfront.net/images/2021/04/Labobatory.JPG
+image: https://ik.imagekit.io/u9ndqdgam20/images/2021/04/Labobatory.JPG
 featured: false
 comments: true
 hidden: false

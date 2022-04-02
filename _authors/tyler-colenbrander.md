@@ -1,7 +1,7 @@
 ---
 title: Tyler Colenbrander
 username: Tyler Colenbrander
-image: "https://d24slhcvzhzz82.cloudfront.net/profile_pics/tyler_colenbrander.jpg"
+image: "https://ik.imagekit.io/u9ndqdgam20/profilePics/tyler_colenbrander.jpg"
 option: Electrical Engineering
 house: Venerable
 meet: true

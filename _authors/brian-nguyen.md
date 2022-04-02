@@ -4,7 +4,7 @@ username: Brian Nguyen
 house: Blacker
 option: Electrical Engineering
 class: "2023"
-image: https://d24slhcvzhzz82.cloudfront.net/profile_pics/brian_nguyen.jpg
+image: https://ik.imagekit.io/u9ndqdgam20/profilePics/brian_nguyen.jpg
 comments: true
 published: false
 

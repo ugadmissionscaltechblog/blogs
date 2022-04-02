@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/
+image: https://ik.imagekit.io/u9ndqdgam20/images/2022/emily/fig1.png
 tags: []
 title: Research at Caltech
 author: Emily Du
@@ -18,20 +18,20 @@ Depending on my course load during different terms and even within different wee
   
 This term, a typical day in lab starts around 8:30 AM. When I get into the office, I write up reaction conditions in my notebook, then head into the lab.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/emily/fig1.png)Figure 1. A picture of my lab bay in the morning featuring one of my favorite things about the lab, the floor to ceiling windows!
+![](https://ik.imagekit.io/u9ndqdgam20/images/2022/emily/fig1.png)Figure 1. A picture of my lab bay in the morning featuring one of my favorite things about the lab, the floor to ceiling windows!
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/emily/fig2.png)Figure 2. Lab coats because lab safety is important.
+![](https://ik.imagekit.io/u9ndqdgam20/images/2022/emily/fig2.png)Figure 2. Lab coats because lab safety is important.
 
 Today, I was setting up a reaction. This involves flame drying a flask (with a blowtorch!), weighing out (air-sensitive) materials in the glovebox (a closed environment containing nitrogen instead of air), and setting up a proper heat source for the reaction. When heating a reaction to the boiling point of a solvent, it’s also necessary to make sure the solvent doesn’t boil off, so the reaction flask gets topped with a reflux condenser (shown below).
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/emily/fig3.png)Figure 3. Reaction with a reflux condenser! We work with a lot of glass equipment and have to be pretty careful at times.
+![](https://ik.imagekit.io/u9ndqdgam20/images/2022/emily/fig3.png)Figure 3. Reaction with a reflux condenser! We work with a lot of glass equipment and have to be pretty careful at times.
 
 As the reaction progresses, I monitor it by thin layer chromatography (TLC). This involves taking up tiny aliquots of the reaction mixture in a glass capillary tube, spotting the mixture onto a silica plate, and placing the silica plate such that the solvent (in this case, a mixture of ethyl acetate and hexanes) can run up the plate. The results can be seen under UV light, or using various stains.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/emily/fig4.png)Figure 4. A TLC plate in a TLC chamber.
+![](https://ik.imagekit.io/u9ndqdgam20/images/2022/emily/fig4.png)Figure 4. A TLC plate in a TLC chamber.
 
 Unfortunately for me, this reaction didn’t work, and that was all the time I had in the lab today.
 
 The next day, I was able to come in and set up the reaction again. Happily for me, the reaction worked well this time! After running a reaction, there’s a series of purification steps to go through, before acquiring a clean product. Usually this involves quenching any excess reagents in the reaction (usually with some aqueous mixture), separation/extraction of the mixture (separating organic and aqueous solvents) to obtain an organic mixture, concentrating the organic solution, and running a silica column to separate any organic impurities. The separation/extraction and column steps are the most crucial for purification. The purified product can be concentrated down, and tested by nuclear magnetic resonance (NMR) for verification. I would hate to have isolated the wrong product!
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/emily/fig5.png)Figure 5. A rotary evaporation device, or rotovap for short. Used for concentrating solvents down. They get a lot of use in organic chemistry labs.
+![](https://ik.imagekit.io/u9ndqdgam20/images/2022/emily/fig5.png)Figure 5. A rotary evaporation device, or rotovap for short. Used for concentrating solvents down. They get a lot of use in organic chemistry labs.

@@ -4,7 +4,7 @@ author: Andrew
 title: "A Fusillade of Question Marks (Belfast Part 2)"
 categories: [global]
 date: 2019-11-19
-image: https://d24slhcvzhzz82.cloudfront.net/images/2019/11/6a0105349b8251970b0240a49ecb88200c-800wi.jpg
+image: https://ik.imagekit.io/u9ndqdgam20/images/2019/11/6a0105349b8251970b0240a49ecb88200c-800wi.jpg
 ---
 
 
@@ -15,9 +15,9 @@ Anyways what we did after the tour of the Giant’s Causeway. I’ll be honest, 
 After this we headed to Crumlin Road Gaol, the famous prison in Belfast. It still held prisoners until 1996, so the history of the building was all too real, and many of the former prisoners had even come back to take the same tour we were on. It was simply a haunting building, with a fascinating history from the troubles, but also in the time before that.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/images/2019/11/6a0105349b8251970b0240a49ecb9c200c-800wi.jpg" %}
+{% include image.html img="https://ik.imagekit.io/u9ndqdgam20/images/2019/11/6a0105349b8251970b0240a49ecb9c200c-800wi.jpg" %}
 Following the mildly spooky tour, we headed out to the botanic gardens and the Ulster Museum to learn even more about the history of Northern Ireland (and to relax in some warm greenhouses). And then we went to the Christmas market! There isn’t thanksgiving in the UK, so Christmas just starts whenever Halloween ends. Their Christmas market in Belfast was one of the cutest one’s I’ve ever been to though. It somehow felt homely and authentic, which is a wild spin on the world of American Christmas markets.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/images/2019/11/6a0105349b8251970b0240a49ecbb7200c-800wi.jpg" %}
+{% include image.html img="https://ik.imagekit.io/u9ndqdgam20/images/2019/11/6a0105349b8251970b0240a49ecbb7200c-800wi.jpg" %}
 During the trip we also had the opportunity to listen to a large amount of traditional Irish music, or, at least music played on traditional Irish instruments. It was a bit disconcerting to hear an entire room full of Northern Irish people singing along to “Sweet Home Alabama”, but I also got to hear the last two of my favorite Pogues songs played live, so I can’t complain all too much.

@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/images/2021/jen/wellness/baxterpond.jpeg
+image: https://ik.imagekit.io/u9ndqdgam20/images/2021/jen/wellness/baxterpond.jpeg
 title: How to take care of yourself at Caltech
 author: Jen Yu
 categories:
@@ -12,7 +12,7 @@ So you’ve done it! You’re going to attend Caltech, one of your dream schools
 
 In this blog, I will discuss a few informal and formal methods Caltech students use to take care of themselves. I’ll place emphasis on the resources the school offers to guide students through their years on campus.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2021/jen/wellness/convictlake.png)
+![](https://ik.imagekit.io/u9ndqdgam20/images/2021/jen/wellness/convictlake.png)
 
 #### **Take Advantage of Pass-Fail**
 
@@ -23,7 +23,7 @@ Caltech is on the quarter system and unlike other schools, all freshmen take the
 
 A big part of succeeding at Caltech is finding your groove and establishing a routine for doing work, such as who you choose to collaborate with, what office hours you find to be helpful, etc. This is a process that takes time. While you’re figuring it all out, try to find activities you enjoy to help you de-stress, such as a sport or clubs/art classes on campus. I spent most of my freshman year exploring Los Angeles -- I went to all the art museums I could find, ate in Old Pasadena restaurants on weekends, and made hiking plans with friends. Use the pass/fail grading as space for you to establish your presence on campus and become accustomed to the Caltech experience.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2021/jen/wellness/fleming.png)
+![](https://ik.imagekit.io/u9ndqdgam20/images/2021/jen/wellness/fleming.png)
 
 #### **Get to know the campus and people**
 
@@ -31,7 +31,7 @@ There are many ways of going about this. First, it is important to find out what
 
 Second, make the time to get to know the people who live and work around you. If you’re a freshman, you might have just rotated into a house on campus. A good way to make friends is to attend your house events and dinners to meet people. At any point in your Caltech journey, you can talk to people in your classes and major. If you join clubs and take classes that interest you, you can also meet others with similar interests. The best thing is that though Caltech is a small campus, I’m still meeting new people all the time. Interacting with others can often brighten a gloomy day.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2021/jen/wellness/pa%20bucket.jpeg)
+![](https://ik.imagekit.io/u9ndqdgam20/images/2021/jen/wellness/pa%20bucket.jpeg)
 
 #### **Find your Peer Advocates**
 

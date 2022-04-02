@@ -1,7 +1,7 @@
 ---
 title:          Rashi Jeeda
 username:       rashi
-image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/rashi_jeeda.jpg
+image:          https://ik.imagekit.io/u9ndqdgam20/profilePics/rashi_jeeda.jpg
 option:         Bioengineering
 house:          Page, Venerable
 meet:           false

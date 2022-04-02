@@ -4,7 +4,7 @@ title: "Due Tomorrow, Do Tomorrow"
 categories: [research]
 author: andy
 categories: [ Academics ]
-image: https://d24slhcvzhzz82.cloudfront.net/images/2021/04/lloyd.jpg
+image: https://ik.imagekit.io/u9ndqdgam20/images/2021/04/lloyd.jpg
 featured: false
 comments: true
 hidden: false

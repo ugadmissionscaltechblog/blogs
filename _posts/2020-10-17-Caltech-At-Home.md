@@ -3,7 +3,7 @@ layout: post
 title: "Caltech at Home, but Make it Study Abroad" 
 categories: [global, academics]
 author: andy
-image: https://d24slhcvzhzz82.cloudfront.net/images/2020/10/Andy/city.jpg
+image: https://ik.imagekit.io/u9ndqdgam20/images/2020/10/Andy/city.jpg
 ---
 
 
@@ -17,7 +17,7 @@ But taking a step back, let me quickly cover how I got here.
 
 ## Journey to Korea
 
-![ let me in ](https://d24slhcvzhzz82.cloudfront.net/images/2020/10/Andy/let+me+in.png)
+![ let me in ](https://ik.imagekit.io/u9ndqdgam20/images/2020/10/Andy/let+me+in.png)
 
 Traveling to Korea was a bit of a mess, so here's a quick rundown of how I did it:
 * I packed everything I needed and stored the rest in the 36 hours between my internship finishing on a Friday and my flight early Sunday morning from LAX
@@ -31,7 +31,7 @@ With that all behind me, I hunkered down  for my 2-week total lockdown quarantin
 
 My first night free, and many nights since, my two friends I’m living with and I went out to an all you can eat pork belly restaurant that has some fantastic food! We got to wear these cool aprons to and keep all the drippings off ourselves. 
 
-![ Kbbq ](https://d24slhcvzhzz82.cloudfront.net/images/2020/10/Andy/food.jpg)
+![ Kbbq ](https://ik.imagekit.io/u9ndqdgam20/images/2020/10/Andy/food.jpg)
 
 I have also started training with a swim team here called Swim Monster. I have to say, their team is aptly named because every practice has been very tough. But while I'm working on getting back into shape I'm getting good with my Korean numbers! Between distances, intervals, and the coaches reading off times, I get more than enough practice hearing numbers. 
  

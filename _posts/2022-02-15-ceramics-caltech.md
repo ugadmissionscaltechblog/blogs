@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/jen/cover_ceramics.jpeg
+image: https://ik.imagekit.io/u9ndqdgam20/images/2022/jen/cover_ceramics.jpeg
 tags: []
 title: Ceramics @ Caltech
 author: Jen Yu
@@ -21,7 +21,7 @@ In my first class, I learned that Ceramics is **hard**, just like every other cl
 
 The Ceramics class is actually located off-campus but right next door at Polytechnic High School. It’s about a 15-20 minute walk from the dorms on campus. Pasadena is a pretty safe neighborhood, so even though the class starts at 7pm after it gets dark, it should be fine to walk to the studio alone. Bringing friends along or making new friends at class will definitely make the long walk more enjoyable. A map to the studio can be found [here](https://pva.caltech.edu/visualarts/ceramics). Recently, I’ve gotten lazy and just driven my car there, which takes about 2 minutes. Sometimes, I bring my classmates so we all avoid the walk in the dark.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/jen/wheel.jpeg)
+![](https://ik.imagekit.io/u9ndqdgam20/images/2022/jen/wheel.jpeg)
 
 ### Wedging and Throwing and Trimming, oh my!
 
@@ -33,6 +33,6 @@ Once you’ve finished your pot, you set it on a block and cover it with some wr
 
 You’re not restricted to just making pots either. Last class, I got tired of wrestling with clay on the wheel, so I sculpted a small mouse out of clay. I also learned that I’d need to hollow out the sculpture before firing it, or it would explode in the kiln, so I’ll be doing that the next time I’m in the studio.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/jen/mouse.jpeg)
+![](https://ik.imagekit.io/u9ndqdgam20/images/2022/jen/mouse.jpeg)
 
 Overall, Ceramics has been a great experience. It was harder than I expected, but it’s relaxing to just go in and work with your hands and create something. I often put on a podcast while I’m in the class since the instructor gives you a lot of freedom to do what you want. The process definitely gets messy, so I recommend wearing clothes you don’t care much about (don’t worry, everything washes off even if you don’t do it immediately) and using headphones that aren’t super fancy if you want to listen to music/a podcast or something. Take this class if you have any interest in Ceramics and enjoy creating things with your hands. I hope this was a helpful look at one of the more unique classes Caltech offers!

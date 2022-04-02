@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/images/2021/10/20200118_165359.jpg
+image: https://ik.imagekit.io/u9ndqdgam20/images/2021/10/20200118_165359.jpg
 title: Musings on a Small School
 author: Katelyn Lee
 categories:
@@ -18,4 +18,4 @@ It's worth noting that the smaller class reduces acceptances from the same or ne
 
 What I end up responding to those worried about Caltech's small size is something along these lines: I have only ever attended Caltech, so I can't speak to what attending a larger college is like. But in the end, as an upperclassman friend of mine wisely put, you can only ever have around 5 close friends, give or take, at any sized college. This college of <1000 undergrads just made it easier for me to find those people.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2021/10/20190923_190301.jpg "Beckman Auditorium at Sunset")![](https://d24slhcvzhzz82.cloudfront.net/images/2021/10/20191119_164404.jpg "Looking for gold at track practice")![](https://d24slhcvzhzz82.cloudfront.net/images/2021/10/20200118_165359.jpg "A study room with a view")
+![](https://ik.imagekit.io/u9ndqdgam20/images/2021/10/20190923_190301.jpg "Beckman Auditorium at Sunset")![](https://ik.imagekit.io/u9ndqdgam20/images/2021/10/20191119_164404.jpg "Looking for gold at track practice")![](https://ik.imagekit.io/u9ndqdgam20/images/2021/10/20200118_165359.jpg "A study room with a view")

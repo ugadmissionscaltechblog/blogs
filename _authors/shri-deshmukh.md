@@ -1,7 +1,7 @@
 ---
 title: 		Shri Deshmukh
 username: 	Shri Deshmukh
-image: 		https://d24slhcvzhzz82.cloudfront.net/profile_pics/shri_deshmukh.jpg
+image: 		https://ik.imagekit.io/u9ndqdgam20/profilePics/shri_deshmukh.jpg
 house: 		Page
 option: 	Mechanical Engineering
 class:      2022

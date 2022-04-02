@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/jen/pa-bucket.jpeg
+image: https://ik.imagekit.io/u9ndqdgam20/images/2022/jen/pa-bucket.jpeg
 tags: []
 title: Peer Advocates
 author: Jen Yu

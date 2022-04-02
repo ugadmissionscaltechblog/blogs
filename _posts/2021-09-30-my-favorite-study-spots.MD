@@ -3,14 +3,14 @@ layout: post
 title: "My Favorite Study Spots"
 author: Jen Yu
 categories: [ Academics ]
-image: https://d24slhcvzhzz82.cloudfront.net/images/2021/jen/study/gene_pool.jpeg
+image: https://ik.imagekit.io/u9ndqdgam20/images/2021/jen/study/gene_pool.jpeg
 date: 2021-09-30
 ---
 
 As the first week of fall term whizzes past, many of us are beginning to feel the schoolwork kick into high gear. While Rotation, the process through which freshmen choose their houses, wraps up, we can begin to discuss some relaxing study spots on campus. Studying is not everyone’s favorite activity but it can be synonymous with learning — and having fun! Here are a few of my favorite places. I’ve also rated each area out of three stars on various factors to give a better picture of each space.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/images/2021/jen/study/chen.jpeg" %}
+{% include image.html img="https://ik.imagekit.io/u9ndqdgam20/images/2021/jen/study/chen.jpeg" %}
 
 **Venture into the Unknown:** Outside of the Chen Neuroscience Building
 
@@ -23,7 +23,7 @@ Scenery: ⭐⭐⭐  - The ambiance is \*chef’s kiss\*. It’s nice and cool wh
 
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/images/2021/jen/study/linde.jpeg" %}
+{% include image.html img="https://ik.imagekit.io/u9ndqdgam20/images/2021/jen/study/linde.jpeg" %}
 
 **The Hidden Emerald:** Nooks inside the Linde Building
 
@@ -34,7 +34,7 @@ Amenities: ⭐⭐ - You may have to hunt around for charging ports, but there ar
 Accessibility: ⭐⭐ - A bit closer to the North/South Houses but you need to climb stairs/go up an incline. <br>
 Scenery: ⭐⭐ - It is pretty cozy here; you just need to be mindful to not disturb others.
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/images/2021/jen/study/sfl.jpeg" %}
+{% include image.html img="https://ik.imagekit.io/u9ndqdgam20/images/2021/jen/study/sfl.jpeg" %}
 
 **Tried and True:** Sherman Fairchild Library (SFL)
 

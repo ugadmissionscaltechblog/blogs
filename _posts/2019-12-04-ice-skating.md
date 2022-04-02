@@ -4,7 +4,7 @@ author: sunny
 title: "Ice Skating"
 categories: [culture]
 date: 2019-12-04
-image: https://d24slhcvzhzz82.cloudfront.net/images/2019/12/6a0105349b8251970b0240a4f2e9fd200b.png
+image: https://ik.imagekit.io/u9ndqdgam20/images/2019/12/6a0105349b8251970b0240a4f2e9fd200b.png
 --- 
 Ice skating seems rather uncommon here in Southern California as there are only two year-round rinks within driving distance of Caltech. One is the Pasadena Ice Skating Center which is only minutes away, the other is the Santa Monica Rink which is way out west. The interesting thing is, the Olympic figure skating Mirai Nagasu is actually local. Her family owns a sushi restaurant in Arcadia that is only 10 minutes away. 
 There are a lot of Caltech events at the Pasadena rink. The houses often play broomball with each other. For broomball, we would rent out the entire rink. It's extremely fun and you do not need to know to skate to play. My friends and I have also gone a couple of times to actually skate during their public skate sessions. In fact, two weekends ago, a friend and I headed over to polish up our extremely rusty skating skills.

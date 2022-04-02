@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/images/2021/10/Me.jpg
+image: https://ik.imagekit.io/u9ndqdgam20/images/2021/10/Me.jpg
 title: Greek Life or Lack Thereof at Caltech
 author: argomez
 categories:
@@ -15,11 +15,11 @@ New students at Caltech select their houses through a unique process we call “
 
 Here is what my room looks like! (All of the butterflies and stars glow in the dark!)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2021/10/closet.jpg)
+![](https://ik.imagekit.io/u9ndqdgam20/images/2021/10/closet.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2021/10/desk.jpg)
+![](https://ik.imagekit.io/u9ndqdgam20/images/2021/10/desk.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2021/10/wall.jpg)
+![](https://ik.imagekit.io/u9ndqdgam20/images/2021/10/wall.jpg)
 
 The eight houses have various room accommodations ranging from singles, doubles, and triples. They share bathrooms and come with common living/dining/recreation areas. On the other hand, Bechtel is a suite-style residence. The options are single rooms or suites of 4, 6, 8, and 12 members. Within each suite, each person gets their own room. They do share common bathrooms, living, and eating areas amongst suitemates. All of the rooms in the houses come with the standard desk, bed, closet, drawers, mirror, and sink. Most of the rooms are the same size and have similar layouts. There are slight differences across the board depending on the architecture/design of the house or residence, of course. Like most dorms, each house and residence has the standard amenities, such as kitchens, dining halls, libraries, study rooms, lounges, and courtyards. As far as cleanliness is concerned, bathrooms and common areas are cleaned at least three times per week. Additionally, Caltech schedules a free cleaning for each individual room on campus once a term.
 

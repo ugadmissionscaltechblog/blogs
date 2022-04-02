@@ -1,7 +1,7 @@
 ---
 title: Annabel Reyna Gomez
 username: argomez
-image: https://d24slhcvzhzz82.cloudfront.net/profile_pics/annabel_gomez.jpg
+image: https://ik.imagekit.io/u9ndqdgam20/profilePics/annabel_gomez.jpg
 option: Mechanical Engineering
 house: Venerable
 class: "2023"

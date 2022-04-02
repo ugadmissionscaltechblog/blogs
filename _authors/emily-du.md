@@ -3,7 +3,7 @@ title:          Emily Du
 username:       Emily Du 
 house:          Lloyd
 option:         Chemistry + History
-image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/emily_du.jpg
+image:          https://ik.imagekit.io/u9ndqdgam20/profilePics/emily_du.jpg
 class:          2023
 ---
 

@@ -1,7 +1,7 @@
 ---
 title:      Leah Griffith
 username:   Leah Griffith
-image:      https://d24slhcvzhzz82.cloudfront.net/profile_pics/leah_griffith.jpg
+image:      https://ik.imagekit.io/u9ndqdgam20/profilePics/leah_griffith.jpg
 option:     CS + BEM
 house:      Fleming
 class:      2023

@@ -1,7 +1,7 @@
 ---
 title:          Jen Yu
 username:       Jen Yu
-image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/jen_yu.jpg
+image:          https://ik.imagekit.io/u9ndqdgam20/profilePics/jen_yu.jpg
 option:         Computer Science
 house:          Fleming
 meet:           false

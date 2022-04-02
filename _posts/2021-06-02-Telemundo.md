@@ -4,7 +4,7 @@ title: Paving the Way & Enjoying the Journey on the Road Less Traveled
 categories:
 - research
 author: argomez
-image: https://d24slhcvzhzz82.cloudfront.net/images/2021/D72B3CE5-4A42-4FA8-84B0-1AB71C3BCD47.jpeg
+image: https://ik.imagekit.io/u9ndqdgam20/images/2021/D72B3CE5-4A42-4FA8-84B0-1AB71C3BCD47.jpeg
 featured: true
 hidden: true
 

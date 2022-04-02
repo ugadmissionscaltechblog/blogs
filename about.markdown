@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![The Answer to Life, the Universe, and Everything](https://d24slhcvzhzz82.cloudfront.net/images/2021/09/frankaffe-the-answer-to-life-is-42.jpg)
+![The Answer to Life, the Universe, and Everything](https://ik.imagekit.io/u9ndqdgam20/images/2021/09/frankaffe-the-answer-to-life-is-42.jpg)
 
 This blog is written primarily for prospective or recently admitted students. Our goal is to tell great stories and to inform our readers about what life is like as a Caltech student. We have blog posts from 2009, some of the posts of which are not formatted correctly. The import process was quite hairy.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-steph.png
+image: https://ik.imagekit.io/u9ndqdgam20/images/2022/tyler/Optimized-steph.png
 tags: []
 title: The Golden State Warriors “Visit” Caltech
 author: Tyler Colenbrander
@@ -23,16 +23,16 @@ And, this tweet:
 
 Imagine being able to say that you've played on the same basketball court as Steph Curry. Well, at Caltech, now you can! After the Warriors were done practicing, some of us waited outside the gym to try to catch a glimpse of the players when they walked out. When Draymond Green, one of my favorite players, walked out of the gym, he kindly stopped for a minute to sign autographs for some of us waiting outside! He signed my Warriors hat and Caltech frisbee, and I honestly was speechless. It was again a surreal moment that I’ll for sure remember forever.
 
-![https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6374.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6374.JPG")
+![https://ik.imagekit.io/u9ndqdgam20/images/2022/tyler/Optimized-IMG](https://ik.imagekit.io/u9ndqdgam20/images/2022/tyler/Optimized-IMG_6374.JPG "https://ik.imagekit.io/u9ndqdgam20/images/2022/tyler/Optimized-IMG_6374.JPG")
 
 To make the day even better, later that night I went to my very first live Warriors game ever. They were playing the Los Angeles Clippers (which is why they were in town and practicing at Caltech). Despite following the Warriors for years, I had never gotten a chance to see them play in person (those tickets are quite expensive!). So, this was truly a dream come true. Wearing my newly-autographed Warriors hat, I finally got to experience the live, exciting atmosphere of an NBA game!
 
-![https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6467.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6467.JPG")
+![https://ik.imagekit.io/u9ndqdgam20/images/2022/tyler/Optimized-IMG](https://ik.imagekit.io/u9ndqdgam20/images/2022/tyler/Optimized-IMG_6467.JPG "https://ik.imagekit.io/u9ndqdgam20/images/2022/tyler/Optimized-IMG_6467.JPG")
 
 The game started off as a close battle the entire first half, and it seemed like Steph Curry couldn’t miss; I guess that practice at Caltech earlier in the day paid off! Before the end of the first quarter, Steph already had 16 points!
 
-![https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6445.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6445.JPG")
+![https://ik.imagekit.io/u9ndqdgam20/images/2022/tyler/Optimized-IMG](https://ik.imagekit.io/u9ndqdgam20/images/2022/tyler/Optimized-IMG_6445.JPG "https://ik.imagekit.io/u9ndqdgam20/images/2022/tyler/Optimized-IMG_6445.JPG")
 
-![https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6432.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-IMG_6432.JPG")
+![https://ik.imagekit.io/u9ndqdgam20/images/2022/tyler/Optimized-IMG](https://ik.imagekit.io/u9ndqdgam20/images/2022/tyler/Optimized-IMG_6432.JPG "https://ik.imagekit.io/u9ndqdgam20/images/2022/tyler/Optimized-IMG_6432.JPG")
 
 The Warriors and Clippers kept going back and forth, and at halftime, the Warriors were down by 2 points in a 59 to 61 point game. Unfortunately, in the third quarter, the Clippers took over, and the Warriors couldn’t do much to come back. It would’ve been great to see a Warriors victory, but it was still a fun time! I loved being in the crowd atmosphere and experiencing everything live. Next, I’m hoping I can go to a home Warriors game at Chase Center in San Francisco! And, another item on my to-do list is to shoot a three pointer on the same hoop that Steph Curry was using during practice. Maybe I'll get a chance to after I finish my final exams...

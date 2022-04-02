@@ -1,7 +1,7 @@
 ---
 title:          Isha Chakraborty
 username:       Isha Chakraborty
-image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/isha_chakraborty.jpg
+image:          https://ik.imagekit.io/u9ndqdgam20/profilePics/isha_chakraborty.jpg
 option:         Computer Science 
 house:          Page
 meet:           true

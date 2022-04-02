@@ -3,7 +3,7 @@ title:          Arielle Tycko
 username:       Arielle Tycko
 option:         Computation & Neural Systems 
 house:          Page
-image:          https://d24slhcvzhzz82.cloudfront.net/profile_pics/arielle_tycko.jpg
+image:          https://ik.imagekit.io/u9ndqdgam20/profilePics/arielle_tycko.jpg
 meet:           true
 class:          2023
 ---
