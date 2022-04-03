@@ -6,7 +6,7 @@ title: 'A Day in the Life: Jen'
 author: Jen Yu
 categories:
 - culture
-date: 2022-04-02 07:00:00 +0000
+date: 2022-04-02T07:00:00.000+00:00
 
 ---
 In this blog, I want to take you through a day in my life as a Caltech student. My daily routine has varied greatly since I arrived. In high school, I used to wake up early in the morning to run and play tennis; upon arriving at Caltech my freshman year, my wake-up time quickly shifted back to the 10-11am time range. Now that I’m a senior who has more of her life together, I’ve begun to start my day early again so that I can get a jumpstart. There’s nothing like waking up to the California sunshine and to feel the crisp morning air on your face.
@@ -25,7 +25,9 @@ I’m one of the captains of the women’s tennis team at Caltech and we have sm
 
 It’s finally 1pm, and my class is here – except this class is a long 3 hour lab from 1pm-4pm. I’m taking Bi1x this term, normally taken by freshmen. I need a biology lab prerequisite as a pre-med student, which is why I decided to take this course. However, it’s known as one of the coolest classes at Caltech, and our lab today teaches us how to perform a restriction digest and gel electrophoresis. I also get the chance to work with _E. coli_ bacteria, all novel experiences for me, a CS major. My lab partner and I grind out the lab efficiently and get to finish a little bit before the official end of class.
 
-I finally get the chance to shower off my sweat from tennis practice and relax for a bit before I have a meeting with the Hixon Writing Center (HWC) at 4:30pm. The HWC is hands-down one of the most amazing resources at Caltech and has helped me write every type of essay imaginable. I’ve sought help for nearly every essay I’ve written for a humanities class at Caltech and even gotten feedback on scholarship essays, some of which I ultimately won. Today, I’m working on some of my essays for the upcoming medical school application cycle. It’s helpful to talk through my ideas and thoughts with an experienced professional, and setting up meetings with someone else also keeps me accountable for producing a reasonable amount of work over a prolonged period of time, instead of cramming everything at the last minute.images/2022/jen/dinner.jpegimages/2022/jen/dinner.jpegimages/2022/jen/dinner.jpegimages/2022/jen/dinner.jpeg![](https://ik.imagekit.io/u9ndqdgam20/images/2022/jen/dinner.jpeg)
+I finally get the chance to shower off my sweat from tennis practice and relax for a bit before I have a meeting with the Hixon Writing Center (HWC) at 4:30pm. The HWC is hands-down one of the most amazing resources at Caltech and has helped me write every type of essay imaginable. I’ve sought help for nearly every essay I’ve written for a humanities class at Caltech and even gotten feedback on scholarship essays, some of which I ultimately won. Today, I’m working on some of my essays for the upcoming medical school application cycle. It’s helpful to talk through my ideas and thoughts with an experienced professional, and setting up meetings with someone else also keeps me accountable for producing a reasonable amount of work over a prolonged period of time, instead of cramming everything at the last minute.
+
+![](https://ik.imagekit.io/u9ndqdgam20/images/2022/jen/dinner.jpeg)
 
 My writing center appointment ends around 5:30pm and I head out to grab dinner with some friends from the tennis team. During regular practice days, we normally go straight to dinner after practice ends, but on small group days, I try to be more intentional and reach out to have a meal with other people. We decide on eating at Chandler and I get a burger and fries from the grill, with some pumpkin cheesecake for dessert.
 
