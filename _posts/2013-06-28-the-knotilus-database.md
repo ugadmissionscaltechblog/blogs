@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019103b6fe3e970c.png
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019103b6fe3e970c.png
 title: The Knotilus Database 
 categories: [research]
 status: Publish
@@ -21,7 +21,7 @@ Input -&gt; double branched cover of alternating link -&gt; quadratic form (matr
 <div class="photo-caption caption-xid-6a0105349b8251970b019103b6fe3e970c" id="caption-xid-6a0105349b8251970b019103b6fe3e970c">Shading convention from the paper by Ozsvath and Szabo
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ab7dd495970d.png" %}<div class="photo-caption caption-xid-6a0105349b8251970b0192ab7dd495970d" id="caption-xid-6a0105349b8251970b0192ab7dd495970d">Several links from Knotilus, after downloading and running through my program.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ab7dd495970d.png" %}<div class="photo-caption caption-xid-6a0105349b8251970b0192ab7dd495970d" id="caption-xid-6a0105349b8251970b0192ab7dd495970d">Several links from Knotilus, after downloading and running through my program.
 
 If you're interested in what those links actually look like without the shading and straight edges, you can look them up in the Knotilus database. The Knotilus archive numbers are (top to bottom, left to right), 10x-1-10, 11x-1-1, 14x-1-1, 23x-1-1, 23x-1-2, 23x-2-1, 23x-2-10, 23x-10-3, 23x-11-1. My program draws the links upside down because of the way that Tkinter (GUI package for Python) sets up its coordinate axis; the positive y-axis points down.
 

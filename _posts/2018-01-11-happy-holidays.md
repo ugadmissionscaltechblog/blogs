@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01b8d2ca296b970c-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d2ca296b970c-pi.jpg
 title: Happy Holidays!
 categories: [research]
 status: Publish
@@ -19,8 +19,8 @@ I am looking forward to ringing in the new year with friends and family next wee
 <div class="photo-caption caption-xid-6a01b8d28f2955970c01b8d2ca296b970c" id="caption-xid-6a01b8d28f2955970c01b8d2ca296b970c">My kitty, Clementine, celebrating her first (White!!) Christmas.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01bb09e2ebd3970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09e2ebd3970d" id="caption-xid-6a01b8d28f2955970c01bb09e2ebd3970d">Chanukah/ birthday flowers!
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09e2ebd3970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09e2ebd3970d" id="caption-xid-6a01b8d28f2955970c01bb09e2ebd3970d">Chanukah/ birthday flowers!
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01b8d2ca297f970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b8d2ca297f970c" id="caption-xid-6a01b8d28f2955970c01b8d2ca297f970c">My dog enjoying his two new toys: the pickle I got him, and a reindeer my parents got him.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d2ca297f970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b8d2ca297f970c" id="caption-xid-6a01b8d28f2955970c01b8d2ca297f970c">My dog enjoying his two new toys: the pickle I got him, and a reindeer my parents got him.
 

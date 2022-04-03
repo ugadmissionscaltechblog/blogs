@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Catherine Xie
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b016760c407c6970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b016760c407c6970b.jpg
 title: Looking at the Itsy Bitsy (with lasers!!) 
 categories: [research]
 status: Publish
@@ -16,16 +16,16 @@ date: 2012-01-20
 <p style="text-align: justify;">The first lab was focused on understanding the light pathway through a widefield microscope, viewing fluorscent samples and familiarizing ourselves with confocal laser scanning microscopy techniques.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0168e5c67788970c.gif" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e5c67788970c.gif" %}
 <p style="text-align: justify;">The basic idea is that we can shine light on the sample to "excite" molecules that will emit light of different color. We use a laser as the excitation light to achieve very high intensities. The laser light reflects off a dichroic mirror, hitting two mirrors on motors so the mirrors can scan the laser across the sample. The dye in the sample fluoresces and emits light that passes through the dichroic and focused onto the pinhole and measured by a detector. The advantage of fluorescence for microscopy is that you can often attach fluorescent dye molecules to specific parts of your sample, so that only those parts are the ones seen in the microscope. You can also use more than one type of dye. By changing the excitation light, you can cause one type of dye to fluoresce, and then another, to distinguish two different parts of your sample. Sound complicated? :)
 
 <p style="text-align: justify;">The instructors for the course guided us through many basic steps and were extremely helpful. They even let us call them on their office extension, come down to help us when we got stuck and also have office hours.
 
 <p style="text-align: justify;">I was really fascinated by the concept that the confocal laser scanning microscopy was essentiallyscanning many thin sections through my sample which can allow us to build up a very clean three-dimensional image of the sample. Then, we can use really cool computer imaging software for further analysis like making a 3D stack of the images! For this week, we looked at mixed pollen grain samples:
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0168e5c6a0ce970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e5c6a0ce970c.jpg" %}
 <p style="text-align: justify;">Moreover, we played around with different parameters such as scan speeds of the laser and pinhole diameters. Also, we used air and oil objectives and we found that using an oil objective gave much better resolution and brightness!
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0168e5c6a3c8970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e5c6a3c8970c.jpg" %}
 <p style="text-align: justify;">There is an abundance of cool things going on here at Caltech where science happens -- even as undergrads! Anyways, I better get back to writing my lab report and preparing the oral presentation. Until next time!
 

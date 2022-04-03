@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jessica Yeung
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a5103cc622970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a5103cc622970c.jpg
 title: Happy New Year!
 categories: [research]
 status: Publish

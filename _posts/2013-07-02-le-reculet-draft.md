@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Valère Lambert
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0191040290f2970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0191040290f2970c.jpg
 title: Le Reculet 
 categories: [research]
 status: Publish
@@ -20,22 +20,22 @@ Sunday cleared up quite a bit and we actually had sunlight! My roommates and I d
 The trail was much steeper than we imagined. We began at the bottom with at least a 30 degree incline thinking that it would only be for a short distance, but it was actually like that the entire way up.The view was amazing though and the weather was really interesting since we went from passing through misty forests, through sunny fields and then up through the clouds. We finally made it to the top after about 3-4 hours and it was totally worth it.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104028cc3970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019104028cc3970c.jpg" %}
 We were high enough up that we could see the entire valley, even the other side of Lake Geneva. As a Southern Californian I must also make the obligatory, "there was snow!" statement. It was also pretty interesting to watch the clouds/fog roll into the mountains. On our way back down we became completely encompassed in mist.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901e0c907f970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901e0c907f970b.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0191040277d8970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0191040277d8970c.jpg" %}
 On our way up we had passed this heard of grazing cows which was off in the distance. When I had reached the peak I actually saw them stampeding across the field. Unfortunately they also happened to stampede right into the path that we needed to take to get down, and they weren't that happy to see us.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192abcb9bce970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192abcb9bce970d.jpg" %}
 They were pretty adorable though, they even had the huge bells that are stereotypical of cows in the Alps. I named this cow Ingrid which is not really fitting since we are in France but whatever.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104026d6d970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019104026d6d970c.jpg" %}
 We made it down the mountain, each of us in one piece. The worst part was actually the descent since the path was primarily made of stone and small pebbles. The mist also made it a bit difficult since all of the smooth rock was wet and pretty slippery. But the point is we made it down, though I will probably never get my roommates to go out hiking with me again.
 
 Now that we are finally off the mountain it is time to relax, get some sleep and prepare for our second week at CERN!

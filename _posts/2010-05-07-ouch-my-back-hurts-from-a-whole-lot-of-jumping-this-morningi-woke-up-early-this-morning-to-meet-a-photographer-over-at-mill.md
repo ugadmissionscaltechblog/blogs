@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b013480973637970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013480973637970c.jpg
 title: 1, 2, 3...JUMP!
 categories: [clubs]
 status: Publish
@@ -18,31 +18,31 @@ Louis and I discussing the composition of the shots and the possible locations..
 Setting up the lights at this location...
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b013480973b86970c.jpg" %}Test-shot....
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013480973b86970c.jpg" %}Test-shot....
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133ed63a91a970b.jpg" %}and POSE!
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ed63a91a970b.jpg" %}and POSE!
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133ed63a9f9970b.jpg" %}Switching locations and giving more variety..
-
-
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133ed63ad98970b.jpg" %}
-
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133ed63ae70970b.jpg" %}
-
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01348097441f970c.jpg" %}
-
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b013480974603970c.jpg" %}It's hard coming up with new jumps that will translate well in photographs...I seemed to almost always default to this one...
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ed63a9f9970b.jpg" %}Switching locations and giving more variety..
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133ed63b3a1970b.jpg" %} Louis was awesome to work with and really gave me good direction
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ed63ad98970b.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133ed63b543970b.jpg" %}Wait, you want me to jump on the bridge?--what if I fall in!!?!
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ed63ae70970b.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b013480974ab9970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348097441f970c.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133ed63b701970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013480974603970c.jpg" %}It's hard coming up with new jumps that will translate well in photographs...I seemed to almost always default to this one...
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b013480974c43970c.jpg" %}Louis sent me one of the pictures from the shoot in the black and white...It looks GREAT
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133ed63bbca970b.jpg" %}So--yup..that was my morning..now I gotta go give my back a rest :P Have a great weekend everybody!
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ed63b3a1970b.jpg" %} Louis was awesome to work with and really gave me good direction
+
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ed63b543970b.jpg" %}Wait, you want me to jump on the bridge?--what if I fall in!!?!
+
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013480974ab9970c.jpg" %}
+
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ed63b701970b.jpg" %}
+
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013480974c43970c.jpg" %}Louis sent me one of the pictures from the shoot in the black and white...It looks GREAT
+
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ed63bbca970b.jpg" %}So--yup..that was my morning..now I gotta go give my back a rest :P Have a great weekend everybody!

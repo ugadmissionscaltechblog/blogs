@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01bb097ead87970d-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb097ead87970d-pi.jpg
 title: Unicorn Cafe, Macarons, Green Soba, and Tofu Pudding
 categories: [global]
 status: Publish
@@ -15,14 +15,14 @@ The next day, I had lunch and dessert in the San Gabriel Valley with my grandma 
 <div class="photo-caption caption-xid-6a01bb08213082970d01bb097ead87970d" id="caption-xid-6a01bb08213082970d01bb097ead87970d">Circus Animal Shake (pink), Unicorn Shake (purple), Cookie Monster Hot Chocolate (blue)
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01b8d265e3e3970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b8d265e3e3970c" id="caption-xid-6a01bb08213082970d01b8d265e3e3970c">Cute macarons!
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d265e3e3970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b8d265e3e3970c" id="caption-xid-6a01bb08213082970d01b8d265e3e3970c">Cute macarons!
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01b7c8db87d3970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8db87d3970b" id="caption-xid-6a01bb08213082970d01b7c8db87d3970b">There is also a Hello Kitty Cafe at the Irvine Spectrum, but we didn't go this time.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8db87d3970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8db87d3970b" id="caption-xid-6a01bb08213082970d01b7c8db87d3970b">There is also a Hello Kitty Cafe at the Irvine Spectrum, but we didn't go this time.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01b8d265e400970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b8d265e400970c" id="caption-xid-6a01bb08213082970d01b8d265e400970c">Beef Soba from Green Zone
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d265e400970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b8d265e400970c" id="caption-xid-6a01bb08213082970d01b8d265e400970c">Beef Soba from Green Zone
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01b8d265e40c970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b8d265e40c970c" id="caption-xid-6a01bb08213082970d01b8d265e40c970c">Tofu Pudding from Meet Fresh
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d265e40c970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b8d265e40c970c" id="caption-xid-6a01bb08213082970d01b8d265e40c970c">Tofu Pudding from Meet Fresh
 

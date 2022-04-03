@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1015dd1970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1015dd1970c.jpg
 title: New Classes, New Hangouts, and Prefrosh Weekend 
 categories: [research]
 status: Publish
@@ -22,23 +22,23 @@ BEM/Ec 150 is great, so far. The lectures for the first two weeks have been alon
 Getting into the groove of a new term is usually pretty nice, because having no assigned work the first week allows you to organize your life a little. Since I've started working for this startup, however, I've had less free time than only having four classes would indicate. So I've gotten creative with my time. During Prefrosh Weekend this past weekend, I needed some alone time away from prefrosh (I love you guys, and I love answering all of your questions, but I have work too!), so I rode my bike to Old Pas, back to my favorite coffee shop in the world, Home Brewed Bar.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c777d449970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c777d449970b.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb081bb3e8970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb081bb3e8970d.jpg" %}
 Their special of the day was Pumpkin Cold Coffee, so my inner basic b*tch was so, so pleased.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb081bb3f2970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb081bb3f2970d.jpg" %}
 Friday night, Page hosted our annual Chill at Page event for prefrosh. We had a bar with "mocktails," a huge DDR setup, lots of snacks, loud music and an inflatable jousting ring. I wish I had gotten video for you guys from the jousting ring! We had some very silly wipeouts on the bouncy castle :P
 
 I met some awesome prefrosh, and met up with some Caltech freshman that I remember meeting at Chill at Page last year! One of them even told me that the conversation we had at Chill was one of the reasons she decided to come to Caltech.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1015e63970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1015e63970c.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c777d519970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c777d519970b.jpg" %}
 The people in orange lanyards are prefrosh. Hope to see you ladies at Caltech next fall!
 
 All in all, an exhausting week. Catch up with you all later!

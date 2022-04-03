@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Katie Brennan
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0153939b03f5970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0153939b03f5970b.jpg
 title: Day trip to Bath 
 categories: [research]
 status: Publish
@@ -19,7 +19,7 @@ Amazing finds in Bath:
 
 -Jane Austen Centre &amp; many sites from the movies based on her novels, Northanger Abbey and Persuasion. Sites such as the Royal Crescent, Pump Room, andAssembly Rooms. This is the Royal Crescent (hotel &amp; private residences):
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b015393e4f928970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015393e4f928970b.jpg" %}
 -Active theater scene. I saw a comedy, The Phoenix of Madrid by Calderón de la Barca. The play was fast paced and witty.In Austen's book her characters are out and about in Bath, frequentlyending the night with the theater! I felt veryproud/nerdy doing the same.
 
 Bath was a perfect day trip and a fun way to take advantage of a weekday without class!

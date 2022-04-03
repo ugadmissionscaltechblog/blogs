@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Angela Zah
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156fbd9a30970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01156fbd9a30970c.jpg
 title: roses are red...
 
 categories: [global]
@@ -16,7 +16,7 @@ There is a free student day every month, but you have to register at least a mon
 My classmates, Carolyn and Pranay, and I sitting on a fountain with tons of lily pads
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156fbd9ab3970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01156fbd9ab3970c.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011570b2dec2970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011570b2dec2970b.jpg" %}

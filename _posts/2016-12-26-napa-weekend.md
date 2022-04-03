@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d244bac5970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d244bac5970c.jpg
 title: Napa Weekend 
 categories: [academics]
 status: Publish
@@ -21,7 +21,7 @@ We hung out in Berkeley on Friday, with a stop at an awesome pizza place in Alba
 
 <p class="p2">
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d244bacd970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d244bacd970c.jpg" %}
 <p class="p2">
 
 I learned, after taking a tasting class and tasting a bunch of different wines, that I still don’t really enjoy wine. So we went back to downtown Berkeley and saw Moana to kill some time. It’s one of the only movies currently out that I hadn’t gotten the chance to see while at school this term! There were alley events to see movies, and an ASCIT campus event to see Fantastic Beasts and Where to Find Them. I’m also working with the Caltech Y (as the president of the Feminist Club) to arrange a screening of Hidden Figures next term for as many students as possible.

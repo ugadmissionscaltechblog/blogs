@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a4a63b23200b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0240a4a63b23200b.jpg
 title: LA Art Book Fair
 categories: [local]
 status: Publish
@@ -15,8 +15,8 @@ Interestingly, the LA Festival of Books at USC was happening the same weekend! T
 The Art Book fair lasted for 3 days and attracted thousands and thousands of people. There were all sorts of interesting books, from ones full of text to others that were purely photographs or drawings. It was fascinating to just browse through the material at each booth and talk to the artists. Below, I've included a couple images of the kind of merchandise we saw at each booth.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a4a63b1f200b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0240a4a63b1f200b.jpg" %}
 Afterwards, we went to a nearby boba shop called MILK+T, and they had cute Game of Thrones themed macarons! It was the opening night for Season 8 of Game of Thrones, so it was really apt timing.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a4a63b2c200b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0240a4a63b2c200b.jpg" %}

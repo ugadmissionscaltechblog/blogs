@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a46f1f07200c.png
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0240a46f1f07200c.png
 title: My Morning Commute
 categories: [global]
 status: Publish

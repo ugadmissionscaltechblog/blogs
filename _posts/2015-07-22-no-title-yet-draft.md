@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Suzy
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7aa6032970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7aa6032970b.jpg
 title: Bacon and Kickboxing 
 categories: [culture]
 status: Publish
@@ -27,7 +27,7 @@ Tuesday we had an "Interns' Coffee Chat" with our company's CFO. Pretty cool, we
 Tuesday night we had an event at the KPCB Edge Fund office. Edge is a sort of specialized VC - they spend two days of the week investing and the other three creating useful technology and content for their portfolio companies. I really liked them! They were very involved and they cared a lot about their work. We were asked to bring "a potential future fellow"; I chose a sort of mentee of mine from high school. Her name is Anna, we did robotics (FRC shoutout!) and cross-country together. Here's us from way back in the day.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1350abb970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1350abb970c.jpg" %}
 We're at a cross-country banquet. I think I'm a junior in high school. There were tacos at the Edge event. Afterward, I basically just went to bed. One of the guys was all for going out, but it was a Tuesday night.
 
 Wednesday was pretty routine. I started a kickboxing class and learned to configure dnsmasq. The kickboxing instructor was crazy peppy. I hope I get better at the routines - I had fun, but I'm sure I looked like an idiot. Brownies are in the oven, for my roommate's birthday. Chet turns 22 today.

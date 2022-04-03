@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2857970c022ad3552fd2200c-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c022ad3552fd2200c-pi.jpg
 title: Disneyland Pixar Fest
 categories: [local]
 status: Publish
@@ -14,4 +14,4 @@ The costumes for the parade were all really well designed! I especially liked th
 Of course, the rides at Disneyland were fun. I went on Splash mountain for the first time ever :O I also saw a dog with Mickey Mouse ears and sunglasses!
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b022ad39b0503200b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b022ad39b0503200b.jpg" %}

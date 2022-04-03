@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01b7c8f186a9970b-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8f186a9970b-pi.jpg
 title: Unicorn Frappuccinos, The Grove, and Art Center Graduation
 categories: [clubs]
 status: Publish
@@ -16,4 +16,4 @@ The Grove - The Grove is an outdoor shopping mall in Beverly Hills. It's beautif
 
 Art Center Graduation - The Art Center College of Design is an art school in Pasadena. One of my friends from high school went there, and she just graduated this past Saturday! I went to her graduation showcase to see both her work and the work of all the graduating Art Center students. The showcase were huge and everyone was extremely talented. It was open to the public, so anyone interested could have gone. P.S. Caltech has an exchange program with the Art Center College of Design!
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d27be77a970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d27be77a970c.jpg" %}

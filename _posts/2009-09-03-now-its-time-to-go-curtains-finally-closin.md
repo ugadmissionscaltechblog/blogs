@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anton Bongio Karrman
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0120a59562d5970c-320wi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0120a59562d5970c-320wi.jpg
 title: Now it's time to go, curtain's finally closin'
 categories: [research]
 status: Publish
@@ -25,32 +25,32 @@ there, meeting up with tons of my family members, and even finding beautiful pla
 Highlights of my trip:
 
 Brussels with my friend Didier from an online social networking site, CouchSurfing, in Brussels. Two weeks later, the couch I stayed on was featured on the evening news in Brussels and Didier was interviewed! :D
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0120a595646f970c-320wi.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0120a595646f970c-320wi.jpg" %}
 One of my favorite trance duos, Milk Inc. in Aarschot :)
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0120a5956952970c-320wi.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0120a5956952970c-320wi.jpg" %}
 My friend Stijn from CouchSurfing and his family; we're standing in front of the oldest turret in Aarschot.
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0120a595a2ab970c-320wi.jpg" %}Me and my Brazilian friend Lysandra from Ecole Polytechnique. The Duomo cathedral is behind us.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0120a595a2ab970c-320wi.jpg" %}Me and my Brazilian friend Lysandra from Ecole Polytechnique. The Duomo cathedral is behind us.
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0120a595a46e970c-320wi.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0120a595a46e970c-320wi.jpg" %}
 
 Me and Mike di Scala, one of the most prolific Clubland artists in the UK. We're on the Spanish island of Ibiza.
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0120a53eb4e5970b-320wi.jpg" %}Me with Mike Lewis of N-Trance and DJ Manian of Cascada. Cascada recently came out with Evacuate the Dance Floor, which was the top selling single in the UK for more than two weeks. We three are in Ibiza.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0120a53eb4e5970b-320wi.jpg" %}Me with Mike Lewis of N-Trance and DJ Manian of Cascada. Cascada recently came out with Evacuate the Dance Floor, which was the top selling single in the UK for more than two weeks. We three are in Ibiza.
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0120a595ab5b970c-320wi.jpg" %}Me in front of the Ibiza airport.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0120a595ab5b970c-320wi.jpg" %}Me in front of the Ibiza airport.
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0120a595b375970c-320wi.jpg" %}Famiglia in Italia: about 40 of my relatives had a reunion because I visited them in northern Italy :)
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0120a595b375970c-320wi.jpg" %}Famiglia in Italia: about 40 of my relatives had a reunion because I visited them in northern Italy :)
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0120a53ec59e970b-320wi.jpg" %}At Livignio (tucked away in the Italian/Swiss Alps) with my cousins Mattia and Alessandro :)
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0120a53ec59e970b-320wi.jpg" %}At Livignio (tucked away in the Italian/Swiss Alps) with my cousins Mattia and Alessandro :)
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0120a53ec43d970b-320wi.jpg" %}With family at Bellagio on Lake Como.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0120a53ec43d970b-320wi.jpg" %}With family at Bellagio on Lake Como.
 
 But about two weeks ago I got back to Ecole Polytechnique, and since then I have been wrapping up my project. And BAM is it working well :) The paper I am writing that explains the methodology behind our topology optimization algorithm
 as well as acts a basic kind of user's guide is almost finished; all
 that is really left is adding graphics of some of our resulting structures and doing some proof reading. Check out our optimal bridge:
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0120a53ecef3970b-800wi.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0120a53ecef3970b-800wi.jpg" %}
 
 Anyways, I'll soon give you a taste of how my last two Parisian weeks went as well some more cool examples of topology optimization of linearly elastic structures :)
 Always,

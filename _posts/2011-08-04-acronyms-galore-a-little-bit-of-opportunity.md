@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Garima Gupta
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0154342cb0a7970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0154342cb0a7970c.jpg
 title: Acronyms Galore & A Little Bit of "Opportunity"
 categories: [research]
 status: Publish

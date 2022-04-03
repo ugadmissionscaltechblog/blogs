@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Andrew Freddo
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a6b0495e970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a6b0495e970b.jpg
 title: Good Morning, Baltimore!
 categories: [research]
 status: Publish
@@ -17,9 +17,9 @@ I met a Techer! He graduated in '02, so he's been out for a while. But we still 
 
 OK anyways I will wrap up in a bit, but before that - picture time!!
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b012875b29dce970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b012875b29dce970c.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b012875b29ea5970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b012875b29ea5970c.jpg" %}
 So now why would I go to Baltimore, which is 150 miles from my house, without saying "Hi" to my mom and dad?! I wouldn't! After my interview, I took the train up to my BELOVED New Jersey and stayed overnight at home! My mom cooked me a delicious Italian meal, I got to watch some great TV ("Ugly Betty" rocks!), and ran some errands in the morning (including getting my brand-new horizontal 21+ NJ Drivers License!). It was a very busy 18 hours, but then it was time to head back to Pasadena...just in time for the Third Eye Blind concert (more on that in Dannah's blog!).
 
 Till next time - and then I'm back home for more than a few hours, but actually a few DAYS, while I interview at UMDNJ - Robert Wood Johnson.

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anita
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d05cfad3970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d05cfad3970c.jpg
 title: Stalking Pomona
 categories: [research]
 status: Publish
@@ -20,7 +20,7 @@ After multiple near-misses, we finally met the roommate, who comes from Germany 
 ^<span style="color: #111111;">Early impressions: Pomona is awfully fond of square plates...
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73e11286f970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73e11286f970d.jpg" %}
 
 <span style="color: #111111;">^A note on the wildlife: Their squirrels are skinnier than the Caltech squirrels! Perhaps we are too generous with ours (all those olive trees and their fruits must've raised their lipid intake or *something*). Pomona squirrels are not only able to climb trees but also scale buildings!
 

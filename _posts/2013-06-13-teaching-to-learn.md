@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ketaki Panse
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ab086e5e970d.png
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ab086e5e970d.png
 title: Math and Medicine
 categories: [research]
 status: Publish
@@ -16,28 +16,28 @@ For example, this year, two students decided to model scar formation. Here's how
 **Step 1: Model happy, healthy collagen matrix**
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901d4a0ae7970b.png" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901d4a0ae7970b.png" %}
 
 **Step 2: Make sure the model is biologically accurate.** Does the collagen matrix generated look kinda like collagen matrix in vivo?
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901d4a070b970b.png" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901d4a070b970b.png" %}
 Yes!
 
 **Step 3: Model a wound**
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0191034004c0970c.png" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0191034004c0970c.png" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019103400708970c.png" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019103400708970c.png" %}
 
 **Step 4: Model scar tissue formation**
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901d49fa50970b.png" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901d49fa50970b.png" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ab086a34970d.png" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ab086a34970d.png" %}
 <span style="font-size: 8pt;">[c4 refers to how quickly scar tissue
 compensates for missing skin tissue; c5 describes
 the inhibiting effect of the kinetic energy of the normal skin tissue; c6 refers to the contact inhibition caused

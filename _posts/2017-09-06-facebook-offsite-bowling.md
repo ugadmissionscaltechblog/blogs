@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09be92ab970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09be92ab970d.jpg
 title: Facebook Offsite
 categories: [culture]
 status: Publish
@@ -13,5 +13,5 @@ Many companies hold offsites for their employees, and Facebook is no exception. 
 We went to a place called Bel Mateo Bowl in San Mateo, where we ordered every food party tray on the menu. There was a lot of food, but there were about 18 people there, so there were a lot of hungry stomachs to be filled. My team has 9 members including me, but our sister team also joined us so we were able to fill up 3 lanes.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2a5c2e9970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2a5c2e9970c.jpg" %}
 The people playing next to us happened to be competing in a tournament, and they were crazy good at bowling. One person was headed towards a perfect game with continuous strikes, until the 9th round where he hit 9 out of 10 pins. In contrast, most of us Facebookers were complete novices and were probably pretty embarrassing to watch..Nevertheless, we had a lot of fun!

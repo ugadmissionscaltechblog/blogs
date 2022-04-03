@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Gloria
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01bb07e6c4b6970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01bb07e6c4b6970d.jpg
 title: The Other Half of Campus
 categories: [research]
 status: Publish
@@ -17,15 +17,15 @@ date: 2015-02-08
 
 <p dir="ltr" style="text-align: left;">I went with two grad students from Caltech, traveling via taxi for one-and-a-half hours to get to Mastro’s Steakhouse in Beverly Hills. The return trip was much better (no traffic), and the food was top-notch, so it was totally worth it. My personal favorite was the appetizer. I ordered the Ahi Tuna Tartare (I had to edit these pictures because the lighting was so bad):
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb07e6c4d2970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07e6c4d2970d.jpg" %}
 <p dir="ltr" style="text-align: left;">I split half of it with a grad student, who gave me half of his Seared Ahi Tuna:
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0cc9296970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0cc9296970c.jpg" %}
 <p dir="ltr" style="text-align: left;">I officially love ahi tuna. The seared tuna was so flavorful, and the guacamole and crunchy layers fit so well with the tuna in the tartare! Truly exquisite. Back to the topic. I got to talk a lot with the tuna-sharing grad student. He’s in the Chemistry department, so we knew a lot of the same people, from professors to rotation students to TAs. 
 
 <p dir="ltr" style="text-align: left;">The dinner group also discussed the different levels of fashion awareness at our respective colleges. The grad student from UCLA described how everyone wore dress shoes and stylish garb on campus, while the grad student from Berkeley joked about someone who advised him to start turning his clothes inside out when he ran out of clean clothes to wear. Caltech’s more in the “What is fashion?” category, which is fine by me. Shorts, shirt, and sneakers every day! As the night wrapped up, we ordered dessert. I got the house signature Butter Cake, which was overwhelming to say the least. Delicious, but a little too much:
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0cc92a9970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0cc92a9970c.jpg" %}
 <p dir="ltr" style="text-align: left;">When we parted, I realized what the upperclassman meant when he said that grad students and undergrads were “kept in separate cages on the opposite ends of campus.” We were dropped off on California Boulevard and went in exact opposite directions, heading for Wilson and Hill -- the two extreme ends of campus. It only takes seven minutes or so to walk across campus (one lap around campus is 1.5 miles), but Caltech messes with your sense of distance, so I guess we do live in separate worlds. 
 
 <p dir="ltr" style="text-align: left;">Over the past couple of weeks, I’ve met quite a few Caltech grad students through various means. It’s interesting hearing about Caltech from a grad student’s perspective. For one, most of them have no idea about the house system. When I was meeting with a grad student, I saw one of my housemates, and exclaimed that he lived in my alley. The grad student looked at me weirdly and asked, “You live in an alley?” On the way to dinner, I enjoyed hearing the grad students’ misconceptions about the houses (“Are people sorted based on their GPAs?”), and student life (“You must be so sad, studying all the time”). 

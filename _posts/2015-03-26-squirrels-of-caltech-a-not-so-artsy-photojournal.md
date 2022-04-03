@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Vasant
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c762db87970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c762db87970b.jpg
 title: Squirrels of Caltech
 categories: [research]
 status: Publish
@@ -15,25 +15,25 @@ date: 2015-03-26
 
 I encountered a lot of squirrels this summer, since my walk to lab every morning led me through thewestern half of San Pasqual Walk, an area that squirrels enjoy because it's surroundedby a lot of tall trees and a lot of lab meetings with leftover food. Like these two guys I found lounging in the trees one lazy afternoon:
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0ec51dc970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0ec51dc970c.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0ec51e4970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0ec51e4970c.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb0806d233970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0806d233970d.jpg" %}
 One of their favorite hideouts is Dabney Gardens (adjacent to Dabney Hall, a small,classy chapel turned performance hall where we host chamber recitals and a cappellaconcerts). The courtyard outside the hall is full of shade and leafy trees and borderedby thick brush, and sometimes you can see the squirrels running along the walls and frolicking in the undergrowth:
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0ec51fa970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0ec51fa970c.jpg" %}
 As a scientist, I have conducted a rough study on squirrel behavior on campus. Myresults indicated that when one tries to take a picture of one, about half the timethey will bolt away before you can even snap a frame. The other 50% of the time, thesquirrel decides that its best strategy is to advance *towards* you at an intimidatinglyfast pace. At which point, as an investigator, your best bet is to turn tail (so tospeak) and run fast, optionally choosing to let out as high-pitched scream as thesquirrel gives chase.
 
 Suffice it to say, in terms of its native animal life, Caltech's an active place.And this is just the squirrels. I haven't even begun to start talking about the turtles (here pictured doing an advanced form of yoga).
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c762dbed970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c762dbed970b.jpg" %}
 Or the cat I babysat for a few weeks last year (if you're ever worried about having a weird roommate when you get to college, let me tell you...at least you won't wake up at 6 AM to him snuggled on your pillow, paws on your face and meowing incessantly):
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0ec5228970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0ec5228970c.jpg" %}
 Or the two rats that my alley has adopted, who in typical Alley 4 style, we decided to name Korra and Asami. But, since we've only had them for a few weeks, we haven't had anything crazy yet (except for the time that Korra escaped and was running around the room for 10 minutes until we managed to corner and catch her. Eh, but that's just details :)
 
 Anyways, maybe time to get back to finals.See ya on the flip!

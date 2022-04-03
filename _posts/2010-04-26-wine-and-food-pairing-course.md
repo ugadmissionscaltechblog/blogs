@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01348026f8aa970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348026f8aa970c.jpg
 title: Wine and Food Pairing Course
 categories: [culture]
 status: Publish
@@ -15,19 +15,19 @@ The Wine and Food Pairing course is offered to seniors (that are of age, of cour
 11 wines, and 6 courses! Phew!
 The Master Of Student Houes (MOSH) Geoffy Blake opening the next bottle of wine---what could it be?
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01348026fbce970c.jpg" %}Mrs MOSH (Karen Blake) pouring into our glasses the wine to sample with the wonderful meal she prepared
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348026fbce970c.jpg" %}Mrs MOSH (Karen Blake) pouring into our glasses the wine to sample with the wonderful meal she prepared
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01348026fe5f970c.jpg" %}Yum! Beef Tenderloin and a few Cabernet Sauvignon :)
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348026fe5f970c.jpg" %}Yum! Beef Tenderloin and a few Cabernet Sauvignon :)
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133ecf74192970b.jpg" %}As food reviewers--Andrew and I definitely approved!
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ecf74192970b.jpg" %}As food reviewers--Andrew and I definitely approved!
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133ecf743a2970b.jpg" %}To avoid heavy-handed pouring and to keep sample sizes of the wine in check--there was this one ounce pour stopper fastened onto the wine bottles---GENIUS! Brian and I, the engineers we are, had to investigate this mechanism more closely...AHA! It was found to contain two ball bearings...
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ecf743a2970b.jpg" %}To avoid heavy-handed pouring and to keep sample sizes of the wine in check--there was this one ounce pour stopper fastened onto the wine bottles---GENIUS! Brian and I, the engineers we are, had to investigate this mechanism more closely...AHA! It was found to contain two ball bearings...
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133ecf746c1970b.jpg" %}OMG--I was stuffed at this point...but we had two more dessert courses to go!
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ecf746c1970b.jpg" %}OMG--I was stuffed at this point...but we had two more dessert courses to go!
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0134802707f6970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0134802707f6970c.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b013480270944970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013480270944970c.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0134802709b8970c.jpg" %}I had a great time and definitely learned tips and tricks of pairing wine with a meal. This crash course was awesome!---and I think the MOSH spoke about having a follow-up advanced course next month... :)
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0134802709b8970c.jpg" %}I had a great time and definitely learned tips and tricks of pairing wine with a meal. This crash course was awesome!---and I think the MOSH spoke about having a follow-up advanced course next month... :)

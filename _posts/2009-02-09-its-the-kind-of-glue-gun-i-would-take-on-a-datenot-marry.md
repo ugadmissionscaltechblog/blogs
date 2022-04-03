@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Julianne Gould
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011168546a2e970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011168546a2e970c.jpg
 title: It's the kind of glue gun I would take on a date...not marry.
 
 categories: [research]

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01b7c8ef063f970b-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8ef063f970b-pi.jpg
 title: Senior Beer and Food Pairing
 categories: [research]
 status: Publish
@@ -18,17 +18,17 @@ Each year, each class gets a "tasting" event at Tom's house. For example, as a f
 <div class="photo-caption caption-xid-6a01bb08213082970d01b7c8ef063f970b" id="caption-xid-6a01bb08213082970d01b7c8ef063f970b">Different types of beers available for tasting
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01b7c8ef064c970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8ef064c970b" id="caption-xid-6a01bb08213082970d01b7c8ef064c970b">Cheese and charcuterie
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8ef064c970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8ef064c970b" id="caption-xid-6a01bb08213082970d01b7c8ef064c970b">Cheese and charcuterie
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01b7c8ef0655970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8ef0655970b" id="caption-xid-6a01bb08213082970d01b7c8ef0655970b">Potstickers, crab, and pretzels
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8ef0655970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8ef0655970b" id="caption-xid-6a01bb08213082970d01b7c8ef0655970b">Potstickers, crab, and pretzels
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01b7c8ef065f970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8ef065f970b" id="caption-xid-6a01bb08213082970d01b7c8ef065f970b">Poached salmon, caprese salad, and potato salad
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8ef065f970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8ef065f970b" id="caption-xid-6a01bb08213082970d01b7c8ef065f970b">Poached salmon, caprese salad, and potato salad
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01b8d2796395970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b8d2796395970c" id="caption-xid-6a01bb08213082970d01b8d2796395970c">Different types of sausages
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d2796395970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b8d2796395970c" id="caption-xid-6a01bb08213082970d01b8d2796395970c">Different types of sausages
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01bb09922797970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01bb09922797970d" id="caption-xid-6a01bb08213082970d01bb09922797970d">Tiramisu, strawberry cheesecake, baklava, chocolates, and cinnamon sugar bread
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb09922797970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01bb09922797970d" id="caption-xid-6a01bb08213082970d01bb09922797970d">Tiramisu, strawberry cheesecake, baklava, chocolates, and cinnamon sugar bread
 

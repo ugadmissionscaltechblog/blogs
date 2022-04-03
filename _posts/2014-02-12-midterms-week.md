@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny Sheng
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fcb90c8a970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcb90c8a970b.jpg
 title: Midterms week!
 categories: [research]
 status: Publish

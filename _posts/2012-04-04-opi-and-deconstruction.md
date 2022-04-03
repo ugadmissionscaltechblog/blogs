@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Teo Wilkening
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0168e994ccfd970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e994ccfd970c.jpg
 title: OPI, Island Paradise 
 categories: [culture]
 status: Publish
@@ -17,37 +17,37 @@ If you take a look at my last blog you’ll see how far we were just 2 days befo
 *The entrance.*
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0168e994cd55970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e994cd55970c.jpg" %}
 **We also had fog coming out of the volcano at points, but unfortunately I didn’t have my camera during the party to take a picture. I was cool though.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01676493a644970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01676493a644970b.jpg" %}
 *Our wonderful plane. You may not believe me but the propellers spun! I was completely not expecting that so when I found out I was pretty excited.*
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01676493aa86970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01676493aa86970b.jpg" %}
 *The DJ's hut.*
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0168e994d9ca970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e994d9ca970c.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0163039efde3970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0163039efde3970d.jpg" %}
 The party itself was great. At least better than many I’ve been to, but that may just be the people I was with. Overall, it was fun to get out, relax and dance- even though the music wasn’t particularly great. The food was amazing though! (Part of my enthusiasm may be because I am really hungry right now… but it was pretty good.) We had free milkshakes for people coming to the party, and a whole spread of fruit and finger food on a table. Plus three professional bartenders handled all the drinks.
 
 The inside:
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01676493c4b9970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01676493c4b9970b.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01676493c440970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01676493c440970b.jpg" %}
 *The last two pictures are the left and the right of the dining room respectively. It's a little empty in these pictures since the party hadn't really started yet. The milkshake station was against the back wall, and was only up during the party.*
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01676493c5a5970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01676493c5a5970b.jpg" %}
 There were also paper mache made parrots placed around the party at points. If you didn't notice, there are three in the pictures above. The one below hung above the piano and had about a three foot wing span.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0163039f03d2970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0163039f03d2970d.jpg" %}
 All I’ve got to say is I really enjoyed my milkshake, and the fruit was delicious. The fruit display was actually really interesting- I thought we just had extra pineapples for display, but in fact they had been cored and only the empty shell was on display.
 
 At the end of the party someone pulled the fire alarm and though it was effective in clearing out the party, security was having trouble turning it off. In the end, the wire for the sound was cut and we only had to deal with the flashing lights from the fire alarms.

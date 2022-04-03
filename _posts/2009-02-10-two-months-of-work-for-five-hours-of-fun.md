@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kirit Karkare
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011168588610970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011168588610970c.jpg
 title: Two months of work for five hours of fun
 categories: [research]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09b1bfae970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09b1bfae970d.jpg
 title: Hummus Where the Heart Is
 categories: [research]
 status: Publish
@@ -23,6 +23,6 @@ I am in love with this restaurant because I was watching an interview with the o
 Afterwards, we decided to hit up <a href="https://seela.org/markets-atwater-village/">the local farmers market</a>. There were tons of vendors selling organic produce. This farmers market operates from 10am-2pm every Sunday. From what I can tell, it is quite popular with the locals since everyone is walking around tasting the delicious fruits, veggies, and breads, and buying bags to take home. My friend bought a bag of lavender tea. I was tempted to buy some too, but I had just stocked up on teas the week before. Farmers markets are a great way to get quality goods for a decent price all the while supporting a more sustainable food chain, so I would definitely recommend you check it out!
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c90e836a970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c90e836a970b.jpg" %}
 
 

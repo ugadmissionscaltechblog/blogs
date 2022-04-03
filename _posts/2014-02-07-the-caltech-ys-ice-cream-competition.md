@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Wen Min
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fcb69c9a970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcb69c9a970b.jpg
 title: The Caltech Y’s Ice Cream Competition
 categories: [clubs]
 status: Publish
@@ -30,9 +30,9 @@ Fleming’s ice cream had strawberry and cookie dough, while Ricketts’ had che
 Finally, on Saturday we took out all of the ice cream at the same time so people could get their fix. Tom’s judges announced that the final winner was Lloyd, but I think everyone was just excited about the ice cream.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a511663ff7970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511663ff7970c.jpg" %}
 *There was quite a long line at the final tasting! I think it helped that it was pretty hot that day.*
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fcb69d61970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcb69d61970b.jpg" %}
 *A photo of some of the ice cream flavors. We ended up giving the leftover ice cream to the houses so they could enjoy their creations at their leisure.*

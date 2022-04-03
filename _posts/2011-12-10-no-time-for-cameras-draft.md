@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Elisa Walsh
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162fd68b4f2970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162fd68b4f2970d.jpg
 title: No Time For Cameras 
 categories: [culture]
 status: Publish

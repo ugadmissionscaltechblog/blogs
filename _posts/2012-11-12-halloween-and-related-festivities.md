@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Monica Li
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0177449c8a5f970d017ee4db8068970d-800wi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d017ee4db8068970d-800wi.jpg
 title: Halloween and related festivities
 categories: [research]
 status: Publish
@@ -22,13 +22,13 @@ Page had their Interhouse this Friday; every year each house hosts a party for t
 The Social Team organized a pumpkin carving contest with dinner in honor of Halloween and midterms. We aren't served meals on the weekends with board, so geting food on campus was nice. The whole event was pretty mellow and destressed people from taking midterms. We now also have some elaborately carved pumpkins in our courtyard!
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c3337b65d970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3337b65d970b.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c3337b818970b.jpg" %}One was also made to resemble a certain someone which turned out hilariously.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3337b818970b.jpg" %}One was also made to resemble a certain someone which turned out hilariously.
 
 The first Sunday of every month, a flea market is held at PCC, the nearby community college. We walked over and saw the entertaining items people had to sell. Also, I bought a plant! I have a weirdly high interest in plants, sometimes stopping to look at them walking back from class.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d3d663d82970c.jpg" %}Right now the orchid is living under my bunked bed on the shoe shelf. It's supposed to grow best in the shade, and hopefully I can keep it alive for a while.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d3d663d82970c.jpg" %}Right now the orchid is living under my bunked bed on the shoe shelf. It's supposed to grow best in the shade, and hopefully I can keep it alive for a while.
 

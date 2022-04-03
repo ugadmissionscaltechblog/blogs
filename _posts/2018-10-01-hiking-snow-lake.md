@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2857970c022ad3692ccc200c-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c022ad3692ccc200c-pi.jpg
 title: Hiking Snow Lake
 categories: [clubs]
 status: Publish
@@ -15,5 +15,5 @@ When you drive up to the trail head, it looks like you're driving into a small a
 Once you get to the top of the first mountain, you can look down and see Snow Lake! The lake is amazingly clear; it's so beautiful! There's also snow surrounding the edges still even though it's summer. We climbed down next to the lake, and I went in for a short swim :) It was super cold, since the water is snowmelt, but it was really refreshing after getting all dusty on the hike.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2857970c022ad3aef811200b-pi.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c022ad3aef811200b-pi.jpg" %}
 If you're ever in the Seattle area, go to Snow Lake!!!!!!! It's amazing &lt;3

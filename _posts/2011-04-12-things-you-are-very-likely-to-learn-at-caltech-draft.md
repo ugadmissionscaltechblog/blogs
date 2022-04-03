@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Stephanie Reyes
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8760f39b970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e8760f39b970d.jpg
 title: Something you are (very) likely to learn at Caltech 
 categories: [research]
 status: Publish
@@ -16,26 +16,26 @@ It's almost prefrosh weekend! I am super excited. It's in less than a week now. 
 We found a screen from a Darb alum and decided to print some shirts with that design, too. However, not only people who want to make t-shirts for fun use the screen printing materials here, the Caltech Y and other organizations use it for all of the free shirts they end up giving away.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8760f83f970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e8760f83f970d.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e60856915970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e60856915970c.jpg" %}
 Where do we get all these shirts, you ask? They are all available to us. Not for free, of course. We can check them out and pay for them by the honor code. Also, pretty much everyone on campus has access to the art house and the music house. The honor code is a pretty legitimate thing here at Caltech and we all take it seriously so we get a lot of freedom with these types of things.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8760fbfa970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e8760fbfa970d.jpg" %}
 The art house is something that I am extremely glad we all have access to. I was really into doing art in high school and I thought that I'd have to give that up to come to a very science-oriented school. I was wrong. Even though we only have a few art classes, we do have the freedom and access to all of these art materials. We can also check out digital SLR camera from the digital photography club. There are a lot of Caltech students who are artistically talented.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e3e09b84970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e3e09b84970b.jpg" %}
 I'm not sure how many, but a lot of students submit their art to Totem which is the Caltech art publication. They take submissions yearly and give copies of the finished publication to everyone for free. I submitted some photographs I took in high school. I am currently unsure of whether or not they will be in this year's issue of Totem but I hope they are.
 
 Since I don't want to bore you with the process of screen printing, I'll just post these pictures of the process. Don't worry if you want to learn, you will if you go to Caltech.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e60856da2970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e60856da2970c.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e876103a3970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e876103a3970d.jpg" %}
 Next time I post will probably be during prefrosh weekend. I'm going to make a video of a tour by admissions office tour guides for those of you who can't show up so stay on the lookout for that (it'll be on Caltech's YouUniversity website which you can get to from the admissions website). Until then, I hope you prefrosh and prospective applicants will comment on my posts asking questions or requesting things for me to blog about. I really want to hear your input.
 

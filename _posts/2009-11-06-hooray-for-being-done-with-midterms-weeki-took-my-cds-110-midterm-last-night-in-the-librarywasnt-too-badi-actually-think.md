@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a6a61ca5970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a6a61ca5970c.jpg
 title: Making Progress...
 
 categories: [academics]
@@ -16,18 +16,18 @@ I took my CDS 110 midterm last night in the library...wasn't too bad.I actually 
 My team and I just finished giving our midterm presentation in front of Professor Pickar. We talked about all the work thus far, our analysis of the previous centrifuge prototype and our proposed design ideas. I think Professor Pickar was really pleased with the presentation and was really excited about seeing the sketches and understanding our thought process.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a6a61ed9970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a6a61ed9970c.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a650b265970b.jpg" %}Here are a few of the sketches/pictures/renderings we have done over the past few weeks while reengineering our centrifuge:
-
-
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a650b44a970b.jpg" %}Angie's preliminary concept sketch of centrifuge
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a650b265970b.jpg" %}Here are a few of the sketches/pictures/renderings we have done over the past few weeks while reengineering our centrifuge:
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a650b807970b.jpg" %}
-
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a650ba0b970b.jpg" %}Sophy's 3D model
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a650b44a970b.jpg" %}Angie's preliminary concept sketch of centrifuge
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a6a628ae970c.png" %}Have a great week everyone!
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a650b807970b.jpg" %}
+
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a650ba0b970b.jpg" %}Sophy's 3D model
+
+
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a6a628ae970c.png" %}Have a great week everyone!
 

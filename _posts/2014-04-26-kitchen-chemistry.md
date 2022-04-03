@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a511a8cb46970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511a8cb46970c.jpg
 title: Kitchen Chemistry
 categories: [research]
 status: Publish
@@ -15,7 +15,7 @@ As an apology, please accept a picture of our cacti, the fuzzy minions:
 
 And another from Lloyd Intarrrrrhouse that was difficult to take during the evening of:
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a511a8cbd4970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511a8cbd4970c.jpg" %}
 --
 
 April 11. The day we had to declare our options.
@@ -70,10 +70,10 @@ Try this at home, kids.
 Here's what I got:
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fcf9208c970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcf9208c970b.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73db3e3ab970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73db3e3ab970d.jpg" %}
 What do you think? Please comment with advice!
 
 Your kitchen chemist,

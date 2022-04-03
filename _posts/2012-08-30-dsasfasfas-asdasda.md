@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Valère Lambert
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0176177c6c96970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0176177c6c96970c.jpg
 title: Fireworks and Ferries 
 categories: [culture]
 status: Publish
@@ -17,24 +17,24 @@ Disclaimer: The author of this blog does not promote the irresponsible use of fi
 Okay, so moving past the explosives... this weekend I just stayed in the area around Geneva. Saturday I decided to explore the lake since our rail passes cover the ferries as well. I took the train to Lausanne and then took the ferry to Evian-les-bains to see the town and drink the water straight from the source. The ferry ride itself was pretty awesome. The weather was sunny right after rain so the light on the lake was pretty awesome. When I was leaving from Lausanne there was also a party ship right next to my ferry. Sounds like a great idea, partying and cruising around the lake all day.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c318552e6970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c318552e6970b.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0176177c8597970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0176177c8597970c.jpg" %}
 Evian was beautiful little town. Note too much to do but nice to walk around. I filled up my water bottle a few times from the spring sources. The water was nice and cold, straight from the glaciers.
 
 After visiting Evian I took the train to Thonon-les-bains to see even more springs. While walking to the train station I saw the local lycee (the high school). Yeah, I was kind of jealous that the town uses a chateau as a high school.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0176177c87af970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0176177c87af970c.jpg" %}
 Thonon was quite a bit larger than Evian and more of an actual city, though a small one. It was still very lush and scenic though.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0176177c887b970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0176177c887b970c.jpg" %}
 Overall it was a fairly relaxing Saturday full of just strolling along the lake and taking the ferry between small towns. The ride from Thonon to Morges was awesome since it was a smaller ferry and turned out to be a speed boat. We were lifted halfway out of the water the entire time and crossed the lake in half the time it took to get to Evian from Lausanne.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0177446312b0970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0177446312b0970d.jpg" %}
 
 So yeah, that was pretty much all of the excitement from my last weekend here. Now I'm already almost half way done with my last week and am freaking out about getting all of my data put together. I've started my paper and have 3 pages of text, + 91 pages for an appendix of plots. That's not even all of it. D:
 Hopefully all turns out well. It's sad to see my time here come to an end but it'll be nice to get to Paris and see my family for a few weeks before Romania.

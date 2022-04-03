@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Lekha Viswanadham
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0168ea3a51be970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168ea3a51be970c.jpg
 title: Back in Action PART 1
 categories: [research]
 status: Publish
@@ -14,10 +14,10 @@ It has been a while since I posted anything up to the blogs, but I promise I hav
 It feels great to be back on campus for spring quarter. The weather is amazing, and I will try to vary up the places I am studying in order to retain information (there are funny ways the brain recalls things, which is why some people study well with listening to music). For me, I take in the sounds of the environment and the physical sense of being to get things done, as I am not the fan of monotony.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01676538b87e970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01676538b87e970b.jpg" %}
 *Aww...one of my study spots (the olive tree in front of Fleming) is occupied by a tour group.*:( *We have had a lot of tours because of the many high school spring breaks.*
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01630447cfc6970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01630447cfc6970d.jpg" %}
 *The third of my multiple new study locations: the bleachers near the tennis courts. It’s sunny, warm, I get fresh air, it's isolated, and it's close to PS12.*
 
 The first part of the “Back in Action” blogs will be about academics. Let me give you some insight into my classes.
@@ -27,7 +27,7 @@ I am still on core classes. I have Ma1c (the practical track-not proof-based mat
 Bi1 got completely revamped for this year. We don’t have a textbook (to my relief because I would not want to carry 1200 pages of painful detail on my back) but instead a course reader consisting of articles on the latest research in the field of biology. Our first homework assignment was how to read a scientific article. I really appreciated that assignment because it let me have some patience in reading an article word-for-word and comprehending what a scientist was saying (though I felt and detested the “academese” &lt;read: verbose writing&gt; of scientists that my history professor from fall quarter despised). We are first going over evolution and how we trace back and categorize species. We recently read an article about tracing species back by RNA evidence (the 16S gene, which every species of organism has). We discussed in our recitation section if there were other ways to trace the evolution of life.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01630447d079970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01630447d079970d.jpg" %}
 *If you are interested in reading the article on the magnetic field stuff, here you go!*
 
 In PS12 we finished discussing the origins of political theory (starting with Thomas Hobbes). His theory is pretty depressing; he believes that mankind’s primary interest is to avoid an untimely and painful death. Hobbes follows that because of this theory, mankind needs a sovereign (self-preservation) in order to prevent his worst fear and than mankind should give up all his rights towards this sovereign in order to maintain peace (the *social contract*). I think Hobbes also proposed preemptive violence in order to maintain the peace. Hobbes’s theories are quite fascinating but quite unrealistic. We got into discussions about his work *Leviathan* and whether mankind can cooperate. For “homework” we have to watch movies and write papers on them. I don’t mind writing so much because I have been blogging for admissions, and I feel it has broken my fear of communicating by the written word. However, I am not the biggest fan of Clint Eastwood movies (*Gran Torino* and *Million Dollar Baby* were not my cups of tea, though the Academy rated them well).

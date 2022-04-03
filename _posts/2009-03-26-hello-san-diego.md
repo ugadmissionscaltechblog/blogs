@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Christina Weng
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01156e5fb63a970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01156e5fb63a970c.jpg
 title: Hello, San Diego!
 categories: [local]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2926e67970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2926e67970c.jpg
 title: Adventures in K-Town
 categories: [research]
 status: Publish
@@ -21,11 +21,11 @@ The salon I went to is super intimate and cute. The set up can seem intimidating
 
 Voila, the results! My eyebrows will scab a bit this week and the stokes will fade in color overtime. In the meantime, they are on fleek :)
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c908281c970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c908281c970b.jpg" %}
 
 If you are reading this post just for the food, here is the delicious bibimbap that was enjoyed along with some banchan (side-dishes) at <a href="https://www.yelp.com/biz/hangari-bajirak-kalgooksoo-los-angeles-6">Hangari Bajirak Kalgooksoo</a> restaurant. We will be back soon to try their hand-cut noodles.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c9082811970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9082811970b.jpg" %}
 Afterwards, we went grocery shopping at Zion Market. Asian grocery stores are so much cheaper than Vons or Pavillions etc. I bought 2 lbs of organic grapes for $1.49. Grapes are especially delicious when frozen -- the perfect healthy snack.
 

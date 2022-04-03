@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sakthi Vetrivel
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b7c80685b6970b01b7c811d39a970b-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b7c80685b6970b01b7c811d39a970b-pi.jpg
 title: Concussed 
 categories: [culture]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Chengyi L
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0192ab5403f4970d-800wi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0192ab5403f4970d-800wi.jpg
 title: In Which I Fail at Photography
 categories: [research]
 status: Publish
@@ -27,7 +27,7 @@ Buying the large amounts of meat has convinced me that I should go vegetarian, b
 
 Whatever. On to the cooking. 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0192ab54621e970d-800wi.jpg" %}**THE COMPLETE GUIDE TO COLLEGE COOKING**
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0192ab54621e970d-800wi.jpg" %}**THE COMPLETE GUIDE TO COLLEGE COOKING**
 
 Step 1: Heat oil in pan.
 
@@ -43,12 +43,12 @@ This is *actually* how we cook.
 
 Honestly though, cooking is not that hard. Both of my friends who actually knew how to cook abandoned us for the summer, and my roommate and I haven't died... yet... 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01901d96a953970b-800wi.jpg" %}The finished dishes: kale with olive oil and sesame seed sprinkled on top so it tastes both Asian and European; flesh cooked with peppers, onions, and garlic because we had to get rid of the peppers before they go bad; and rice. A shout-out to roommate S if you're reading this: follow the instructions on the rice cooker and don't add too much water next time!
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01901d96a953970b-800wi.jpg" %}The finished dishes: kale with olive oil and sesame seed sprinkled on top so it tastes both Asian and European; flesh cooked with peppers, onions, and garlic because we had to get rid of the peppers before they go bad; and rice. A shout-out to roommate S if you're reading this: follow the instructions on the rice cooker and don't add too much water next time!
 
 Also, because we had leftover rice, we made rice pudding.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01901d9731ba970b-800wi.jpg" %}Actual cooking tip of the moment: Always brown garlic and/or ginger and/or onions first before you add the rest of the ingredients! To brown things, put oil in pan, turn on heat to some arbitrary temperature, put your garlic/ginger/onion in, and stir it around with a spatula or something until they start smelling delicious. Garlic and ginger should turn slightly brown. Onions take forever, but at least wait for the pieces to become clear. Browning makes your food more delicious because of the <a href="https://en.wikipedia.org/wiki/Maillard_reaction">Maillard reaction</a>, which forms various new flavor compounds that make your food delicious. 
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01901d9731ba970b-800wi.jpg" %}Actual cooking tip of the moment: Always brown garlic and/or ginger and/or onions first before you add the rest of the ingredients! To brown things, put oil in pan, turn on heat to some arbitrary temperature, put your garlic/ginger/onion in, and stir it around with a spatula or something until they start smelling delicious. Garlic and ginger should turn slightly brown. Onions take forever, but at least wait for the pieces to become clear. Browning makes your food more delicious because of the <a href="https://en.wikipedia.org/wiki/Maillard_reaction">Maillard reaction</a>, which forms various new flavor compounds that make your food delicious. 
 
 Next time, on Cooking with Chengyi: What is this?? JPL doesn't accept dbal for lunch anymore??? What is Chengyi going to do with $320 worth of declining balance? 
 

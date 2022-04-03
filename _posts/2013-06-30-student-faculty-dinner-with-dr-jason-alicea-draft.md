@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Debbie
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01901df28fc7970b-320wi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01901df28fc7970b-320wi.jpg
 title: Student-Faculty Dinner - with Dr. Jason Alicea 
 categories: [research]
 status: Publish

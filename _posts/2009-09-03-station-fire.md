@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sedona Price
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a598bb29970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a598bb29970c.jpg
 title: Station Fire
 categories: [research]
 status: Publish
@@ -18,4 +18,4 @@ But that doesn't mean that things are over. The current estimated boundary size 
 Still, if you're inclined to follow what's going on, the incident website is <a href="https://inciweb.org/incident/1856/" target="_blank">here</a>.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a541d9b8970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a541d9b8970b.jpg" %}

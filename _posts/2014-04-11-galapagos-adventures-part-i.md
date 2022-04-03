@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ketaki Panse
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73da52e9c970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73da52e9c970d.jpg
 title: Galapagos Adventures
 categories: [research]
 status: Publish
@@ -39,7 +39,7 @@ By midnight that night, I was done packing. By 2 am, I’d “fallen asleep” (
 
 By 7 am, I’d met up with the rest of the class and started regretting my decision to not sleep at all before a 24-hour journey. Oh well! The excitement of seeing everyone kept me awake all through check-in and security. We joked at one classmate's comically large luggage, and marveled at another’s expertly packed 10-pound backpack. While I slept for most of the 3-leg journey, Prof Victoria Orphan woke me up just in time for this spectacular view:
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fcea7a1b970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcea7a1b970b.jpg" %}
 Let me pause here and say that seeing Daphne Major excited us for a variety of reasons:
 
 1. The island was our first glimpse of the Galapagos!
@@ -50,7 +50,7 @@ Let me pause here and say that seeing Daphne Major excited us for a variety of r
 
 As soon as we boarded off the plane, this quirky fellow greeted us:
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a5119a22a7970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a5119a22a7970c.jpg" %}
 Ernesto has been a naturalist for over 20 years, and it shows. The man knows the ins and outs of every island, the vast amount of scientific literature out there about the Galapagos, &amp; the observable nuances of the area’s flora and fauna. Not only is Ernesto ridiculously knowledgeable and sharp, he also genuinely cares about the islands. He speaks passionately about the effects’ of invasive species on the islands and is part of several efforts to protect the islands’ biodiversity.
 
 Often, his knowledge of Galapagos far exceeds what one might find on the Internet. For example, prior to the trip, each student was assigned a topic to research and present upon. I chose the peculiar relationship between Opuntia (prickly pear cacti) and its consumer and seed dispersal, giant tortoises. According to my research, Opuntia in the Galapagos can reach as high as 10 feet tall. Seemed like an impressive statistic to me! Well, on our first field day, Ernesto quickly pointed out a prickly pear cactus that was easily 15 feet tall. During my presentation, Ernesto mentioned that he himself had often seen cacti that reached 30 feet. Sure enough, throughout our trip, we saw several other Opuntia species that were easily over 20 feet. Ernesto: 1, Internet: 0.

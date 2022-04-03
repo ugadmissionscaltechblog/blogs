@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Alison Lui
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01a73da10b05970d01a73dc172f0970d-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a73dc172f0970d-pi.jpg
 title: Rocks for Dinner 
 categories: [culture]
 status: Publish
@@ -56,17 +56,17 @@ Waffle cones with Chunky Dino Ice Cream
 Dinosaur Cookies
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd06902f970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd06902f970b.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01a73da10b05970d01a511b63f97970c-pi.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a511b63f97970c-pi.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01a73da10b05970d01a511b63f6a970c-pi.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a511b63f6a970c-pi.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01a73da10b05970d01a3fd0690a3970b-pi.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a3fd0690a3970b-pi.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01a73da10b05970d01a511b63f6a970c-pi.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a511b63f6a970c-pi.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01a73da10b05970d01a511b64000970c-pi.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a511b64000970c-pi.jpg" %}
 And the best of all: The F<span style="font-family: 'arial black', 'avant garde'; color: #bfbf00;">**lloyd**stones gang.
 
 From left to right, we have Wilma (Kate), Fred (Val), Dino (Dominic), Barney (Evan), Bam-Bam (Chanukya), and Betty (yours truly).

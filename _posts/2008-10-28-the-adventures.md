@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Tom Gwinn
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/images/2008/10/28/blogfil.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/images/2008/10/28/blogfil.jpg
 title: The Adventures of a Fat Space Bunny
 categories: [research]
 status: Publish
@@ -78,4 +78,4 @@ that my summer experience was one I’ll never forget.
 Oh—and the presentation? It went fine.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/images/2008/10/28/blogsurf_copy.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/images/2008/10/28/blogsurf_copy.jpg" %}

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anita
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb085da1f1970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb085da1f1970d.jpg
 title: Weekend Out with the Roomies
 categories: [clubs]
 status: Publish
@@ -21,27 +21,27 @@ Saturday—Kayaking and BBQ.
 Rented canoes and kayaks from Portland Kayak Company. The Willamette River was several blocks from the shop; we had to roll our ships out onto the water (first down a hill and through a park, using tie-on wheels!).
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb085da352970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb085da352970d.jpg" %}
 Beef brisket at Cannon’s Barbecue Express. South meets North!
 
 Sunday—Comedy Show, Hot Chocolate Tasting, Libraries, and Berry-Picking
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7b9a396970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7b9a396970b.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7b9a3af970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7b9a3af970b.jpg" %}
 Roomies and me at “Potted Potter—the Unauthorized Harry Experience” at Newmark Theater in Portland. Involves a stuffed Nagini and a scary beach-style Forbidden Forest setting.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb085da37c970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb085da37c970d.jpg" %}
 Cinnamon, Rivali dark, and pepper hot *chocolate* espresso shots at Cacao’s.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb085da38c970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb085da38c970d.jpg" %}
 Berry picking on the road! Pricked our legs on some thorns for sour berries (they ripen in August) but it was super cool!
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d14353e7970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d14353e7970c.jpg" %}
 Stack of library books, whoo!
 I think I like it here.
 

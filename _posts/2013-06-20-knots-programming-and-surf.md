@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901d8b1589970b.png
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901d8b1589970b.png
 title: Knots, Programming, and SURF 
 categories: [research]
 status: Publish
@@ -29,7 +29,7 @@ A link is what you get when you have multiple knots linked together, like the Bo
 <div id="photo-xid-6a0105349b8251970b019103813347970c" style="display: inline-block; width: 320px;">
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019103813347970c.png" %}<div class="photo-caption caption-xid-6a0105349b8251970b019103813347970c" id="caption-xid-6a0105349b8251970b019103813347970c">Borromean rings drawn by Knotilus
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019103813347970c.png" %}<div class="photo-caption caption-xid-6a0105349b8251970b019103813347970c" id="caption-xid-6a0105349b8251970b019103813347970c">Borromean rings drawn by Knotilus
 
 An
  alternating link is a link with a diagram such that if you start 
@@ -48,13 +48,13 @@ then to load the drawing and shade regions (while keeping track of
 them), like in the picture below.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0191038144dd970c.png" %}<div class="photo-caption caption-xid-6a0105349b8251970b0191038144dd970c" id="caption-xid-6a0105349b8251970b0191038144dd970c">Link drawn in Plink (left) and shaded regions (right)
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0191038144dd970c.png" %}<div class="photo-caption caption-xid-6a0105349b8251970b0191038144dd970c" id="caption-xid-6a0105349b8251970b0191038144dd970c">Link drawn in Plink (left) and shaded regions (right)
 
 Based on the shaded regions and intersections, a graph and quadratic form can be calculated for each link projection. The quadratic form can then be used to calculate the Heegaard Floer correction terms.
 
 Since I'm doing a math SURF, I don't have to go to a lab or anywhere specific on campus to work on the project. Although the view from my dorm room is very nice, it can get lonely in the morning since most people are at labs or JPL. So for the first day, I decided to go work in Annenberg (the computer science building), since they have an undergraduate computer lab. 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0191038189d5970c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b0191038189d5970c" id="caption-xid-6a0105349b8251970b0191038189d5970c">View from my summer dorm room (the blurriness is from the window screen)
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0191038189d5970c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b0191038189d5970c" id="caption-xid-6a0105349b8251970b0191038189d5970c">View from my summer dorm room (the blurriness is from the window screen)
 
 For some of the other inputing methods for the SURF project, I'll first have to learn more about 
 topology and read a little about homology. My list of topics to learn about include plumbed 3-manifolds, Seifert fibered rational 

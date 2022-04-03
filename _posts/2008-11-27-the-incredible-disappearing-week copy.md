@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Tom Gwinn
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b010536271aa0970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536271aa0970c.jpg
 title: The Incredible Disappearing Week
 status: Publish
 date: 2008-11-27
@@ -18,7 +18,7 @@ All that aside, the party this weekend (Page Interhouse) was actually not that g
 **This second picture is just a shot of the crowd from a catwalk.**
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0105361e9209970b.jpg" %} 
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0105361e9209970b.jpg" %} 
 Well, that's all I have to say on parties for now. In other news, I went to lunch on Tuesday with my Chinese professor and class to a really nice Chinese restaurant, where we ordered in Chinese. It was a lot of fun, and the food was great. Also, we didn't have to pay for it--always a bonus. I am happy to find that my excitement to learn Chinese at the beginning of the term has persisted, if not grown stronger. Another cool event: Lloyd had a Capture the Flag event last weekend. I have very little to say except that it was a lot of fun. Additionally, the first match we played (upperclassmen vs. frosh) the frosh were remarkably tricky and managed to plant like three decoy flags. Good job frosh.
 
 Last but not least, I have finally started working on a personal website. I like to do graphic design so I spent a long time fussing over the artwork, and finally got a design. I'll probably post more about that hobby at a later time, once I have some hosted images to show you. 

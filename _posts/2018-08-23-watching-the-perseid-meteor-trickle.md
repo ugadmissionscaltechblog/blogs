@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Noelle
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3aa0680200b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3aa0680200b.jpg
 title: Watching the Perseid Meteor Trickle
 categories: [global]
 status: Publish

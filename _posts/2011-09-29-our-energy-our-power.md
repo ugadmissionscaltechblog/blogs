@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Account Deleted
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b015435b0d29f970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015435b0d29f970c.jpg
 title: Our Energy, Our Power
 categories: [research]
 status: Publish
@@ -38,11 +38,11 @@ The next day, they had the Moving Planet rally in front of the Pasadena City Hal
 Another ESW member and I went to hear the speeches. Felicia Williams, the chair of the Pasadena Environmental Advisory Committee, Carol Liu, a State Senator for the 21st district, and Mayor Bogaard all spoke.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b015391dd5e20970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015391dd5e20970b.jpg" %}
 Ms. Williams spoke about the various ways people in Pasadena can contribute their opinion to the city government, and encouarged people to come to a few upcoming meetings with their statements. She also listened to Robert's demands and said she would put those in the public comments part of the next meeting.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8bd1282d970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e8bd1282d970d.jpg" %}
 The mayor, Mr. Bogaard, spoke more about Pasadena as a city in the whole of CA. Pasadena has an EAC and many environmental initiatives, in large part because of citizens "like us."
 
 Finally, Senator Liu spoke about the goals of the state, and where the state was going; she talked about environmental initiatives in her district, and about the economics of power. She talked about the restoration of the LA River, and a tour of the Coca-cola plant she just had where she was very impressed by all their environmental initiatives (apparently, they hardly waste anything -- but wait, what about the bottles that get shipped out? do they make sure those get recycled? or support a tax on them?).

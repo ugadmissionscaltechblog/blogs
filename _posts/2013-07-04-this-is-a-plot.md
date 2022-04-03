@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kayane
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01901dfead14970b-800wi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01901dfead14970b-800wi.jpg
 title: This is a plot. 
 categories: [research]
 status: Publish
@@ -18,24 +18,24 @@ date: 2013-07-04
 <span style="font-family: 'courier new', courier;">
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192abbddffc970d.jpg" %}<span style="font-family: 'courier new', courier;">&gt;&gt; xlabel(<span style="color: #bf00bf;">'This is the x axis.')
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192abbddffc970d.jpg" %}<span style="font-family: 'courier new', courier;">&gt;&gt; xlabel(<span style="color: #bf00bf;">'This is the x axis.')
 <span style="font-family: 'courier new', courier;">
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192abbde1f1970d.jpg" %}<span style="font-family: 'courier new', courier;">&gt;&gt; ylabel(<span style="color: #bf00bf;">'This is the y axis.')
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192abbde1f1970d.jpg" %}<span style="font-family: 'courier new', courier;">&gt;&gt; ylabel(<span style="color: #bf00bf;">'This is the y axis.')
 <span style="font-family: 'courier new', courier;">
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192abbde590970d.jpg" %}<span style="font-family: 'courier new', courier;">&gt;&gt; set(x, <span style="color: #bf00bf;">'Color', <span style="color: #bf00bf;">'red')
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192abbde590970d.jpg" %}<span style="font-family: 'courier new', courier;">&gt;&gt; set(x, <span style="color: #bf00bf;">'Color', <span style="color: #bf00bf;">'red')
 <span style="font-family: 'courier new', courier;">&gt;&gt; title(<span style="color: #bf00bf;">'Oh look, I can change the color of the line, too.')
 <span style="font-family: 'courier new', courier;">
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192abbdef74970d.jpg" %}<span style="font-family: 'courier new', courier;">&gt;&gt; title(<span style="color: #bf00bf;">'Hah! I can plot in Matlab. &gt;:D')
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192abbdef74970d.jpg" %}<span style="font-family: 'courier new', courier;">&gt;&gt; title(<span style="color: #bf00bf;">'Hah! I can plot in Matlab. &gt;:D')
 <span style="font-family: 'courier new', courier;">
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901dfed132970b.jpg" %}<span style="font-family: 'trebuchet ms', geneva;">And thus begin my adventures in Matlab.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901dfed132970b.jpg" %}<span style="font-family: 'trebuchet ms', geneva;">And thus begin my adventures in Matlab.
 
 <span style="font-family: 'trebuchet ms', geneva;">
 <span style="font-family: 'trebuchet ms', geneva;">I sit on my couch eagerly waiting for my textbook to ship. "MATLAB: For Scientists and Engineers" is its title. I ordered it on Tuesday, so hopefully it'll get here before I go back for research starting on Monday!

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Giordon Stark
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0147e1b0ffb9970b.png
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0147e1b0ffb9970b.png
 title: Dinosaurs, Curiosity, and Mandelbrot 
 categories: [research]
 status: Publish
@@ -36,10 +36,10 @@ The next/last big event of the week is Venerable OPI: Day 0. (the computer scien
 This year's theme is Jurassic Park - we'll be taking ideas and situations from Jurassic Park 1,2, and 3. But first, have a look see at our plans...
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c7ba5c7f970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7ba5c7f970c.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c7ba5d15970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7ba5d15970c.jpg" %}
 This is a 3D view from the North-West corner of the party. As you can see, there is a series of elevated platforms around the party with a ramp connecting the bottom dance floor to the top. The gate is prominent in the top-right, a jeep on the right (the big light-green building is the wood shed, we keep all of our wood in there). On top of this wood shed, Andrew Gong (a Rudd) mounted a camera to take pictures constantly to create a timelapse video - more on this later. Finally you can see the electric fence that we plan to build (don't worry, it's a fake one! Caltech would never let us build a real one....)
 
 We have some surprises planned in store that you can't see from these images. For example, we're planning on getting plexiglass so we can create a waterfall from the roof over the elevated platform so you can walk under a waterfall at the party! We're also building a couple of dinosaurs, including a T-Rex which will have broken through the fake electric fence and perhaps a fake bathroom stall (like in Jurassic Park 1). Most of these details are still in the mix and will be further solidifed and agreed upon as we get closer to the date of the party.
@@ -54,31 +54,31 @@ So "what's a timelapse?" you might ask. Well, I'm glad you asked! It's a series 
 </object>
 Over the course of 9 weeks, this whole party was built - you can also observe how fast clouds move, how rain .. rains, and how things seem to just 'pop-up' out of nowhere if accelerated fast enough. So without further ado (or many more words), here's a photo montage of the first two days of construction!
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e1b13905970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b13905970b.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c7ba7558970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7ba7558970c.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e1b13ebc970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b13ebc970b.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0148c7ba7a96970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7ba7a96970c.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e1b14200970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b14200970b.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e1b1444b970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b1444b970b.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e1b14e97970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b14e97970b.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e1b156c4970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b156c4970b.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e1b15bef970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b15bef970b.jpg" %}
 
 <object data="https://www.youtube.com/v/umvn6Ta8xwY" height="400" type="application/x-shockwave-flash" width="500">
 <param name="data" value="https://www.youtube.com/v/umvn6Ta8xwY" />

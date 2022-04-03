@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Julianne Gould
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011168c634ef970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011168c634ef970c.jpg
 title: It is always something...
 
 categories: [research]
@@ -40,22 +40,22 @@ So, Wednesday during lunch, I got a call from Will saying that she was not going
 Yesterday we were down there 1-5. Tweaking our robots and fixing things. When we took them up to Millikan to test, we were able to come up with a strategy to slowly push Hungry into the water from the side, so that he would not flip over. We had to adjust the flotation, and add metal supports underneath so that the propellers would not scrape on the ground, but it works. More things went wrong with Hateful...2 of the paddles on the paddle wheels broke off, so I had to make new ones and fix that...and then the gear/wheel combo came loose and so I had to rip open the bottom and fix that! I was so angry at Hateful for always messing up, but now we have to bond over the weekend and become one! Hopefully, all will go well and nothing more will go wrong. Everything has already happened to us, that maybe nothing will happen on contest day...as least that is what I keep telling myself :)
 Enjoy the pictures of the mock contest! Once again, I used my cell phone camera so the pictures may be kinda bad, but they are still visible! 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0112793a815c28a4.jpg" %} One trial of the mock competition...each team puts both of their robots in their assigned square and on "go" they drive off into the water...(see picture below)
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0112793a815c28a4.jpg" %} One trial of the mock competition...each team puts both of their robots in their assigned square and on "go" they drive off into the water...(see picture below)
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011168c6363c970c.jpg" %} 
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011168c6363c970c.jpg" %} 
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011168c636a4970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011168c636a4970c.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0112793a836f28a4.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0112793a836f28a4.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011168c637ff970c.jpg" %} In the blue box: Hateful, Red box: Hungry, Purple box: the contraption the other team made to stack their 2 robots.
-
-
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0112793a849f28a4.jpg" %} The other team's robots stacked together
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011168c637ff970c.jpg" %} In the blue box: Hateful, Red box: Hungry, Purple box: the contraption the other team made to stack their 2 robots.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b011168c638e4970c.jpg" %} Everyone enjoying the competition :)
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0112793a849f28a4.jpg" %} The other team's robots stacked together
+
+
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011168c638e4970c.jpg" %} Everyone enjoying the competition :)
 Hope to see you contest day!! (Even though I will be totally stressed out, and I probably won't actually see you :) March 10, 1pm, Millikan
 

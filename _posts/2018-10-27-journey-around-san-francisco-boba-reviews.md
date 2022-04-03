@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3bbae41200b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3bbae41200b.jpg
 title: Journey Around San Francisco
 categories: [research]
 status: Publish

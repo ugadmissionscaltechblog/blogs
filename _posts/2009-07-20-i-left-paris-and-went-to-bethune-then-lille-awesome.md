@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anton Bongio Karrman
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01157216477f970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157216477f970b.jpg
 title: I LEFT PARIS... and went to Bethune, then Lille. AWESOME
 categories: [research]
 status: Publish
@@ -26,10 +26,10 @@ So we went to Auchan, the most beautiful place ever. I definitely took Costco fo
 Anyway, we bought some stuff for dinner that night and even a few things for me to eat for lunch the next day (I'll explain soon why I never ended up eating them ). After we got back to the house, we realized that we wanted to watch Harry Potter 6 at the local cinema, but if we did it we had to rush big time... Well we had a problem: we had bought all the ingredients for a quiche except for the most key part: the crust! But NOT TO WORRY :D we used a pie crust that Sarah already had in the fridge! The quiche we made was uber-yummo: we had two cheeses: one that is similar to gruyere and the other was goat cheese :D Then we put a seasoned tomato sauce on the bottom, mixed the eggs with sour cream and voi-freaking-la: A SCRUMPTIOUS quiche.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01157122a8e8970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157122a8e8970c.jpg" %}
 And then for aperitifs (appetizer, but fyi also a word for cocktail, don't know why :P we had some bread with this delicious tomato sauce that is very popular in the southern part of France. It tasted a bit like pizza sauce and was delicious! Oh something else exciting: Sarah also has a frier! (Note to self: self, get a frier) It was awesome; she could put fries in this thing and BAM the next moment it's like we're chowing down on delicious fries from MacDo (how the French say McDonanalds) except it was in the delicious comfort of our home :D
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01157122a9be970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157122a9be970c.jpg" %}
 Well we didn't have time for dessert because we had to head out to HP6 :D I was expecting the English version when we arrived and just assumed there'd be French subtitles... WRONG. It was completely dubbed in French so I maybe understood about half of what was going on. Thankfully however, I've read that series several times through, so I knew (from a global perspective) what was up for the most part ^_^
 
 When we got back we had some delicious pistachio ice cream (awesome) and then hit the hay :D
@@ -40,16 +40,16 @@ My breakfast by the way consisted of sweetbread and nutella and this delicious d
 
 They were all super friendly/nice, smart, fun to talk to, and they were really polite about my French. I ended up taking a photo of everyone to remember them :D
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01157217280f970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157217280f970b.jpg" %}
 From the left: Me (Anton :D, then Jean next to his gf Maurine on the couch, then behind them were the two other daughters Celia et Barbara, and then the mom is Laurence, the dad Frederic and the son Robin. The family name is Rimetz (pronounced Ree-may) and they're from a mix of European countries but in the end consider themselves francais, bien sur :)
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01157122b4f7970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157122b4f7970c.jpg" %}
 So strangely enough we found a woman dressed up as Marie-Antoinette. For some reason in France, after women get married they do goofy things (in French: elles font des betises) and one of these goofy things that this women did was dress up as M-A and dance with strangers, and photos were taken (I have one of Jean and then one of me :)
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01157122b720970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157122b720970c.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01157122b945970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157122b945970c.jpg" %}
 Coming up: the rest of my afternoon/evening, how I bought my ticket to get here in the first place, amongst other AWESOME THINGS
 
 Hope everyone is well!

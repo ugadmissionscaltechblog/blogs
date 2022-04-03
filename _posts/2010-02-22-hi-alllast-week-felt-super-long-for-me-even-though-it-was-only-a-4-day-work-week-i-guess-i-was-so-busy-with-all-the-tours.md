@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a8c171bf970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a8c171bf970b.jpg
 title: An Encounter With Angels
 categories: [clubs]
 status: Publish
@@ -15,8 +15,8 @@ On Friday, I was also very lucky to have sat in on a fast-pitch to the <a href="
 After having a hectic week and previous weekend, I reveled in a very relaxed weekend. I caught a movie and hung out over by the Staples Center in Downtown LA, cooked dinner with a friend, and made a quick trip to Paseo Colorado. 
 A lot of Techers go to Paseo since it is only a 20 minute walk away from campus and has a movie theater, many restaurants and shopping. It's a pretty nice outdoor mall that has something for everyone. The past few times I've visited Paseo, I have gone to see movies..so it was nice to have walked around the shops a bit at nighttime. 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f284e3c970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310f284e3c970c.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f284eb5970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310f284eb5970c.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a8c16693970b.jpg" %}Now that I'm all relaxed...I gotta get psyched for another work week. I am literally sitting right now looking over my planner and mapping out how I will tackle all of the stuff. Stay tuned!
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a8c16693970b.jpg" %}Now that I'm all relaxed...I gotta get psyched for another work week. I am literally sitting right now looking over my planner and mapping out how I will tackle all of the stuff. Stay tuned!

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2857970c01b7c9558246970b-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b7c9558246970b-pi.jpg
 title: Artisanal Donuts
 categories: [local]
 status: Publish

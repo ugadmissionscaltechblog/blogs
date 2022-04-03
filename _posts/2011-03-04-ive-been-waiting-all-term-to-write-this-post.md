@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Melody Morris
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2f5a007970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e2f5a007970b.jpg
 title: I've been waiting all term to write this post... 
 categories: [culture]
 status: Publish
@@ -15,12 +15,12 @@ So I managed to get myself up by 9 on Sunday morning (people's sleep schedules v
 
 Once we arrived (it is only about a 15 minute walk or a 5 minute drive from Caltech), we headed right to the desert gardens. This is about the time that the desert goes into bloom so the cactuses that are normally just spikey are filled with flowers and fruits. The contrast between the hardness of the plants with delicate flowers is amazing. We then walked over to the lily ponds, which were less lily-filled than the last time I went. However, there were ducks:
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f9ae11d970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e5f9ae11d970c.jpg" %}
 Oh, so some of you may have heard over the weekend that Southern California was getting snow. It did... but not really in the valley (Pasadena is in the San Gabriel Valley). However, the mountains did get snow-covered: check it out (thanks for the picture dad)!
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f9aeb2f970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e5f9aeb2f970c.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5f9aedf0970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e5f9aedf0970c.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0147e2f5ba3a970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e2f5ba3a970b.jpg" %}

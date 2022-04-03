@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb08cfd094970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08cfd094970d.jpg
 title: Spring Break
 categories: [research]
 status: Publish
@@ -33,7 +33,7 @@ I´ll get to see the completed staircase on Friday, so I´m pretty excited. Also
 
  After:
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1b5ab57970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1b5ab57970c.jpg" %}
 keep lookin´ up,
 
 jenny.

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d111af30970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d111af30970c.jpg
 title: Springtime in Pasadena 
 categories: [clubs]
 status: Publish
@@ -18,15 +18,15 @@ The Caltech chamber orchestra organization held it's mother's day recital today.
 The concert was held in Dabney Hall, one of the oldest buildings on campus (and a registered historical landmark). It's fairly ornate building for Caltech: most of it is Spanish-style, with tiled floors and mosaics, but the hall is wood-paneled, with lanterns and portraits of old white men. It's pretty different from the rest of Tech.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7882dbb970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7882dbb970b.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb082c2916970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb082c2916970d.jpg" %}
 This past week was awesome for running! Great weather (not too hot), and I had a lot of old friends in town to run with. Marlyn and Julliette (the two red heads in the picture below) were the captains of the cross country team last year, and graduated last Spring. Juliette is visiting Caltech from her PhD program at Michigan for an Astrophysics conference, and Marlyn took the opportunity to visit at the same time! They ran a 5k race together in Santa Monica last weekend, and we got to run with them this week in the mornings. I am NOT used to 7am morning runs, but I got back into it pretty quickly :P
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb082c2933970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb082c2933970d.jpg" %}
 
 I was also able to go the gym with Suzy to do a High Intensity Interval Training workout on the treadmill. It was a 30 minute routine of high incline (10+) walking, incline (5+) running, and low incline (2+) sprinting. It was ROUGH. We re-charged afterward with banana/pineapple smoothies (please ignore the flesh color of the smoothies :P )
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb082c296e970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb082c296e970d.jpg" %}
 Anyone else have a favorite springtime activity?

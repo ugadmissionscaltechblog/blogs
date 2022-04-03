@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104e2444b970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019104e2444b970c.jpg
 title: Laser tag at Ultrazone and turtle pictures 
 categories: [research]
 status: Publish
@@ -20,6 +20,6 @@ Some notes about Ultrazone in particular: For some reason the laser guns have a 
 I don't have any pictures from laser tag, but here's pictures of the turtles and turtle pond I mentioned in my <a href="https://caltech.typepad.com/caltech_as_it_happens/2013/08/dabney-boat.html" target="_blank">previous post</a> about the Dabney boat.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104e2470a970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019104e2470a970c.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901eec3e46970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901eec3e46970b.jpg" %}

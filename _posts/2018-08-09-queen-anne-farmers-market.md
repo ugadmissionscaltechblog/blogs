@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b022ad3599e01200c-500wi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b022ad3599e01200c-500wi.jpg
 title: Queen Anne Farmers Market
 categories: [culture]
 status: Publish
@@ -13,4 +13,4 @@ This past Thursday, I went to the Farmers Market in Queen Anne on the west side 
 I got Caribbean food from this truck called Papa Bois -- it was soo delicious! I got the Orient bowl, which has slow cooked pork on pistachio rice, with some veggies and fried plantains for $10-11. It was amazing. I would definitely come back again for this particular truck!! (Although the food trucks rotate weekly, so you have to check online if they will be there or not.)
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b022ad3599df4200c-500wi.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b022ad3599df4200c-500wi.jpg" %}

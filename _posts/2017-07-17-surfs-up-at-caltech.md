@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09ace185970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09ace185970d.jpg
 title: SURF's Up at Caltech
 categories: [research]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b012875efce3d970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b012875efce3d970c.jpg
 title: Paper to Prototype
 categories: [research]
 status: Publish
@@ -16,10 +16,10 @@ I am currently in San Diego for the Thanksgiving weekend---and feeling good! It'
 When I get back this Sunday, our Guatemalan partners will be in Los Angeles! I am so excited to see all of them (it's been a few months since I saw them when I visited Guatemala this past summer) so we can get started working on the final project and presentation together. Sophy and Chepo have been doing an amazing job putting the final design of the centrifuge together and bringing it to life! It's so surreal to see pictures of it progressing, when a few weeks ago, it was just a hand sketch drawing on paper.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a6dfe393970b.png" %}It looks so cool, doesn't it?!?
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a6dfe393970b.png" %}It looks so cool, doesn't it?!?
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a6dfe527970b.jpg" %}Unfortunately, the centrifuge will not be traveling with Chepo and Sophy to Los Angeles...But they will bring lots of pictures, videos and experiences to share with us to make our final presentation complete.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a6dfe527970b.jpg" %}Unfortunately, the centrifuge will not be traveling with Chepo and Sophy to Los Angeles...But they will bring lots of pictures, videos and experiences to share with us to make our final presentation complete.
 
 Until then..I hope everyone enjoys their Thanksgiving holiday as much as I am!
 

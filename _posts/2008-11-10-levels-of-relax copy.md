@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Tom Gwinn
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/images/2008/11/10/blog3_2.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/images/2008/11/10/blog3_2.jpg
 title: Levels of Relaxation
 status: Publish
 date: 2008-11-10
@@ -11,7 +11,7 @@ date: 2008-11-10
 This gives sort of a Rip-Van-Winkle look. Anyway, either due to the fact that this is epically funny or the fact that my friends and I have poor taste, we found this hilarious. (You can judge for yourself, that's a picture of poor sleeping Ali to the right).
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/images/2008/11/09/blog2_3.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/images/2008/11/09/blog2_3.jpg" %}
 
 OK, the food was awesome, but now I needed some way to work off all of the excess calories consumed. First, I hit the gym with Ali on Saturday for our regular work-out, just some simple lifting. Although that's a fun method to burn calories, it's not nearly as fun as heading to a party and dancing the calories away. Luckily for me, the Ricketts House-hosted party GnG was this weekend. GnG is one of my favorite regular parties at Caltech; the music is loud and awesome, the atmosphere and lighting is great, and the venue is always packed. Dance until you're worn out, then relax in the cool courtyard until you're ready to dance again! I may have embarrassed myself by loudly singing along to Shakira's &quot;Hips Don't Lie&quot;, but I'm OK with that. 
 

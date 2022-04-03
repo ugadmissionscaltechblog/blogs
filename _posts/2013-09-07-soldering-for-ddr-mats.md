@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019aff1e3320970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019aff1e3320970d.jpg
 title: Soldering for DDR Mats 
 categories: [global]
 status: Publish
@@ -28,7 +28,7 @@ The steps I followed are basically:
 8. Connect the wires to the DDR mat. In this case, that meant soldering to a male D-sub connector (HD15, same as a VGA cable), since our DDR mat wires are soldered neatly to a female D-sub connector.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019aff1db351970b.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b019aff1db351970b" id="caption-xid-6a0105349b8251970b019aff1db351970b">Wires from circuit board soldered to a D-sub connector
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019aff1db351970b.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b019aff1db351970b" id="caption-xid-6a0105349b8251970b019aff1db351970b">Wires from circuit board soldered to a D-sub connector
 
 Tips: The wires are often easier to position if you can find (or drill) a hole near each solder point. Then you can poke the wire in from the back and fold it over onto the solder point. For soldering, lead solder usually sticks better than lead-free solder (unfortunately). It works pretty well to put a small glob of solder on each solder point, then remelt it and shove the wire into the solder.
 

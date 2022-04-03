@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2372764970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2372764970c.jpg
 title: Alhambra Farmers' Market
 categories: [local]
 status: Publish
@@ -13,7 +13,7 @@ Lunch after church: That's been one of the most regular ways for me to explore a
 When I go, I like to stop by this little tent of Taiwanese snacks, where I can pay $5 for dan bing egg (蚕餅), a <span style="color: #f2b035;"><a href="https://www.extracrispy.com/food/365/dan-bing-is-the-best-thing-youre-not-eating-for-breakfast" style="color: #f2b035;" target="_blank">green onion pancake with egg</a>. I love to snack on dan bing as I walk around the market.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2372774970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2372774970c.jpg" %}
 The flowers and succulents yesterday were also gorgeous. My friend got lots of fruits for herself and her roommate. I came home with some persimmons. The samples at the stalls tasted really sweet, so I'm excited. (: I nearly got a pack of honeycomb to go with ice cream, but I decided to save that for my next trip there so I'll have something else to look forward to. The honey guys said they've been coming to the market every Sunday for over 30 years, and they assured me that they would be there the next time I go.
 
 If you haven't been before, I highly recommend it (: It's a delightful way to spend a late Sunday morning. The market closes at 1pm, and some stalls pack up even before then, so go early!

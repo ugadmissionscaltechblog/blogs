@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Catherine Xie
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c36bb3e9c970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c36bb3e9c970b.jpg
 title: High Particle Physics and the United Nations
 categories: [research]
 status: Publish
@@ -46,17 +46,17 @@ of whom were really nice and reminded me a lot of the Caltech atmosphere, we
 went to the public museum which explained a lot about the history of CERN and fundamental probing questions scientists at CERN are asking and finding more about. We loved exploring the many aspects of CERN for a firsthand view on how research is carried out.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017ee85e90b5970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee85e90b5970d.jpg" %}
 *Me infront of a superconducting dipole replica outside the Globe of Innovation Auditorium at CERN*
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d40e9d13b970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d40e9d13b970c.jpg" %}
 *A playground with cool parts from old out of use parts from old equipment.*
 
 *
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017ee85e98af970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee85e98af970d.jpg" %}
 Next, Carly and I went back to
 Geneva for lunch. We had Italian food. A cultural difference we notices was that tap
 water wasn’t just brought free to the table since that was what we were used to
@@ -78,26 +78,26 @@ Another interesting thing is that the UN grounds are technically not part of
 Switzerland or any other country. 
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c36bb4f76970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c36bb4f76970b.jpg" %}
 *Carly and I in front of the entrance to the UN.*
 
 *
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d40e9d903970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d40e9d903970c.jpg" %}
 *A United Nations meeting on managing the rights on migrant workers.*
 
 *
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c36bb502c970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c36bb502c970b.jpg" %}
 *Another meeting room in the United Nations. The magnificent artwork is from the days when the building was used for the League of Nations.*
 
 The Red Cross museum across the
 street was closed, so we walked along the river to see the Jet d’Eau.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017ee85ea101970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee85ea101970d.jpg" %}
 *The Red Cross Headquarters is closed for renovations.*
 
 We got some great pictures of the water, the boats, and people fishing.The architecture
@@ -109,7 +109,7 @@ drink directly out of; Swiss ones are made to catch the water in some sort of
 vessel.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017ee85ea2af970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee85ea2af970d.jpg" %}
 *Walking along the waterfront with the Jet d'eau.*
 
 Next we
@@ -124,6 +124,6 @@ provided. Our room had two sets of bunk beds and a loft bed. We also had a
 balcony.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c36bb54f1970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c36bb54f1970b.jpg" %}
 *Our hostel in Lauterbrunnen valley, which is the largest glacial valley in the world and is ringing by 72 cascading waterfalls!*
 

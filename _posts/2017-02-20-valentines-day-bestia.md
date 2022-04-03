@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01bb097a1f5a970d-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb097a1f5a970d-pi.jpg
 title: Valentine's Day / Bestia
 categories: [culture]
 status: Publish
@@ -16,5 +16,5 @@ Page House held a Galentine's Day event the night before, featuring cookie decor
 3) With the boyfriend
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2614c6f970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2614c6f970c.jpg" %}
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anita
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb099b116e970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb099b116e970d.jpg
 title: A Connoisseur's Guide to Restaurants Around LA
 categories: [culture]
 status: Publish

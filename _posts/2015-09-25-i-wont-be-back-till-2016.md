@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb0870905c970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0870905c970d.jpg
 title: I Won't Be Back Till 2016 
 categories: [global]
 status: Publish
@@ -19,7 +19,7 @@ Even this most touristy area of Edinburgh is gorgeous! The Old Town of Edinburgh
 Also at the end of the Royal Mile, next to the Palace at Holyrood, is Scottish Parliament. The architecture of this building is a little...different from the rest of the city, which is built mostly in stone.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1562600970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1562600970c.jpg" %}
 
 Ok this was a bit of a rambling post, but that's because I haven't slept in 28 hours. I'll keep the pictures coming, and update you often over the next semester! I'm so excited to have the opportunity to study abroad, and I'm so glad that it's part of my Caltech experience. If you have any questions about studying abroad at Caltech, shoot them my way!
 

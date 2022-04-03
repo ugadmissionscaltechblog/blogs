@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sakthi Vetrivel
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01bb09ad5e78970d-800wi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01bb09ad5e78970d-800wi.jpg
 title: Intern Puzzle Day
 categories: [culture]
 status: Publish

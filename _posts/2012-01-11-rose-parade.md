@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Catherine Xie
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162ff43d6e5970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff43d6e5970d.jpg
 title: Tournament of Roses
 categories: [research]
 status: Publish
@@ -18,24 +18,24 @@ date: 2012-01-11
 <p style="text-align: justify;">The marching bands added an air of excitement as they played peppy tunes and contributed to the high energy and spirits of the spectators. I loved the different colors and uniformity within the bands and also the color guard team performed fun dance routines as well. Not only were there marching bands from the USA, but there were also international bands from Sweden, Japan, and Puerto Rico.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162ff43fdc2970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff43fdc2970d.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162ff4400d9970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff4400d9970d.jpg" %}
 <p style="text-align: justify;">All of the intricate floats were quite impressive as each had a distinctive theme and displayed elaborate creativity. Extensive preparation has gone into each as most had hundred of thousands of fresh flowers that must have taken hours of toiling!
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162ff43ff65970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff43ff65970d.jpg" %}
 <p style="text-align: justify;">In addition, each team competing later in the day at the Rose Bowl prepared a float.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01676038ec9e970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01676038ec9e970b.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0168e539cd7e970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e539cd7e970c.jpg" %}
 <p style="text-align: justify;">Moreover, riders on horses trekked down the street as well.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162ff441bf5970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff441bf5970d.jpg" %}
 <p style="text-align: justify;">Under the sunny and perennial 75 degree weather, the atmosphere was full of cheer as spectators gathered to welcome in the new year. Football fans all wore their team's gear to show support and were in the stands cheering for their respective teams. What a great kick-off to the year!
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162ff441f0c970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff441f0c970d.jpg" %}

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Masha Belyi
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01053614f897970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01053614f897970c.jpg
 title: Danish Food
 categories: [global]
 status: Publish
@@ -46,7 +46,7 @@ bread is also something that is specific toDenmark. There are many varieties
 of this bread. I happen to really like it, and so I have never bought white
 bread here because the dark one is a lot cheaper and tastier, in my opinion. This
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0105360ca9a6970b.jpg" %}sandwich. Though it is a sandwich, it is eaten with a fork and knife, and is
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0105360ca9a6970b.jpg" %}sandwich. Though it is a sandwich, it is eaten with a fork and knife, and is
 often served hot. Basically, it is Danish bread with a wide variety of
 toppings. The toppings can include herring, cheese, meat, vegetables, salads,
 and pretty much anything else you can wish for.
@@ -57,7 +57,7 @@ be eaten hot or cold, and it often served topped with mushrooms and bacon. Altho
 this might sound disgusting to some of you, I think it is actually pretty good.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01053614f961970c.jpg" %} dishes, but I know many
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01053614f961970c.jpg" %} dishes, but I know many
 international students who would disagree with me. I guess it’s just a matter
 of taste. Many of the foods here are similar to Russian food. So, it might just
 be that I acquired the taste for them when I was growing up in Russia.

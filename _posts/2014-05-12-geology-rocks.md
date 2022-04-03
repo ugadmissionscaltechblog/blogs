@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73dc0630d970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dc0630d970d.jpg
 title: Geology rocks! (;
 categories: [clubs]
 status: Publish
@@ -18,29 +18,29 @@ Our second stop was this maybe-familiar structure:
 <p style="text-align: justify;">
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73dc02501970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dc02501970d.jpg" %}
 Remember this from *Holes*? Stanley and Zero climbed this to get to the onions and the thumb mountain. Definitely not what I was imagining when I thought of LA and Hollywood.
 
 After a third stop at McDonald's, we set off for base camp. Unfortunately, two hours from base camp and three hours from Caltech, we were stopped because the incoming rain and its cold front meant lots of wind when it hit the ever present warm front. (yay science) We tried waiting for four hours for the wind to die down, but ultimately we decided to retreat and head back. That turned out to be a great decision because there were high wind warnings throughout that night. Whew!
 To make up for the impasse, Paul (the geology professor) took us on a day hike instead! We spent Sunday trekking along the east fork of the San Gabriel river.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73dc0639d970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dc0639d970d.jpg" %}
 We're supposed to have scale objects so we can compare sizes of structures to the size of something we know (like professors!). (:
 These rocks had cool stripes that were twisted and bent. It's called <a href="https://en.wikipedia.org/wiki/Migmatite" style="color: #00bfbf;" target="_blank">migmatite</a>.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a511b535aa970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511b535aa970c.jpg" %}
 I guess you can say we got pretty into it. We crossed the river so many times that by the end of the day, I just sort of waded across. It felt nice!
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a511b535b5970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511b535b5970c.jpg" %}
 
 It was so beautiful! I felt really small. (:
 Along the way, Paul stopped to let us catch our breaths as he pointed out amazing structures like this band of <a href="https://en.wikipedia.org/wiki/Pegmatite" target="_blank">pegmatite</a>in the basalt. This one's called a dike--where a crack forms in a rock like basalt, a volcano explodes, and the magma seeps into the crack and hardens.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73dc063f8970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dc063f8970d.jpg" %}
 Using Paul as a scale object (again), we see that this dike is actually really wide! O:
 After three hours of hiking, we finally got to the <a href="https://en.wikipedia.org/wiki/Bridge_to_Nowhere_(San_Gabriel_Mountains)" style="color: #00bfbf;" target="_blank" title="It wasn't as fruitless as it sounds, I promise.">Bridge to Nowhere</a>. (Coming back was probably another four hours, since we made lots of turns as we zigzagged back.)It wasn't as fruitless as it sounds, I promise. I got some neat samples for my rock collection and really sore muscles for the next day, haha. It was really fun, and I'd love to go again after I recover! (;
 Thanks for reading. :D

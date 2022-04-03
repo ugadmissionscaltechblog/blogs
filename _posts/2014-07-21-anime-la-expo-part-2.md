@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Chengyi L
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd345c1c970b.png
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd345c1c970b.png
 title: Anime la Expo (Part 2) 
 categories: [global]
 status: Publish
@@ -24,7 +24,7 @@ The event I'm most excited for is the talk show, because I have a habit of colle
 With that said, we got these high-tech glow sticks that synchronized with the concert!
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a511e40f90970c.png" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511e40f90970c.png" %}
 Some event highlights:
 - Sushio, the lead animator and character designer, getting whole room to chant his name (Su-shi-o! Su-shi-o!)
 - "I'm not like a gangster!!" Ryuuko's voice actor stands up and attempts to whack Satsuki's VA with her prop weapon.

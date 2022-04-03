@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a92215e9970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a92215e9970b.jpg
 title: Campus News!
 categories: [research]
 status: Publish
@@ -16,7 +16,7 @@ This year's ME 72 Design Competition was entitled: "Revenge of the Hindenburg." 
 Picture from Pasadena Star News:
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f88db34970c.jpg" %}In other news, the new Chemistry and Chemical Engineering Building had its ribbon cutting ceremony. The new building is finally complete and is getting ready for labs to move in--Hooray!
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310f88db34970c.jpg" %}In other news, the new Chemistry and Chemical Engineering Building had its ribbon cutting ceremony. The new building is finally complete and is getting ready for labs to move in--Hooray!
 Here are a few pictures I took of the new Schlinger Lab:
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f88e2f5970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310f88e2f5970c.jpg" %}

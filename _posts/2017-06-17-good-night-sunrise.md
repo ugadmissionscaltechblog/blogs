@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Noelle
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d289fa21970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d289fa21970c.jpg
 title: Good Night Sunrise
 categories: [global]
 status: Publish
@@ -18,7 +18,7 @@ I have a problem: When something goes wrong, I feel like everything is wrong. It
 I really wasn’t feeling it, but I convinced myself I’d regret not staying up on my only night at Joshua Tree. Ironically, I ended up spending more time and taking more photos of the sunrise than I did of the stars.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d289fa4f970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d289fa4f970c.jpg" %}
 *Joshua Trees look funky in the daytime, but in a silhouette, this one's tilted arms are pretty cute.*
 When I crawled back into my warm sleeping bag, the sky was bright and birds were chirping—loudly, and much too cheerfully for 5 a.m. Thankfully, their good-morning cries didn’t keep me from saying good night. And it had been a good night.
 

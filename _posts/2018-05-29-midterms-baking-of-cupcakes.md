@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb09a3c88f970d0224e038dfc6200d-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d0224e038dfc6200d-pi.jpg
 title: Midterms Baking of Cupcakes
 categories: [academics]
 status: Publish

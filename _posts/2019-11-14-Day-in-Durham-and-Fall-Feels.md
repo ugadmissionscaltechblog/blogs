@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Andrew
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a4c61772200d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0240a4c61772200d.jpg
 title: Day in Durham and Fall Feels
 categories: [clubs]
 status: Publish
@@ -13,11 +13,11 @@ It’s truly Autumn in Scotland now. It reached 0 degrees Celsius today, or 32 F
 I spent a gorgeous, proper fall day taking the train over to Durham for… you guessed it… a fencing match! It was actually a rather long rain ride, with the leaves just at the end of turning colors. We passed to Berwick (apparently a different place than North Berwick) and Newcastle Upon Tyne as well, but the end destination was the prettiest. I’m not going to go too much into detail about Durham now as I’m planning on going back in a couple of weeks. TLDR: there is a beautiful castle, a beautiful city, and traffic. Funny enough, Durham is the only place that I’ve run into traffic in my entire time in Scotland, much in contrast with Los Angeles where if you say the word “traffic” three times an accident happens on the 110 and everything is backed up past Chinatown.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a49ce042200c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0240a49ce042200c.jpg" %}
 The fencing salle (place for the tournament) in Durham was a bit in the middle of nowhere. But it had some beautiful trees. The photo above doesn’t actually do it justice, but it was one of the most gorgeous overlooks I’ve seen outside of a fencing area. It was a tough loss to the Durham team; we were short a few people and they were very much not, but it is what it is. The strangest thing that’s happened now that it’s Autumn is that it gets dark ridiculously early. Like 3 PM early. It’s a bit absurd, so really anything we’re doing after class these days occurs in the dark. It’s a bit wild and honestly is a major decrease in energy just because it’s hard to find motivation when it’s dark out.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a49ce048200c.png" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0240a49ce048200c.png" %}
 Oh, and my injury in Nottingham last week caused an urgent safety reminder to be sent out by British fencing, so cheers to that. I still stand by saying an 800N glove wouldn’t have made a difference in where he hit me.
 
 Enjoy the fall,

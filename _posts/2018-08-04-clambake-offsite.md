@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb09a3c88f970d022ad386a752200d-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d022ad386a752200d-pi.jpg
 title: Clambake Offsite
 categories: [clubs]
 status: Publish
@@ -15,6 +15,6 @@ In the end, around 40-50 people from the team participated in the offsite. We we
 The craziest thing there was the lobster eating contest. The last offsite that my team had was also a clambake at the same place. I heard that one engineer had actually eaten 6 lobsters. So running up to our offsite, there was a joke that whoever could beat that record could take the lobster crown (which was actually a stuffed lobster hat). At the offsite, there were three engineers who were trying to make it to 6 lobsters. And two of them succeeded - the same engineer from last time and a new contender. If we hadn’t run out of lobsters, I don’t know who would have won. But the two tied in the end, each having eaten 6 lobsters and one claw.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b022ad3a66a51200b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b022ad3a66a51200b.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b022ad3a66a53200b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b022ad3a66a53200b.jpg" %}

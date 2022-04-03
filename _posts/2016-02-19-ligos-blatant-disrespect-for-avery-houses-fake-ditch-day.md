@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yubo
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d19fc3d1970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d19fc3d1970c.jpg
 title: Avery House's Fake Ditch Day vs. LIGO?
 categories: [culture]
 status: Publish
@@ -25,4 +25,4 @@ I was absent of course for no reason other than the fact that I went to the LIGO
 But the moon landing gave us so much more. It spurred space exploration, it allowed us to analyze composition of other bodies in the solar system and it most importantly drove mankind's imagination ever farther into the sky. LIGO's detection is of similar magnitude. Perhaps we already expected gravitational waves, perhaps we've already granted a<a href="https://en.wikipedia.org/wiki/PSR_B1913%2B16">Nobel</a>for their indirect detection, but LIGO's significance lies so far beyond this. It's a new way to see things, a new frontier that remains to be explored, radically different from anything mankind has ever attempted. I walked away from the talk that day with a new spring in my step, and campus took on a wholly different light. I was proud to be here, proud to be on site for one of the most significant days in astrophysics.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8159d69970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8159d69970b.jpg" %}

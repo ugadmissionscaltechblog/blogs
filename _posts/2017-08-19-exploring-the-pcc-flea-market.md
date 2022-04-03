@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01bb09b6720b970d-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09b6720b970d-pi.jpg
 title: Exploring the PCC Flea Market
 categories: [research]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ketaki Panse
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a511a9b637970c.png
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511a9b637970c.png
 title: “My advice for you? Rent a rickshaw and drive it around Mumbai for a week. On second thought, maybe that’s not the most feasible scenario..”
 categories: [research]
 status: Publish

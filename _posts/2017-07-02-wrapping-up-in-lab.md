@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2857970c01bb09a9c13c970d-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01bb09a9c13c970d-pi.jpg
 title: Wrapping up in Lab
 categories: [research]
 status: Publish
@@ -21,5 +21,5 @@ This one is a bit slanted and has a bit of damage (oops), but I got much better,
 At the end of the year, my postdoc treated us and our guests to Peking duck and other delicacies! It was my first time having Peking duck &lt;3 I was also gifted with a small brush, the kind that I used to mount sections on slides, as a sign that my training had been successfully completed! I'm sad to be leaving lab for the summer, but I'm also looking forward to starting my internship at Facebook. On to a new and entirely different experience!
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2857970c01b8d290db3f970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2857970c01b8d290db3f970c" id="caption-xid-6a01b8d28f2857970c01b8d290db3f970c">Dinner at Duck House in Monterey Park
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b8d290db3f970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2857970c01b8d290db3f970c" id="caption-xid-6a01b8d28f2857970c01b8d290db3f970c">Dinner at Duck House in Monterey Park
 

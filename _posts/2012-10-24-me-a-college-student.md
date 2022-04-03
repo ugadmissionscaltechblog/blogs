@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Monica Li
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017ee44ca152970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee44ca152970d.jpg
 title:  Me - a college student?
 categories: [global]
 status: Publish
@@ -21,10 +21,10 @@ date: 2012-10-24
 <div id="yiv1184976845yui_3_7_2_19_1350580484441_39">A little while back, we had a club fair which doubled as a luau party. We got huge Hawaiian fruit plates and a cake that started out looking like a volcano!
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017ee44ca1d8970d.jpg" %}For a full list of Caltech clubs, go here: https://websites.caltech.edu/club-association. I went after soccer practice and was late but some of the tables were still up. The Rubik's club blew my mind, just so many different shapes.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee44ca1d8970d.jpg" %}For a full list of Caltech clubs, go here: https://websites.caltech.edu/club-association. I went after soccer practice and was late but some of the tables were still up. The Rubik's club blew my mind, just so many different shapes.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d3cd766b7970c.jpg" %}I'm really loving college right now. One last thing that's great about Caltech, unlike most high schools you can like learning and be cool at the same time.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d3cd766b7970c.jpg" %}I'm really loving college right now. One last thing that's great about Caltech, unlike most high schools you can like learning and be cool at the same time.
 
 Best,
 Monica

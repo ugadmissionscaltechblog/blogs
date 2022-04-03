@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dan Obenshain
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a5c1f2fa970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5c1f2fa970c.jpg
 title: Rocking Out
 categories: [research]
 status: Publish
@@ -17,9 +17,9 @@ The hardest part of setting everything up is moving the speakers. It takes two p
 We dragged over some couches so people would have a place to sit. Several of the new freshmen who are here for pre-season showed up and played for a while. Then, around 2 am we had to pack up. Pasadena has zoning ordinances that say that we're not supposed to make loud noises after 2 am, even on the weekend.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a5c1f374970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5c1f374970c.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a56b586e970b.jpg" %}After that long walk, I was content to watch other people play while I relaxed in the hot tub. Ahhhh.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a56b586e970b.jpg" %}After that long walk, I was content to watch other people play while I relaxed in the hot tub. Ahhhh.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a56b58b4970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a56b58b4970b.jpg" %}

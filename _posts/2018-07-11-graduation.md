@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3591209200c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3591209200c.jpg
 title: Graduation
 categories: [academics]
 status: Publish
@@ -14,7 +14,7 @@ The graduation of the class of 2018 was on June 15th. A lot of my friends are se
 It was super hot that day, so there was even a cooling area for people to sit next to fans and mist.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3591216200c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3591216200c.jpg" %}
 Before their graduation, my friends also took graduation photos that turned out really cute :)
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad39eeb6b200b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad39eeb6b200b.jpg" %}

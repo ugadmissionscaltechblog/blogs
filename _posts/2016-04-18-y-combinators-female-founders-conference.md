@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c83885e4970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c83885e4970b.jpg
 title: Y Combinator's Female Founders Conference 
 categories: [clubs]
 status: Publish
@@ -14,17 +14,17 @@ A few weeks ago I was lucky enough to attend Y Combinator's Female Founders Conf
 The conference was held in Hurbst Theater, across the street from City Hall. The venue was large enough to hold the hundreds (thousands?) of women that attended the conference, but just barely! I started the morning, after I touched down in SF, with a networking breakfast at a cafe around the corner from the venue. I met a handful of women, all of whom had recently started their own companies (and all of whom were at least a couple of years older than me, so I started feeling a little out of place, having also been company-less, which is a very silly thing to admit). I ended up grabbing lunch with three women, two of whom had recently started their own companies in Texas, and one of whom had a company in the Bay Area. This woman turned out to be Gayle Laakman McDowell, author of *Cracking the Coding Interview*, a book I and every other college student trying to get a software engineering internship has read and studied. That was one of the highlights of the conference for me; meeting an expert in a field I was familiar with, and getting a ton of advice about starting my engineering career (and running a software company as a young woman)was invaluable. After lunch, we headed to the venue for the beginning of the conference.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb08dc7d8f970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08dc7d8f970d.jpg" %}
 
 The keynote address was given by Jessica Livingston, one of the founding partners of Y Combinator, the business accelerator based in San Fransisco, that was hosting the conference. In fact, every speaker at the conference was either a partner with Y Combinator (one of the advisors and investors that the accelerator is associated with, who help out the accelerator's startups) or a founder of a YC company (a company that YC had invested in and helped grow). By the end of all of the talks, the conference felt somewhat like a commercial for how great YC is at supporting female-led companies, but I did take a lot away from the day, so I won't hold that against them!
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb08dc7daa970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08dc7daa970d.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c83887d1970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c83887d1970b.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1c282d0970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1c282d0970c.jpg" %}
 
 There were some incredible speakers, and some great panel discussions on raising funding, on running a more established business, and on being persistent in the face of failure. You can watch video of all of the day's talks <a href="https://www.youtube.com/playlist?list=PLQ-uHSnFig5OumNz3XiKifhVKbAMpZ9ne">here</a>.
 

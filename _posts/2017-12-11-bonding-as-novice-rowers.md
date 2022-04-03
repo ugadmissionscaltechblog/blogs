@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c936abb6970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c936abb6970b.jpg
 title: Bonding as Novice Rowers
 categories: [clubs]
 status: Publish
@@ -13,4 +13,4 @@ After our first outing together with the seniors, we started training on the erg
 However, as the weeks went by (and daylights savings kicked in), we became much more experienced on the water. The boat wouldn't be completely unbalanced, and we started rowing 6 or 8 at a time instead of having 4 people rowing and 4 stabilizing the boat. Now, we're starting to have more outings per week in preparation for the novice Fairbairn's Competition at the end of term. I must say that rowing is a lot more fun now that we're much smoother rowers and a tighter crew :)
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c936abbc970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c936abbc970b.jpg" %}

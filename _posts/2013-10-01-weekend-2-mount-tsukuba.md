@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kiara
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019affa304d1970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019affa304d1970d.jpg
 title: Weekend 2
 categories: [global]
 status: Publish
@@ -14,31 +14,31 @@ A few days after my first trip to Tokyo, <a href="https://caltech.typepad.com/ca
 Afterwards, we headed to the cable car station, which would take us to a higher point of the mountain. There were a couple of suggested hiking paths, but those would have taken several hours and none of us really wanted to do it. (Also, Chou-san was wearing flats.)
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019affa265f3970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019affa265f3970b.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019affa30f6c970d.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b019affa30f6c970d" id="caption-xid-6a0105349b8251970b019affa30f6c970d">We ate at this revolving restaurant.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019affa30f6c970d.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b019affa30f6c970d" id="caption-xid-6a0105349b8251970b019affa30f6c970d">We ate at this revolving restaurant.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019affa2917b970c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b019affa2917b970c" id="caption-xid-6a0105349b8251970b019affa2917b970c">Rule of thumb: when in doubt, get the recommended dish (おすすめ), budget permitting. The restaurant's recommended dish was kenchin udon; you have three chances to guess what this is! :P
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019affa2917b970c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b019affa2917b970c" id="caption-xid-6a0105349b8251970b019affa2917b970c">Rule of thumb: when in doubt, get the recommended dish (おすすめ), budget permitting. The restaurant's recommended dish was kenchin udon; you have three chances to guess what this is! :P
 
 After eating, we went to the floor above the restaurant. The sky was less cloudy than it was when we got off the cable car, so we could see the plains surrounding the mountain.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019affa3160d970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019affa3160d970d.jpg" %}
 Afterwards, to the peak we went! It wasn't very steep, but I can't really claim that I was physically prepared for it. We made it though, so it's all good.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019affa29995970c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b019affa29995970c" id="caption-xid-6a0105349b8251970b019affa29995970c">Chou-san and I. Success!
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019affa29995970c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b019affa29995970c" id="caption-xid-6a0105349b8251970b019affa29995970c">Chou-san and I. Success!
 
 My co-workers told me that on a good day, it was possible to see Tokyo Tower from the peak. Unfortunately, the clouds made it impossible to see anything, so I would have to wait another day to see Tokyo Tower. After taking a few more pictures, we hiked back down and bought a few things at the souvenir shops. I wasn't very hungry then, but I somehow ended up buying *dango*, partly because I wanted something warm, but mostly for the sake of being able to eat *dango*.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019affa29e6e970c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b019affa29e6e970c" id="caption-xid-6a0105349b8251970b019affa29e6e970c">The yellow one is kabocha (squash?) flavor. I ended up getting the white ones, though I don't remember what flavor they were.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019affa29e6e970c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b019affa29e6e970c" id="caption-xid-6a0105349b8251970b019affa29e6e970c">The yellow one is kabocha (squash?) flavor. I ended up getting the white ones, though I don't remember what flavor they were.
 
 After I finished eating *dango*, we started walking towards the trail leading to... another peak. Wait, what? Apparently, Mount Tsukuba has two peaks called Nyotai-san (female) and Nantai-san (male); we had already reached the former. Nantai-san is supposedly a few meters lower, so we thought it wasn't going to be as bad. We may have taken a wrong turn though, since getting to the peak required climbing a bunch of rocks:
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019affa2ad7b970c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b019affa2ad7b970c" id="caption-xid-6a0105349b8251970b019affa2ad7b970c">With Shin-san!
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019affa2ad7b970c.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b019affa2ad7b970c" id="caption-xid-6a0105349b8251970b019affa2ad7b970c">With Shin-san!
 
 After seeing that, we balked and called it a day. We went back to the cable car station, stamped our tickets (large stamps seem to be a common memorabilia for a lot of tourist places) and went back down. After some more window shopping and and evilly eyeing the soft cream shop (at that time, I was legitimately concerned that I wasn't going to pass by any more soft cream shops in Japan, which couldn't be further from reality), we drove back to the dormitory...
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Andrew Freddo
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f403a36970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310f403a36970c.jpg
 title: Cruisin' on the Mediterranean
 categories: [culture]
 status: Publish
@@ -12,13 +12,13 @@ date: 2010-02-26
 Think of Lebanese food, if you're not familiar with it, as being a cross between Greek and Middle Eastern cuisines. The Greek influences I would say are the use of phillo dough and feta cheese in some dishes, along with yogurt; the middle eastern influences seem to be more in the aromatics and spices that are used along with the dishes. What also was really neat was having a native Lebanese teacher come in to show us the ropes (and demonstrate how to make hummus! mmmmmm). Enjoy the pictures!
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f403af8970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310f403af8970c.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f403cd9970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310f403cd9970c.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a8d972b0970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a8d972b0970b.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f403f75970c.jpg" %}Next week... we're going to the Far East - India! I'm looking forward to a good curry (among other delicious things, of course).
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310f403f75970c.jpg" %}Next week... we're going to the Far East - India! I'm looking forward to a good curry (among other delicious things, of course).
 
 Recipe of the Week: Pasta with Ricotta and Tomato Sauce. The recipe follows below. It's one of my favorite quick pasta dishes, and like many of these other recipes, it's perfect to make on a busy weekend night when you want something delicious but not time-consuming! For a variation with a bit more bite throw some peas into the pasta water for the last couple minutes of cooking time!
 1 lb pasta (preferably rotini or farfalle - something to hold onto the chunky sauce)

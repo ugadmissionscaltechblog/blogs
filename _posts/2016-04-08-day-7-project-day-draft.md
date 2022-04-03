@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Suzy
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb08d217ce970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08d217ce970d.jpg
 title: Day 7
 categories: [research]
 status: Publish
@@ -28,15 +28,15 @@ We went down the hill to our left by a Medlife staircase. Our first task was pai
 White paint was for the sides of the stairs, black was for the railings, and red was for the front. I took my bucket of white paint up the stairs and painted the sides of a few flights, then I ran out of things to paint and I started paining the rocks rearranged in circles around trees. The trees were newly planted as part of the stair construction; their roots will prevent erosion in the soul that is the foundation of the steps, and their branches will provide shade. Plus, they're pretty. Painting rocks in circles around trees isn't exactly a high priority job, but we ran out of steps to paint, so that's what I did. We got to the end of our shift with very little to do. Four girls painted a beautiful, exacting Medlife logo on a shed; everyone else put their school name on the steps. People plated soccer with locals or carried local kids around on their backs. The kids loved piggyback rides. We gave lots. They were tiring too; it was really hot out with very little shade. The kids wanted us to run and jump and spin in circles.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb08d217e0970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08d217e0970d.jpg" %}
 I changed shirts on the bus around lunch time. My Dropbox t-shirt had red paint spots all over it, as did my desert pants. We were supposed to wear our Medlife t-shirts for the afternoon photo ops anyway.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb08d2181c970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08d2181c970d.jpg" %}
 Around then, the local ladies brought out buckets of chicha, a popular Peruvian beverage made from purple corn, and plates of crackers. People tied balloons onto the staircase and a local boy named Paulino demonstrated traditional highland "scissors dancing," so called because it involves a percussion instrument that looks like an unscrewed pair of heavy old-timey scissors. He wore a brightly colored costume with a big headdress and his stage name, Apusullar, embroidered on the front. The dance involved a lot of stepping on the sides of his feet and it looked kind of aggressive. A lot of the families in that community come from the highlands. Many arrive speaking only Quechua.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1b7e4d1970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1b7e4d1970c.jpg" %}
 The other clinics arrived in their buses after he finished his performance. We had a short ceremony, wherein Medlife leaders and one student from each clinic talked about their experience, and they broke a warm bottle of champagne on the steps. Then we had the mother of all photo ops on the steps, and then we all went back to the hostel. Our bus climbed down through the district, passing a group performing the Stations of the Cross for Good Friday. We could see the improvements in the areas as we went down the mountain. There were more parks and trees, the houses got larger, the construction more permanent.
 
 We got back to the hotel around 4. I showered and packed. We had a meeting to talk about how many people we helped this week - over 3000 between the 5 clinics.
@@ -48,7 +48,7 @@ Dinner was tasty. Dessert was flan.
 After dinner we walked down to a pebble beach. It was dark and quiet and beautiful. There were lots of couples. We hoped to see crabs, but those dreams were dashed. We did see a large cross that lit up so you could see it for miles, a statue of Jesus, and the soft light of the Rosa Nautica. The latter is a fancy seafood restaurant built on a pier. We walked there and found that had a nice bar and tourist shops. It was very pretty and quaint.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c82d7d5f970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c82d7d5f970b.jpg" %}
 We went home after that. On the way, we found a creperie overlooking the ocean, so we got some crepes. They were tasty but difficult to eat. The setting was nice and very romantic. Strings of diffuse, twinkly lights lit the ocean balcony. The creperie, which was called Beso Frances (French Kiss) was shaped like a gazebo and was very pretty.
 
 Jenny got a taxi back to the hotel from there. She lost a shoe to the ocean. 3 people went with her, since we were already paying for the taxi, the rest walked back. The walk was pleasant. I basically went straight to bed when we got back. Camila was already asleep so the room was dark.

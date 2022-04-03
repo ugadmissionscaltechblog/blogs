@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Andrew
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb0a035d21970d022ad37f1675200d-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb0a035d21970d022ad37f1675200d-pi.jpg
 title: SFP <- outlier(Chandrew)
 categories: [research]
 status: Publish
@@ -24,7 +24,7 @@ The rest of the week I continued prepping some samples for the gasbench spectrom
 Hence how we arrive title of the post. I decided to eat lunch with a friend on campus during one of the days, and that’s the main feeling I’ve had working at CU boulder is that I don’t quite belong in some way. Especially when I’m sitting at lunch with my Caltech lanyard, admissions water bottle, and Caltech sunglasses (two of which I could’ve avoided but eh). I definitely feel welcome in my lab but overall, I’ve just sort of felt like I’m a daily visitor on campus, which I guess I am. I suppose that’s the peril of doing a SURF at a different school.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad39eec48200b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad39eec48200b.jpg" %}
 I’ll leave you with that. Until next time,
 
 --Chandrew

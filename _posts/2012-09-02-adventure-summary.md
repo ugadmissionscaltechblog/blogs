@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Nina Budaeva
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017617875a3f970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017617875a3f970c.jpg
 title: Adventure Summary. 
 categories: [research]
 status: Publish
@@ -47,7 +47,7 @@ Weekend 2: went to the nearby desert called Joshua Tree with
 a Caltech club to do some skywatching – see one of the previous posts.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c319045f9970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c319045f9970b.jpg" %}
 
 Caltech kids in the desert.
 
@@ -59,25 +59,25 @@ The stories we gathered from this short trip, however, are worth much much more
 than four days.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0177446ddd12970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0177446ddd12970d.jpg" %}
 
 The beginning of a crazy roadtrip.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017c31904997970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c31904997970b.jpg" %}
 Vegas, Baby! ;)
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0177446de3a2970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0177446de3a2970d.jpg" %}
 The Hoover Dam.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0176178762fd970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0176178762fd970c.jpg" %}
 
 Grand Canyon.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0176178763d7970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0176178763d7970c.jpg" %}
 
 The Bellagio in Las Vegas.
 
@@ -96,7 +96,7 @@ finish. After the race, I spent some time at home and then spent the rest of
 the weekend with a friend in San Jose.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017617876998970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017617876998970c.jpg" %}
 
 <span style="font-size: 10pt;">
 

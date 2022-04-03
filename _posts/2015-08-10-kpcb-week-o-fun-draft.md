@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Suzy
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1419c1c970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1419c1c970c.jpg
 title: KPCB Week 'o' Fun! 
 categories: [research]
 status: Publish

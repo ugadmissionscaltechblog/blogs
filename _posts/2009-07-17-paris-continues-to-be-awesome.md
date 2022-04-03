@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anton Bongio Karrman
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0115711b23af970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0115711b23af970c.jpg
 title: Paris continues to be AWESOME.
 
 categories: [research]
@@ -19,10 +19,10 @@ Anyway so that evening I went out to a Vietnamese restaurant in Paris' China Tow
 Sunday I decided to lie low at Ecoly Polytechnique. Monday I bought my new camera :) OK Why do I keep getting lost in Paris? I swear I find like perfect directions on Google maps but I keep missing the places I want to find!!! I spent like an hour trying to find a freaking FNAC (France's version of Best Buy, but about twice as expensive). Anyway I got a camera that I don't really like so I'm gonna take it back and get another (woohoo exchange policies).
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0115711b016b970c.jpg" %}Anyway, so we saw the museum and hospital there; the building's original purpose was a hospital for war veterans... We went to two museums: one for the middle ages one for WWII. The middle ages one was basically oriented toward violence: chain mail, knight armor, swords, guns, knives etc. and the WWII was a lot of paintings.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0115711b016b970c.jpg" %}Anyway, so we saw the museum and hospital there; the building's original purpose was a hospital for war veterans... We went to two museums: one for the middle ages one for WWII. The middle ages one was basically oriented toward violence: chain mail, knight armor, swords, guns, knives etc. and the WWII was a lot of paintings.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0115711b07c3970c.jpg" %}Well after the show, I did something a bit stupid: I left my bag on the Champ! You have no idea what a mad house it was trying to get out of there! There were literally hundreds of thousands of people! So I just kinda left without regard to my bag! It had some important stuff in it, you know credit card, drivers license, ipod, my dorm room key, my lab access badge etc etc. So finally I get to a bus stop and I go OMG I LEFT MY BAG BACK THERE and of course my friends are like seriously Anton (it had been hours by now that we had left) there is no way you're going to find it there. Figure it out tomorrow! So finally we grabbed a cab with a woman studying at Orsay (close to Ecole Polytechnique) and split the ride back. Because I didn't have my room key though, I had to sleep on the floor of my friends room: NOT COMFORTABLE.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0115711b07c3970c.jpg" %}Well after the show, I did something a bit stupid: I left my bag on the Champ! You have no idea what a mad house it was trying to get out of there! There were literally hundreds of thousands of people! So I just kinda left without regard to my bag! It had some important stuff in it, you know credit card, drivers license, ipod, my dorm room key, my lab access badge etc etc. So finally I get to a bus stop and I go OMG I LEFT MY BAG BACK THERE and of course my friends are like seriously Anton (it had been hours by now that we had left) there is no way you're going to find it there. Figure it out tomorrow! So finally we grabbed a cab with a woman studying at Orsay (close to Ecole Polytechnique) and split the ride back. Because I didn't have my room key though, I had to sleep on the floor of my friends room: NOT COMFORTABLE.
 
 Well it turns out that another of my friends had grabbed my bag for me, so there were no worries there. I was freaking out when I woke up in the morning though; I was prepared to head over to the Champ to find it, or otherwise go to the Prefecture de Police and see if it was in Paris' lost and found. When I got the email that he had it I was so relieved you have no idea... He had it in his office right down the hall from me. AWESOME.
 

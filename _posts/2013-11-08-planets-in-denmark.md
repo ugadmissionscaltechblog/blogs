@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Lori Dajose
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019b00b29aac970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b00b29aac970d.jpg
 title: Planets in Denmark!
 categories: [global]
 status: Publish
@@ -21,21 +21,21 @@ A few months ago,I went to the Tycho Brahe Planetarium—”Denmark’s most adv
 And it was great! It was pretty similar to Griffith Observatory. They had a room/exhibit about the different planets in our solar system (basic facts and history of discovery, how much you’d weigh on each, etc), and a room about astronauts and missions, and a big room for kids to see if they had “what it takes” to be an astronaut. They also had a really long timeline about the history of astronomy, with an emphasis on planetary science—which would have been really useful for both my 2012 SURF and this year’s internship at TPS.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019b00b29bf3970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b00b29bf3970d.jpg" %}
 
 It was SO AWESOME seeing all the shoutouts here and there to JPL and Caltech. My friend said, “You’re so funny with your patriotic nerdism.” Which I think is exactly accurate.<img alt=":)" src="https://s0.wp.com/wp-includes/images/smilies/icon_smile.gif?m=1129645325g" />
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019b00b271a9970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b00b271a9970b.jpg" %}
 
 It was kind of a nice home-away-from-home feeling, seeing things about MSL, Kepler, and NASA. Of course while I haven’t been involved in any projects or missions (yet.. hehe), that feeling of “patriotic nerdism” was definitely there.
 
 As part of the admission, we got to go see a 3D movie in The Space Theater, and I forgot what it was called but it was kind of a mini journey-through-the-universe sort of thing. Normally I’m not a huge fan of 3D, but it was incredible seeing planets zooming towards you, and flying through galaxies.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019b00b29ff5970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b00b29ff5970d.jpg" %}
 
 In the kids’ room, you could write on the walls! So of course I had to put a shoutout:
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019b00b24399970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b00b24399970c.jpg" %}

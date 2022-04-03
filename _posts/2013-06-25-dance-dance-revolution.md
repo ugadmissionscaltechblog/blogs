@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ab7da011970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ab7da011970d.jpg
 title: Dance Dance Revolution!
 categories: [clubs]
 status: Publish
@@ -22,10 +22,10 @@ Since we play at least every week, it's pretty easy to improve fairly quickly (s
 Unfornately, a few weeks ago, one of the DDR mats had soda spilled on it, so it currently doesn't work. I tried to connect it to a different circuit board with CAT5 (Ethernet) wires, but it still didn't work - seems like we'll have to take apart the mat to figure out what's wrong with it. The mats do have to be cleaned a few times per year, though, so we've taken them apart before. 
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ab7d936f970d.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b0192ab7d936f970d" id="caption-xid-6a0105349b8251970b0192ab7d936f970d">Cleaning a DDR mat
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ab7d936f970d.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b0192ab7d936f970d" id="caption-xid-6a0105349b8251970b0192ab7d936f970d">Cleaning a DDR mat
 
 There's also an unlocked (i.e. no arcade credits/coins needed) DDR arcade machine in the basement of the South Houses that can be used at any hour of the day! It's in its own room in the basement, so the music and any stomping won't bother anyone.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ab7ffecb970d.png" %}<div class="photo-caption caption-xid-6a0105349b8251970b0192ab7ffecb970d" id="caption-xid-6a0105349b8251970b0192ab7ffecb970d">DDR machine in the basement
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ab7ffecb970d.png" %}<div class="photo-caption caption-xid-6a0105349b8251970b0192ab7ffecb970d" id="caption-xid-6a0105349b8251970b0192ab7ffecb970d">DDR machine in the basement
 

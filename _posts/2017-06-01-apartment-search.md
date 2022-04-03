@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2851a82970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2851a82970c.jpg
 title: Apartment Search
 categories: [local]
 status: Publish
@@ -24,14 +24,14 @@ date: 2017-06-01
 <p class="p2">
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c8fad89f970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8fad89f970b.jpg" %}
 <p class="p2">
 <p class="p1">Going home to Philadelphia for a few days also meant that I was home for Mother’s Day! This hasn’t happened for the past three years, so I felt very lucky. My mother and I, true to form, baked a cake together (from the cookbook of one of the former contestants from the Great British Bake Off, of course).
 
 <p class="p2">
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d2851a8d970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2851a8d970c.jpg" %}
 <p class="p2">
 <p class="p1">Also serendipitous timing: I was home the following Tuesday morning, before my flight back to LA, in order to vote in the Pennsylvania primary election! Make sure you’re all registered to vote, by the way ;)
 <p class="p2">

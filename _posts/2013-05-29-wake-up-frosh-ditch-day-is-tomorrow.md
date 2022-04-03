@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Monica Li
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0177449c8a5f970d0192aa4fe88a970d-800wi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d0192aa4fe88a970d-800wi.jpg
 title: Go to Bed Frosh! Ditch Day is Tomorrow 
 categories: [culture]
 status: Publish
@@ -17,10 +17,10 @@ The seniors that participated had a pink ribbon on them so we wouldn't accidenta
 I was too busy to take pictures during, but here is kind of what the aftermath looked like:
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01901c917837970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901c917837970b.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0177449c8a5f970d01910287745b970c-800wi.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d01910287745b970c-800wi.jpg" %}
 Then this Friday we had Ditch Day for real! Just the same as last week, pots and pans banged at 8 then we woke up to sign up for stacks. The seniors get into groups to make these stacks; all of them looked interesting, but the one I ended up signing up for was Die Hard themed. Other themes included Ghostbusters, Finding Dory, and Robinhood. I'll leave the rest of Ditch Day out because it's probably best to experience it personally, except for our stack did involve riding on hovercrafts.
 
 Finally, after almost a whole school year, the seniors said, "wake up frosh, Ditch Day is today!" and it was definitely worth the wait.

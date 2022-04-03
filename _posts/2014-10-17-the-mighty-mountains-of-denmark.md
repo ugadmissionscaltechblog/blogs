@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Valerie
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d07aff2f970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d07aff2f970c.jpg
 title: The Mighty Mountains of Denmark
 categories: [global]
 status: Publish
@@ -20,7 +20,7 @@ Torkild had told us which path we were going to be hiking along, and to catch up
 
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d07aff7e970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d07aff7e970c.jpg" %}
 When we finally caught up, the group was at lookout over a glacial valley carved out in the last ice age. It was an impressive eighty or so meters above sea level; but, since Denmark is so flat, we could see all of the Mols peninsulas, considered the hillbilly part of Denmark. Torkild, who was born and raised there, told us several Danish folktales based on Molboer, people who live in Mols.
 
 For instance, there is the case of the magic kettle: while travelling through Denmark by boat, a few Molboer spent a night camping on a beach with another traveller. This traveller was boiling water in a kettle over a fire, and offered to cook for them. When he took the kettle off the fire, the Molboers were amazed to see that the water continued to boil! They were convinced that this kettle was magical, that it could boil water without fire, and asked to buy the kettle for their travels. The traveller seized this opportunity, and the Molboers forked over all their remaining money for the kettle.
@@ -31,14 +31,14 @@ One of the Molboers suggested that maybe the diver had found the kettle, but did
 Torkild told several more of these stories before we continued on to the peak. It was another hour or so hiking to the top, and we were hungry, so marched onward. When we were almost there, we ran into some sheep peacefully enjoying the tall, abundant grass we were struggling to walk through. Our Polish friend Patryk found them very amusing and decided to catch one. Leaping after a flock of them, Patryk chased them up and down the hillside, much to their dismay. Eventually he tired (and probably realized he was hungry) and returned to the path.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb079632e9970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb079632e9970d.jpg" %}
 The sheeple Patryk chased.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c6f10a02970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6f10a02970b.jpg" %}
 The view from the top was spectacular. The peak is only 137 meters, but from it, we could see all the way back to Grenå and Århus and for kilometers in every direction. The weather was perfect and clear, so we dragged out lunch as long as we could, absorbing the view and taking hundreds of panoramic pictures.
 
 Unfortunately, our bus was impatiently waiting on the other side of the hill, so we couldn’t stay too long, but as we ventured back down, we agreed our short time in Nationalpark Mols Bjerge was definitely worth the effort.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d07b0016970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d07b0016970c.jpg" %}

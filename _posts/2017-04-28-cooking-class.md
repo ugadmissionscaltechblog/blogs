@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb0990abf4970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0990abf4970d.jpg
 title: Cooking Class
 categories: [clubs]
 status: Publish
@@ -15,12 +15,12 @@ This class is something I've been planning to take since I arrived freshman year
 
 After we learned about the different tastes, and sampled some endive, bleu cheese, walnut, and apple hors d'oeuvres that the TAs had prepared for us to demonstrate mixing of tastes and flavors, we broke off into teams and had a competition to create a three-course meal out of the ingredients from our taste test. My team made a spinach, pear, and lime salad, chicken tacos, and a chocolate-covered pear dessert with habanero yogurt sauce. We did not win, but it was a really fun experience! Each plate was tiny, here is our "salad":
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d277f058970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d277f058970c.jpg" %}
 
 After the competition, we made a few recipes to finish the class. We baked coffee cake, butterflied and fried chicken for chicken picatta, and poached some salmon.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d277f022970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d277f022970c.jpg" %}
 
 To finish up the class, we ate everything we had cooked.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Spiszkiewicz
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b016767bd8f89970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b016767bd8f89970b.jpg
 title: Invasion of the Summer Students 
 categories: [research]
 status: Publish
@@ -14,13 +14,13 @@ All of my worldly possessions, minus my keyboard, guitar, and pet snake's terrar
   In addition to moving into a bigger room this year, I got this as a bonus!
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b016767be93a7970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b016767be93a7970b.jpg" %}
 Caltech has a mural policy that allows students to paint murals in the hallways and in their rooms(although for rooms you have to pay a fee to cover the cost of painting over the mural if a future resident does not want it). With my new room I inherited this mural painted in 2006. It's an album cover for the punk band Operation Ivy, whose music I have yet to listen to, but I think I need to so that I may fully appreciate the art.
 
   Eventually, all of us got settled into our new rooms, and then the invasion began...
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01774298cb3e970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01774298cb3e970d.jpg" %}
 SUMMER STUDENTS!!!!!!!
 To be fair, the Caltech SURF students (barely) outnumber the visiting summer students, and a lot of the summer students are cool people. I even have a friend here this summer who I met when she was SURFing last summer. Now that we've all been through check-in and safety training, we're settling into our labs and getting down to work. Speaking of which,the centrifuge is now available, and I must get back to my experiment. So long for now!
 Pixie

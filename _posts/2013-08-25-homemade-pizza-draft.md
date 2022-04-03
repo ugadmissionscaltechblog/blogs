@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Chengyi L
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104d0db95970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019104d0db95970c.jpg
 title: Homemade Pizza 
 categories: [research]
 status: Publish
@@ -17,26 +17,26 @@ And now, we're revisiting this delicious food once again because Roommates N and
 There are many ways of making pizza dough. Although it's possible to make pizza dough without yeast, it won't be as good. For those of you who like a crispier crust on your pizza, use a flour with lots of gluten in it (such as bread flour) to make the dough, and make the crust thinner. This is the dough after it has risen for a night, so it looks super poofy and round. 
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac9be8ff970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac9be8ff970d.jpg" %}
 I don't know what recipe Roommate N was using, but supposedly you should bake the crust a little bit before putting toppings on top. I guess this is because we don't have a proper <a href="https://caltech.typepad.com/.a/6a0105349b8251970b019104d296a3970c-popup">brick oven.</a>
 
 Next is putting on all the toppings. Because you're the one making the pizza, you can personalize your pizza however you want! This is probably the second best part of making pizza yourself (eating the pizza is the best part). 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac9bfa2d970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac9bfa2d970d.jpg" %}
 Also note that the pizza closer to us has no pizza sauce on it. This is because pizza really is just baked bread with lots of toppings. Although there are things you should not use as toppings, there's nothing you *must* use as toppings. Use this as an excuse to get creative or dump on your favorite foods! 
 
 And now, shove the pizza in the oven and wait until it's done. 
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac9c0157970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac9c0157970d.jpg" %}
 A great thing about making pizza yourself is that your kitchen will smell super delicious afterwards.
 
 And now, the finished products:
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0192ac9c02c4970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac9c02c4970d.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019104d2a21f970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019104d2a21f970c.jpg" %}
 The pizza tastes *amazing*. Everything just sort of melts in your mouth in a delicious crunch of juicy, savory-ness. I'm not good enough at this English thing to properly describe how delicious this is. In fact, I don't think I can ever eat store-bough pizza ever again... 
 
 **Final Verdict: 10/10, highly recommend! Do it yourself! It's easy and super delicious! **

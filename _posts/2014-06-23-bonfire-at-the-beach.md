@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01a73dda4a16970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01a73dda4a16970d.jpg
 title: Bonfire at the Beach!
 categories: [research]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Gloria
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb082fecf4970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb082fecf4970d.jpg
 title: Inter A Cappella Funtimes, Part 1
 categories: [research]
 status: Publish
@@ -19,6 +19,6 @@ Before enjoying a hearty CDS dinner, there were classy refreshments laid out for
 
 Averite hosts waiting for their profs:
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c78bf133970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c78bf133970b.jpg" %}
 I realized that out of around nine undergrads working in the Shapiro lab this summer, five of us were Avery members, so we jointly invited Professor Shapiro to FDN. We all had dinner together while talking about all of our college experiences (prof included). It was pretty fun. Afterwards, we headed over to listen to the performances. I had to head out early to make it to Dhamaka rehearsal, but I heard raving reviews of the performances I missed — a lip sync medley, one arm pull-ups, and a cajon Disney medley everyone sang along to. I also missed the cakes from Porto’s. This was a really cool event that allowed people to present their hidden talents to the Avery and faculty community.
 

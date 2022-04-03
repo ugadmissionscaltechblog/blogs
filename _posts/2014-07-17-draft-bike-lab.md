@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ariel O'Neill
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a017c3671e245970b01a3fd31ede5970b-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c3671e245970b01a3fd31ede5970b-pi.jpg
 title: Bike Lab
 categories: [research]
 status: Publish
@@ -20,10 +20,10 @@ I've been saved by the Bike Lab many times. The volunteers there taught me how t
 I'm working with a friend on fixing up a sleek silver single speed. (Pictures later!) The two bike maintenance books I'm working from now are
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a017c3671e245970b01a73decf758970d-pi.jpg" %}<div class="photo-caption caption-xid-6a017c3671e245970b01a73decf758970d" id="caption-xid-6a017c3671e245970b01a73decf758970d">From https://img2.imagesbn.com/p/9781934030981_p0_v2_s260x420.JPG
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c3671e245970b01a73decf758970d-pi.jpg" %}<div class="photo-caption caption-xid-6a017c3671e245970b01a73decf758970d" id="caption-xid-6a017c3671e245970b01a73decf758970d">From https://img2.imagesbn.com/p/9781934030981_p0_v2_s260x420.JPG
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a017c3671e245970b01a3fd31efe3970b-pi.jpg" %}<div class="photo-caption caption-xid-6a017c3671e245970b01a3fd31efe3970b" id="caption-xid-6a017c3671e245970b01a3fd31efe3970b">From https://www.cycling-books.com/images/richards_bicycle_book_cov.jpg
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c3671e245970b01a3fd31efe3970b-pi.jpg" %}<div class="photo-caption caption-xid-6a017c3671e245970b01a3fd31efe3970b" id="caption-xid-6a017c3671e245970b01a3fd31efe3970b">From https://www.cycling-books.com/images/richards_bicycle_book_cov.jpg
 
 The <a href="https://www.parktool.com/blog/repair-help" target="_self">Park Tool website</a> is also fabulous. I like some hands-on learning where I get to really make mistakes, and it's not a big deal.
 

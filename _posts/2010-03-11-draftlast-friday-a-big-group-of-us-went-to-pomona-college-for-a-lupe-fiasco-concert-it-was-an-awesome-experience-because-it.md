@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Juan Cardenas
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f894247970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310f894247970c.jpg
 title: Music, Pool, RC Cars, and New Beginnings
 categories: [culture]
 status: Publish
@@ -15,10 +15,10 @@ We've also been big on documentaries lately. Saturday night we played a document
 
 Yesterday the ME 72 (Mech E Design Class) Competition took place in the Braun Gym. The competition involved a number of concurrent challenges, including flying blimps through hoops and collecting and depositing ping pong balls with an rc car. The bleachers were full with curious students (like my friends and me!), faculty, and potential employers. The atmosphere was very fun and quirky. I'll let the photographs speak for themselves:
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a92349fb970b.jpg" %}This one makes me think of Quidditch:
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a92349fb970b.jpg" %}This one makes me think of Quidditch:
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f8a024a970c.jpg" %}Basically what's going on here is that the car on the platform (left) is preventing the other (right) from coming up the ramp by smashing it. The "clank" noise was very loud and exciting.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310f8a024a970c.jpg" %}Basically what's going on here is that the car on the platform (left) is preventing the other (right) from coming up the ramp by smashing it. The "clank" noise was very loud and exciting.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310f8a0342970c.jpg" %}And now my friends, finals have officially begun (And we're done with Pass-Fail!). The Fleming Cannon has just been fired (at 5:01:08 PM to be precise)! The math and physics finals were handed out today, and the others will be released by Friday. Tonight my European Civilizations class is meeting at our professor's house for a dinner and then some casual conversation, that should be a very nice experience. I'm off now to start studying for my math final, I will tell you guys more at the end of the week. Cheers! Oh, and best of luck with all the admissions decisions.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310f8a0342970c.jpg" %}And now my friends, finals have officially begun (And we're done with Pass-Fail!). The Fleming Cannon has just been fired (at 5:01:08 PM to be precise)! The math and physics finals were handed out today, and the others will be released by Friday. Tonight my European Civilizations class is meeting at our professor's house for a dinner and then some casual conversation, that should be a very nice experience. I'm off now to start studying for my math final, I will tell you guys more at the end of the week. Cheers! Oh, and best of luck with all the admissions decisions.
 

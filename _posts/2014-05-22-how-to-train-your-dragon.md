@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73dc06d34970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dc06d34970d.jpg
 title: How to Train Your Dragon
 categories: [global]
 status: Publish
@@ -14,17 +14,17 @@ Only afterwards did we both realize just how thorough Blacker was. It's clear th
 Baa.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd058cbc970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd058cbc970b.jpg" %}
 That huge monster thing of which even the dragons are scared.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73dc06d5d970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dc06d5d970d.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a511b53eab970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511b53eab970c.jpg" %}
 Even the snacks were so meticulously crafted!
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd05c1a8970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd05c1a8970b.jpg" %}
 Caltech is secretly actually an art school. (;
 PSA: If you haven't seen How to Train Your Dragon yet, please do. Like, right now. Thanks. Or just leave, because there are spoilers below. O:
 &lt;3.
@@ -36,11 +36,11 @@ Woo:
 - cute dragon
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01a511b574aa970c-500wi.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01a511b574aa970c-500wi.jpg" %}
 - the realistic ending
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01a73dc0a45a970d-500wi.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01a73dc0a45a970d-500wi.jpg" %}
 - all the struggles
 Boo:
 - assuming all dragons respond the same way to everything even though they're different types

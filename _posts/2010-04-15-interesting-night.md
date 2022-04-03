@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mythili
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133ecb08dcf970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ecb08dcf970b.jpg
 title: Interesting Night...
 
 categories: [research]
@@ -27,14 +27,14 @@ But there's one thing that still looks really, really cool and VERY mad scientis
 More amusing, however, was what happened yesterday *night *(as noted in the title of this post). So as I mentioned above, I, along with many people in my house, have a large ACM 95c set due on Wednesdays. Ergo, Tuesdays generally consist of people diligently working, trying to finish the set before breakfast. Deep down, we're all dedicated students.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01347fe0699c970c.jpg" %}Of course, it turned out that F8 had been set up by another student, and revenge was carried out in the form of shoving the offender into the nearest shower, fully clothed (and then we all helped put the room back together).
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01347fe0699c970c.jpg" %}Of course, it turned out that F8 had been set up by another student, and revenge was carried out in the form of shoving the offender into the nearest shower, fully clothed (and then we all helped put the room back together).
 
 So finally the point of this post...yesterday night was a similar night of revenge and mayhem. I'm not quite sure how things really began, but sometime around 00h00 hours a room was bombed with sugar donuts, leaving its occupant, Thimal, less than happy. In retaliation, the attacker, Kwok, was chased back into his room and trapped there with a precariously balanced bucket of water, set up so that opening the door meant a certain deluge into the room.
 
 It was at this point that I first ventured upstairs with some inconsequential question about transformations of partial differential equations. A sort of stalemate had settled in--Kwok couldn't leave his room, and there's not much you can do to get revenge on someone trapped inside his own room.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01347fe074e5970c.jpg" %}I finally came back half an hour later, almost done and with just a few more questions. I remarked,
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01347fe074e5970c.jpg" %}I finally came back half an hour later, almost done and with just a few more questions. I remarked,
 "You know, if it were me, I'd have tried to escape by now. How much water would spill before you could grab the bucket?"
 And literally JUST as I said that, theunmistakablesounds of a desperate escape were heard from down the hall. Somewhat curious, I stepped out into the hallway...
 
@@ -43,6 +43,6 @@ And literally JUST as I said that, theunmistakablesounds of a desperate escape w
 Needless to say, it was highly amusing once I got over the shock. Of course, a few minutes later I realized that half of my set was completely illegible and I went back**into shock, but overall it made for an eventful Tuesday night.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01347fe07cfb970c.jpg" %}Until next time,
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01347fe07cfb970c.jpg" %}Until next time,
 Mythili.
 

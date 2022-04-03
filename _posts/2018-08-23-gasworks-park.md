@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3a30098200b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3a30098200b.jpg
 title: Gas Works Park
 categories: [global]
 status: Publish
@@ -13,4 +13,4 @@ Gas Works park is located on the north shore of Lake Union in Seattle. In the pa
 From the park, there's a great view of downtown Seattle. The view at night is especially pretty!
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b022ad3a300a0200b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3a300a0200b.jpg" %}

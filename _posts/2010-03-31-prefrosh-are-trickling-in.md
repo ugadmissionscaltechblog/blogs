@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310ffddf0e970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310ffddf0e970c.jpg
 title: Prefrosh are trickling in
 categories: [culture]
 status: Publish
@@ -21,7 +21,7 @@ Pasadena definitely has its own charm. Most of these are walkable, but Din Tai F
 - Din Tai Fung: a dumpling chain, rumored to have the best soup dumplings around. Watch out-- the lines are very long if you hit the place on a weekend.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01310ffde005970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310ffde005970c.jpg" %}
 If you want something showier, there are some interesting places in L.A.
 
 - Koreatown, Little Tokyo, Little Ethiopia, Thai Town, etc.: delicious and new. If you're adventurous and haven't had Ethiopian food before, I recommend Little Ethiopia.
@@ -33,6 +33,6 @@ With more time, you can even make a trip up to Santa Monica, Laguna Beach, Disne
 
 This Spring Break, I went to Koreatown for the first time. Guess which one of the dishes below is pig intestines?
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0133ec57d80c970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ec57d80c970b.jpg" %}
 It's the dish on the bottom left, the one that looks like seaweed-wrapped pork. Surprisingly, pig intestines are delicious.
 

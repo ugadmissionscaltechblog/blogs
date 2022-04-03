@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb07e088c0970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07e088c0970d.jpg
 title: Campus exploration and a mini discovery! 
 categories: [academics]
 status: Publish
@@ -18,13 +18,13 @@ At the beginning of this year, the Library Committee reopened the ninth and high
 But look at it nowwwww:
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0c666f8970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0c666f8970c.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c73cd0f5970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c73cd0f5970b.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0c6671a970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0c6671a970c.jpg" %}
 Did I mention that Millikan Library is the tallest building in Pasadena? Or at least one of the tallest. Ninth floor Millikan now has not only the best views on campus, but also the best views in the city.
 
 So between classes and a SWE (Society of Women Engineers) meeting today, I went to ninth floor Millikan to start work on my Math 3 (statistics and probability) problem set instead of going back to my House. I got halfway through in an hour before hitting the hard problems, which I'm going to need to ask a tutor or another person in the class about. The good news? I have three close friends who are tutors for Math 3, and almost every other sophomore is taking that class. I don't think I'm going to run out of help or study buddies any time soon.

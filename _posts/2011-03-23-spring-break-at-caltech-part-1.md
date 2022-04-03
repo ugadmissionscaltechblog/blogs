@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny Yung
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e86da3013970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e86da3013970d.jpg
 title: Spring Break [at Caltech]! (Part 1)
 categories: [global]
 status: Publish
@@ -14,19 +14,19 @@ Another popular place Techers go to would be Cherry on Top, an awesome frozen yo
 They also have a lot of toppings. They have things like chocolate and syrup, which, again, to me, are more for ice cream than froyo, for which fruit toppings are a lot better!
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e5fff571f970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e5fff571f970c.jpg" %}
 Spring break is a great time to make trips to places that you don't quite get to during the term. On Friday, Sarai, Carrie, Albert and I went to Huntington Library and Gardens, a beautiful place! I'll write more about that later. Since we have to fend for ourselves for food this week, Sarai and I walked to Arcadia again for 1.5 hours. More on that later too... :)
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b014e5fff54eb970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b014e5fff54eb970c.jpg" %}
 While James built his computer, Albert, an awesome photographer, set up his pro camera to take a picture of the building every 10 seconds and then put together the pictures into <a href="https://saharacremona.smugmug.com/Caltech-1/Random/032011/16047934_4rmeZ#1221372273_Kgcx2-A-LB" target="_self">a video which you can watch here.</a> It's pretty amazing :D He spent quite a bit of time on it, and you can see a lot of people walking in and out of the room to watch him work.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b014e5fff64df970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b014e5fff64df970c.jpg" %}
 *(Please don't kill me if you read this, James :P)*
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e86da4163970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e86da4163970d.jpg" %}
 *You can also see Sarai in the mirror, lol.*
 *Oh, and there's an High Expectation Asian Father picture on the door that says:*
 *"Got into CIT? What about AIT?" Ahahaha...xD*

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Rainbow Beaver
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a511a8c603970c.png
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511a8c603970c.png
 title: Gay Board Gaming
 categories: [research]
 status: Publish
@@ -18,14 +18,14 @@ As you might be able to guess, board games are quite popular at Caltech. The Sou
 But sometimes my boyfriend and I want to challenge non-Caltech students to various games, and one of the nice things about living in this area is that basically everything you’d want to do is going on somewhere in Los Angeles. We go to a MeetUp for gay board gamers that meets once a month at various places around LA (<a href="https://www.meetup.com/Gay-Board-Gaymers/">https://www.meetup.com/Gay-Board-Gaymers/</a>). I’ve been to around seven events so far, and he tries to make it to every event. Occasionally we will run into other techers or JPLers (NASA’s Jet Propulsion Lab that has close ties with Caltech) and a couple of times we’ve ended up playing Dixit against a Caltech professor.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73db3de6e970d.png" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73db3de6e970d.png" %}
 This meetup has become popular enough to spawn a spinoff board games coffee shop with a general LGBT bent, Game Haus Café: <a href="https://www.gamehauscafe.com/">https://www.gamehauscafe.com/</a>.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73db3dea7970d.png" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73db3dea7970d.png" %}
 Yes, those are multiple bookshelves just filled with board games.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a511a8c66b970c.png" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511a8c66b970c.png" %}
 Generally, it serves as a great way to meet interesting like-minded gaymers and have fun for an afternoon.
 

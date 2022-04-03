@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Carly Bond
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8a432fff970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e8a432fff970d.jpg
 title: More Interesting Food
 categories: [research]
 status: Publish
@@ -12,7 +12,7 @@ date: 2011-08-02
 After we finished the hike, we went to the beach for an hour. There was a typhoon on its way in, so the beach was roped off, literally. There was yellow caution tape strung along the shoreline. We stood behind the tape, but we could still get our feet wet as the bigger waves came in. One wave was much bigger than we expected, so we got splashed up to our waists!
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b015434233d46970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015434233d46970c.jpg" %}
 The ocean was very beautiful but very wild from the typhoon winds. I kept thinking of this poem by Clive Barker:
 
 Life is short
@@ -30,23 +30,23 @@ How very blue
 The sea is.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8a4330ba970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e8a4330ba970d.jpg" %}
 After this we stopped by the hotel to clean up and then we took a bus with all of the other workshop participants to a sashimi restaurant by the sea. The first course was the sashimi, served as slices of raw fish over some kind of white noodle thing that we were not supposed to eat. I forgot to get a picture of the sashimi, but here are photos of the many side dishes we also got.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0153904febbf970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0153904febbf970b.jpg" %}
 One of our favorites was the fried fish. We got three orders! It was cooked and served whole, skin, bones, and everything. Chopsticks made it pretty easy to pick around the bones though.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0153904fec0c970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0153904fec0c970b.jpg" %}
 I really liked the similarly-to-tempura fried vegetables. Some of the weirder things I ate included this snail-like thing. We used our chopsticks to pull the end of the snail out, but it was very difficult to pull it out all the way. One of the girls just bit the end she could get out of the shell and then pulled the rest out with her teeth! I thought it tasted okay. A little chewy, but not notable.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0153904fec9e970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0153904fec9e970b.jpg" %}
 We also had shrimp, which were served whole. I had to pull off the legs, rip off the upper body and pull the shell of the tail. It was good, but I think I prefer my shrimp pre-dismembered.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8a4332fa970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e8a4332fa970d.jpg" %}
 After dinner, Professor Tae bought all of us ice cream. Some of the popular ice cream here is served in a soft plastic bottle where you rip off the top and then squeeze out dessert as it thaws.
 
 There was a stand on the beach selling fireworks, so Ahbi bought some for us. We held them in our hand and around thirty fireworks burst out the end. It was super fun and so pretty.
@@ -64,10 +64,10 @@ This meeting was interesting to me because I could not think of an American equi
 The next morning we had to get up early so that we could drive to Wonil’s house, a couple hours away. Wonil is one of the graduate students in the lab. His home is near the location of the 2018 winter Olympics, so the other students say that they are going to come stay with him then, too. We were relatively close to the DMZ, so we saw a lot of soldiers. We passed many different military vehicles on the road.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8a4336c8970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e8a4336c8970d.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e8a43373c970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e8a43373c970d.jpg" %}
 Wonil’s house was interesting to see because it was very rural, as opposed to the Korean cities I’ve seen. Here is a picture of me standing in a field of Korean onions just outside of Wonil's family's house to start you off. Tell you more next time!
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0154342345ec970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0154342345ec970c.jpg" %}

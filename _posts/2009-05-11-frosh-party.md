@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Wesley Chen
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01156f85f6bb970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01156f85f6bb970c.jpg
 title: Frosh Party!
 categories: [culture]
 status: Publish
@@ -14,7 +14,7 @@ Plus, we got a dance floor set up outside with the Venerable DJs and a couple of
 
 Ok, you can't really see what it looks like in this picture, but this thing is taller than I am (although I'm a short person, so that's not saying much...)
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0115707bb799970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0115707bb799970b.jpg" %}
 And bottom, here's one of the Venerable DJs, getting the party started!
 
 Oh and did I mention the food? Venerable organizers are called "iguanas," and the food iguana laid out a pretty impressive array of food. Unfortunately, by the time I remembered to get my camera, all of it was gone...

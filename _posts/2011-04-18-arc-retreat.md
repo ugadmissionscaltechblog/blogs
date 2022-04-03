@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Melody Morris
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e60772deb970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e60772deb970c.jpg
 title: ARC Retreat! *
 categories: [research]
 status: Publish
@@ -16,4 +16,4 @@ At Caltech, at lot of major clubs have retreats. This is typically a weekend or 
 Over the course of the weekend, we discussed how the ARC was currently working, the expectations for the year, and new things that we wanted to accomplish. Each point was well discussed by the group, which we don't really have time for in normal meetings with everyone's busy schedules. Overall, it was super productive! To celebrate, we went out to a fancy dinner (using the money we saved on lodging).
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e60f02781970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e60f02781970c.jpg" %}

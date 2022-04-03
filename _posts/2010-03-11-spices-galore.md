@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Andrew Freddo
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a9252669970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a9252669970b.jpg
 title: Spices Galore!
 categories: [culture]
 status: Publish
@@ -13,6 +13,6 @@ To expedite matters, we each made a different combination of a meat and vegetabl
 Well, below are the pictures from this week - I'm excited for this last week because it's Southern Night! And I hear it's the best one - so we'll see how it is!****
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a92526db970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a92526db970b.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a92527b4970b.jpg" %}Recipe of the week: Sorry, no time this week... stay tuned for more!
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a92527b4970b.jpg" %}Recipe of the week: Sorry, no time this week... stay tuned for more!

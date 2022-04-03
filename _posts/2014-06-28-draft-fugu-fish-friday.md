@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ariel O'Neill
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a017c3671e245970b01a511d6670c970c-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c3671e245970b01a511d6670c970c-pi.jpg
 title:  Fugu Fish Friday
 categories: [research]
 status: Publish
@@ -49,5 +49,5 @@ Oh, and sea urchins develop well at 15 °C, which means that rooms with animals 
 
 Here's one more fugu fish for luck!
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a017c3671e245970b01a3fd26e7f8970b-pi.jpg" %}<div class="photo-caption caption-xid-6a017c3671e245970b01a3fd26e7f8970b" id="caption-xid-6a017c3671e245970b01a3fd26e7f8970b">From https://upload.wikimedia.org/wikipedia/commons/7/77/Puffer_Fish_DSC01257.JPG
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c3671e245970b01a3fd26e7f8970b-pi.jpg" %}<div class="photo-caption caption-xid-6a017c3671e245970b01a3fd26e7f8970b" id="caption-xid-6a017c3671e245970b01a3fd26e7f8970b">From https://upload.wikimedia.org/wikipedia/commons/7/77/Puffer_Fish_DSC01257.JPG
 

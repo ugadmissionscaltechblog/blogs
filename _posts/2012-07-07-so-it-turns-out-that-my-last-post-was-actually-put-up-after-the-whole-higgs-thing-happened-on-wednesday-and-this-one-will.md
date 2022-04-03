@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Valère Lambert
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0176162833d1970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0176162833d1970c.jpg
 title: A New Candidate Boson! 
 categories: [research]
 status: Publish
@@ -22,19 +22,19 @@ Despite this pleasant distraction I have actually had a very progressive week. B
 So I kinda forgot to tell you all about my most recent weekend. The four of us decided to take a road trip to the other side of the lake and visited Lausanne. The town was incredibly beautiful. It was situated around a hill so further up from the lake we found an amazing cathedral with a plaza overlooking the rest of the town and the lake.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01676832e36e970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01676832e36e970b.jpg" %}
 We went down to the lakeside and explored the port and beach. There was a huge festival going on along the board walk based around a local beach volleyball competition. We met up with some of Max's friends who were in the area and they went off to hang out around the beach. Lisa and I decided to explore the other side of the port and found an Olympic Museum and park that were under construction. We ended the day with crepes and made our way over to the beach to meet up with the rest of thegroup.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0177430e2836970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0177430e2836970d.jpg" %}
 There was this really awesome eight year old who took a liking to Max and his friend. He was so energetic and doing flips everywhere. Turns out he was a gymnast. He kept on getting Max and his friend to spin him around in circles, then used up their cell phone battery playing Angry Birds.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b016768331641970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b016768331641970b.jpg" %}
 The next day it rained and has been raining on and off since. It's quite random, seeing that it flips from being very sunny to pouring within just a few minutes. Actually right now there is this really weird lightning storm to the East and the sky is pretty much constantly lit up. Anyways, Sunday we decided to go for a drive in the rain, which may seem like a stupid decision but it was really pretty driving through the towns with a light rain. We drove through the town of Gex which is just North of our house and ended up being thrown on a road that led up the side of a mountain. There wasn't really any place to turn around on the road so basically we just continued up the Jura mountains for 15-20 minutes. Until magically, on the side of the mountain there was a random mountain cafe just sitting there in the rain. The place was completely empty but the people were really friendly and we sat there on the mountainside with coffee looking at the rain. Despite getting thrown up a mountain in the rain, it was a relaxing end to the weekend.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0177430e28ae970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0177430e28ae970d.jpg" %}
 
 So that was week two, coming up this weekend is Heidelberg!
 

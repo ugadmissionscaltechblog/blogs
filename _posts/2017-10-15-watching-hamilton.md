@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2857970c01bb09c91cac970d-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01bb09c91cac970d-pi.jpg
 title: Watching Hamilton!!!
 categories: [research]
 status: Publish
@@ -14,13 +14,13 @@ At the end of August, I flew down to LA to watch Hamilton at the Hollywood Panta
 It was so exciting!!!!!! I couldn't believe I was actually there. There was a huge crowd, and the theatre was fully booked. I'm not sure if I was allowed to take a photo of the theatre, but hopefully it was ok since the show hadn't started yet.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09c91cca970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09c91cca970d.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09c91c7f970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09c91c7f970d.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c92608c3970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c92608c3970b.jpg" %}
 I don't want to spoil anything, so I won't talk about the contents of the musical, but I'll just say that it was amazing. The actors were all so talented, and I especially liked the actress who played Angelica. Her voice was beautiful! If you look in the program booklet, it lists all the roles each understudy can play -- each person knows so many different roles that they must have basically the entire musical memorized.
 
 I would highly recommend Hamilton to everyone! It made me laugh and cry, and I had the soundtrack stuck in my head for days after, in a nice and happy way :)

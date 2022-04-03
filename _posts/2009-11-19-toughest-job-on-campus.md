@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Andrew Freddo
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a6b1b7b9970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a6b1b7b9970b.jpg
 title: Toughest Job on Campus
 categories: [culture]
 status: Publish
@@ -13,11 +13,11 @@ Well, it's not all fun and games (though mostly it is), we do have to branch out
 So this week, we took our expert palates to Tea Spots, a new Boba (Bubble Tea) and snack restaurant not too far from campus. We take our job very seriously, and usually don't bring anyone along to see us work our magic. However, today you can get a look at us in action! Enjoy!
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a6b1c7bd970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a6b1c7bd970b.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b012875b417df970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b012875b417df970c.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b012875b41eac970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b012875b41eac970c.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a6b1ff30970b.jpg" %}Overall, the food was pretty good, and the Boba was yummy. They also have FREE Wi-Fi, always a plus - means you can study off-campus there! Want to know our grade...? Well, wait till it comes out in the Tech! Can't tell you ALL of our secrets! ;)
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a6b1ff30970b.jpg" %}Overall, the food was pretty good, and the Boba was yummy. They also have FREE Wi-Fi, always a plus - means you can study off-campus there! Want to know our grade...? Well, wait till it comes out in the Tech! Can't tell you ALL of our secrets! ;)
 Till next time...food reviewers...out!

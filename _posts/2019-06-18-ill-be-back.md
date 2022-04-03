@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Andrew
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a4b47222200b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0240a4b47222200b.jpg
 title: I’ll Be Back
 categories: [research]
 status: Publish
@@ -20,7 +20,7 @@ Mainly, I said goodbye to the U.S. by doing the thing I do most here: eating. I 
 I also had to say goodbye to a lot of friends. People I work with in admissions, dining. My friends who I spend hours agonizing over sets with during the weeks. A couple of dogs I like to hang out with. The Pokémon Go Pasadena group. It’s a bit odd to have made so many close connections over the past two years that there are that many people I’m going to miss (and who might miss me too). But it feels nice to have people that close. That’s part of what Caltech gets you, small school and all.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a466967a200c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0240a466967a200c.jpg" %}
 And of course, I ended my trip with one final visit to my true home in Pasadena, Labobatory. I know that there’ll be boba everywhere I’m going but Labobatory has a special place in my heart, between the people and the drinks. In terms of food, I think I’ll miss that most of all.
 
 But hey, it’s only goodbye for now.

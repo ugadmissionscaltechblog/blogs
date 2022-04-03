@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0f9db4e970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0f9db4e970c.jpg
 title: ME 72 Swimming Robot Competition! 
 categories: [research]
 status: Publish
@@ -12,10 +12,10 @@ date: 2015-04-06
 At the end of last term, the ME 72 (mechanical engineering project class) had their final projects due. The project, spanning first and second term, was to build an amphibious robot that could play a water-based game against another team of robots. I took a ton of pictures of the competition, which was held at Millikan pond in front of the library. Hundreds of elementary school kids from Pasadena showed up to watch! And a couple of news crews. I guess "Caltech robots" generates a lot of interest :P
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb0814417c970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0814417c970d.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0f9db69970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0f9db69970c.jpg" %}
 
 I also got a Q&amp;A with my friend Rob, who was in the class, so you guys have a better idea of what this MechE class is like.
 

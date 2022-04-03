@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb088b8aa5970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb088b8aa5970d.jpg
 title: Postcards from Jenny
 categories: [global]
 status: Publish
@@ -21,27 +21,27 @@ During my weekend in London, i got to try plenty of yummy food in addition to <a
 <a href="https://www.yelp.co.uk/biz/chinatown-bakery-london" style="font-family: arial, helvetica, sans-serif; font-size: 10pt;" target="_blank"><span style="color: #ff9f40;">Chinatown Bakery in Chinatown</a>
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb088b8b29970d.png" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb088b8b29970d.png" %}
 <span style="font-family: arial, helvetica, sans-serif; color: #ff9f40; font-size: 10pt;"><a href="https://boroughmarket.org.uk/" target="_blank"><span style="color: #ff9f40;">Borough Market</a>
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7e7b1a6970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7e7b1a6970b.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb088b8b87970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb088b8b87970d.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7e7b11b970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7e7b11b970b.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c7e7b16a970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7e7b16a970b.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb088b8c6c970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb088b8c6c970d.jpg" %}
 <span style="font-family: arial, helvetica, sans-serif; color: #ff9f40; font-size: 10pt;"><a href="https://www.kingswayhall.co.uk/afternoontea-en.html" target="_blank"><span style="color: #ff9f40;">Kingsway Hall Hotel</a>
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d17182a1970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d17182a1970c.jpg" %}
 <span style="color: #ff9f40; font-family: arial, helvetica, sans-serif; font-size: 10pt;"><a href="https://www.gelatorino.com/" target="_blank"><span style="color: #ff9f40;">Gelatorino</a>
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb088b8dc5970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb088b8dc5970d.jpg" %}
 If you love gelato, this is great stop for you! i was surprised at the plethora of gelato and ice cream places i've seen so far in the UK--you'd think it would be too cold! That's what I thought... until I remembered that where there's a will, there's a way. Naturally, then, where heating systems have been invented, there are gelato places! Just kidding; the London afternoon thankfully wasn't chilly in the slightest, and we even had lots of sun.
 
 Gelato is fabuloso anywhere, anywhen, and Gelatorino was so promptly present to fulfill our craving. I often go for raspberry, but there were so many other flavors that it was difficult to choose. The service at Gelatorino is as splendid as the gelato itself--even though the place was packed, the gelato server was kind enough to explain all the different flavors to me. You can see the flavors <a href="https://www.gelatorino.com/flavours.php" style="color: #ff9f40;" target="_blank">here</a>. Even flavors like chocolate chip had fancy names like stracciatella. Maybe it's a universal thing, but my tongue doesn't need to know the name, only the taste, hehe. Ultimately, i went with raspberry as usual, and it was the correct decision. They all would have been correct decisions. Just get all the flavors, capiche?

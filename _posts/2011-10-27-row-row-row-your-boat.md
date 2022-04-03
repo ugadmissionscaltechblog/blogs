@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yifei Huang
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162fbef5bf7970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162fbef5bf7970d.jpg
 title: Row Row Row Your Boat
 categories: [global]
 status: Publish
@@ -23,14 +23,14 @@ You're probably wondering: "what is punting?" When I first heard the word, it so
 Okay, that's probably not the most efficient way of getting around. If we wanted to move faster, we would probably use paddles or oars, but the point of punting isn't for transportation. It's for the most beautiful, picturesque views in Cambridge:
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0154366d9b18970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0154366d9b18970c.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0154366d9b18970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0154366d9b18970c.jpg" %}
 The nice thing about the boat tour was that the river goes through private grounds owned by the colleges in Cambridge, and not busy, public streets. This is the Bridge of Sighs in St. John's College. It's modeled after a bridge with the same name in Venice:
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0162fbef716f970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162fbef716f970d.jpg" %}
 I got to try punting too! It's harder than it looks... I had trouble keeping the boat from running into the sides or the other boats xD
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0153929a136d970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0153929a136d970b.jpg" %}

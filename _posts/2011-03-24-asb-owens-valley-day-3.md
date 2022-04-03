@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Caltech Blogs
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e600080fb970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e600080fb970c.jpg
 title: ASB
 categories: [research]
 status: Publish
@@ -17,34 +17,34 @@ Today, Mike picked us up at 9. After driving to the hills, we hiked to this real
 
 Greg, our group leader, successfully climbed the arch - so of course I decided I would too! Awesome picture, right? Well, I climbed up about half way and decided that I didn't want to have to climb down more than that (up is always easy, right?).*
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e86db6127970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e86db6127970d.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e86db634d970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e86db634d970d.jpg" %}
 We met up with David again to do some more vertical mulching. Today, I even have some better pictures:
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e60008746970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e60008746970c.jpg" %}
 *at the bottom, it even begins to blend in with the natural scenery!*
 
 Jonas, Yang, Tony, Hunterand I decided to do some climbing. Look closely at the rock way on top:
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e60008a41970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e60008a41970c.jpg" %}
 We took a bunch of pictures and climbed back down.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e86db68dd970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e86db68dd970d.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e86db6bbf970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e86db6bbf970d.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e86db7152970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e86db7152970d.jpg" %}
 *peace!*
 
 After lunch, we drove to Manzanar. Manzanar was a Japanese Internment Camp during WWII. It was a very sombering experience after spending the morning out in the sunshine enjoying the nature of the hills. The people, mostly Americans, interned at the Manzanar "War Relocation Camp" were living between two beautiful mountain ranges - but they couldn't wander the hills as we had. Instead, they had withstand the strong winds and plentiful dust (this was before the dust mitigation project) in the area in cabins so shabby that, according to one visitor, there was no difference between being inside and outside.Worst, many survivors wrote, wasn't the camp but the principle. Most of these people appericiated America for its principles as laid out in our constition - yet they were not treated with the principles of the Constitution.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e600098ce970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e600098ce970c.jpg" %}
 *quote on one of the posters in the museum*
 
 The museum also had quotes of those who hadactively resisted the internment of 10,000 Japanese in Manzanar throughout the war. One story that really stuck with me was a quote from Big Pine High School's student body president Mickey Duffy in a letter to Manzanar students after his school board canceled a football game against the Manzanar youth team. "We did ourutmost to change the School Board's decision through a petition signed by the entire student body," Duffysaid. The community, or the school board, or some mixture - these kids' parents -didn't want their children playing at Manzanar, and the students resisted.As Mike said, America has made mistakes and we aren't perfect - but we keep trying to get better. The trip to Manzanar reinforced howimportant it is, not to take our liberties for granted, and how important it is, to make sure that these libertiesexistfor all people in the world.
@@ -54,7 +54,7 @@ Anther story that hit home was a story from a teen who left Manzanar after the w
 I could write a lot more about Manzanar - but I think those are things you have to find for yourself. If any of you are ever in the Owens Valley area, I highly recommend visiting the museum and grounds.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b014e6000af61970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e6000af61970c.jpg" %}
 After returning from Manzanar, we had pizza and a presentation from Mike.
 
 I promised I would tell you more about Mike a few days ago, so: Mike is a retired school teacher, bird watcher and active environmentalist.He taught in Death Valley for eight years with his wife. In his 30s, he got involved in the "Second Water War" of Owens Valley.

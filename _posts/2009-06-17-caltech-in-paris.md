@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anton Bongio Karrman
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b011571210878970b-320wi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b011571210878970b-320wi.jpg
 title: Caltech... in PARIS!?
 categories: [research]
 status: Publish

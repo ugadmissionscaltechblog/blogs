@@ -3,7 +3,7 @@ layout: post
 author: sunny
 title: "CaltechY Winter Quarter Friends Dinner"
 categories: [research]
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0240a4da0849200d-800wi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0240a4da0849200d-800wi.jpg
 ---
 
 

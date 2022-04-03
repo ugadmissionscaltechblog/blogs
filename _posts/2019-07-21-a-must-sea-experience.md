@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Lexy LeMar
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a4703586200c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0240a4703586200c.jpg
 title: A Must Sea Experience
 categories: [global]
 status: Publish
@@ -17,8 +17,8 @@ An enormous, four-story tank occupies the center of the aquarium with a spiral w
 My absolute favorite part of the aquarium was the penguin exhibit. Penguins are just so awkward on land, waddling around in circles. When I saw one laying down on a rock, I swore it looked like a duck. Fun fact: penguins have knees! Their femurs are just so short and almost always parallel to the ground, basically in a squatting position, that it is hard to tell. But when in the water, penguins transform into these elegant, graceful torpedoes, darting around here and there. I honestly, could've just watched the penguins for hours, but I eventually moved on so I could see all the exhibits. Overall, a great way to spend my Saturday and worth the price.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b0240a4bdf1c2200b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0240a4bdf1c2200b.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0240a4997072200d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0240a4997072200d.jpg" %}
 
 -LEXY

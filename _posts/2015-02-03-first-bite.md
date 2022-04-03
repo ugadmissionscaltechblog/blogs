@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Gloria
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d0bb3e84970c.png
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0bb3e84970c.png
 title: First Bite
 categories: [research]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c9175c6c970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9175c6c970b.jpg
 title: Mozzaplex Pt. II
 categories: [local]
 status: Publish
@@ -23,14 +23,14 @@ We got three pizzas: Squash blossom with burrata, Meat lover's (guanciale, sausa
 
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09ba94ed970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09ba94ed970d.jpg" %}
 
 We couldn't forgo dessert since Nancy Silverton is a famous pastry chef. Her most well-known and influential dessert is the Butterscotch Budino with Rosemary Cookies. It's so famous that the recipe is pasted on the wall by their restrooms. It was the most delicious and sophisticated version of butterscotch that I have ever tasted.
 
 
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c9175c81970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9175c81970b.jpg" %}
 
 Mozzaplex, I love you. I will be back soon. Next on the restaurant bucket list is N/naka, but I have to reserve months in advance. I trust Chef's Table's recommendations.
 

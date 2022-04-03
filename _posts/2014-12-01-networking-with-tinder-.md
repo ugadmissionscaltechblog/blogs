@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb07a93f6a970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07a93f6a970d.jpg
 title: Networking With Tinder, and a Q&A with Tinder President Sean Rad FINAL
 categories: [culture]
 status: Publish
@@ -51,5 +51,5 @@ This week, I had the opportunity to ask Tinder's President, Sean Rad, a few ques
 Tinder is currently hiring! If you're interested in an internship or a full-time position, contact Tinder's lead recruiter Alexandra Dworsky atalexandra@gotinder.com.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb07ad98fa970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07ad98fa970d.jpg" %}
 

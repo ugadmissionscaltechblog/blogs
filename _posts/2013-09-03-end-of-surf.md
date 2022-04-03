@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019aff1e1a52970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019aff1e1a52970c.jpg
 title: End of SURF
 categories: [research]
 status: Publish
@@ -19,11 +19,11 @@ After pushing all my boxes on dollies/carts around half a mile north to my frien
 So I decided to diassemble it enough so that it would fit. It turned out that taking out all the screws and then removing the stock was enough to make it fit. While I had the Nerf gun opened, I took some pictures of the electronics inside (it's a fully automatic flywheel Nerf blaster).
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019aff1dbe9f970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019aff1dbe9f970b.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019aff1e4ae4970d.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b019aff1e4ae4970d" id="caption-xid-6a0105349b8251970b019aff1e4ae4970d">Removed stock
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019aff1e4ae4970d.jpg" %}<div class="photo-caption caption-xid-6a0105349b8251970b019aff1e4ae4970d" id="caption-xid-6a0105349b8251970b019aff1e4ae4970d">Removed stock
 
 Also, here's the battery compartment - instead of 4 C batteries, I got 4 AA batteries and wrapped them in cardboard until they were around the same size as C batteries. (This is really all that the plastic AA-&gt;C battery adapters that you can buy actually do; AA, C, and D batters are all 1.5V.)
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019aff1dc02a970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019aff1dc02a970b.jpg" %}
 While at home, I also have to finish writing up a final paper for my SURF project and prepare for SURF Seminar Day in October, where I'll give a presentation about my SURF project!

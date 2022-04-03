@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Noelle
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01b7c8e8a1da970b-800wi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c8e8a1da970b-800wi.jpg
 title: Sweet as Sugar
 categories: [research]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Tom Gwinn
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01053602eec3970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01053602eec3970b.jpg
 title: So you think you can handle Tech?
 categories: [research]
 status: Publish
@@ -16,7 +16,7 @@ As you might have picked up from the above anecdote, the workload at Caltech can
 Anyway, that's all of the serious stuff I had planned for this post, but if you have any more questions along the same lines I'll be happy to answer them--just add them as comments below :)
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0105360ad6ee970c.jpg" %} Getting completely dominated by 114 wasn't the only thing I did lately, thank goodness. Last Friday was Lloyd House's formal dinner. Formal dinner is an event held in every house once a term. We all dress nicely, eat very good food, and invite professors to dine with us. You can see to the left a picture of me with the rest of the dinner in the background. I was fortunate enough to have three faculty guests at the dinner, <a href="https://www.gps.caltech.edu/%7Embrown/" target="_blank">Mike Brown</a>, <a href="https://www.hss.caltech.edu/people/faculty/wcb" target="_blank">Warren Brown</a>, and <a href="https://directory.caltech.edu/cgi-bin/search.cgi?uid=gleng" target="_blank">Glen George</a>. Mike Brown also brought his daughter Lilah, who is about three years old and was very cute. I really like formal dinners--not only do I have an excuse to put on a suit, but I also get to talk to really awesome faculty. I have the benefit of knowing Mike and Warren through a committee we sit on together, and I know Prof. George from the three hundred million hours or so I've spent on his classes (he teaches three required courses for EEs that are all quite time intensive). It may be worth noting that Mike Brown is the man who "killed Pluto".
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0105360ad6ee970c.jpg" %} Getting completely dominated by 114 wasn't the only thing I did lately, thank goodness. Last Friday was Lloyd House's formal dinner. Formal dinner is an event held in every house once a term. We all dress nicely, eat very good food, and invite professors to dine with us. You can see to the left a picture of me with the rest of the dinner in the background. I was fortunate enough to have three faculty guests at the dinner, <a href="https://www.gps.caltech.edu/%7Embrown/" target="_blank">Mike Brown</a>, <a href="https://www.hss.caltech.edu/people/faculty/wcb" target="_blank">Warren Brown</a>, and <a href="https://directory.caltech.edu/cgi-bin/search.cgi?uid=gleng" target="_blank">Glen George</a>. Mike Brown also brought his daughter Lilah, who is about three years old and was very cute. I really like formal dinners--not only do I have an excuse to put on a suit, but I also get to talk to really awesome faculty. I have the benefit of knowing Mike and Warren through a committee we sit on together, and I know Prof. George from the three hundred million hours or so I've spent on his classes (he teaches three required courses for EEs that are all quite time intensive). It may be worth noting that Mike Brown is the man who "killed Pluto".
 
 Apparently he was also rated one of Wired's 10 Sexiest Geeks of 2006.
 
@@ -26,9 +26,9 @@ Last weekend also held two more awesome social events. The first was Europarty, 
 The second was my house's trip to see the new Bond movie Quantum of Solace. A large portion of Lloyd loaded up to head to the <a href="https://en.wikipedia.org/wiki/ArcLight_Hollywood">ArcLight Hollywood</a>, where we saw the movie in their world-famous Cinerama dome. It was pretty awesome; even though the movie didn't live up to the standards set by Casino Royale, the theater's incredible audiovisual properties turned action sequences into poignant works of art.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0105360318d4970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0105360318d4970b.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0105360aba3e970c.jpg" %} You can see me over at the right diligently studying vocabulary while I'm working in lab. Like 114, the class is difficult, but I learn a lot. In honor of Professor Wang, and because I am really proud of how much I've learned, I'm going to finish my post in Chinese.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0105360aba3e970c.jpg" %} You can see me over at the right diligently studying vocabulary while I'm working in lab. Like 114, the class is difficult, but I learn a lot. In honor of Professor Wang, and because I am really proud of how much I've learned, I'm going to finish my post in Chinese.
 
 你好，我姓Gwinn，我叫Tom Gwinn。 我的中文名字叫“控头目”。我是Caltech的学生。我喜欢Caltech。我学习工程专业。 我也学习汉语。 我们家有四口人。 我有妈妈，爸爸，和一个妹妹。我很爱他们。再见！
 

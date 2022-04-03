@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01bb09859ebb970d-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb09859ebb970d-pi.jpg
 title: Mercado la Paloma
 categories: [culture]
 status: Publish
@@ -19,8 +19,8 @@ It's finally spring break!! Before I jet off to Budapest, Austria, and Prague (w
 <div class="photo-caption caption-xid-6a01bb08213082970d01bb09859ebb970d" id="caption-xid-6a01bb08213082970d01bb09859ebb970d">Seafood cocktail and mixed ceviche from Holbox
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01b7c8e26986970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8e26986970b" id="caption-xid-6a01bb08213082970d01b7c8e26986970b">Lobster and fish tacos from Holbox
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8e26986970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8e26986970b" id="caption-xid-6a01bb08213082970d01b7c8e26986970b">Lobster and fish tacos from Holbox
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01b7c8e269b5970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8e269b5970b" id="caption-xid-6a01bb08213082970d01b7c8e269b5970b">Injera, beet salad, curried vegetables, and mild tofu from Azla
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8e269b5970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8e269b5970b" id="caption-xid-6a01bb08213082970d01b7c8e269b5970b">Injera, beet salad, curried vegetables, and mild tofu from Azla
 

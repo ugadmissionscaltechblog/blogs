@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Catherine Xie
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0168e918632c970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e918632c970c.jpg
 title: ASB Day 3
 categories: [local]
 status: Publish
@@ -17,14 +17,14 @@ date: 2012-03-24
 <p style="text-align: justify;">In the afternoon after lunch, we drove to the offices of "I love a Clean San Diego" and picked up our painting kits in order to stencil local storm drains in order to prevent sotmr water pollution. We used paint to stencil a message on the curb of a storm drain that says "NO DUMPING GOES TO OCEAN/ NO TIRAR BASURA LLEGA AL MAR."
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01630322caf8970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01630322caf8970d.jpg" %}
 <p style="text-align: justify;">Storm drain stenciling is effective in educating the public about the connection between local waterways and the ocean. Apparently, about 80% of litter and pollutatst in the ocean originates from inland areas and not from beach-goers and is washed down to the ocean through storm drains and waterways. Even though the water from homes goes through sewer treatment to be treated, the trash, runoff, and debris along streets and outdoor areas that enters the storm drain system travels untreated to waterways beaches and the ocean. Ocean polluntants threatens and endangers wildlife, threatens human health and quality of life.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01630322cc6c970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01630322cc6c970d.jpg" %}
 <p style="text-align: justify;">Thus, we walked around downtown San Diego stenciling the signs on the curbs next to storm drains using our painting kits. In the beginning we actually used too much paint onto the stencil but we learned that we had to dab for the letters to come out more clearly.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01630322cd26970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01630322cd26970d.jpg" %}
 <p style="text-align: justify;">  Today, we gained perspective of how the environment provides invaluable resources for us. Therefore, it is our duty to not only be conscious of the impact of our own actions and protect the environment, but also make other people aware in preventing detrimental effects to our natural world.
 

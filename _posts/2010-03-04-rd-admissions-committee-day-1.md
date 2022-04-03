@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a8f52c0b970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a8f52c0b970b.jpg
 title: RD Admissions Committee
 categories: [academics]
 status: Publish
@@ -18,4 +18,4 @@ Today was difficult and mentally taxing on all of us...since it gets very diffic
 Nonetheless, we were very productive today and we'll probably wrap up a bit early tomorrow during Day 2 if we continue at the rate we're going. 
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a8f529e2970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a8f529e2970b.jpg" %}

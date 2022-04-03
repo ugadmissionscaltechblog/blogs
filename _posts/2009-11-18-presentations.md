@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dan Obenshain
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b012875ae8b15970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b012875ae8b15970c.jpg
 title: Presentations
 categories: [research]
 status: Publish
@@ -17,10 +17,10 @@ My mentor was one of the keynote speakers. In the middle of his presentation, he
 Our poster was a little big for their easels, so it hung off the sides. We had to watch it carefully to make sure it didn't fall over!
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b012875ae8b54970c.jpg" %}Our presentation required three laptops. The organizers were astonished! We got our own table.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b012875ae8b54970c.jpg" %}Our presentation required three laptops. The organizers were astonished! We got our own table.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a6ac37a2970b.jpg" %}Several of the Caltech professors presented their current research. In addition to Mani Chandy (my mentor), Steven Low, Adam Weirman (who is currently running the <a href="https://rankmaniac2010.blogspot.com/" title="RankManiac 2010 contest for CS 144">RankManiac 2010</a> <a href="https://rankmaniac2010.org">contest </a>in his CS 144 class), and Andreas Krause all talked about what they were currently working on.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a6ac37a2970b.jpg" %}Several of the Caltech professors presented their current research. In addition to Mani Chandy (my mentor), Steven Low, Adam Weirman (who is currently running the <a href="https://rankmaniac2010.blogspot.com/" title="RankManiac 2010 contest for CS 144">RankManiac 2010</a> <a href="https://rankmaniac2010.org">contest </a>in his CS 144 class), and Andreas Krause all talked about what they were currently working on.
 
 In addition to the SmartGrid symposium, I got to do three on-campus presentations. My mentor arranged for me to present to the Rigorous Systems Research Group, which is composed of several of the CS professors and graduate students. They asked quite a few probing questions, which kept us on our toes! They also had some good suggestions.
 
@@ -30,7 +30,7 @@ Lastly, I presented at SURF seminar day. I was really pleased to see that my spo
 
 Whew! That's a lot of presentations!
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a6ac37a2970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a6ac37a2970b.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b012875ae8b54970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b012875ae8b54970c.jpg" %}
 

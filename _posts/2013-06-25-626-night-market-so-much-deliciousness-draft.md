@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Debbie
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01901dcba091970b-320wi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01901dcba091970b-320wi.jpg
 title: 626 Night Market - so much deliciousness 
 categories: [culture]
 status: Publish
@@ -13,4 +13,4 @@ On June 8-9th, there was an event in Pasadena called the <a href="https://www.62
 It would be a bit image heavy if I included all the pictures here, so I complied a few into a GIF below:
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019103c27a45970c.gif" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019103c27a45970c.gif" %}

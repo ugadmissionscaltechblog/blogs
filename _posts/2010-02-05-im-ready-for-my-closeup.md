@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0120a867c737970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a867c737970b.jpg
 title: I'm ready for my close-up!
 categories: [research]
 status: Publish
@@ -16,4 +16,4 @@ Well--I did make my official debut on TV last year, when I got casted---as the C
 Here are few pictures I snapped as I walked by the Ath....
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0128776a1aa6970c.jpg" %}All right--gotta go enjoy the weekend...see you guys next week!
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0128776a1aa6970c.jpg" %}All right--gotta go enjoy the weekend...see you guys next week!

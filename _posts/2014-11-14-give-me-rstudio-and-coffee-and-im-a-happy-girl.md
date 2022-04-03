@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c702e04c970b.png
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c702e04c970b.png
 title: Give me RStudio and coffee and I'm a happy girl. 
 categories: [research]
 status: Publish
@@ -23,7 +23,7 @@ Anyway, I saw a headline a few weeks ago on the Wall Street Journal's website, t
 
 I scraped some Ebola case reporting data from Wikipedia (taken originally from the WHO), and used the "quantmod" and "shiny" R packages to create a Shiny webapp that compares stock prices for various stock and index symbols to the number of reported Ebola cases in West Africa on the same dates. I'm having some trouble plotting both lines on the same plot, so this is a rudimentary comparison. It'll look much better when I can figure out how to cleanly plot both data sets on the same plot, with two different Y axes. Also, I've got a weird bug where my Ebola cases plot is plotting the first data point at the end of the X axis, but the rest of the points in the correct order (I am using the "ggplot2" package). Anybody know how I did that? Brownie points if you comment with a solution!
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c702eb5b970b.png" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c702eb5b970b.png" %}
 You can check out my webapp here:<a href="https://techgrrrl.shinyapps.io/EbolavsStocks/" target="_blank">https://techgrrrl.shinyapps.io/EbolavsStocks/</a>
 
 Some cool patterns: The DOW index took a tumble around October 13th, and hasn't fully recovered, which is suspiciously also when the NBI (NASDAQ Biotechnologies Index) started to soar. This is about the time period when the total recorded cases of Ebola in West Africa hit 10,000.

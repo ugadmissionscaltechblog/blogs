@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ketaki Panse
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017eea91fc65970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017eea91fc65970d.jpg
 title: Pre-frosh Weekend's SURF Panel 
 categories: [research]
 status: Publish
@@ -61,7 +61,7 @@ comfortable just asking within the department.
 **
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b017d431d9ff3970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d431d9ff3970c.jpg" %}
 **How did you go about finding a SURF?**
 
 I knew I wanted to work in Professor Harry Gray's lab so I contacted him via email, discussed potential projects in person, and picked a project that interested me! When I was new in lab as a sophomore, the opportunity to 

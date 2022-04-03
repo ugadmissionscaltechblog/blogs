@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01bb09c19e42970d-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09c19e42970d-pi.jpg
 title: From Canyon to Peak
 categories: [research]
 status: Publish
@@ -24,20 +24,20 @@ date: 2017-09-22
  That day, we enjoyed two hot meals, one for lunch and one for dinner. Afterwards, we went right to sleep, as we were planning to get up at 4:30 AM.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01b7c91e68d0970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b7c91e68d0970b" id="caption-xid-6a01b8d28f2955970c01b7c91e68d0970b">The view of Death Valley below us after we climbed up 700 ft in .8 miles.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b7c91e68d0970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b7c91e68d0970b" id="caption-xid-6a01b8d28f2955970c01b7c91e68d0970b">The view of Death Valley below us after we climbed up 700 ft in .8 miles.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01b8d2a8d00e970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b8d2a8d00e970c" id="caption-xid-6a01b8d28f2955970c01b8d2a8d00e970c">The horses!
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d2a8d00e970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b8d2a8d00e970c" id="caption-xid-6a01b8d28f2955970c01b8d2a8d00e970c">The horses!
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01b7c91e68e4970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b7c91e68e4970b" id="caption-xid-6a01b8d28f2955970c01b7c91e68e4970b">Selfie with some snow :)
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b7c91e68e4970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b7c91e68e4970b" id="caption-xid-6a01b8d28f2955970c01b7c91e68e4970b">Selfie with some snow :)
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01b8d2a8d026970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b8d2a8d026970c" id="caption-xid-6a01b8d28f2955970c01b8d2a8d026970c">A little marmot on the snow!
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d2a8d026970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b8d2a8d026970c" id="caption-xid-6a01b8d28f2955970c01b8d2a8d026970c">A little marmot on the snow!
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01bb09c19eb5970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09c19eb5970d" id="caption-xid-6a01b8d28f2955970c01bb09c19eb5970d">The view from our campsite.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09c19eb5970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09c19eb5970d" id="caption-xid-6a01b8d28f2955970c01bb09c19eb5970d">The view from our campsite.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01b8d28f2955970c01b8d2a8d075970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b8d2a8d075970c" id="caption-xid-6a01b8d28f2955970c01b8d2a8d075970c">Relaxing on a rock with my feet in the water.
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d2a8d075970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b8d2a8d075970c" id="caption-xid-6a01b8d28f2955970c01b8d2a8d075970c">Relaxing on a rock with my feet in the water.
 

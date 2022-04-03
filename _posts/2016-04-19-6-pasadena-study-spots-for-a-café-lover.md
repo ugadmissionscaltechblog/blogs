@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1c5858b970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1c5858b970c.jpg
 title: 5 Pasadena Study Spots for a Café Lover
 categories: [culture]
 status: Publish
@@ -25,16 +25,16 @@ Campus is small, and while I appreciate the close community, some days I seek to
 <p style="padding-left: 30px;">I didn't look into it much before going and was surprised by the intense motorcycle theme. Never thought I could have a three-hour conversation with a good friend surrounded by a motorcycle, TVs playing motorcycle races, and stands selling motorcycle products. There wasn't a lot of traffic on a Friday morning, and that was just perfect. Also, their apple pie in a cup (pictured) was quite unique.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01a73d94d1a8970d01bb08df6896970d-pi.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73d94d1a8970d01bb08df6896970d-pi.jpg" %}
 <span style="font-family: arial, helvetica, sans-serif; color: #bc6f95;">**<a href="https://www.homebrewedbar.com/" style="color: #bc6f95;" target="_blank">Home Brewed Bar</a>**
 <p style="padding-left: 30px;">On <span style="color: #bc6f95;"><a href="https://www.yelp.com/biz/home-brewed-bar-pasadena" style="color: #bc6f95;" target="_blank">Yelp</a>. A 10 minbus ride, maybe. Not a lot of food optionsand no bathroom.
 
 <p style="padding-left: 30px;">I enjoyed the environment. It's a small place tucked up a short walk from Colorado. If you're lucky, the tables might be empty, and you could easily spend an afternoon there working. The coffee wasn't super fancy, but was simply tasty.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01a73d94d1a8970d01bb08df69a3970d-pi.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73d94d1a8970d01bb08df69a3970d-pi.jpg" %}
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c83b5d47970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c83b5d47970b.jpg" %}
 <span style="font-family: arial, helvetica, sans-serif; color: #bc6f95;">**<a href="https://www.intelligentsiacoffee.com/" style="color: #bc6f95;">Intelligentsia</a>**
 <p style="padding-left: 30px;">On <span style="color: #bc6f95;"><a href="https://www.yelp.com/biz/intelligentsia-coffee-pasadena" style="color: #bc6f95;" target="_blank">Yelp</a>. A 7 min bus ride. A good study spot... but not for working on your laptop (no outlets).
 

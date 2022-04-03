@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a511c9ac5a970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511c9ac5a970c.jpg
 title: Camping and Laguna Beach
 categories: [research]
 status: Publish
@@ -19,21 +19,21 @@ Group photo from the morning after. We survived!
 
 In the morning, we packed up and headed out to Laguna Beach:
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a511c9aebb970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511c9aebb970c.jpg" %}
 Oh yes. California. (8
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a73dd4f8bd970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dd4f8bd970d.jpg" %}
 Where, of course, selfies were a necessity.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd1a357c970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd1a357c970b.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a511cf1197970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511cf1197970c.jpg" %}
 We also played frisbee...
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01a3fd1f8f4c970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd1f8f4c970b.jpg" %}
 And may or may not have napped a little.
 
 I couldn't get pictures because I was too busy falling, but I also learned (in its loosest definition) to paddleboard! Paddleboarding is basically standing on a surf board (but sturdier) and paddling (through the seaweed). It takes a lot of balance, which apparently I lack. (: It was a great experience, though, and we got to see some sea lions camped out on a rock. A little sea lion swam out and stuck a flipper out of the water as if it were waving at us. Apparently, that's how it's taught to sleep so Mama Sea Lion can find it again, and it was just showing off its new skills. You go, Glen Coco.

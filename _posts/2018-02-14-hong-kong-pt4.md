@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb09a3c88f970d01b8d2d853f3970c-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d01b8d2d853f3970c-pi.jpg
 title: Hong Kong pt4
 categories: [global]
 status: Publish

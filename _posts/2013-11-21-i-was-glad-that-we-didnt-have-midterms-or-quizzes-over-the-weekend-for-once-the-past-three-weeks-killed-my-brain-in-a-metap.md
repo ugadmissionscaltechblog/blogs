@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anita
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019b014fec55970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b014fec55970b.jpg
 title: Soul Food
 categories: [research]
 status: Publish
@@ -23,25 +23,25 @@ Tomato
 (and egg)
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019b014fee9a970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b014fee9a970b.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019b014fefad970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b014fefad970b.jpg" %}
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019b01506ec5970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b01506ec5970d.jpg" %}
 Simmered tomato (hence why we needed a pot with a lid)
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019b01507124970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b01507124970d.jpg" %}
 Tomato+egg
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019b01507238970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b01507238970d.jpg" %}
 Finished product
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b019b0150b122970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b0150b122970d.jpg" %}
 Yuka taught me to make those triangular Japanese riceballs with the leftover rice, the most intriguing step of which was rubbing my hands with salt and water, much in the way I imagine people buttering their hands during baking. Before we knew it, it was 1 pm and I had to leave for my piano trio rehearsal. The three of us had managed to gobble down 3 cups of rice and use up two hours on food. But it was a taste of home that none of us had had in a very long time, and I believe that it made all of us more efficient and light-hearted when we went to tackle homework afterward.
 
 *Endnote: We actually didn't spend all the time after that doing homework. There was also the Caltech Occidental Orchestra concert that afternoon and the Diwali Festival in the evening. All in all, I'd say of this weekend: Less work than I would have wanted to finish, more fun than I've had in a long, long time! It translates into more productivity during the week anyway!

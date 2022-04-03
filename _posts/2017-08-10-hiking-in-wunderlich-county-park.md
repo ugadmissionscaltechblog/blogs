@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb09a3c88f970d01b8d296bc87970c-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d01b8d296bc87970c-pi.jpg
 title: Hiking in Wunderlich County Park
 categories: [research]
 status: Publish
@@ -13,4 +13,4 @@ We hiked 5 miles through wooded areas, although the trail was not always shaded.
 
 Even though it was really hot outside, I still enjoyed hiking with everyone. I would definitely do it again - but hopefully we would choose a cooler day!
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d296bc8e970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d296bc8e970c.jpg" %}

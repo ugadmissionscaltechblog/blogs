@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anita
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d1d014c1970c.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1d014c1970c.jpg
 title: Easter Eggs and Tamagoyaki
 categories: [global]
 status: Publish
@@ -22,7 +22,7 @@ I boiled a pot of water and began mixing the dyes. In each cup went some hot wat
 Figure 1. Easter egg bucket. Solid-colored eggs, mushroom polka dots, stripes, and striped hearts!
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c845d260970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c845d260970b.jpg" %}
 Figure 2. Tamagoyaki. (Unfortunately sideways...couldn't find the rotate button for some reason.)
 Eggs turned out quite well. And the tamagoyaki was delicious. And people enjoyed blowing out raw eggs more than I expected! This is one alley event idea I'm definitely keeping.
 

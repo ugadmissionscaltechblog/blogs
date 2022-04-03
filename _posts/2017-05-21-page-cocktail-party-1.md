@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb08213082970d01b7c8f79260970b-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8f79260970b-pi.jpg
 title: Page Cocktail Party
 categories: [culture]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jordan Theriot
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b010536b2f67d970b-500wi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b010536b2f67d970b-500wi.jpg
 title: View from the Driver's Seat
 categories: [research]
 status: Publish

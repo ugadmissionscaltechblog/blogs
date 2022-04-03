@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yang Hu
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01538f8cafc2970b-800wi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01538f8cafc2970b-800wi.jpg
 title: For Prospective Caltech Pre-meds (and everyone else)
 categories: [research]
 status: Publish

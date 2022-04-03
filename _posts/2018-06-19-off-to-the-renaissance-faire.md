@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb09a3c88f970d0224df3616ae200b-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d0224df3616ae200b-pi.jpg
 title: Off to the Renaissance Faire!
 categories: [local]
 status: Publish
@@ -16,4 +16,4 @@ Getting there was both easy and incredibly difficult at the same time. It’s on
 After getting to the front of the line of cars, we finally figured out what the hold-up was: although there was plenty of parking in the recreation area, they only had 3 people taking payment for parking. This situation probably happens every weekend (and every year) as well. It seemed like they knew it would happen, with the number of traffic policemen we saw on our way in. It’s unfortunate that there doesn’t seem to be a solution to the problem.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b0223c84e5f2e200c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0223c84e5f2e200c.jpg" %}

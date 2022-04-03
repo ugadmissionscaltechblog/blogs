@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a01bb09a3c88f970d0223c844d6f2200c-pi.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d0223c844d6f2200c-pi.jpg
 title: A Story of Formal Finery
 categories: [culture]
 status: Publish

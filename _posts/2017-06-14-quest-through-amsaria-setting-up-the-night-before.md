@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anita
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09a380a6970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09a380a6970d.jpg
 title: Quest Through Amsaria
 categories: [culture]
 status: Publish
@@ -13,32 +13,32 @@ My cough and allergies were hitting hardcore on May 25th, the night before Ditch
 We hurried back to be at dinner, which was packed with twice its usual capacity because of all of the alumni who came back. Dinner also lasts three times its usual length because the seniors stand up to tell various frosh stories--ostensibly, funny stories of mishaps that happened in our freshman year; in practicality, funny stories that happened to us throughout our entire time. Here is Bolton standing up to tell the first frosh story of the night about needing to use the restroom in the movie theater during "Guardians of the Galaxy":
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09a380ad970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09a380ad970d.jpg" %}
 After dinner, our team of five packed our eight alumni into a room to explain their roles for Tomorrow. In addition to being merchants, they would also be an assortment of guides, trolls, and castle owners hosting a tournament. It was the first time all of them had been back together since they graduated almost a full year ago, so it made for a merry party among all of the hectic Ditch Day preparations:
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c90072a0970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c90072a0970b.jpg" %}
 The night wore on. The underclassmen went to bed at the settled curfew, 11 p.m. Anjali and Eric cut strips of black plastic to make a maze in her room. Mugdha and Bolton typed up our clues and directions. I wrote out the prophecy on the puzzle pieces, Eric pumped up 50 balloons for breaking into Mugdha's room, Bolton sorted through his math and philosophy books to come up with a puzzle for breaking into his. My room was the only one left untouched since my roommate is only a junior. In the meantime, I prepared and baked apple cake and banana bread.
 
 Marinating apples in sugar and lemon juice:
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09a380c5970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09a380c5970d.jpg" %}
 Pre-baking apple cake:
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d28a9882970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d28a9882970c.jpg" %}
 The finished banana bread (top) and apple cake (bottom) at 4 a.m.:
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d28a988a970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d28a988a970c.jpg" %}
 Bolton and Mugdha printed blurbs for each identity in the murder mystery and packaged them into envelopes. Anjali continued to make fur belts. Eric made cardboard cutouts of dragons for our final battle. I folded and arranged all of our shirts by size by our wallboard. Around us, Sasha on the Tin-Tin stack was frantically trying to get his soldering to work, Vivian on the Harry Potter stack was organizing scarves for their costumes, Henry on the Calvin and Hobbes stack was carrying items to and fro.
 
 It got light outside, and the alumni began to wake up and come in to help. Someone has to get pick up 9 dozen bagels from Einstein. Someone has to do the wake-up calls for the off-campus stackees who requested it. Where do you get the handheld vacuum to clean up the spilled plaster in the hallway? Hey Anjali, can I move your Scotch tape and puzzle pieces? We're trying to move the couch out of the way so people won't trip. Oh, three sophomores need to use the restroom; can someone guide them while their eyes are closed?
 Anjali, Eric, Mugdha and I hadn't slept a wink by 6 a.m. The latter two and I went outside to set up the jousting and the dragon and the town market. It was nice to get away from the hubbub of the House, but also just plain exhausting. We're half-smiling in the early morning light in the picture below, carrying the balloons and trifolds and cardboard dragons.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b8d28a9895970c.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d28a9895970c.jpg" %}
 Back into the House. Can someone get Anjali her cell phone? She's now trapped in Mugdha's room downstairs because the balloons are attached to the door. Does Bolton need help blockading his doorway with drawers and chairs?
 7 a.m.... 7:15...
 

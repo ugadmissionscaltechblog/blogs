@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb09c8b493970d.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09c8b493970d.jpg
 title: Blacker Rotation Dinners
 categories: [culture]
 status: Publish
@@ -17,4 +17,4 @@ Blacker has a waited dinner, so you'll always see waiters frantically navigating
 During rotation, dumps are done execution style, so all the upperclassmen who have broken rules - or had their prefrosh break the rules - line up on the steps to be hosed down for their wrong-doing. Afterwards, there are a couple of events in Blacker courtyard, as well as a showcase of the things that some people in the house have made during their time here.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c9259cb9970b.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9259cb9970b.jpg" %}

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01b7c6fb834c970b.jpg
+image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6fb834c970b.jpg
 title: Day Off Means Going Off Campus 
 categories: [clubs]
 status: Publish
@@ -15,13 +15,13 @@ I have a bad habit of always ordering the same items at my favorite restaurants.
 1. Small Honey Vanilla Latte with almond milk.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/6a0105349b8251970b01bb07a0b821970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01bb07a0b821970d.jpg" %}
 <span style="font-size: 10pt;">Pictured: Honey Vanilla latte. Super sweet, super tasty.
 
 2. Caramelized banana bread pudding.
 
 
-{% include image.html img="https://d31japmlpdv3k4.cloudfront.net/old_pictures/caltech_as_it_happens/6a0105349b8251970b01bb07a0b8f8970d.jpg" %}
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07a0b8f8970d.jpg" %}
 
 This is not necessarily a bad thing: these two make for an amazing brunch. But I have a feeling that if I expanded my horizons, I could discover new, amazing things.
 
