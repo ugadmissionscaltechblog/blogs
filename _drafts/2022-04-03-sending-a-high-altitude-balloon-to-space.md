@@ -15,7 +15,7 @@ This past term, I took [EE154a: Practical Electronics for Space Applications](ht
 
 After learning how different components worked and how we could test them in a thermal vacuum chamber, we were tasked with building payloads to send into space and figuring out how to send them into space using a balloon. Essentially, we took a big balloon, filled it with helium, and then attached a string of small boxes (our payloads) to the balloon to send the payloads into space. As the balloon rises, the gas inside expands, and at some point (around 80k feet in altitude) the balloon pops. Then, the payloads fall back to Earth with a parachute and we go recover our payloads out in the desert.
 
-[https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-balloon_with_paylods.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-balloon_with_paylods.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-balloon_with_paylods.JPG")
+![https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-balloon_with_paylods.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-balloon_with_paylods.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-balloon_with_paylods.JPG")
 
 For this task, the entire class of 25 students became one team. We organized ourselves into different subteams, all led by one Project Manager. I took on the role of a Ground Logistics Manager, which meant that I reported directly to our Project Manager and managed three different teams dealing with what we called “ground logistics.” Those teams were Flight Planning, Launch Coordination, and Tracking & Recovery, which I will talk more about below. It was really neat to be on the management side of the project and see everything come together, but that also meant that I spent a lot of time working on everything and ensuring that we were ready for flight. And, because this is a Caletch course, it moves fast! We had less than two weeks to prepare all of the ground logistics aspects of the flight, and I’d estimate that I spent at least 30 hours working on the HAB launch during the week of launch (including the launch itself). Considering I had a full course load of other classes too, that’s pretty intense. But, it was definitely worth it and I really enjoyed the experience.
 
@@ -29,7 +29,7 @@ Also, here is a map that shows where we launched from (near Lancaster, CA) and w
 
 Launch Coordination was responsible for the launch of the HAB on launch day; they wrote detailed step-by-step procedures on all the actions that needed to be done to get the balloon up into the air. For example, one step was to use water bottles as weights to test the lift force that the balloon provides before actually attaching payloads and releasing the balloon, shown here:
 
-[https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-launch_prep.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-launch_prep.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-launch_prep.JPG")
+![https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-launch_prep.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-launch_prep.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-launch_prep.JPG")
 
 They did a great job of making sure everything worked, and all of the components of our system were looked over by multiple people to ensure success. We left Caltech campus around 5:00am to get to the launch site, and at around 8am, we successfully launched!
 
@@ -39,13 +39,13 @@ They did a great job of making sure everything worked, and all of the components
 
 Tracking & Recovery managed the tracking equipment, which was done using ham radios and APRS (Automatic Packet Reporting System). In real time, they told us where the balloon was headed, and organized recovery of the payloads at the end of the flight. We had planned the flight path so the payloads would land in the desert, away from populated areas, so here’s a picture that I like of my car in the desert when we were searching for the payloads.
 
-[https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-car_desert.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-car_desert.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-car_desert.JPG")
+![https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-car_desert.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-car_desert.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-car_desert.JPG")
 
 Unfortunately, my group wasn’t the one to find the payloads on the ground. In fact, our professor beat everyone to it! But, he took some nice pictures of the payloads after they had landed:
 
-[https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-landing.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-landing.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-landing.JPG")
+![https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-landing.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-landing.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-landing.JPG")
 
-[https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-payload_recovery.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-payload_recovery.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-payload_recovery.JPG")
+![https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-payload_recovery.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-payload_recovery.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/Optimized-payload_recovery.JPG")
 
 Overall, the HAB launch was a super fun time. After the payloads had been recovered, we were all super tired and hungry, so we stopped by a cafe in Victorville and got some delicious food. I got a burger called the “Brian Burger” and it was absolutely amazing. Yup, that’s parmesan-crusted bread that you see there.
 
