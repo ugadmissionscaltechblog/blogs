@@ -1,6 +1,6 @@
 ---
 layout: post
-image: ''
+image: https://d24slhcvzhzz82.cloudfront.net/images/2022/leah/2nd.jpg
 tags: []
 title: Tutoring at Caltech
 author: Leah Griffith
