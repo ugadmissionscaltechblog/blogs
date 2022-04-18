@@ -19,7 +19,7 @@ If we zoom into the main desk area, you can see another one of my blog posts ope
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/computer.jpg)
 
-Next, the shelf above my desk houses miscellaneous things. Right now, I have a bag of masks, my San Diego Comic Con badge, a fancy watch from my grandparents, a lamp, and a sheet of Pokemon silhouettes. The Pokemon are for a game I organize on the whiteboard outside my room where I put up a new Pokemon every day and people write down the name (or give it a fake name). I’ll probably make that into a blog post at the end of the academic year too!
+Next, the shelf above my desk houses miscellaneous things. Right now, I have a bag of masks, my San Diego Comic Con badge, a fancy watch from my grandparents, a lamp, some keychains, and a sheet of Pokemon silhouettes. The Pokemon are for a game I organize on the whiteboard outside my room where I put up a new Pokemon every day and people write down the name (or give it a fake name). I’ll probably make that into a blog post at the end of the academic year too!
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/middle_shelf.jpg)
 
