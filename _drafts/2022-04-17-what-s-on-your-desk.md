@@ -37,8 +37,21 @@ Behind that on the wall, I have a big Star Wars poster that was gifted to me by 
 
 You probably noticed the right half of a large Indiana Jones movie poster in the prior image. I also have more posters on the wall next to my desk, shown below. The Indiana Jones poster was gifted to me by another alum, like the Star Wars poster. Both posters are items that are passed down through my house, so I will pass them on when I graduate as well. I also have a “rally towel” that I got from a Warriors game I went to. And below that, I have a poster of the people in my dorm alley (go Alley 3!) that is themed like the Avengers: Endgame movie poster.
 
-[https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/posters2.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/posters2.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/posters2.JPG")
+![https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/posters2.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/posters2.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/posters2.JPG")
 
 For the last pieces of decoration, I have some things on the shelf next to my desk, such as a Warriors hat, JPL hat, and JPL swag box. Then, I have a map of Caltech that was made on a printed circuit board (PCB) that was gifted to me by an alum. I also have a photo album of my family and a paint by numbers picture of my girlfriend and me.
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/side_shelf.jpg)
+
+Now that we’ve seen what’s around the desk, I’ll show you what’s inside. The wide drawer on the front is a shallow drawer that I use to hold my internship laptop.
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/laptop_drawer.jpg)
+
+The top two side drawers I use to hold miscellaneous supplies like pencils, pens, scissors, and other school supplies. They’re kind of messy right now, so I will spare you all the view inside.
+
+  
+Lastly, the bottom drawer is larger than the top two, and it houses my prized possession: my Warriors hat signed by Draymond Green (see: [https://caltechadmissions.blog/the-golden-state-warriors-visit-caltech/](https://caltechadmissions.blog/the-golden-state-warriors-visit-caltech/ "https://caltechadmissions.blog/the-golden-state-warriors-visit-caltech/")).
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/tyler/bottom_drawer.jpg)
+
+That’s pretty much it! I hope you all enjoyed it. I think writing this blog post made me realize I like Star Wars too much. And, I need to clean out my desk drawers…
