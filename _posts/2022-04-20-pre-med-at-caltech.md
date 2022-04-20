@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/
+image: https://d24slhcvzhzz82.cloudfront.net/images/2022/jen/molecules.jpeg
 tags: []
 title: Pre-med at Caltech
 author: Jen Yu
