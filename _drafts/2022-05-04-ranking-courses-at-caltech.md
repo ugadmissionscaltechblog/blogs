@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/
+image: https://d24slhcvzhzz82.cloudfront.net/images/2022/hannah/IMG_1804%202.jpeg
 tags: []
 title: Ranking Courses at Caltech
 author: Hannah Grauer
@@ -9,7 +9,6 @@ categories:
 date: 2022-05-04 07:00:00 +0000
 
 ---
-
 Below I have ranked all of the classes I took over 8 terms at Caltech. I ranked based on my overall enjoyment of the course, which depended on my interest in the subject, the quality of course, and the various topics/projects covered. The courses in the middle I did not have strong feelings for and had a hard time justifying their position besides gut feeling, so I did not provide reasoning for those.
 
 1. ACM095A Introductory Methods of Applied Mathematics for the Physical Sciences
@@ -26,11 +25,7 @@ The professor is a great lecturer, who really takes the time to explain theoreti
 
 4. ACM/IDS 104 Applied Linear Algebra
 
-Taught by my favorite professor, this class really shows you a lot of applications of linear
-
-algebra that makes you confident in your ability to apply it. One of the sets had you
-
-implement the page rank algorithm that google uses to order search results!
+Taught by my favorite professor, this class really shows you a lot of applications of linear algebra that makes you confident in your ability to apply it. One of the sets had you implement the page rank algorithm that google uses to order search results!
 
 5. EE 111 Signal Processing Systems and Transforms
 
@@ -72,8 +67,12 @@ A really good introduction to Python with easy to understand assignments and tea
 
 The best part of the class was the final project, where you researched a climate policy. I did mine on ocean fertilization, which I never even knew was a thing until this class.
 
-14. EE 112 Introduction to Signal Processing from Data
-15. EE 045 Electronics Systems and Laboratory
+14. EE 045 Electronics Systems and Laboratory
+
+    My favorite part was the final project were my partner and I made a music tuner! So it would tell you wether or not the sound was a certain frequency.  Below is part of my breadboard design for the project:
+
+    ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/hannah/IMG_1804%202.jpeg)
+15. EE 112 Introduction to Signal Processing from Data
 16. Ph 002C Waves, Quantum Mechanics, and Statistical Physics
 17. Ma 001C (analytical track) Calculus of One and Several Variables and Linear Algebra
 18. SA 081A Peer Advocates
