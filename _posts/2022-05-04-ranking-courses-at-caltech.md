@@ -51,73 +51,73 @@ society. It was also fascinating to see how music evolved from simple Gregorian 
 
 to compositions of Bach.
 
-10. EE/CS 010A Introduction to Digital Logic and Embedded Systems
+10\. EE/CS 010A Introduction to Digital Logic and Embedded Systems
 
 Incredibly challenging but we built our own CPU which was incredibly rewarding.
 
-11. Ma 002 Differential Equations
+11\. Ma 002 Differential Equations
 
 I just like applied math classes, and the professor was amazing for this class.
 
-12. CS 001 Introduction to Computer Programming
+12\. CS 001 Introduction to Computer Programming
 
 A really good introduction to Python with easy to understand assignments and teaches you the basics of Python as well as programming in general. We had to create a rubiks cube which ended up being really cool.
 
-13. ESE 001 Earth’s Climate
+13\. ESE 001 Earth’s Climate
 
 The best part of the class was the final project, where you researched a climate policy. I did mine on ocean fertilization, which I never even knew was a thing until this class.
 
-14. EE 045 Electronics Systems and Laboratory
+14\. EE 045 Electronics Systems and Laboratory
 
-    My favorite part was the final project were my partner and I made a music tuner! So it would tell you wether or not the sound was a certain frequency.  Below is part of my breadboard design for the project:
+My favorite part was the final project were my partner and I made a music tuner! So it would tell you wether or not the sound was a certain frequency.  Below is part of my breadboard design for the project:
 
-    ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/hannah/IMG_1804%202.jpeg)
-15. EE 112 Introduction to Signal Processing from Data
-16. Ph 002C Waves, Quantum Mechanics, and Statistical Physics
-17. Ma 001C (analytical track) Calculus of One and Several Variables and Linear Algebra
-18. SA 081A Peer Advocates
-19. Ph 002B Waves, Quantum Mechanics, and Statistical Physics
-20. APh/EE 09A Solid-State Electronics for Integrated Circuits
-21. ACM/EE/IDS 116 Introduction to Probability Models
-22. EE/CS 010B Introduction to Digital Logic and Embedded Systems
-23. Ph 001C (practical track) Classical Mechanics and Electromagnetism
-24. Ph 001B (practical track) Classical Mechanics and Electromagnetism
-25. Mu 139 History III: Music History from 1850 to the Present
-26. Ch 003X Experimental Methods in Solar Energy
-27. Ma 001A Calculus of One and Several Variables and Linear Algebra
-28. EE 040 Physics of Electrical Engineering
-29. ACM095B Introductory Methods of Applied Mathematics for the Physical Sciences
-30. PE 070 Weight Training, Beginning/Intermediate
-31. Ph 001A Classical Mechanics and Electromagnetism
-32. EE 002 Electrical Engineering Entrepreneurial and Research Seminar
-33. Hum/H 009B European Civilization: Early Modern Europe
-34. Ph 002A Waves, Quantum Mechanics, and Statistical Physics
-35. Ma003 Introduction to Probability and Statistics
-36. PS 012 Introduction to Political Science
-37. Ec 011 Introduction to Economics
+ 1. ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/hannah/IMG_1804%202.jpeg)
+ 2. EE 112 Introduction to Signal Processing from Data
+ 3. Ph 002C Waves, Quantum Mechanics, and Statistical Physics
+ 4. Ma 001C (analytical track) Calculus of One and Several Variables and Linear Algebra
+ 5. SA 081A Peer Advocates
+ 6. Ph 002B Waves, Quantum Mechanics, and Statistical Physics
+ 7. APh/EE 09A Solid-State Electronics for Integrated Circuits
+ 8. ACM/EE/IDS 116 Introduction to Probability Models
+ 9. EE/CS 010B Introduction to Digital Logic and Embedded Systems
+10. Ph 001C (practical track) Classical Mechanics and Electromagnetism
+11. Ph 001B (practical track) Classical Mechanics and Electromagnetism
+12. Mu 139 History III: Music History from 1850 to the Present
+13. Ch 003X Experimental Methods in Solar Energy
+14. Ma 001A Calculus of One and Several Variables and Linear Algebra
+15. EE 040 Physics of Electrical Engineering
+16. ACM095B Introductory Methods of Applied Mathematics for the Physical Sciences
+17. PE 070 Weight Training, Beginning/Intermediate
+18. Ph 001A Classical Mechanics and Electromagnetism
+19. EE 002 Electrical Engineering Entrepreneurial and Research Seminar
+20. Hum/H 009B European Civilization: Early Modern Europe
+21. Ph 002A Waves, Quantum Mechanics, and Statistical Physics
+22. Ma003 Introduction to Probability and Statistics
+23. PS 012 Introduction to Political Science
+24. Ec 011 Introduction to Economics
 
 Economics is boring, there are so many cool science classes that are just a lot more fun to learn about.
 
-38. BEM 103 Introduction to Finance
+1. BEM 103 Introduction to Finance
 
 Finance is boring, there are so many cool science classes that are just a lot more fun to learn about.
 
-39. CS 002 Introduction to Programming Methods
+1. CS 002 Introduction to Programming Methods
 
 I think there are a lot more interesting classes than computer science classes, and found that the subject matter taught was not essential for other areas of CS.
 
-40. Wr 002 Introduction to Academic Writing
+1. Wr 002 Introduction to Academic Writing
 
 Really forced me to write a lot and become a better writer, but writing is not an enjoyable task for me.
 
-41. Ch 001A General Chemistry
+1. Ch 001A General Chemistry
 
 I just do not enjoy chemistry, it is my least favorite area in STEM.
 
-42. Ch 001B General Chemistry
+1. Ch 001B General Chemistry
 
 See above.
 
-43. EE 055 Mathematics of Electrical Engineering
+1. EE 055 Mathematics of Electrical Engineering
 
 I took this course the first time it was offered, so there were still some bumps to be figured out. The content, though, had a lot of potential and I know they are working on improving the class.
