@@ -2,7 +2,7 @@
 layout: post
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/emily/somisomi.png
 tags: []
-title: 'Emily''s 626/SGV Recs: Little Tokyo'
+title: 'Emily''s 626/SGV Recs #3: Little Tokyo'
 author: Emily Du
 categories:
 - culture
