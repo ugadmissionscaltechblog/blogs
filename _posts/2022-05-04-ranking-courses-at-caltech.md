@@ -11,39 +11,39 @@ date: 2022-05-04 07:00:00 +0000
 ---
 Below I have ranked all of the classes I took over 8 terms at Caltech. I ranked based on my overall enjoyment of the course, which depended on my interest in the subject, the quality of course, and the various topics/projects covered. The courses in the middle I did not have strong feelings for and had a hard time justifying their position besides gut feeling, so I did not provide reasoning for those.
 
-1. ACM095A Introductory Methods of Applied Mathematics for the Physical Sciences
+1\. ACM095A Introductory Methods of Applied Mathematics for the Physical Sciences
 
 The best professor, Kostia Zuev, the best content, the best mix between theory and application, just all around a fantastic class. You basically learn calculus in the imaginary realm, and how this can be used to solve differential equations.
 
-2. PE 010 Aerobic Dance
+2\. PE 010 Aerobic Dance
 
 A great, fun, stress relieving class that is perfect for taking with friends. It is basically a zumba class with a core workout at the end. It was cool to see my ability to hold a plank increase by a minute!
 
-3. EE/CS/IDS 160 Fundamentals of Information Transmission and Storage
+3\. EE/CS/IDS 160 Fundamentals of Information Transmission and Storage
 
 The professor is a great lecturer, who really takes the time to explain theoretical concepts in a plain language that is easy to understand. It is also a great introduction to information theory.
 
-4. ACM/IDS 104 Applied Linear Algebra
+4\. ACM/IDS 104 Applied Linear Algebra
 
 Taught by my favorite professor, this class really shows you a lot of applications of linear algebra that makes you confident in your ability to apply it. One of the sets had you implement the page rank algorithm that google uses to order search results!
 
-5. EE 111 Signal Processing Systems and Transforms
+5\. EE 111 Signal Processing Systems and Transforms
 
 A fundamental course that introduces you to discrete systems and the tools for understanding and transforming systems.
 
-6. EE 044 Deterministic Analysis of Systems and Circuits
+6\. EE 044 Deterministic Analysis of Systems and Circuits
 
 Amazing professor that was really engaging in class, and brought in a lot of real world examples. I took this class during the 2020 election and a problem in our midterm was trying to predict the winner of the election using convolution and Laplace transformations.
 
-7. Hum/PI 044 Philosophy Through Science Fiction
+7\. Hum/PI 044 Philosophy Through Science Fiction
 
 So cool and interesting. The professor is really great at connecting physics, philosophy, and various media and presents a lot of interesting scenarios that I had never considered before.
 
-8. Ma 001B (analytical track) Calculus of One and Several Variables and Linear Algebra
+8\. Ma 001B (analytical track) Calculus of One and Several Variables and Linear Algebra
 
 My favorite proof based class, it was really a great introduction to linear algebra.
 
-9. Mu 137 History I: Music History to 1750
+9\. Mu 137 History I: Music History to 1750
 
 Super interesting, I never realized how tied music is to government, architecture and
 
