@@ -73,7 +73,8 @@ My favorite part was the final project were my partner and I made a music tuner!
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/hannah/IMG_1804%202.jpeg)
 
-15. EE 112 Introduction to Signal Processing from Data
+15\.EE 112 Introduction to Signal Processing from Data
+
 16. Ph 002C Waves, Quantum Mechanics, and Statistical Physics
 17. Ma 001C (analytical track) Calculus of One and Several Variables and Linear Algebra
 18. SA 081A Peer Advocates
