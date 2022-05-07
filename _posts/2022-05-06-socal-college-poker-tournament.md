@@ -8,7 +8,7 @@ author: Hannah Grauer
 categories:
 - clubs
 - local
-date: 
+date: 2022-05-06 07:00:00 +0000
 
 ---
 On the weekend of April 16th, my friends and I participated in the first ever Southern California College Poker Tournament! The tournament was for college students in the SoCal area with a $0 buy-in that doubled as a recruiting event for quant and finance firms. A senior friend of mine (Vanessa, a fellow blogger) put together a team of five girls who had no interest in being recruited and just wanted to have fun playing poker.
