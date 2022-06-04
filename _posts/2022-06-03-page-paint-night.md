@@ -10,7 +10,7 @@ title: Page Paint Night
 author: Hannah Grauer
 categories:
 - clubs
-date: 
+date: 2022-06-03 07:00:00 +0000
 
 ---
 Every midterm week and final week, Page House Peer Advocates (PAs) put on a de-stressing event. This term for midterms, the PAs hosted a painting night in conjunction with a Page dessert night. (Every Thursday, the House gives $60 to a pageboy (a member of Page) to buy a bunch of dessert and snacks for the house for dessert night.). They provided canvases, paint brushes, and a variety of paint colors for the night. It was a really fun and relaxing time to stop working on sets or studying for midterms for a bit and hangout with friends.
