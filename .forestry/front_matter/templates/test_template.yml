@@ -30,6 +30,7 @@ fields:
 - type: datetime
   name: date
   label: date
+  default: now
 - name: image
   type: text
   config:
