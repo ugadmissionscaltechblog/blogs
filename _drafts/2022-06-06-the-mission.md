@@ -9,6 +9,9 @@ title: 'THE MISSION, or: How a Disciple of Bethany Ehlmann, a Former Desert Mili
   E-mail Tag with ASCIT, and Nearly Stranded Themselves in the Mojave Desert in order
   to Send a Bag of Peanuts to Space (A True Story).'
 author: Michael Gutierrez
-categories: []
+categories:
+- culture
+- clubs
 
 ---
+hello
