@@ -15,13 +15,11 @@ categories:
 ---
 _The sun is hot. The air is bone-dry. Frankly, it's amazing that we've made it this far into the middle of nowhere, and it's going to be even more amazing if we manage to make it back out._
 
-_In hindsight, it probably shouldn't have taken a flat tire to realize that what Google Maps called "Transmission Line Road" was very much not a road at all. But we've come so far, now only 2.5 miles from the (alleged) landing site after a wild goose chase across half of Southern California..._
+_In hindsight, it probably shouldn't have taken a flat tire to realize that what Google Maps called "Transmission Line Road" was very much not a road at all. We've come so far, now only 2.5 miles from the (alleged) landing site after a wild goose chase across half of Southern California..._
 
-_But_ [_the desert takes the weak._](https://twitter.com/secretsofdune/status/1425866472354631683)
+_But_ [_the desert takes the weak..._](https://twitter.com/secretsofdune/status/1425866472354631683)
 
-![Five students next to a pickup truck with a flat tire pulled to the side of a dirt road, in front of a desolate landscape with brown mountains in the distance.](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_565903071542655.jpeg "The desert takes the weak.")
-
-_(Left to right: Anti-Arson Activist, Subbasement Dweller #1, Disciple of Bethany Ehlmann, Luminous Plasma Scientist, Subbasement Dweller #2. Not pictured: Roblox's Newest Intern, Former Desert Militiaman)_
+![Five students next to a pickup truck with a flat tire pulled to the side of a dirt road, in front of a desolate landscape with brown mountains in the distance.](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_565903071542655.jpeg "The desert takes the weak.")_(Left to right: Anti-Arson Activist,_ [_Subbasement_](https://www.caltech.edu/about/news/nanofabrication-courses-axel-scherer-aph150) _Dweller #1, Disciple of_ [_Bethany Ehlmann_](http://www.ehlmann.caltech.edu/index.html)_, Luminous Plasma Scientist, Subbasement Dweller #2. Not pictured: Roblox's Newest Intern, Former Desert Militiaman)_
 
 But first, I'm afraid we haven't been properly introduced. (This is my first blog post -- hello!) I'm Michael Gutierrez ("Guutz")
 
