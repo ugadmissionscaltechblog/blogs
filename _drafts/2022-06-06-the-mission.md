@@ -22,6 +22,6 @@ _But_ [**_the desert takes the weak..._**](https://twitter.com/secretsofdune/sta
 
 ![Five students next to a pickup truck with a flat tire pulled to the side of a dirt road, in front of a desolate landscape with brown mountains in the distance.](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_565903071542655.jpeg "The desert takes the weak.")_(Left to right: Anti-Arson Activist,_ [**_Subbasement_**](https://www.caltech.edu/about/news/nanofabrication-courses-axel-scherer-aph150) _Dweller #1, Disciple of_ [**_Bethany Ehlmann_**](http://www.ehlmann.caltech.edu/index.html)_,_ [**_Luminous Plasma_**](https://www.nasa.gov/topics/universe/features/firefly.html) _Scientist, Subbasement Dweller #2. Not pictured: Roblox's Newest Intern, Former Desert Militiaman)_
 
-But first, I'm afraid we haven't been properly introduced. I'm Michael Gutierrez ("Guutz"), a first-year undergraduate studying Mechanical Engineering.
+Before we get to all that, I'm afraid we haven't been properly introduced. I'm Michael Gutierrez ("Guutz"), a first-year undergraduate studying Mechanical Engineering. (It's also my first blog post -- hello!)
 
 I joined Caltech's [**CubeSat Club**](https://smallsats.caltech.edu/) a few months ago. The club website makes it sound really impressive, but the missing context is that all of its pre-pandemic members had either graduated or left by the time
