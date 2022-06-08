@@ -24,4 +24,8 @@ _But_ [**_the desert takes the weak..._**](https://twitter.com/secretsofdune/sta
 
 Before we get to all that, I'm afraid we haven't been properly introduced. I'm Michael Gutierrez ("Guutz"), a first-year undergraduate studying Mechanical Engineering. (It's also my first blog post -- hello!)
 
-I joined Caltech's [**CubeSat Club**](https://smallsats.caltech.edu/) a few months ago. The club website makes it sound really impressive, but the missing context is that all of its pre-pandemic members had either graduated or left by the time
+I had the opportunity to embark on this adventure through the Caltech [**CubeSat Club**](https://smallsats.caltech.edu/). The website makes it sound really impressive, but the missing context is that all of its pre-pandemic members had either graduated or left by the end of last year. This left five sophomores and one freshperson(?) to scrounge together the remnants, scattered everywhere from an almost-forgotten Google Drive to a room-that-everyone-thought-was-just-a-closet next to the [**Space Structures Lab**](http://www.pellegrino.caltech.edu/). 
+
+Our original plan was to submit a proposal for [**NASA's CubeSat Launch Initiative**](https://www.nasa.gov/directorates/heo/home/CubeSats_initiative), but it was quickly realized that we lacked the knowledge and experience (and staffing) to design a spacecraft mission in time for the November deadline.
+
+![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696 (1).jpg "From humble beginnings...")
