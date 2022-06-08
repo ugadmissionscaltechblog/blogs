@@ -4,7 +4,7 @@ date: 2022-06-06 16:54:26 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/274362642_1066083627289117_7685991158024664000_n
   (1).png
 tags: []
-title: THE MISSION. Or...
+title: THE MISSION.  Or...
 author: Michael Gutierrez
 categories:
 - clubs
