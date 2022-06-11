@@ -28,6 +28,6 @@ I had the opportunity to embark on this adventure through the Caltech [**CubeSat
 
 The club's original plan was to submit a proposal for [**NASA's CubeSat Launch Initiative**](https://www.nasa.gov/directorates/heo/home/CubeSats_initiative), but it was quickly realized that we lacked the knowledge and experience (and staffing) to design a spacecraft mission in time for the November deadline.
 
-But that wasn't going to stop us! We were going to build a CubeSat, darn it. Even if it ended up being less of a cube-shaped satellite and more of a rectangular prism-shaped science box... and if NASA wasn't going to take us to space, we were going to have to get there ourselves.
+But that wasn't going to stop us! We were going to build a CubeSat, darn it. Even if it ended up being less of a cube-shaped satellite and more of a rectangular prism-shaped science box... and if NASA wasn't going to take us to space, we were going to have to get there ourselves. 
 
 ![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696 (1).jpg "From humble beginnings...")
