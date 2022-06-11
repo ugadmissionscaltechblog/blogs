@@ -10,7 +10,7 @@ categories:
 - clubs
 
 ---
-**…Or, How a Disciple of Bethany Ehlmann, a Former Desert Militiaman, two Moore Subbasement Dwellers, an Anti-Arson Activist, Roblox's Newest Intern, and a Luminous Plasma Scientist Went to War with the Caltech Mail Center, Survived Three COVID Outbreaks, Played E-mail Tag with ASCIT, and Nearly Stranded Themselves in the Mojave in order to Send a Bag of Peanuts to Space (A True Story).**
+**…Or, How a Disciple of Bethany Ehlmann, a Former Desert Militiaman, Moore Lab Subbasement Dwellers, Roblox's Newest Intern, a Florida Man, and a Luminous Plasma Scientist Went to War with the Caltech Mail Center, Survived Three COVID Outbreaks, Played E-mail Tag with ASCIT, and Nearly Stranded Themselves in the Mojave in order to Send a Bag of Peanuts to Space (A True Story).**
 
 ***
 
@@ -20,13 +20,13 @@ _In hindsight, it probably shouldn't have taken a flat tire for us to realize th
 
 _But_ [**_the desert takes the weak..._**](https://twitter.com/secretsofdune/status/1425866472354631683)
 
-![Five students next to a pickup truck with a flat tire pulled to the side of a dirt road, in front of a desolate landscape with brown mountains in the distance.](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_565903071542655.jpeg "The desert takes the weak.")_(Left to right: Anti-Arson Activist,_ [**_Subbasement_**](https://www.caltech.edu/about/news/nanofabrication-courses-axel-scherer-aph150) _Dweller #1, Disciple of_ [**_Bethany Ehlmann_**](http://www.ehlmann.caltech.edu/index.html)_,_ [**_Luminous Plasma_**](https://www.nasa.gov/topics/universe/features/firefly.html) _Scientist, Subbasement Dweller #2. Not pictured: Roblox's Newest Intern, Former Desert Militiaman)_
+![Five students next to a pickup truck with a flat tire pulled to the side of a dirt road, in front of a desolate landscape with brown mountains in the distance.](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_565903071542655.jpeg "The desert takes the weak.")_(Left to right: Florida Man,_ [**_Subbasement_**](https://www.caltech.edu/about/news/nanofabrication-courses-axel-scherer-aph150) _Dweller #1, Disciple of_ [**_Bethany Ehlmann_**](http://www.ehlmann.caltech.edu/index.html)_,_ [**_Luminous Plasma_**](https://www.nasa.gov/topics/universe/features/firefly.html) _Scientist, Subbasement Dweller #2. Not pictured: Roblox's Newest Intern, Former Desert Militiaman)_
 
 Before we get to all that, I'm afraid we haven't been properly introduced. I'm Michael Gutierrez ("Guutz"), a first-year undergraduate studying Mechanical Engineering. (It's also my first blog post -- hello!)
 
-I had the opportunity to embark on this adventure through the Caltech [**CubeSat Club**](https://smallsats.caltech.edu/). \[In a sentence: CubeSat = cheap, bread-loaf-sized satellite that you(*) can build and [**yeet into Earth orbit**](https://www.youtube.com/watch?v=JQy9EwMrILI&ab_channel=Nanoracks)\] The club website makes us sound like literal rocket scientists, but the missing context is that all of its pre-pandemic members had either graduated or left by the end of last year. This left six ambitious (and naïve) underclasspeople to scrounge together the remnants, scattered everywhere from an almost-forgotten Google Drive to a labspace-that-everyone-thought-was-just-a-closet next to the [**Space Structures Lab**](http://www.pellegrino.caltech.edu/). 
+I had the opportunity to embark on this adventure through the Caltech [**CubeSat Club**](https://smallsats.caltech.edu/). \[In a sentence: CubeSat = cheap, bread-loaf-sized satellite that you(*) can build and [**yeet into Earth orbit**](https://www.youtube.com/watch?v=JQy9EwMrILI&ab_channel=Nanoracks)\] The club website makes us sound like literal rocket scientists, but the missing context is that all of its pre-pandemic members had either graduated or left by the end of last year. This left six ambitious (and naïve) underclasspeople to scrounge together the remnants, scattered everywhere from an almost-forgotten Google Drive to a labspace-that-everyone-thought-was-just-a-closet next to the [**Space Structures Lab**](http://www.pellegrino.caltech.edu/).
 
-The club's original plan was to submit a proposal for [**NASA's CubeSat Launch Initiative**](https://www.nasa.gov/directorates/heo/home/CubeSats_initiative), but it was quickly realized that we lacked the knowledge and experience (and staffing) to design a spacecraft mission in time for the November deadline. 
+The club's original plan was to submit a proposal for [**NASA's CubeSat Launch Initiative**](https://www.nasa.gov/directorates/heo/home/CubeSats_initiative), but it was quickly realized that we lacked the knowledge and experience (and staffing) to design a spacecraft mission in time for the November deadline.
 
 But that wasn't going to stop us! We were going to build a CubeSat, darn it. Even if it ended up being less of a cube-shaped satellite and more of a rectangular prism-shaped science box... and if NASA wasn't going to take us to space, we were going to have to get there ourselves.
 
