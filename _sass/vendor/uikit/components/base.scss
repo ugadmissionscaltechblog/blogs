@@ -141,12 +141,16 @@ a,
 }
 
 a:hover,
-.uk-link:hover {
+.uk-link:hover,
+.content-primary a:hover {
     color: $base-link-hover-color;
     text-decoration: $base-link-hover-text-decoration;
     @if(mixin-exists(hook-base-link-hover)) {@include hook-base-link-hover();}
 }
 
+.content-primary a {
+    color: #00b950
+}
 
 /* Text-level semantics
  ========================================================================== */
@@ -194,7 +198,7 @@ strong { font-weight: $base-strong-font-weight; }
  * Emphasize
  */
 
-em { color: $base-em-color; }
+//em { color: $base-em-color; }
 
 /*
  * Insert
