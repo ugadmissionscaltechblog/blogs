@@ -24,12 +24,22 @@ _But_ [**_the desert takes the weak..._**](https://twitter.com/secretsofdune/sta
 
 Before we get to all that, I'm afraid we haven't been properly introduced. I'm Michael Gutierrez ("Guutz"), a first-year undergraduate studying Mechanical Engineering. (It's also my first blog post -- hello!)
 
-I had the opportunity to embark on this adventure through the Caltech [**CubeSat Club**](https://smallsats.caltech.edu/). \[In a sentence: CubeSat = cheap, bread-loaf-sized satellite that you(*) can build and [**yeet into Earth orbit**](https://www.youtube.com/watch?v=JQy9EwMrILI&ab_channel=Nanoracks)**.**\] The club website makes us sound like literal rocket scientists, but the missing context is that all of its pre-pandemic members had either graduated or left by the end of last year. This left six ambitious (and naïve) underclasspeople to scrounge together the remnants, scattered everywhere from an almost-forgotten Google Drive to a labspace-that-everyone-thought-was-just-a-closet next to the [**Space Structures Lab**](http://www.pellegrino.caltech.edu/).
+I had the opportunity to embark on this adventure through the Caltech [**CubeSat Club**](https://smallsats.caltech.edu/). \[In a sentence: CubeSat = cheap, bread-loaf-sized satellite that you(*) can build and [**yeet into Earth orbit**](https://www.youtube.com/watch?v=JQy9EwMrILI&ab_channel=Nanoracks)**.**\] The club website makes us sound like literal rocket scientists, but the missing context is that all of its pre-pandemic members had either graduated or left by the end of last year. This left five sophomores plus one "me" to scrounge together the remnants, scattered everywhere from an almost-forgotten Google Drive to a labspace-that-everyone-thought-was-just-a-closet next to the [**Space Structures Lab**](http://www.pellegrino.caltech.edu/).
 
 The club's original plan was to submit a proposal for [**NASA's CubeSat Launch Initiative**](https://www.nasa.gov/directorates/heo/home/CubeSats_initiative), but it was quickly realized that we lacked the knowledge and experience (and staffing) to design a spacecraft mission in time for the November deadline.
 
-But that wasn't going to stop us! We were going to build a CubeSat, darn it. Even if it ended up being less of a cube-shaped satellite and more of a rectangular prism-shaped science box... and if NASA wasn't going to take us to space, we were going to have to get there ourselves. 
+But that wasn't going to stop us! We were going to build a CubeSat, darn it. Even if it ended up being less of a cube-shaped satellite and more of a rectangular prism-shaped science box... and if NASA wasn't going to take us to space, we were going to have to get there ourselves.
 
 ***
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-cubesat-art.jpg)_(Inspirational lab art by my friend Jessie! Check out her work_ [**_@cloudseverywhere_**](https://www.instagram.com/cloudseverywhere/)_)_
+
+After a few follow-up emails to the club's faculty advisor, the intrepid Prof. Ehlmann (same one), we finally got card access to the labspace-that-everyone-thought-was-just-a-closet next to the Space Structures Lab. We immediately set to work designing the science payload (essentially just a video camera, a GPS, and an ultraviolet light sensor for luminous plasma!), but the real challenge would be the propulsion system.
+
+It would be a weather balloon, we decided, 
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_1726794127666486-a.jpeg)
+
+Of course, science isn't _all_ fun and games. The next task was arguably the most important: applying for funding. (You can't spell fun without funding.)
 
 ![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696 (1).jpg "From humble beginnings...")
