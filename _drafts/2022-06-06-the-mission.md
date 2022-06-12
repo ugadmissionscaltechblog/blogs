@@ -22,6 +22,8 @@ _But_ [**_the desert takes the weak..._**](https://twitter.com/secretsofdune/sta
 
 ![Five students next to a pickup truck with a flat tire pulled to the side of a dirt road, in front of a desolate landscape with brown mountains in the distance.](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_565903071542655.jpeg "The desert takes the weak.")_(Left to right: Florida Man,_ [**_Subbasement_**](https://www.caltech.edu/about/news/nanofabrication-courses-axel-scherer-aph150 "Where electrical engineering students famously spend all their time working") _Dweller #1, Disciple of_ [**_Bethany Ehlmann_**](http://www.ehlmann.caltech.edu/index.html "Crazy cool professor, head of NASA JPL's Lunar Trailblazer mission, and the reason most of us ended up here")_,_ [**_Luminous Plasma_**](https://www.nasa.gov/mission_pages/station/research/Once_Upon_a_Time_in_a_Thunderstorm "AKA upper atmospheric lightning, something all of us were interested in studying on THE MISSION!") _Scientist, Subbasement Dweller #2. Not pictured: Roblox's Newest Intern, Former Desert Militiaman)_
 
+***
+
 Before we get to all that, I'm afraid we haven't been properly introduced. I'm Michael Gutierrez ("Guutz"), a first-year undergraduate studying Mechanical Engineering. (It's also my first blog post -- hello!)
 
 I had the opportunity to embark on this adventure through the Caltech [**CubeSat Club**](https://smallsats.caltech.edu/). 
@@ -37,6 +39,8 @@ But that wasn't going to stop us! We were going to build a CubeSat, darn it. And
 ***
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-cubesat-art.jpg)_(Inspirational lab art by my friend Jessie! Check out her work_ [**_@cloudseverywhere_**](https://www.instagram.com/cloudseverywhere/)_)_
+
+***
 
 Fast forward to March. (Time is weird at Caltech.) After a few follow-up emails to the club's faculty advisor, the intrepid Prof. Ehlmann (same one), we finally got card access to the room-that-everyone-thought-was-just-a-closet next to the Pellegrino Space Structures Lab. We immediately set to work designing the science payload (essentially just a video camera, a GPS, and an ultraviolet light sensor to look for ~~upper atmospheric lightning~~ luminous plasma! Not that we were planning on launching during a thunderstorm -- it was a proof of concept thing. But I digress.)
 
