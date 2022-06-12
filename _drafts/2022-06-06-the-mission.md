@@ -38,8 +38,10 @@ Fast forward to March. (Time is weird at Caltech.) After a few follow-up emails 
 
 We then moved on to the main event: getting to space. Or close enough to it, anyway. We would launch a weather balloon, we decided, which would get our payload high enough to see the blackness of space -- but not high enough to violate FAA regulations.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_1726794127666486-a.jpeg)Up next: every scientist's favorite task. Applying for funding. (You can't spell fun without it.)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_1726794127666486-a.jpeg)
 
-{% include youtubePlayer.html id="P0xT7GmrSMc" %}
+Up next: every scientist's favorite task. Applying for funding. (You can't spell fun without it.)
+
+{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-cubesat-art.jpg" caption="caption test" %}
 
 ![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696 (1).jpg "From humble beginnings...")
