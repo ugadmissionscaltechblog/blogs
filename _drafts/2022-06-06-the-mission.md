@@ -10,7 +10,7 @@ categories:
 - clubs
 
 ---
-**…Or, How a Disciple of Bethany Ehlmann, a Former Desert Militiaman, Moore Lab Subbasement Dwellers, Roblox's Newest Intern, a Florida Man, and a Luminous Plasma Scientist Went to War with AirGas Corp., Survived Three COVID Outbreaks, Played E-mail Tag with the Caltech Mail Center, and Nearly Stranded Themselves in the Mojave in order to Send a Bag of Peanuts to Space (A True Story).**
+**…Or, How a Disciple of Bethany Ehlmann, a Former Desert Militiaman, Moore Lab Subbasement Dwellers, Roblox's Newest Intern, a Florida Man, and a Luminous Plasma Scientist Went to War with the Caltech Mail Center, Got Double-Crossed by AirGas Corp., Survived Three COVID Outbreaks, and Nearly Stranded Themselves in the Mojave in order to Send a Bag of Peanuts to Space (A True Story).**
 
 ***
 
@@ -38,8 +38,6 @@ Fast forward to March. (Time is weird at Caltech.) After a few follow-up emails 
 
 We then moved on to the main event: getting to space. Or close enough to it, anyway. We would launch a weather balloon, we decided, which would get our payload high enough to see the blackness of space -- but not high enough to violate FAA regulations.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_1726794127666486-a.jpeg)Up next: every scientist's favorite task. Applying for funding. (You can't spell fun without it.) We had a fantastically awkward zoom meeting over spring break to write up a proposal to [**ASCIT**](https://donut.caltech.edu/) (the undergrad student government).
-
-I'll be honest, I was going to do a whole a bit about how even Caltech has government bureaucracy, but I looked back at my email and they actually got back to us within a week. Go ASCIT.
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_1726794127666486-a.jpeg)Up next: every scientist's favorite task. Applying for funding. (You can't spell fun without it.) 
 
 ![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696 (1).jpg "From humble beginnings...")
