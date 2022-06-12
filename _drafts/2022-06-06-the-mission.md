@@ -28,9 +28,9 @@ Before we get to all that, I'm afraid we haven't been properly introduced. I'm M
 
 I had the opportunity to embark on this adventure through the Caltech [**CubeSat Club**](https://smallsats.caltech.edu/). 
 
-> **cube·sat** ║ kjub sæt ║ (n.) **1.** A cheap, bread-loaf-sized satellite that you(!) can build and [**yeet into Earth orbit**](https://www.youtube.com/watch?v=JQy9EwMrILI&ab_channel=Nanoracks).
+> **cube·sat** ║ kjub sæt ║ (n.) **1.** A cheap, bread-loaf-sized satellite that you(!) can build and [**hitch a ride into Earth orbit**](https://www.youtube.com/watch?v=JQy9EwMrILI&ab_channel=Nanoracks).
 
-It might sound like literal rocket science, but the missing context is that all of its pre-pandemic members had either graduated or left by the end of last year. This left five sophomores plus one "me" to scrounge together the remnants, scattered everywhere from an almost-forgotten Google Drive to a room-that-everyone-thought-was-just-a-closet next to the [**Pellegrino Space Structures Lab**](http://www.pellegrino.caltech.edu/).
+It might sound like literal rocket science (I will note we don't actually do any of the rocketry) but the missing context is that all of its pre-pandemic members had either graduated or left by the end of last year. This left five sophomores plus one "me" to scrounge together the remnants, scattered everywhere from an almost-forgotten Google Drive to a room-that-everyone-thought-was-just-a-closet next to the [**Pellegrino Space Structures Lab**](http://www.pellegrino.caltech.edu/).
 
 The club's original plan was to submit a proposal for [**NASA's CubeSat Launch Initiative**](https://www.nasa.gov/directorates/heo/home/CubeSats_initiative), but it was quickly realized that we lacked the knowledge and experience (and staffing) to design a spacecraft mission in time for the November deadline.
 
