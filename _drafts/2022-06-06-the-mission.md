@@ -34,12 +34,10 @@ But that wasn't going to stop us! We were going to build a CubeSat, darn it. And
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-cubesat-art.jpg)_(Inspirational lab art by my friend Jessie! Check out her work_ [**_@cloudseverywhere_**](https://www.instagram.com/cloudseverywhere/)_)_
 
-After a few follow-up emails to the club's faculty advisor, the intrepid Prof. Ehlmann (same one), we finally got card access to the room-that-everyone-thought-was-just-a-closet next to the Pellegrino Space Structures Lab. We immediately set to work designing the science payload (essentially just a video camera, a GPS, and an ultraviolet light sensor to look for ~~upper atmospheric lightning~~ luminous plasma! Not that we were planning on launching during a thunderstorm -- it was a proof of concept thing. But I digress.) 
+Fast forward to March. (Time is weird at Caltech.) After a few follow-up emails to the club's faculty advisor, the intrepid Prof. Ehlmann (same one), we finally got card access to the room-that-everyone-thought-was-just-a-closet next to the Pellegrino Space Structures Lab. We immediately set to work designing the science payload (essentially just a video camera, a GPS, and an ultraviolet light sensor to look for ~~upper atmospheric lightning~~ luminous plasma! Not that we were planning on launching during a thunderstorm -- it was a proof of concept thing. But I digress.) 
 
-It would be a weather balloon, we decided,
+We then moved on to the main event: getting to space. Or close enough to it, anyway. We would launch a weather balloon, we decided, which would get our payload high enough to see the blackness of space -- but not high enough to violate FAA regulations. 
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_1726794127666486-a.jpeg)
-
-Of course, science isn't _all_ fun and games. The next task was arguably the most important: applying for funding. (You can't spell fun without funding.)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_1726794127666486-a.jpeg)To be sure, science isn't _all_ fun and games. The next task was arguably the most important: applying for funding. (You can't spell fun without funding.) We had a fantastically awkward zoom meeting over spring break to write up a proposal to [**ASCIT**](https://donut.caltech.edu/) (the undergrad student government). Of course, elections had just happened and the treasury was in the process of turning over, so our email inevitably got lost in the bureaucracy.
 
 ![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696 (1).jpg "From humble beginnings...")
