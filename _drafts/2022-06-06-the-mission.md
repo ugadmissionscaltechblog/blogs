@@ -30,7 +30,7 @@ I had the opportunity to embark on this adventure through the Caltech [**CubeSat
 
 > **cube·sat** ║ kjub sæt ║ (n.) **1.** A cheap, bread-loaf-sized satellite that you(!) can build and [**yeet into Earth orbit**](https://www.youtube.com/watch?v=JQy9EwMrILI&ab_channel=Nanoracks).
 
-The way they advertise the club makes us sound like literal rocket scientists, but the missing context is that all of its pre-pandemic members had either graduated or left by the end of last year. This left five sophomores plus one "me" to scrounge together the remnants, scattered everywhere from an almost-forgotten Google Drive to a room-that-everyone-thought-was-just-a-closet next to the [**Pellegrino Space Structures Lab**](http://www.pellegrino.caltech.edu/).
+It might sound like literal rocket science, but the missing context is that all of its pre-pandemic members had either graduated or left by the end of last year. This left five sophomores plus one "me" to scrounge together the remnants, scattered everywhere from an almost-forgotten Google Drive to a room-that-everyone-thought-was-just-a-closet next to the [**Pellegrino Space Structures Lab**](http://www.pellegrino.caltech.edu/).
 
 The club's original plan was to submit a proposal for [**NASA's CubeSat Launch Initiative**](https://www.nasa.gov/directorates/heo/home/CubeSats_initiative), but it was quickly realized that we lacked the knowledge and experience (and staffing) to design a spacecraft mission in time for the November deadline.
 
@@ -48,6 +48,6 @@ We then moved on to the main event: getting to space. Or close enough to it, any
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_1726794127666486-a.jpeg)
 
-Up next: every scientist's favorite task. Applying for funding. (You can't spell fun without it.)
+As Plato almost said, "logistics is the mother of invention." Yes, up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier (for the balloon). 
 
 ![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696 (1).jpg "From humble beginnings...")
