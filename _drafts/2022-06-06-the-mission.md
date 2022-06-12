@@ -40,6 +40,6 @@ We then moved on to the main event: getting to space. Or close enough to it, any
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_1726794127666486-a.jpeg)Up next: every scientist's favorite task. Applying for funding. (You can't spell fun without it.)
 
-{% include youtubePlayer.html id=P0xT7GmrSMc %}
+{% include youtubePlayer.html id="P0xT7GmrSMc" %}
 
 ![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696 (1).jpg "From humble beginnings...")
