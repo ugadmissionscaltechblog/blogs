@@ -38,6 +38,8 @@ Fast forward to March. (Time is weird at Caltech.) After a few follow-up emails 
 
 We then moved on to the main event: getting to space. Or close enough to it, anyway. We would launch a weather balloon, we decided, which would get our payload high enough to see the blackness of space -- but not high enough to violate FAA regulations. 
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_1726794127666486-a.jpeg)To be sure, science isn't _all_ fun and games. The next task was arguably the most important: applying for funding. (You can't spell fun without funding.) We had a fantastically awkward zoom meeting over spring break to write up a proposal to [**ASCIT**](https://donut.caltech.edu/) (the undergrad student government). Of course, elections had just happened and the treasury was in the process of turning over, so our email inevitably got lost in the bureaucracy.
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_1726794127666486-a.jpeg)Up next: every scientist's favorite task. Applying for funding. (You can't spell fun without it.) We had a fantastically awkward zoom meeting over spring break to write up a proposal to [**ASCIT**](https://donut.caltech.edu/) (the undergrad student government). 
+
+I'll be honest, I was going to do a whole a bit about how even Caltech has government bureaucracy, but I looked back at my email and they actually got back to us within a week. Go ASCIT.
 
 ![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696 (1).jpg "From humble beginnings...")
