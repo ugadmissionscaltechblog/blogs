@@ -26,7 +26,7 @@ Before we get to all that, I'm afraid we haven't been properly introduced. I'm M
 
 This adventure began last fall, when I joined Caltech's [**CubeSat Club**](https://smallsats.caltech.edu/).
 
-> **cube·sat** ║ kjub sæt ║ (n.) **1.** A tiny, inexpensive satellite, about the size of a loaf of bread, that can [**hitch a ride into Earth orbit **](https://www.youtube.com/watch?v=JQy9EwMrILI&ab_channel=Nanoracks)using empty space in another rocket.
+> **cube·sat** ║ kjub sæt ║ (n.) **1.** A tiny, inexpensive satellite, about the size of a loaf of bread, that can [**hitch a ride into Earth orbit**](https://www.youtube.com/watch?v=JQy9EwMrILI&ab_channel=Nanoracks) using empty space in another rocket.
 
 The Caltech website plays us up _a lot_, but the missing context is that all of the club's pre-pandemic members had either graduated or left by the end of last year. This left five sophomores plus one "me" to scavenge through the remnants, scattered everywhere from an almost-forgotten Google Drive to a room-that-everyone-thought-was-just-a-closet next to the [**Pellegrino Space Structures Lab**](http://www.pellegrino.caltech.edu/).
 
