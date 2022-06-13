@@ -44,8 +44,10 @@ We then moved on to the main event: getting to space. Or close enough to it, any
 
 This idea came from a project that a couple of our team members, the Moore Lab Subbasement Dwellers, worked on earlier in the year. There's a [**fantastic blog post**](https://caltechadmissions.blog/sending-a-high-altitude-balloon-to-space/) all about that, which goes into detail about the science of high altitude balloons!
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_1726794127666486-a.jpeg)
+As Plato almost said, "logistics is the mother of invention." Yes, up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier (for the balloon). [**ASCIT**](https://donut.caltech.edu/) actually turned around our funding proposal very quickly, and with a generous grant, but that was where our luck ended.
 
-As Plato almost said, "logistics is the mother of invention." Yes, up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier (for the balloon). [**ASCIT**](donut.caltech.edu) actually turned around our proposal very quickly, and with a generous grant, but that was where our luck ended.
+***
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_1726794127666486-a.jpeg)
 
 ![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696 (1).jpg "From humble beginnings...")
