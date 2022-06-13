@@ -48,10 +48,26 @@ We then moved on to the main event: getting to space. Or close enough to it, any
 
 This idea came from a project that a couple of our team members, the Moore Lab Subbasement Dwellers, worked on earlier in the year. There's a [**fantastic blog post**](https://caltechadmissions.blog/sending-a-high-altitude-balloon-to-space/) all about that, which goes into detail about the science of high altitude balloons!
 
-As Plato almost said, "logistics is the mother of invention." Yes, up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier (for the balloon). [**ASCIT**](https://donut.caltech.edu/ "the undergraduate student government") actually turned around our funding proposal very quickly, and with a generous grant, but that was where our luck ended.
-
 ***
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_1726794127666486-a.jpeg)
+
+As Plato almost said, "logistics is the mother of invention." Yes, up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier (for the balloon). [**ASCIT**](https://donut.caltech.edu/ "the undergraduate student government") actually turned around our funding proposal very quickly, and with a generous grant, but that was where our luck ended.
+
+There's always a pump of adrenaline that comes with receiving an email from Caltech Mail Services.
+
+> **You have a package to pickup be prompt FRIENDS CANNOT PICK UP ANYMORE!!!**
+>
+> **WE ARE NOW OPEN 9:00AM till 4:20 PM!!!!!!!!!!!**
+>
+> **NO WEEKEND SERVICE!!!!!!!!!**
+
+Alice Edel may be the most powerful being within the bounds of Wilson and Hill. Not a single envelope will make it onto Caltech campus without her knowing about it. If she so desired, she could bring all scientific operations at Caltech to a grinding halt.
+
+There are not many people that can email everyone in the student body with a single keystroke, but Alice Edel is one of them. So when something like this pops up in your inbox:
+
+> **MY SHOPPING CART IS MISSING SOMEONE BORROWED IT AND DID NOT RETURN ALSO A HANDTRUCK WITH MESSED UP WHEEL If you see them please bring it back**
+
+You know she means business.
 
 ![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696 (1).jpg "From humble beginnings...")
