@@ -24,7 +24,7 @@ _But_ [**_the desert takes the weak..._**](https://twitter.com/secretsofdune/sta
 
 Before we get to all that, I'm afraid we haven't been properly introduced. I'm Michael Gutierrez ("Guutz"), a first-year undergraduate studying Mechanical Engineering. (It's also my first blog post -- hello!)
 
-This adventure began last fall, when I joined Caltech's [**CubeSat Club**](https://smallsats.caltech.edu/).
+This adventure began last September, when I joined Caltech's [**CubeSat Club**](https://smallsats.caltech.edu/).
 
 > **cube·sat** ║ kjub sæt ║ (n.) **1.** A tiny, inexpensive satellite, about the size of a loaf of bread, that can [**hitch a ride into Earth orbit**](https://www.youtube.com/watch?v=JQy9EwMrILI&ab_channel=Nanoracks) using empty space in another rocket.
 
@@ -44,7 +44,7 @@ We then moved on to the main event: getting to space. Or close enough to it, any
 
 This idea came from a project that a couple of our team members, the Moore Lab Subbasement Dwellers, worked on earlier in the year. There's a [**fantastic blog post**](https://caltechadmissions.blog/sending-a-high-altitude-balloon-to-space/) all about that, which goes into detail about the science of high altitude balloons!
 
-As Plato almost said, "logistics is the mother of invention." Yes, up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier (for the balloon). [**ASCIT**](https://donut.caltech.edu/) actually turned around our funding proposal very quickly, and with a generous grant, but that was where our luck ended.
+As Plato almost said, "logistics is the mother of invention." Yes, up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier (for the balloon). [**ASCIT**](https://donut.caltech.edu/ "the undergraduate student government") actually turned around our funding proposal very quickly, and with a generous grant, but that was where our luck ended.
 
 ***
 
