@@ -24,7 +24,7 @@ _But_ [**_the desert takes the weak..._**](https://twitter.com/secretsofdune/sta
 
 Before we get to all that, I'm afraid we haven't been properly introduced. I'm Michael Gutierrez ("Guutz"), a first-year undergraduate studying Mechanical Engineering. (It's also my first blog post -- hello!)
 
-I had the opportunity to embark on this adventure through Caltech's [**CubeSat Club**](https://smallsats.caltech.edu/).
+This adventure began last fall, when I joined Caltech's [**CubeSat Club**](https://smallsats.caltech.edu/).
 
 > **cube·sat** ║ kjub sæt ║ (n.) **1.** A tiny, inexpensive satellite, about the size of a loaf of bread, that can [**hitch a ride into Earth orbit **](https://www.youtube.com/watch?v=JQy9EwMrILI&ab_channel=Nanoracks)using empty space in another rocket.
 
@@ -36,7 +36,7 @@ But that wasn't going to stop us! We were going to build a CubeSat, darn it. And
 
 ***
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-cubesat-art.jpg)_(Inspirational lab art by my friend Jessie! Check out her work_ [**_@cloudseverywhere_**](https://www.instagram.com/cloudseverywhere/)_)_
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-cubesat-art.jpg)_(Inspirational lab art by my friend Jessie! Check out her work on Instagram_ [**_@cloudseverywhere_**](https://www.instagram.com/cloudseverywhere/)_)_
 
 Fast forward to March. (Time is weird at Caltech.) After a few follow-up emails to the club's faculty advisor, the intrepid Prof. Ehlmann (same one), we finally got card access to the room-that-everyone-thought-was-just-a-closet next to the Pellegrino Space Structures Lab. We immediately set to work designing the science payload (essentially just a video camera, a GPS, and an ultraviolet light sensor to look for ~~upper atmospheric lightning~~ luminous plasma! Not that we were planning on launching during a thunderstorm -- it was a proof of concept thing. But I digress.)
 
