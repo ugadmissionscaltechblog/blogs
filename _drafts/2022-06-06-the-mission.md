@@ -28,7 +28,7 @@ This adventure began last fall, when I joined Caltech's [**CubeSat Club**](https
 
 > **cube·sat** ║ kjub sæt ║ (n.) **1.** A tiny, inexpensive satellite, about the size of a loaf of bread, that can [**hitch a ride into Earth orbit**](https://www.youtube.com/watch?v=JQy9EwMrILI&ab_channel=Nanoracks) using empty space in another rocket.
 
-The Caltech website plays us up _a lot_, but the missing context is that all of the club's pre-pandemic members had either graduated or left by the end of last year. This left five sophomores plus one "me" to scavenge through the remnants, scattered everywhere from an almost-forgotten Google Drive to a room-that-everyone-thought-was-just-a-closet next to the [**Pellegrino Space Structures Lab**](http://www.pellegrino.caltech.edu/).
+The Caltech website plays us up _a lot_, but the missing context is that all of the club's pre-pandemic members had either graduated or left by the end of last year. This left five sophomores plus one "me", led by our intrepid president Turner Bumbary (AKA the Luminous Plasma Scientist), to scavenge through the remnants scattered everywhere from an almost-forgotten Google Drive to a room-that-everyone-thought-was-just-a-closet next to the [**Pellegrino Space Structures Lab**](http://www.pellegrino.caltech.edu/).
 
 Our original plan was to submit a proposal for [**NASA's CubeSat Launch Initiative**](https://www.nasa.gov/directorates/heo/home/CubeSats_initiative), but it was quickly realized that we lacked the knowledge and experience (and staffing) to design an entire spacecraft mission in time for the November deadline.
 
@@ -38,12 +38,14 @@ But that wasn't going to stop us! We were going to build a CubeSat, darn it. And
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-cubesat-art.jpg)_(Inspirational lab art by my friend Jessie! Check out her work on Instagram_ [**_@cloudseverywhere_**](https://www.instagram.com/cloudseverywhere/)_)_
 
-Fast forward to March. (Time is weird at Caltech.) After a few follow-up emails to the club's faculty advisor, the intrepid Prof. Ehlmann (same one), we finally got card access to the room-that-everyone-thought-was-just-a-closet next to the Pellegrino Space Structures Lab. We immediately set to work designing the science payload (essentially just a video camera, a GPS, and an ultraviolet light sensor to look for ~~upper atmospheric lightning~~ luminous plasma! Not that we were planning on launching during a thunderstorm -- it was a proof of concept thing. But I digress.)
+Fast forward to March. (Time is weird at Caltech.) After a few follow-up emails to the club's faculty advisor, Prof. Ehlmann (same one), we finally got card access to the room-that-everyone-thought-was-just-a-closet next to the Pellegrino Space Structures Lab. We immediately set to work designing the science payload (essentially just a video camera, a GPS, and an ultraviolet light sensor to look for ~~upper atmospheric lightning~~ luminous plasma! Not that we were planning on launching during a thunderstorm -- it was a proof of concept thing. But I digress.)
 
 We then moved on to the main event: getting to space. Or close enough to it, anyway. We would launch a weather balloon, we decided, which would get our payload high enough to see the blackness of space -- but not high enough to violate FAA regulations.
 
+This idea came from a project that a couple of our team members, the Moore Lab Subbasement Dwellers, worked on earlier in the year. There's a [fantastic blog post](https://caltechadmissions.blog/sending-a-high-altitude-balloon-to-space/) all about that, which goes into detail about the science of high altitude balloons!
+
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_1726794127666486-a.jpeg)
 
-As Plato almost said, "logistics is the mother of invention." Yes, up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier (for the balloon).
+As Plato almost said, "logistics is the mother of invention." Yes, up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier (for the balloon). [**ASCIT**](donut.caltech.edu) actually turned around our proposal very quickly, and with a generous grant, but that was where our luck ended.
 
 ![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696 (1).jpg "From humble beginnings...")
