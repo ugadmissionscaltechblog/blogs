@@ -14,13 +14,17 @@ categories:
 
 ***
 
+(Title inspired by [this amazing book](https://www.indiebound.org/book/9780062655868)!)
+
+***
+
 _The sun is hot. The air is bone-dry. Frankly, it's amazing that we've made it this far into the middle of nowhere, and it's going to be even more amazing if we manage to make it back out._
 
 _In hindsight, it probably shouldn't have taken a flat tire for us to realize that what Google Maps called "Transmission Line Road" was very much not a road at all. We've come so far, now only 2.5 miles from the (alleged) landing site after a wild goose chase across half of Southern California..._
 
 _But_ [**_the desert takes the weak..._**](https://twitter.com/secretsofdune/status/1425866472354631683)
 
-![Five students next to a pickup truck with a flat tire pulled to the side of a dirt road, in front of a desolate landscape with brown mountains in the distance.](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_565903071542655.jpeg "The desert takes the weak.")_(Left to right: Florida Man,_ [**_Subbasement_**](https://www.caltech.edu/about/news/nanofabrication-courses-axel-scherer-aph150 "Where electrical engineering students famously spend all their time working") _Dweller #1, Disciple of_ [**_Bethany Ehlmann_**](http://www.ehlmann.caltech.edu/index.html "Crazy cool professor, head of NASA JPL's Lunar Trailblazer mission, and the reason most of us ended up here")_,_ [**_Luminous Plasma_**](https://www.nasa.gov/mission_pages/station/research/Once_Upon_a_Time_in_a_Thunderstorm "AKA upper atmospheric lightning, something all of us were interested in studying on THE MISSION!") _Scientist, Subbasement Dweller #2. Not pictured: Roblox's Newest Intern, Former Desert Militiaman)_
+![Five students next to a pickup truck with a flat tire pulled to the side of a dirt road, in front of a desolate landscape with brown mountains in the distance.](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_565903071542655.jpeg "The desert takes the weak.")_(Left to right: Florida Man,_ [**_Subbasement_**](https://www.quora.com/What-are-some-things-that-would-make-a-Caltech-student-say-FML/answer/Steven-Okai "Where electrical engineering students famously spend all their time working") _Dweller #1, Disciple of_ [**_Bethany Ehlmann_**](http://www.ehlmann.caltech.edu/index.html "Crazy cool professor, head of NASA JPL's Lunar Trailblazer mission, and the reason most of us ended up here")_,_ [**_Luminous Plasma_**](https://www.nasa.gov/mission_pages/station/research/Once_Upon_a_Time_in_a_Thunderstorm "AKA upper atmospheric lightning, something all of us were interested in studying on THE MISSION!") _Scientist, Subbasement Dweller #2. Not pictured: Roblox's Newest Intern, Former Desert Militiaman)_
 
 Before we get to all that, I'm afraid we haven't been properly introduced. I'm Michael Gutierrez ("Guutz"), a first-year undergraduate studying Mechanical Engineering. (It's also my first blog post -- hello!)
 
