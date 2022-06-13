@@ -24,13 +24,13 @@ _But_ [**_the desert takes the weak..._**](https://twitter.com/secretsofdune/sta
 
 Before we get to all that, I'm afraid we haven't been properly introduced. I'm Michael Gutierrez ("Guutz"), a first-year undergraduate studying Mechanical Engineering. (It's also my first blog post -- hello!)
 
-I had the opportunity to embark on this adventure through the Caltech [**CubeSat Club**](https://smallsats.caltech.edu/).
+I had the opportunity to embark on this adventure through Caltech's [**CubeSat Club**](https://smallsats.caltech.edu/).
 
 > **cube·sat** ║ kjub sæt ║ (n.) **1.** A tiny, inexpensive satellite, about the size of a loaf of bread, that can [**hitch a ride into Earth orbit **](https://www.youtube.com/watch?v=JQy9EwMrILI&ab_channel=Nanoracks)using empty space in another rocket.
 
-It might sound like literal rocket science (I will note we don't actually do any of the rocketry) but the missing context is that all of its pre-pandemic members had either graduated or left by the end of last year. This left five sophomores plus one "me" to scavenge through the remnants, scattered everywhere from an almost-forgotten Google Drive to a room-that-everyone-thought-was-just-a-closet next to the [**Pellegrino Space Structures Lab**](http://www.pellegrino.caltech.edu/).
+The Caltech website plays us up _a lot_, but the missing context is that all of the club's pre-pandemic members had either graduated or left by the end of last year. This left five sophomores plus one "me" to scavenge through the remnants, scattered everywhere from an almost-forgotten Google Drive to a room-that-everyone-thought-was-just-a-closet next to the [**Pellegrino Space Structures Lab**](http://www.pellegrino.caltech.edu/).
 
-The club's original plan was to submit a proposal for [**NASA's CubeSat Launch Initiative**](https://www.nasa.gov/directorates/heo/home/CubeSats_initiative), but it was quickly realized that we lacked the knowledge and experience (and staffing) to design a spacecraft mission in time for the November deadline.
+Our original plan was to submit a proposal for [**NASA's CubeSat Launch Initiative**](https://www.nasa.gov/directorates/heo/home/CubeSats_initiative), but it was quickly realized that we lacked the knowledge and experience (and staffing) to design an entire spacecraft mission in time for the November deadline.
 
 But that wasn't going to stop us! We were going to build a CubeSat, darn it. And if NASA wasn't going to take us to space, we were going to have to get there ourselves.
 
