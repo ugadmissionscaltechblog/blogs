@@ -14,10 +14,6 @@ categories:
 
 ***
 
-(Title inspired by [this amazing book](https://www.indiebound.org/book/9780062655868)!)
-
-***
-
 _The sun is hot. The air is bone-dry. Frankly, it's amazing that we've made it this far into the middle of nowhere, and it's going to be even more amazing if we manage to make it back out._
 
 _In hindsight, it probably shouldn't have taken a flat tire for us to realize that what Google Maps called "Transmission Line Road" was very much not a road at all. We've come so far, now only 2.5 miles from the (alleged) landing site after a wild goose chase across half of Southern California..._
@@ -28,21 +24,26 @@ _But_ [**_the desert takes the weak..._**](https://twitter.com/secretsofdune/sta
 
 Before we get to all that, I'm afraid we haven't been properly introduced. I'm Michael Gutierrez ("Guutz"), a first-year undergraduate studying Mechanical Engineering. (It's also my first blog post -- hello!)
 
-This adventure began last September, when I joined Caltech's [**CubeSat Club**](https://smallsats.caltech.edu/).
+This adventure began at the end of winter term, when I joined Caltech's [**CubeSat Club**](https://smallsats.caltech.edu/).
 
 > **cube·sat** ║ kjub sæt ║ (n.) **1.** A tiny, inexpensive satellite, about the size of a loaf of bread, that can [**hitch a ride into Earth orbit**](https://www.youtube.com/watch?v=JQy9EwMrILI&ab_channel=Nanoracks) using empty space in another rocket.
 
 The Caltech website plays us up _a lot_, but the missing context is that all of the club's pre-pandemic members had either graduated or left by the end of last year. This left five sophomores plus one "me", led by our intrepid president Turner Bumbary (AKA the Luminous Plasma Scientist), to scavenge through the remnants scattered everywhere from an almost-forgotten Google Drive to a room-that-everyone-thought-was-just-a-closet next to the [**Pellegrino Space Structures Lab**](http://www.pellegrino.caltech.edu/).
 
-Our original plan was to submit a proposal for [**NASA's CubeSat Launch Initiative**](https://www.nasa.gov/directorates/heo/home/CubeSats_initiative), but it was quickly realized that we lacked the knowledge and experience (and staffing) to design an entire spacecraft mission in time for the November deadline.
+Our original plan was to submit a proposal for NASA's annual [**CubeSat Launch Initiative **](https://www.nasa.gov/directorates/heo/home/CubeSats_initiative)competition, but it was quickly realized that we lacked the knowledge and experience (and staffing) to design an entire spacecraft mission in time for the deadline.
 
-But that wasn't going to stop us! We were going to build a CubeSat, darn it. And if NASA wasn't going to take us to space, we were going to have to get there ourselves.
+But that wasn't going to stop us! If NASA wasn't going to take us to space, we were just going to have to get there ourselves.
+
+> WE CHOOSE TO GO TO SPACE. WE CHOOSE TO BUILD A CUBESAT BY THE END OF THIS TERM, AND DO THE OTHER THINGS, NOT BECAUSE THEY ARE EASY, BUT BECAUSE THEY ARE HARD. BECAUSE THAT GOAL WILL SERVE TO ORGANIZE AND MEASURE THE BEST OF OUR ENERGIES AND SKILLS. BECAUSE THAT CHALLENGE IS ONE WE ARE WILLING TO ACCEPT, ONE WE ARE UNWILLING TO POSTPONE, AND ONE WHICH WE INTEND TO WIN!
+
+            _-John F. Kennedy  
+_      _--Michael Guutz (AKA Florida Man)_
 
 ***
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-cubesat-art.jpg)_(Inspirational lab art by my friend Jessie! Check out her work on Instagram_ [**_@cloudseverywhere_**](https://www.instagram.com/cloudseverywhere/)_)_
 
-Fast forward to March. (Time is weird at Caltech.) After a few follow-up emails to the club's faculty advisor, Prof. Ehlmann (same one), we finally got card access to the room-that-everyone-thought-was-just-a-closet next to the Pellegrino Space Structures Lab. We immediately set to work designing the science payload (essentially just a video camera, a GPS, and an ultraviolet light sensor to look for ~~upper atmospheric lightning~~ luminous plasma! Not that we were planning on launching during a thunderstorm -- it was a proof of concept thing. But I digress.)
+Fast forward to mid-May. (Time is weird at Caltech.) After a few follow-up emails to the club's faculty advisor, Prof. Ehlmann (same one), we finally got card access to the room-that-everyone-thought-was-just-a-closet next to the Pellegrino Space Structures Lab. We immediately set to work designing the science payload (essentially just a video camera, a GPS, and an ultraviolet light sensor to look for ~~upper atmospheric lightning~~ luminous plasma! Not that we were planning on launching during a thunderstorm -- it was a proof of concept thing. But I digress.)
 
 We then moved on to the main event: getting to space. Or close enough to it, anyway. We would launch a weather balloon, we decided, which would get our payload high enough to see the blackness of space -- but not high enough to violate FAA regulations.
 
@@ -52,7 +53,9 @@ This idea came from a project that a couple of our team members, the Moore Lab S
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_1726794127666486-a.jpeg)
 
-As Plato almost said, "logistics is the mother of invention." Yes, up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier (for the balloon). [**ASCIT**](https://donut.caltech.edu/ "the undergraduate student government") actually turned around our funding proposal very quickly, and with a generous grant, but that was where our luck ended.
+As Plato almost said, "logistics is the mother of invention." Yes, up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier (for the balloon). ASCIT, the undergrad student government, actually turned around our funding proposal very quickly -- and with a generous grant. We 
+
+But that was where our luck ended.
 
 There's always a pump of adrenaline that comes with receiving an email from Caltech Mail Services.
 
@@ -71,3 +74,7 @@ There are not many people that can email everyone in the student body with a sin
 You know she means business.
 
 ![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696 (1).jpg "From humble beginnings...")
+
+CREDITS
+
+Title inspired by [this amazing book](https://www.indiebound.org/book/9780062655868)!
