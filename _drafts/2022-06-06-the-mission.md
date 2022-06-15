@@ -62,9 +62,13 @@ But that was where our luck ended.
 
 About two days later, I woke up to a terrifying sight: FOUR unread emails from Alice Edel, Senior Associate at Caltech Mail Services.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/alice4.png)There are not very many people that can email the whole student body on a whim. (About a shopping cart, with each person's mail code as clickbait in the subject line!) But Alice Edel, Gatekeeper of 1200 E. California Blvd, is one of them.
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/alice4.png)
+
+There are not very many people that can email the whole student body on a whim. (About a shopping cart, with each person's mail code as clickbait in the subject line!) But Alice Edel, Gatekeeper of 1200 E. California Blvd, is one of them.
 
 Not a single envelope will make it to 1200 E. California Blvd. without her knowing about it. If she so desired, she could bring the entire campus's operations to a screeching halt.
+
+We had ordered a light gas, but we got gaslight. 
 
 ![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696 (1).jpg "From humble beginnings...")
 
