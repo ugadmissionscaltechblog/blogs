@@ -37,8 +37,8 @@ But that wasn't going to stop us! If NASA wasn't going to take us to space, we w
 > WE CHOOSE TO GO TO SPACE. WE CHOOSE TO BUILD A CUBESAT **BY THE END OF THIS TERM**, AND DO THE OTHER THINGS, NOT BECAUSE THEY ARE EASY, BUT BECAUSE THEY ARE HARD. BECAUSE THAT GOAL WILL SERVE TO ORGANIZE AND MEASURE THE BEST OF OUR ENERGIES AND SKILLS. BECAUSE THAT CHALLENGE IS ONE WE ARE WILLING TO ACCEPT, ONE WE ARE UNWILLING TO POSTPONE, AND ONE WHICH WE INTEND TO WIN!
 >
 > \--John F. Kennedy
-
-_--Michael Guutz (AKA Florida Man)_
+>
+> \--Michael Guutz (AKA Florida Man)
 
 ***
 
@@ -54,27 +54,17 @@ This idea came from a project that a couple of our team members, the Moore Lab S
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_1726794127666486-a.jpeg)
 
-Up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier for the balloon. After all, less than a month before the drop-dead launch date is as good a time as any to start! (It actually kind of was, because nothing -- literally nothing -- motivates as much as a fast-approaching deadline. Did you know a group of Caltech students is called a _procrastination_?)
+Up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier for the balloon. After all, less than a month before the drop-dead launch date is as good a time as any to start! (It actually kind of was, because nothing -- literally nothing -- motivates better than a fast-approaching deadline. Did you know a group of Caltech students is called a _procrastination_?)
 
-ASCIT, the undergrad student government, actually turned around our funding proposal very quickly -- and with a generous grant. We distributed our two-day shipping orders across the internet, spanning the whole range from the hip, new Adafruit chips with built in micro-machine-learning (a little overkill if you ask me) all the way to the sleaziest depths of Amaz*n. And, finally, the Facilities office made it surprisingly easy to request a tank of helium from their account with AirGas Corp.
+ASCIT, the undergrad student government, actually turned around our funding proposal very quickly -- and with a generous grant. We distributed our two-day shipping orders across the internet, spanning the whole range from the hip, new Adafruit chips with built in micro-machine-learning (overkill if you ask me) all the way to the sleaziest depths of Amaz*n. And, finally, the Facilities office made it surprisingly easy to request a tank of helium from their account with AirGas Corp.
 
 But that was where our luck ended.
 
-There's always a pump of adrenaline that comes with receiving an email from Caltech Mail Services.
+About two days later, I woke up to a terrifying sight: FOUR unread emails from Alice Edel, Senior Associate at Caltech Mail Services.
 
-> **You have a package to pickup be prompt FRIENDS CANNOT PICK UP ANYMORE!!!**
->
-> **WE ARE NOW OPEN 9:00AM till 4:20 PM!!!!!!!!!!!**
->
-> **NO WEEKEND SERVICE!!!!!!!!!**
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/alice4.png)There are not many people that can email the student body on a whim (about a shopping cart, with each person's mail code as clickbait in the subject line!) but Alice Edel is one of them.
 
-Alice Edel may be the most powerful being within the bounds of Wilson and Hill. Not a single envelope will make it onto Caltech campus without her knowing about it. If she so desired, she could bring all scientific operations at Caltech to a grinding halt.
-
-There are not many people that can email everyone in the student body with a single keystroke, but Alice Edel is one of them. So when something like this pops up in your inbox:
-
-> **MY SHOPPING CART IS MISSING SOMEONE BORROWED IT AND DID NOT RETURN ALSO A HANDTRUCK WITH MESSED UP WHEEL If you see them please bring it back**
-
-You know she means business.
+Not a single envelope will make it to 1200 E. California Blvd. without her knowing about it. If she so desired, she could bring the entire campus's operations to a screeching halt.
 
 ![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696 (1).jpg "From humble beginnings...")
 
