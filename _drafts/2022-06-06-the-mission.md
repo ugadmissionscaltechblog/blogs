@@ -30,14 +30,14 @@ This adventure began at the end of winter term, when I joined Caltech's [**CubeS
 
 The Caltech website plays us up _a lot_, but the missing context is that all of the club's pre-pandemic members had either graduated or left by the end of last year. This left five sophomores plus one "me", led by our intrepid president Turner Bumbary (AKA the Luminous Plasma Scientist), to scavenge through the remnants scattered everywhere from an almost-forgotten Google Drive to a room-that-everyone-thought-was-just-a-closet next to the [**Pellegrino Space Structures Lab**](http://www.pellegrino.caltech.edu/).
 
-Our original plan was to submit a proposal for NASA's annual [**CubeSat Launch Initiative **](https://www.nasa.gov/directorates/heo/home/CubeSats_initiative)competition, but it was quickly realized that we lacked the knowledge and experience (and staffing) to design an entire spacecraft mission in time for the deadline.
+Our original plan was to submit a proposal for NASA's annual [**CubeSat Launch Initiative**](https://www.nasa.gov/directorates/heo/home/CubeSats_initiative) competition, but it was quickly realized that we lacked the knowledge and experience (and staffing) to design an entire spacecraft mission in time for the deadline.
 
 But that wasn't going to stop us! If NASA wasn't going to take us to space, we were just going to have to get there ourselves.
 
-> WE CHOOSE TO GO TO SPACE. WE CHOOSE TO BUILD A CUBESAT BY THE END OF THIS TERM, AND DO THE OTHER THINGS, NOT BECAUSE THEY ARE EASY, BUT BECAUSE THEY ARE HARD. BECAUSE THAT GOAL WILL SERVE TO ORGANIZE AND MEASURE THE BEST OF OUR ENERGIES AND SKILLS. BECAUSE THAT CHALLENGE IS ONE WE ARE WILLING TO ACCEPT, ONE WE ARE UNWILLING TO POSTPONE, AND ONE WHICH WE INTEND TO WIN!
+> WE CHOOSE TO GO TO SPACE. WE CHOOSE TO BUILD A CUBESAT **BY THE END OF THIS TERM**, AND DO THE OTHER THINGS, NOT BECAUSE THEY ARE EASY, BUT BECAUSE THEY ARE HARD. BECAUSE THAT GOAL WILL SERVE TO ORGANIZE AND MEASURE THE BEST OF OUR ENERGIES AND SKILLS. BECAUSE THAT CHALLENGE IS ONE WE ARE WILLING TO ACCEPT, ONE WE ARE UNWILLING TO POSTPONE, AND ONE WHICH WE INTEND TO WIN!
 
-            _-John F. Kennedy  
-_      _--Michael Guutz (AKA Florida Man)_
+            _-John F. Kennedy_  
+      _--Michael Guutz (AKA Florida Man)_
 
 ***
 
