@@ -35,15 +35,16 @@ Our original plan was to submit a proposal for NASA's annual [**CubeSat Launch I
 But that wasn't going to stop us! If NASA wasn't going to take us to space, we were just going to have to get there ourselves.
 
 > WE CHOOSE TO GO TO SPACE. WE CHOOSE TO BUILD A CUBESAT **BY THE END OF THIS TERM**, AND DO THE OTHER THINGS, NOT BECAUSE THEY ARE EASY, BUT BECAUSE THEY ARE HARD. BECAUSE THAT GOAL WILL SERVE TO ORGANIZE AND MEASURE THE BEST OF OUR ENERGIES AND SKILLS. BECAUSE THAT CHALLENGE IS ONE WE ARE WILLING TO ACCEPT, ONE WE ARE UNWILLING TO POSTPONE, AND ONE WHICH WE INTEND TO WIN!
+>
+> \--John F. Kennedy
 
-            _-John F. Kennedy_  
-      _--Michael Guutz (AKA Florida Man)_
+_--Michael Guutz (AKA Florida Man)_
 
 ***
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-cubesat-art.jpg)_(Inspirational lab art by my friend Jessie! Check out her work on Instagram_ [**_@cloudseverywhere_**](https://www.instagram.com/cloudseverywhere/)_)_
 
-Fast forward to mid-May. (Time is weird at Caltech.) After a few follow-up emails to the club's faculty advisor, Prof. Ehlmann (same one), we finally got card access to the room-that-everyone-thought-was-just-a-closet next to the Pellegrino Space Structures Lab. We immediately set to work designing the science payload (essentially just a video camera, a GPS, and an ultraviolet light sensor to look for ~~upper atmospheric lightning~~ luminous plasma! Not that we were planning on launching during a thunderstorm -- it was a proof of concept thing. But I digress.)
+Fast forward to May. (Time is weird at Caltech.) After a few follow-up emails to the club's faculty advisor, Prof. Ehlmann (same one), we finally got card access to the room-that-everyone-thought-was-just-a-closet next to the Pellegrino Space Structures Lab. We immediately set to work designing the science payload (essentially just a video camera, a GPS, and an ultraviolet light sensor to look for ~~upper atmospheric lightning~~ luminous plasma! Not that we were planning on launching during a thunderstorm -- it was a proof of concept thing. But I digress.)
 
 We then moved on to the main event: getting to space. Or close enough to it, anyway. We would launch a weather balloon, we decided, which would get our payload high enough to see the blackness of space -- but not high enough to violate FAA regulations.
 
@@ -53,7 +54,7 @@ This idea came from a project that a couple of our team members, the Moore Lab S
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_1726794127666486-a.jpeg)
 
-As Plato almost said, "logistics is the mother of invention." Yes, up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier (for the balloon). ASCIT, the undergrad student government, actually turned around our funding proposal very quickly -- and with a generous grant. We 
+Up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier (for the balloon). Because less than a month before the drop-dead launch date is as good a time as any to start! ASCIT, the undergrad student government, actually turned around our funding proposal very quickly -- and with a generous grant. We 
 
 But that was where our luck ended.
 
