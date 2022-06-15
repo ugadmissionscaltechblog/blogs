@@ -64,9 +64,7 @@ About two days later, I woke up to a terrifying sight: FOUR unread emails from A
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/alice4.png)
 
-There are not very many people that can email the whole student body on a whim. (About a shopping cart, with each person's mail code as clickbait in the subject line!) But Alice Edel, Gatekeeper of 1200 E. California Blvd, is one of them.
-
-The other three were legit though, so I booked it to the mail center.
+There are not very many people that can email the whole student body on a whim. (About a shopping cart, with each person's mail code as clickbait in the subject line!) But Alice Edel, Gatekeeper of 1200 E. California Blvd, is one of them. Anyway, I could tell she meant business by the three other emails she sent me _personally_, so I booked it to the mail center.
 
 Not a single envelope will make it to 1200 E. California Blvd. without her knowing about it. If she so desired, she could bring the entire campus's operations to a screeching halt.
 
