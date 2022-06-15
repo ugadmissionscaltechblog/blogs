@@ -44,7 +44,7 @@ But that wasn't going to stop us! If NASA wasn't going to take us to space, we w
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-cubesat-art.jpg)_(Inspirational lab art by my friend Jessie! Check out her work on Instagram_ [**_@cloudseverywhere_**](https://www.instagram.com/cloudseverywhere/)_)_
 
-Fast forward to May. (Time is weird at Caltech.) After a few follow-up emails to the club's faculty advisor, Prof. Ehlmann (same one), we finally got card access to the room-that-everyone-thought-was-just-a-closet next to the Pellegrino Space Structures Lab. We immediately set to work designing the science payload (essentially just a video camera, a GPS, and an ultraviolet light sensor to look for ~~upper atmospheric lightning~~ luminous plasma! Not that we were planning on launching during a thunderstorm -- it was a proof of concept thing. But I digress.)
+Fast forward to May. (Time is weird at Caltech.) After a few follow-up emails to the club's faculty advisor, Prof. Ehlmann (same one), we finally got card access to the room-that-everyone-thought-was-just-a-closet next to the Pellegrino Space Structures Lab. We immediately set to work designing the science payload (essentially just a video camera, a GPS, and an ultraviolet light sensor to look for ~~upper atmospheric lightning~~ luminous plasma! \[Not that we were planning on launching during a thunderstorm -- it was a proof of concept thing. But I digress.\])
 
 We then moved on to the main event: getting to space. Or close enough to it, anyway. We would launch a weather balloon, we decided, which would get our payload high enough to see the blackness of space -- but not high enough to violate FAA regulations.
 
@@ -54,7 +54,7 @@ This idea came from a project that a couple of our team members, the Moore Lab S
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_1726794127666486-a.jpeg)
 
-Up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier for the balloon. After all, less than a month before the drop-dead launch date is as good a time as any to start! (It actually kind of was, because nothing -- literally nothing -- motivates better than a fast-approaching deadline. Did you know a group of Caltech students is called a _procrastination_?)
+Up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier for the balloon. After all, less than a month before the drop-dead launch date is as good a time as any to start! (It actually kind of was, because nothing -- literally nothing -- motivates better than a fast-approaching deadline. \[Did you know a group of Caltech students is called a _procrastination_?\])
 
 ASCIT, the undergrad student government, actually turned around our funding proposal very quickly -- and with a generous grant. We distributed our two-day shipping orders across the internet, spanning the whole range from the hip, new Adafruit chips with built in micro-machine-learning (overkill if you ask me) all the way to the sleaziest depths of Amaz*n. And, finally, the Facilities office made it surprisingly easy to request a tank of helium from their account with AirGas Corp.
 
@@ -62,7 +62,7 @@ But that was where our luck ended.
 
 About two days later, I woke up to a terrifying sight: FOUR unread emails from Alice Edel, Senior Associate at Caltech Mail Services.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/alice4.png)There are not many people that can email the student body on a whim (about a shopping cart, with each person's mail code as clickbait in the subject line!) but Alice Edel is one of them.
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/alice4.png)There are not very many people that can email the whole student body on a whim. (About a shopping cart, with each person's mail code as clickbait in the subject line!) But Alice Edel, Gatekeeper of 1200 E. California Blvd, is one of them.
 
 Not a single envelope will make it to 1200 E. California Blvd. without her knowing about it. If she so desired, she could bring the entire campus's operations to a screeching halt.
 
