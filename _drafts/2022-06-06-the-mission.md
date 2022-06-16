@@ -73,8 +73,6 @@ With less than two weeks until launch day, we were running out of options. While
 
 That is, until his COVID surveillance sample came back positive. And then the PCR test. Honestly, it was really lucky that no one else on the team caught it from him, since we all worked in the same enclosed space, not to mention Caltech was having its second (third?) COVID outbreak in as many months. It was still a somber moment though, because we all knew our fallen comrade would not make it out of quarantine soon enough to see the launch in person.
 
-The team!
-
 CREDITS
 
 Title inspired by [this amazing book](https://www.indiebound.org/book/9780062655868)!
