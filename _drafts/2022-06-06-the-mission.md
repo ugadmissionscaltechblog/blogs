@@ -69,11 +69,11 @@ So I did, and Alice was only too happy to present me with an armful of packages.
 
 To make matters worse, later that day we got an email from AirGas Corp., saying "sowwy (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄).. we awen't accepting new customers wight now (*^.^).., cause of the gwobal hewium shortage 😭" (roughly transcribed). Those cOwOards. Don't they know it's our American right to dump scarce natural resources into the atmosphere?
 
-With less than two weeks until launch day, we were running out of options. While the rest of us were beginning to regroup, the code for the payload computer was coming along nicely, courtesy of our local CompSci major (and recent hire at ROBLOX!), Shivansh. That is, until his COVID surveillance sample came back positive. And then the PCR test.  || ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-roblox_intern.PNG)
+With less than two weeks until launch day, we were running out of options. While the rest of us were beginning to regroup, the code for the payload computer was coming along nicely, courtesy of our local CompSci major (and recent hire at ROBLOX!), Shivansh. || ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-roblox_intern.PNG)
 
-Honestly, it was really lucky that no one else on the team caught it from him, since we all worked in the same enclosed space, not to mention Caltech was having its second (third?) COVID outbreak in as many months. It was still a somber moment though, because we all knew our fallen comrade would not make it out of quarantine soon enough to see the launch in person.
+That is, until his COVID surveillance sample came back positive. And then the PCR test. Honestly, it was really lucky that no one else on the team caught it from him, since we all worked in the same enclosed space, not to mention Caltech was having its second (third?) COVID outbreak in as many months. It was still a somber moment though, because we all knew our fallen comrade would not make it out of quarantine soon enough to see the launch in person.
 
-The team! 
+The team!
 
 CREDITS
 
