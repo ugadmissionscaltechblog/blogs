@@ -36,8 +36,7 @@ But that wasn't going to stop us! If NASA wasn't going to take us to space, we w
 
 > WE CHOOSE TO GO TO SPACE. WE CHOOSE TO BUILD A CUBESAT **BY THE END OF THIS TERM**, AND DO THE OTHER THINGS, NOT BECAUSE THEY ARE EASY, BUT BECAUSE THEY ARE HARD. BECAUSE THAT GOAL WILL SERVE TO ORGANIZE AND MEASURE THE BEST OF OUR ENERGIES AND SKILLS. BECAUSE THAT CHALLENGE IS ONE WE ARE WILLING TO ACCEPT, ONE WE ARE UNWILLING TO POSTPONE, AND ONE WHICH WE INTEND TO WIN!
 >
-> \--John F. Kennedy
->
+> \--John F. Kennedy  
 > \--Michael Guutz (AKA Florida Man)
 
 ***
@@ -64,11 +63,11 @@ About two days later, I woke up to a terrifying sight: FOUR unread emails from A
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/alice4.png "There are not many people that can email everyone in the student body with a single keystroke, but Alice Edel is one of them.")
 
-Alice Edel may be the single most powerful being at Caltech. Not even the smallest envelope will make it past 1200 E. California Blvd. without her knowing about it. If she so desired, she could bring the entire campus's operations to a screeching halt with a gesture. So when she manually sends you an email with that many exclamation marks in the subject line, you book it to the Mail Center.
+Alice Edel may be the single most powerful being in the Institute. Not even the smallest envelope will make it past 1200 E. California Blvd. without her knowing about it. If she so desired, she could bring the entire campus's operations to a screeching halt with a gesture. So when she manually sends you an email with that many exclamation marks in the subject line, you book it to the Mail Center.
 
-So I did, and Alice was only too happy to present me with an armful of packages. After ripping them all open like a kid on Christmas day, though, I noticed we were missing a critical element: the GPS unit. The shipping tracker said it had been delivered, yet the Mail Center could find no trace of it.
+So I did, and Alice was only too happy to present me with an armful of packages. After ripping them all open like a kid on Christmas day, though, I noticed we were missing a mission critical element: the GPS unit. The shipping tracker said it had been delivered, yet the Mail Center disavowed any knowledge of it. With less than 2 weeks until launch day, we had few remaining options. This was war.
 
-Alice Edel gives. Alice Edel takes.
+To make matters worse, later that day we got an email from AirGas Corp., saying "sowwy (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄).. we awen't accepting new customers wight now (*^.^).., cause of the gwobal hewium shortage 😭" (roughly transcribed). Those cOwOards. 
 
 ![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696 (1).jpg "From humble beginnings...")
 
