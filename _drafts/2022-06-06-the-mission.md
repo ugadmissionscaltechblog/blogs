@@ -71,7 +71,7 @@ To make matters worse, later that day we got an email from AirGas Corp., saying 
 
 With less than two weeks until launch day, we were running out of options. While the rest of us were beginning to regroup, the code for the payload computer was coming along nicely, courtesy of our local CompSci major (and recent hire at ROBLOX!), Shivansh. || ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-roblox_intern.PNG)
 
-![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696 (1).jpg "From humble beginnings...")
+The team! ||![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696 (1).jpg "From humble beginnings...")
 
 CREDITS
 
