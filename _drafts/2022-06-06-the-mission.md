@@ -43,7 +43,7 @@ But that wasn't going to stop us! If NASA wasn't going to take us to space, we w
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-cubesat-art.jpg)_(Inspirational lab art by my friend Jessie! Check out her work on Instagram_ [**_@cloudseverywhere_**](https://www.instagram.com/cloudseverywhere/)_)_
 
-Fast forward to May. (Time is weird at Caltech.) After a few follow-up emails to the club's faculty advisor, Prof. Ehlmann (same one), we finally got card access to the room-that-everyone-thought-was-just-a-closet next to the Pellegrino Space Structures Lab. We immediately set to work designing the science payload (essentially just a video camera, a GPS, and an ultraviolet light sensor to look for ~~upper atmospheric lightning~~ luminous plasma! \[Not that we were planning on launching during a thunderstorm -- it was a proof of concept thing. But I digress.\])
+Fast forward to May. (Time is weird at Caltech.) After a few follow-up emails to the club's faculty advisor, Prof. Ehlmann (same one), we finally got card access to the room-that-everyone-thought-was-just-a-closet next to the Pellegrino Space Structures Lab. We immediately set to work designing the science payload (essentially just a video camera, a GPS, and an ultraviolet light sensor to look for ~~upper atmospheric lightning~~ luminous plasma! \[Not that we were planning on launching during a thunderstorm -- it was a proof of concept thing. But I digress.\])||![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696 (1).jpg "From humble beginnings...")
 
 We then moved on to the main event: getting to space. Or close enough to it, anyway. We would launch a weather balloon, we decided, which would get our payload high enough to see the blackness of space -- but not high enough to violate FAA regulations.
 
@@ -69,9 +69,9 @@ So I did, and Alice was only too happy to present me with an armful of packages.
 
 To make matters worse, later that day we got an email from AirGas Corp., saying "sowwy (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄).. we awen't accepting new customers wight now (*^.^).., cause of the gwobal hewium shortage 😭" (roughly transcribed). Those cOwOards. Don't they know it's our American right to dump scarce natural resources into the atmosphere?
 
-With less than two weeks until launch day, we were running out of options. While the rest of us were beginning to regroup, the code for the payload computer was coming along nicely, courtesy of our local CompSci major (and recent hire at ROBLOX!), Shivansh. || ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-roblox_intern.PNG)
+With less than two weeks until launch day, we were running out of options. While the rest of us were beginning to regroup, the code for the payload computer was coming along nicely, courtesy of our local CompSci major (and recent hire at ROBLOX!), Shivansh. That is, until his COVID surveillance sample came back positive. And then the PCR test. Honestly, it was really lucky that no one else on the team caught it from him, since we had all been working  || ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-roblox_intern.PNG)
 
-The team! ||![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696 (1).jpg "From humble beginnings...")
+The team! 
 
 CREDITS
 
