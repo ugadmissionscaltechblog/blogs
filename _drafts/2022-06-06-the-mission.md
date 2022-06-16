@@ -56,19 +56,19 @@ This idea came from a project that a couple of our team members, the Moore Lab S
 
 Up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier for the balloon. After all, less than a month before the drop-dead launch date is as good a time as any to start! (It actually kind of was, because nothing -- literally nothing -- motivates better than a fast-approaching deadline. \[Did you know a group of Caltech students is called a _procrastination_?\])
 
-ASCIT, the undergrad student government, actually turned around our funding proposal very quickly -- and with a generous grant. We distributed our two-day shipping orders across the internet, spanning the whole range from the hip, new Adafruit chips with built in micro-machine-learning (overkill if you ask me) all the way to the sleaziest depths of Amaz*n. And, finally, the Facilities office made it surprisingly easy to request a tank of helium from their account with AirGas Corp.
+ASCIT, the undergrad student government, actually turned around our funding proposal very quickly -- and with a generous grant. We distributed our two-day shipping orders across the internet, spanning the whole range from the hip, new Adafruit chips with built in micro-machine-learning (overkill if you ask me) all the way to the sleaziest depths of Amaz*n. To top it off, the Facilities office made it surprisingly easy to request a tank of helium from their account with AirGas Corp.
 
 But that was where our luck ended.
 
 About two days later, I woke up to a terrifying sight: FOUR unread emails from Alice Edel, Senior Associate at Caltech Mail Services.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/alice4.png)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/alice4.png "There are not many people that can email everyone in the student body with a single keystroke, but Alice Edel is one of them.")
 
-There are not very many people that can email the whole student body on a whim. (About a shopping cart, with each person's mail code as clickbait in the subject line!) But Alice Edel, Gatekeeper of 1200 E. California Blvd, is one of them. Anyway, I could tell she meant business by the three other emails she sent me _personally_, so I booked it to the mail center.
+Alice Edel may be the single most powerful being at Caltech. Not even the smallest envelope will make it past 1200 E. California Blvd. without her knowing about it. If she so desired, she could bring the entire campus's operations to a screeching halt with a gesture. So when she manually sends you an email with that many exclamation marks in the subject line, you book it to the Mail Center.
 
-Not a single envelope will make it to 1200 E. California Blvd. without her knowing about it. If she so desired, she could bring the entire campus's operations to a screeching halt.
+So I did, and Alice was only too happy to present me with an armful of packages. After ripping them all open like a kid on Christmas day, though, I noticed we were missing a critical element: the GPS unit. The shipping tracker said it had been delivered, yet the Mail Center could find no trace of it.
 
-We had ordered a light gas, but we got gaslight. 
+Alice Edel gives. Alice Edel takes.
 
 ![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696 (1).jpg "From humble beginnings...")
 
