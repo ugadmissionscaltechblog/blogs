@@ -69,7 +69,7 @@ So I did, and Alice was only too happy to present me with an armful of packages.
 
 To make matters worse, later that day we got an email from AirGas Corp., saying "sowwy (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄).. we awen't accepting new customers wight now (*^.^).., cause of the gwobal hewium shortage 😭" (roughly transcribed). Those cOwOards. Don't they know it's our American right to dump scarce natural resources into the atmosphere?
 
-{% include float_image.html src='https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-roblox_intern.PNG' -%} 
+{% include float_image.html src='https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-roblox_intern.PNG' -%}
 
 With less than two weeks until launch day, we were running out of options. While the rest of us were recalculating, there was a glimmer of hope: the code for the payload computer was coming along nicely, courtesy of our local CompSci major (and recent hire at ROBLOX!), Shivansh.
 
