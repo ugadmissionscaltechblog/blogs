@@ -55,7 +55,7 @@ This idea came from a project that a couple of our team members, the Moore Lab S
 
 Up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier for the balloon. After all, less than a month before the drop-dead launch date is as good a time as any to start! (It actually kind of was, because nothing -- literally nothing -- motivates better than a fast-approaching deadline. \[Did you know that a group of Caltech students is called a _procrastination_?\])
 
-ASCIT, the undergrad student government, actually turned around our funding proposal very quickly -- and with a generous grant. We distributed our two-day shipping orders across the internet, spanning the whole range from the hip, new Adafruit chips with built in micro-machine-learning (overkill if you ask me) all the way to the sleaziest depths of Amaz*n. To top it off, the Facilities office made it surprisingly easy to request a tank of helium from their account with AirGas Corp.
+ASCIT, the undergrad student government, actually turned around our funding proposal very quickly -- and with a generous grant. We distributed our two-day shipping orders across the internet, spanning the whole range from the hip new Adafruit chips with built in micro-machine-learning (overkill if you ask me) all the way to the sleaziest depths of Amaz*n. To top it off, the Facilities office made it surprisingly easy to request a tank of helium from their account with AirGas Corp.
 
 But that was where our luck ended.
 
@@ -63,13 +63,13 @@ About two days later, I woke up to a terrifying sight: FOUR unread emails from A
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/alice4.png "There are not many people that can email everyone in the student body with a single keystroke, but Alice Edel is one of them.")
 
-Alice Edel may be the single most powerful being in the Institute. Not even the smallest envelope will make it past 1200 E. California Blvd. without her knowing about it. If she so desired, she could bring the entire campus's operations to a screeching halt with a gesture. So when she manually sends you an email with that many exclamation marks in the subject line, you book it to the Mail Center.
+Alice Edel may be the single most powerful being within the Institute. Not even the smallest envelope will make it past 1200 E. California Blvd. without her knowing about it. If she so desired, she could bring the entire campus's operations to a screeching halt with a gesture. So when she manually sends you an email with that many exclamation marks in the subject line, you book it to the Mail Center.
 
-So I did, and Alice was only too happy to present me with an armful of packages. After ripping them all open like a kid on Christmas day, though, I noticed we were missing a mission critical element: the GPS unit. The shipping tracker said it had been delivered, yet the Mail Center disavowed any knowledge of it.
+So I did, and Alice was only too happy to present me with an armful of packages. After ripping them all open like a kid on Christmas, though, I noticed we were missing a mission critical element: the GPS unit. The shipping tracker said it had been delivered, yet the Mail Center disavowed any knowledge of it.
 
 To make matters worse, later that day we got an email from AirGas Corp., saying "sowwy (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄).. we awen't accepting new customers wight now (*^.^).., cause of the gwobal hewium shortage 😭" (roughly transcribed). Those cOwOards. Don't they know it's our American right to dump scarce natural resources into the atmosphere?
 
-With less than two weeks until launch day, we were running out of options. While the rest of us were beginning to regroup, the code for the payload computer was coming along nicely, courtesy of our local CompSci major (and recent hire at ROBLOX!), Shivansh. || ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-roblox_intern.PNG)
+With less than two weeks until launch day, we were running out of options. While the rest of us were recalculating, there was a glimmer of hope: the code for the payload computer was coming along nicely, courtesy of our local CompSci major (and recent hire at ROBLOX!), Shivansh. || ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-roblox_intern.PNG)
 
 That is, until his COVID surveillance sample came back positive. And then the PCR test. Honestly, it was really lucky that no one else on the team caught it from him, since we all worked in the same enclosed space, not to mention Caltech was having its second (third?) COVID outbreak in as many months. It was still a somber moment though, because we all knew our fallen comrade would not make it out of quarantine soon enough to see the launch in person.
 
