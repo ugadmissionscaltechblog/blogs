@@ -45,7 +45,9 @@ But that wasn't going to stop us! If NASA wasn't going to take us to space, we w
 
 Fast forward to May. (Time is weird at Caltech.) After a few follow-up emails to the club's faculty advisor, Prof. Ehlmann (same one), we finally got card access to the room-that-everyone-thought-was-just-a-closet next to the Pellegrino Space Structures Lab. We immediately set to work designing the science payload (essentially just a video camera, a GPS, and an ultraviolet light sensor to look for ~~upper atmospheric lightning~~ luminous plasma! \[Not that we were planning on launching during a thunderstorm -- it was a proof of concept thing. But I digress.\])
 
-{% include float_image.html src='https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696%20(1).jpg' alt='4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)' caption='Besties!' %} We then moved on to the main event: getting to space. Or close enough to it, anyway. We would launch a weather balloon, we decided, which would get our payload high enough to see the blackness of space -- but not high enough to violate FAA regulations.
+{% include float_image.html src='https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696%20(1).jpg' alt='4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)' caption='Besties!' -%} 
+
+We then moved on to the main event: getting to space. Or close enough to it, anyway. We would launch a weather balloon, we decided, which would get our payload high enough to see the blackness of space -- but not high enough to violate FAA regulations.
 
 This idea came from a project that a couple of our team members, the Moore Lab Subbasement Dwellers, worked on earlier in the year. There's a [**fantastic blog post**](https://caltechadmissions.blog/sending-a-high-altitude-balloon-to-space/) all about that, which goes into detail about the science of high altitude balloons!
 
@@ -73,10 +75,10 @@ To make matters worse, later that day we got an email from AirGas Corp., saying 
 
 With less than two weeks until launch day, we were running out of options. While the rest of us were recalculating, there was a glimmer of hope: the code for the payload computer was coming along nicely, courtesy of our local CompSci major (and recent hire at ROBLOX!), Shivansh.
 
-That is, until his COVID surveillance sample came back positive. And then the PCR test. Honestly, it was really lucky that no one else on the team caught it from him, since we all worked in the same enclosed space, not to mention Caltech was having its second (third?) COVID outbreak in as many months. It was still a somber moment though, because we all knew our fallen comrade would not make it out of quarantine soon enough to see the launch in person.
+That is, until his COVID surveillance sample came back positive. And then the PCR test. Honestly, it was really lucky that no one else on the team caught it from him, since we all worked in the same enclosed space, not to mention Caltech was having its second (third?) COVID outbreak in as many months. It was still a somber moment though, because we all knew our fallen comrade would not make it out of quarantine soon enough to see the launch in person. But his dedication to The Mission was unshaken, and he continued to provide ground support remotely, even as his body was isolated in a tiny room in Braun Residence.
 
 CREDITS
 
 Title inspired by [this amazing book](https://www.indiebound.org/book/9780062655868)!
 
-Photo from EE154
+Cover photo courtesy of Tyler Nguyen and the EE154 class
