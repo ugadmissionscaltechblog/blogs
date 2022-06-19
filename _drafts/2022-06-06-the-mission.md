@@ -20,7 +20,7 @@ _In hindsight, it probably shouldn't have taken a flat tire for us to realize th
 
 _But_ [**_the desert takes the weak..._**](https://twitter.com/secretsofdune/status/1425866472354631683)
 
-![Five students next to a pickup truck with a flat tire pulled to the side of a dirt road, in front of a desolate landscape with brown mountains in the distance.](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_565903071542655.jpeg "The desert takes the weak.")_(Left to right: Florida Man,_ **_{% include hover_info.html text='Subbasement' info='Where electrical engineering students famously spend all their time working' %}_** _Dweller #1, Disciple of_ **_{% include hover_info.html text='Bethany Ehlmann,' info='Crazy cool professor, head of NASA JPL\'s Lunar Trailblazer mission, and the reason most of us ended up here' -%}_** **_{% include hover_info.html text='Luminous Plasma' info='AKA upper atmospheric lightning, something all of us were interested in studying on THE MISSION!' %}_** _Scientist, Subbasement Dweller #2. Not pictured: Roblox's Newest Intern, Former Desert Militiaman)_
+![Five students next to a pickup truck with a flat tire pulled to the side of a dirt road, in front of a desolate landscape with brown mountains in the distance.](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_565903071542655.jpeg "The desert takes the weak.")_(Left to right: Florida Man,_ **_{% include hover_info.html text='Subbasement' info='Where electrical engineering students famously spend all their time working' %}_** _Dweller #1, Disciple of_ **_{% include hover_info.html text='Bethany Ehlmann,' info='Crazy cool professor, head of NASA JPL's Lunar Trailblazer mission, and the reason most of us ended up here' -%}_** **_{% include hover_info.html text='Luminous Plasma' info='AKA upper atmospheric lightning, something all of us were interested in studying on THE MISSION!' %}_** _Scientist, Subbasement Dweller #2. Not pictured: Roblox's Newest Intern, Former Desert Militiaman)_
 
 Before we get to all that, I'm afraid we haven't been properly introduced. I'm Michael Gutierrez ("Guutz"), a first-year undergraduate studying Mechanical Engineering. (It's also my first blog post -- hello!)
 
@@ -45,7 +45,7 @@ But that wasn't going to stop us! If NASA wasn't going to take us to space, we w
 
 Fast forward to May. (Time is weird at Caltech.) After a few follow-up emails to the club's faculty advisor, Prof. Ehlmann (same one), we finally got card access to the room-that-everyone-thought-was-just-a-closet next to the Pellegrino Space Structures Lab. We immediately set to work designing the science payload (essentially just a video camera, a GPS, and an ultraviolet light sensor to look for ~~upper atmospheric lightning~~ luminous plasma! \[Not that we were planning on launching during a thunderstorm -- it was a proof of concept thing. But I digress.\])
 
-{% include float_image.html src='https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696%20(1).jpg' alt='4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)' caption='Besties!' -%} 
+{% include float_image.html src='https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696%20(1).jpg' alt='4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)' caption='Besties!' -%}
 
 We then moved on to the main event: getting to space. Or close enough to it, anyway. We would launch a weather balloon, we decided, which would get our payload high enough to see the blackness of space -- but not high enough to violate FAA regulations.
 
@@ -75,7 +75,13 @@ To make matters worse, later that day we got an email from AirGas Corp., saying 
 
 With less than two weeks until launch day, we were running out of options. While the rest of us were recalculating, there was a glimmer of hope: the code for the payload computer was coming along nicely, courtesy of our local CompSci major (and recent hire at ROBLOX!), Shivansh.
 
-That is, until his COVID surveillance sample came back positive. And then the PCR test. Honestly, it was really lucky that no one else on the team caught it from him, since we all worked in the same enclosed space, not to mention Caltech was having its second (third?) COVID outbreak in as many months. It was still a somber moment though, because we all knew our fallen comrade would not make it out of quarantine soon enough to see the launch in person. But his dedication to The Mission was unshaken, and he continued to provide ground support remotely, even as his body was isolated in a tiny room in Braun Residence.
+That is, until his COVID surveillance sample came back positive. And then the PCR test. Honestly, it was really lucky that no one else on the team caught it from him, since we all worked in the same enclosed space, not to mention Caltech was having its second (third?) COVID outbreak in as many months. It was still a somber moment though, because we all knew our fallen comrade would not make it out of quarantine soon enough to see the launch in person. But his dedication to The Mission was unshaken, and he continued to provide ground support remotely, even as he was physically isolated in a tiny room in Braun Residence.
+
+***
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/late-nights.JPG)
+
+{% include hover_info.html text='5 days remain.' info='insert dramatic shift to present tense, indicating things are about to get real.' -%} And the payload still doesn't work. The week ahead will prove to be the busiest, most challenging, and most rewarding of my entire Caltech experience up to this point.
 
 CREDITS
 
