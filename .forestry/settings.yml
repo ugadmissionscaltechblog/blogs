@@ -30,5 +30,5 @@ build:
   preview_docker_image: forestryio/ruby:2.6
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
-    -d _site
+  instant_preview_command: bundle exec jekyll serve --drafts --unpublished --incremental
+    --future -d _site
