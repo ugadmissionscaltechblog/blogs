@@ -93,7 +93,7 @@ It all came to a boil the night before the launch. The whole team was crammed in
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-last-minute-debugging.png)_Never too late for debugging!_
 
-It was a stunning morning in the desert; a little windy, but otherwise good launch conditions.
+It was a stunning morning in the desert; a little windy, but otherwise good launch conditions. Aside from a panicked phone call from Shivansh to pull one more code update from Github (he was lucky we had cell service).
 
 CREDITS
 
