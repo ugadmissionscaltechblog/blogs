@@ -87,7 +87,7 @@ I made that sound rather romantic, but most of it was really just sitting alone 
 
 Oh, and by the way, it was also finals week. And on top of that, I needed to pack up my entire room, as I had to catch a flight to Boston immediately after the launch was \[scheduled to be\] over, in order to start my summer internship two days later. No pressure or anything.
 
-It all came to a boil the night before the launch. The whole team was crammed into the lab (plus Shivansh on a Zoom call), earnestly writing code; unplugging sensors and plugging them back in again; cutting duct tape, cardboard, insulation foam, and fishing line; oh, and calculating how many single-use helium tanks we would need to buy from Party City. {% include hoverinfo.html text='(Thanks, AirGas.)' info='There are so many levels of irony here.' %}
+It all came to a boil the night before the launch. The whole team was crammed into the lab (plus Shivansh on a Zoom call), desperately debugging code; unplugging sensors and plugging them back in again; cutting duct tape, cardboard, insulation foam, and fishing line; oh, and calculating how many single-use helium tanks we would need to buy from Party City. {% include hoverinfo.html text='(Thanks, AirGas.)' info='There are so many levels of irony here.' %} The whole thing was reminiscent of the [**final scene in Ocean's 11**](https://youtu.be/7sndBrg4i68?t=25), with each person one at a time finishing their work and heading home for the night. I tapped out around 2am; Saren and Krishna, the Subbasement Dwellers, tapped out around 3:30am; and then we all met back at the lab at 4:15am to load up the truck. It's go time.
 
 CREDITS
 
