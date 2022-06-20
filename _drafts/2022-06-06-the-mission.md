@@ -89,6 +89,12 @@ Oh, and by the way, it was also finals week. And on top of that, I needed to pac
 
 It all came to a boil the night before the launch. The whole team was crammed into the lab (plus Shivansh on a Zoom call), desperately debugging code; unplugging sensors and plugging them back in again; cutting duct tape, cardboard, insulation foam, and fishing line; oh, and calculating how many single-use helium tanks we would need to buy from Party City. {% include hoverinfo.html text='(Thanks, AirGas.)' info='There are so many levels of irony here.' %} The whole thing was reminiscent of the [**final scene in Ocean's 11**](https://youtu.be/7sndBrg4i68?t=25), with each person one at a time finishing their work and heading home for the night. I tapped out around 2am; Saren and Krishna, the Subbasement Dwellers, tapped out around 3:30am; and then we all met back at the lab at 4:15am to load up the truck. It's go time.
 
+***
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-last-minute-debugging.png)_Never too late for debugging!_
+
+It was a stunning morning in the desert; a little windy, but otherwise good launch conditions.
+
 CREDITS
 
 Title inspired by [this amazing book](https://www.indiebound.org/book/9780062655868)!
