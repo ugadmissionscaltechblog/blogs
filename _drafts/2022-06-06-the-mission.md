@@ -87,6 +87,8 @@ I made that sound rather romantic, but most of it was really just sitting alone 
 
 Oh, and by the way, it was also finals week. And on top of that, I needed to pack up my entire room, as I had to catch a flight to Boston immediately after the launch was \[scheduled to be\] over, in order to start my summer internship two days later. No pressure or anything.
 
+It all came to a boil the night before the launch. The whole team was crammed into the lab (plus Shivansh on a Zoom call), earnestly writing code; unplugging sensors and plugging them back in again; cutting duct tape, cardboard, insulation foam, and fishing line; oh, and calculating how many single-use helium tanks we would need to buy from Party City. {% include hoverinfo.html text='(Thanks, AirGas.)' info='There are so many levels of irony here.' %}
+
 CREDITS
 
 Title inspired by [this amazing book](https://www.indiebound.org/book/9780062655868)!
