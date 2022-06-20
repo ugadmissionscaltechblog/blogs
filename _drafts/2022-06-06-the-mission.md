@@ -20,7 +20,7 @@ _In hindsight, it probably shouldn't have taken a flat tire for us to realize th
 
 _But_ [**_the desert takes the weak..._**](https://twitter.com/secretsofdune/status/1425866472354631683)
 
-![Five students next to a pickup truck with a flat tire pulled to the side of a dirt road, in front of a desolate landscape with brown mountains in the distance.](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_565903071542655.jpeg "The desert takes the weak.")_(Left to right: Florida Man,_ **_{% include hover_info.html text='Subbasement' info='Where electrical engineering students famously spend all their time working' %}_** _Dweller #1, Disciple of_ **_{% include hover_info.html text='Bethany Ehlmann,' info='Crazy cool professor, head of NASA JPL\'s Lunar Trailblazer mission, and the reason most of us ended up here' -%}_** **_{% include hover_info.html text='Luminous Plasma' info='AKA upper atmospheric lightning, something all of us were interested in studying on THE MISSION!' %}_** _Scientist, Subbasement Dweller #2. Not pictured: Roblox's Newest Intern, Former Desert Militiaman)_
+![Five students next to a pickup truck with a flat tire pulled to the side of a dirt road, in front of a desolate landscape with brown mountains in the distance.](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_565903071542655.jpeg "The desert takes the weak.")_(Left to right: Florida Man,_ **_{% include hover_info.html text='Subbasement' info='Where electrical engineering students famously spend all their time working' %}_** _Dweller #1, Disciple of_ **_{% include hover_info.html text='Bethany Ehlmann,' info='Crazy cool professor, head of NASA JPL's Lunar Trailblazer mission, and the reason most of us ended up here' -%}_** **_{% include hover_info.html text='Luminous Plasma' info='AKA upper atmospheric lightning, something all of us were interested in studying on THE MISSION!' %}_** _Scientist, Subbasement Dweller #2. Not pictured: Roblox's Newest Intern, Former Desert Militiaman)_
 
 Before we get to all that, I'm afraid we haven't been properly introduced. I'm Michael Gutierrez ("Guutz"), a first-year undergraduate studying Mechanical Engineering. (It's also my first blog post -- hello!)
 
@@ -82,6 +82,8 @@ That is, until his COVID surveillance sample came back positive. And then the PC
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/late-nights.JPG)
 
 {% include hover_info.html text='5 days remain.' info='insert dramatic shift to present tense, indicating things are about to get real.' -%} And the payload still doesn't work. The week ahead will prove to be the busiest, most challenging, and most rewarding of my entire Caltech experience up to this point.
+
+I made that sound rather romantic, but most of it was really just sitting alone in the lab at 2am trying to figure out why won't the Arduino talk to the Raspberry Pi{% include hover_info.html text='?' info='Because I2C sucks. Never rely on sending data over I2C, kids.' -%} Why did this code not compile{% include hover_info.html text='?' info='Because I forgot a semicolon.' -%} Is this even worth it{% include hover_info.html text='?' info='At 2am, probably not... you are better off using the time to sleep!' -%} Is this how I want to spend the rest of my life...{% include hover_info.html text='?' info='good question.' -%} Did I eat dinner today{% include hover_info.html text='??' info='Fortunately, yes. Although that was 8 hours ago by now.' -%}
 
 CREDITS
 
