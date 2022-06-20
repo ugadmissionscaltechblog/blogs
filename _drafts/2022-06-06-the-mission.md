@@ -20,7 +20,7 @@ _In hindsight, it probably shouldn't have taken a flat tire for us to realize th
 
 _But_ [**_the desert takes the weak..._**](https://twitter.com/secretsofdune/status/1425866472354631683)
 
-![Five students next to a pickup truck with a flat tire pulled to the side of a dirt road, in front of a desolate landscape with brown mountains in the distance.](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_565903071542655.jpeg "The desert takes the weak.")_(Left to right: Florida Man,_ **_{% include hover_info.html text='Subbasement' info='Where electrical engineering students famously spend all their time working' %}_** _Dweller #1, Disciple of_ **_{% include hover_info.html text='Bethany Ehlmann,' info='Crazy cool professor, head of the NASA JPL Lunar Trailblazer mission, and the reason most of us ended up here' -%}_** **_{% include hover_info.html text='Luminous Plasma' info='AKA upper atmospheric lightning, something all of us were interested in studying on THE MISSION!' %}_** _Scientist, Subbasement Dweller #2. Not pictured: Roblox's Newest Intern, Former Desert Militiaman)_
+![Five students next to a pickup truck with a flat tire pulled to the side of a dirt road, in front of a desolate landscape with brown mountains in the distance.](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_565903071542655.jpeg "The desert takes the weak.")_(Left to right: Florida Man,_ **_{% include hoverinfo.html text='Subbasement' info='Where electrical engineering students famously spend all their time working' %}_** _Dweller #1, Disciple of_ **_{% include hoverinfo.html text='Bethany Ehlmann,' info='Crazy cool professor, head of the NASA JPL Lunar Trailblazer mission, and the reason most of us ended up here' -%}_** **_{% include hoverinfo.html text='Luminous Plasma' info='AKA upper atmospheric lightning, something all of us were interested in studying on THE MISSION!' %}_** _Scientist, Subbasement Dweller #2. Not pictured: Roblox's Newest Intern, Former Desert Militiaman)_
 
 Before we get to all that, I'm afraid we haven't been properly introduced. I'm Michael Gutierrez ("Guutz"), a first-year undergraduate studying Mechanical Engineering. (It's also my first blog post -- hello!)
 
@@ -45,7 +45,7 @@ But that wasn't going to stop us! If NASA wasn't going to take us to space, we w
 
 Fast forward to May. (Time is weird at Caltech.) After a few follow-up emails to the club's faculty advisor, Prof. Ehlmann (same one), we finally got card access to the room-that-everyone-thought-was-just-a-closet next to the Pellegrino Space Structures Lab. We immediately set to work designing the science payload (essentially just a video camera, a GPS, and an ultraviolet light sensor to look for ~~upper atmospheric lightning~~ luminous plasma! \[Not that we were planning on launching during a thunderstorm -- it was a proof of concept thing. But I digress.\])
 
-{% include float_image.html src='https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696%20(1).jpg' alt='4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)' caption='Besties!' -%}
+{% include floatimage.html src='https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696%20(1).jpg' alt='4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)' caption='Besties!' -%}
 
 We then moved on to the main event: getting to space. Or close enough to it, anyway. We would launch a weather balloon, we decided, which would get our payload high enough to see the blackness of space -- but not high enough to violate FAA regulations.
 
@@ -71,7 +71,7 @@ So I did, and Alice was only too happy to present me with an armful of packages.
 
 To make matters worse, later that day we got an email from AirGas Corp., saying "sowwy (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄).. we awen't accepting new customers wight now (*^.^).., cause of the gwobal hewium shortage 😭" (roughly transcribed). Those cOwOards. Don't they know it's our American right to dump scarce natural resources into the atmosphere?
 
-{% include float_image.html src='https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-roblox_intern.PNG' -%}
+{% include floatimage.html src='https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-roblox_intern.PNG' -%}
 
 With less than two weeks until launch day, we were running out of options. While the rest of us were recalculating, there was a glimmer of hope: the code for the payload computer was coming along nicely, courtesy of our local CompSci major (and recent hire at ROBLOX!), Shivansh.
 
@@ -81,9 +81,9 @@ That is, until his COVID surveillance sample came back positive. And then the PC
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/late-nights.JPG)
 
-{% include hover_info.html text='5 days remain.' info='insert dramatic shift to present tense, indicating things are about to get real.' -%} And the payload still doesn't work. The week ahead will prove to be the busiest, most challenging, and most rewarding of my entire Caltech experience up to this point.
+{% include hoverinfo.html text='5 days remain.' info='insert dramatic shift to present tense, indicating things are about to get real.' -%} And the payload still doesn't work. The week ahead will prove to be the busiest, most challenging, and most rewarding of my entire Caltech experience up to this point.
 
-I made that sound rather romantic, but most of it was really just sitting alone in the lab at 2am trying to figure out why won't the Arduino talk to the Raspberry Pi{% include hover_info.html text='?' info='Because I2C sucks. Never rely on sending data over I2C, kids.' -%} Why did this code not compile{% include hover_info.html text='?' info='Because I forgot a semicolon.' -%} Is this even worth it{% include hover_info.html text='?' info='At 2am, probably not... you are better off using the time to sleep!' -%} Is this how I want to spend the rest of my life...{% include hover_info.html text='?' info='good question.' -%} Did I eat dinner today{% include hover_info.html text='??' info='Fortunately, yes. Although that was 8 hours ago by now.' -%}**
+I made that sound rather romantic, but most of it was really just sitting alone in the lab at 2am trying to figure out why won't the Arduino talk to the Raspberry Pi{% include hoverinfo.html text='?' info='Because I2C sucks. Never rely on sending data over I2C, kids.' -%} Why did this code not compile{% include hoverinfo.html text='?' info='Because I forgot a semicolon.' -%} Is this even worth it{% include hoverinfo.html text='?' info='At 2am, probably not... you are better off using the time to sleep!' -%} Is this how I want to spend the rest of my life...{% include hoverinfo.html text='?' info='good question.' -%} Did I eat dinner today{% include hoverinfo.html text='??' info='Fortunately, yes. Although that was 8 hours ago by now.' -%}**
 
 CREDITS
 
