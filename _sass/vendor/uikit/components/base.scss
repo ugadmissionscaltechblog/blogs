@@ -201,7 +201,8 @@ strong { font-weight: $base-strong-font-weight; }
 //em { color: $base-em-color; }
 
 .tooltip {
-    position: relative
+    position: relative;
+    border-bottom: dotted 1.5px black;
 }
 
 .tooltip .tooltiptext {
