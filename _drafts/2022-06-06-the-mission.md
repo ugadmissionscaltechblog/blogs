@@ -93,7 +93,7 @@ It all came to a boil the night before the launch. The whole team was crammed in
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-last-minute-debugging.png)_Never too late for debugging!_
 
-It was a stunning morning in the desert; a little windy, but otherwise good launch conditions. Aside from a panicked phone call from Shivansh asking us to pull one more code update from Github (he was lucky we had cell service), the setup went quite smoothly. In NASA JPL tradition, we all munched on a handful of peanuts for good fortune (and then decided to throw the rest of the bag in with the science payload. we've got enough lift -- what could it hurt??) 
+It was a stunning morning in the desert; a little windy, but otherwise good launch conditions. Aside from a panicked phone call from Shivansh asking us to pull one more code update from Github (he was lucky we had cell service), the setup went quite smoothly. In NASA JPL tradition, we all munched on a handful of peanuts for good fortune (and then decided to throw the rest of the bag in with the science payload. We've got enough lift -- {%- include hoverinfo.html text='can\\'t hurt!' info='They say each peanut adds 1dB to the radio sensitivity link budget!' -%}) 
 
 The fully-inflated balloon was truly a sight to behold. 
 
