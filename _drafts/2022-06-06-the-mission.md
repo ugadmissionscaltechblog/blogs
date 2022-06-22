@@ -127,6 +127,8 @@ _But_ _the desert takes the weak..._
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-flat-tire.png)
 
+The desert landscape was seriously awesome, and the adventure was getting more exciting by the second, but we were actually in quite a sticky situation. Fortunately, accompanying us was Saren's father (an actual Former Desert Militiaman) who knew not only how to patch a tire, but also how to survive weeks in hot, arid climates (just in case). Still, our next move was unclear. 
+
 CREDITS
 
 Title inspired by [this amazing book](https://www.indiebound.org/book/9780062655868)!
