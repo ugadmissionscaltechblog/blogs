@@ -22,7 +22,7 @@ _But_ [**_the desert takes the weak..._**](https://twitter.com/secretsofdune/sta
 
 ![Five students next to a pickup truck with a flat tire pulled to the side of a dirt road, in front of a desolate landscape with brown mountains in the distance.](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_565903071542655.jpeg "The desert takes the weak.")_(Left to right: Florida Man,_ **_{% include hoverinfo.html text='Subbasement' info='Where electrical engineering students famously spend all their time working' %}_** _Dweller #1, Disciple of_ **_{% include hoverinfo.html text='Bethany Ehlmann,' info='Crazy cool professor, head of the NASA JPL Lunar Trailblazer mission, and the reason most of us ended up here' -%}_** **_{% include hoverinfo.html text='Luminous Plasma' info='AKA upper atmospheric lightning, something all of us were interested in studying on THE MISSION!' %}_** _Scientist, Subbasement Dweller #2. Not pictured: Roblox's Newest Intern, Former Desert Militiaman)_
 
-Before we get to all that, I'm afraid we haven't been properly introduced. I'm Michael Gutierrez ("Guutz"), a first-year undergraduate studying Mechanical Engineering. (It's also my first blog post -- hello!)
+How did we end up here? That's a long story. But first, I'm afraid we haven't been properly introduced. I'm Michael Gutierrez ("Guutz"), a first-year undergraduate studying Mechanical Engineering. (It's also my first blog post -- hello!)
 
 This adventure began at the end of winter term, when I joined Caltech's [**CubeSat Club**](https://smallsats.caltech.edu/).
 
@@ -93,7 +93,7 @@ It all came to a boil the night before the launch. The whole team was crammed in
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-last-minute-debugging.png)_Never too late for debugging!_
 
-It was a stunning morning in the desert; a little windy, but otherwise good launch conditions. Aside from a panicked phone call from ROBLOX's Newest Intern asking us to pull one more code update from Github (he was lucky we had cell service), the setup went quite smoothly. In NASA JPL tradition, we all munched on a handful of peanuts for good fortune (and then decided to throw the rest of the bag in with the science payload. We've got enough lift -- {% include hoverinfo.html text="can't hurt!" info='They say each peanut adds +1dB to the radio sensitivity link budget!' -%})
+It was a stunning morning in the desert; a little windy, but otherwise good launch conditions. Aside from a panicked phone call from ROBLOX's Newest Intern asking us to pull one more code update from Github (he was lucky we had cell service), the setup went quite smoothly. In NASA JPL tradition, we all munched on a handful of peanuts for good fortune (and then decided to throw the rest of the bag in with the science payload box. We've got enough lift -- {% include hoverinfo.html text="can't hurt!" info='They say each peanut adds +1dB to the radio sensitivity link budget!' -%})
 
 {% include floatimage.html src='https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/seconds-after-launch.png' alt='Seconds after launch, against a deep blue sky, the balloon lifts off with the science payload in tow!' -%}
 
@@ -101,11 +101,31 @@ The fully-inflated balloon was truly a sight to behold. Its less-than-spherical 
 
 We finished assembling the flight-train, attached the parachute (a last-minute engineering feat courtesy of Saren and Krishna, the Subbasement Dwellers), called the FAA to tell them our estimated flight path... and finally, at 08:56 on June 4th, 2022, the first Caltech CubeSat Balloon took to the skies.
 
-Astoundingly, my makeshift antenna setup was able to keep relatively steady contact with the balloon far after we lost visual on it. From tiny screen on my phone, which I had plugged into the radio receiver, we watched the altitude readings grow higher and higher, mile, by mile. Soon enough, we passed 21,000 feet, which meant we had broken the record for longest communications link with a balloon in (recent) Subbasement Dweller history!
+Astoundingly, my makeshift antenna setup was able to keep relatively steady contact with the payload far after we lost visual on the balloon. From tiny screen on my phone, which I had plugged into the radio receiver, we watched the altitude readings grow higher and higher, mile, by mile. Soon enough, we passed 21,000 feet, which meant we had broken the record for longest communications link with a balloon in (recent) Subbasement Dweller history!
 
 But our signal strength started dropping sharply soon after. I wasn't concerned at first, but then at 09:47, we received a garbled signal from the payload, and then... nothing.
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/last-words.png)
+
+***
+
+Over victory pancakes at IHOP, we crunched the GPS data we'd received. Lily graphed the ascent rate using her mad MATLAB skills, and as it turns out, we'd put _too little helium_ in the balloon... which meant by the time it had risen to popping altitude, the wind had carried it way farther than we anticipated. 
+
+Also, the last two plot points sent before the battery banks (presumably) died showed the payload was falling... way faster than it should have, if the parachute had deployed...
+
+It seemed our child would be lost forever. But at the moment we started packing up to head home, by some miracle, one last transmission from the payload trickled in. It had landed around 12:00, apparently in the middle of the desert, and we knew exactly* where. After a brief discussion, we punched the coordinates into Google Maps and hit "GO."
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/flight-path.png)
+
+***
+
+_The sun is hot. The air is bone-dry. Frankly, it's amazing that we've made it this far into the middle of nowhere, and it's going to be even more amazing if we manage to make it back out._
+
+_In hindsight, it probably shouldn't have taken a flat tire for us to realize that what Google Maps called "Transmission Line Road" was very much not a road at all. We've come so far, now only 2.5 miles from the (alleged) landing site after a wild goose chase across half of Southern California..._
+
+_But_ _the desert takes the weak..._
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-flat-tire.png)
 
 CREDITS
 
