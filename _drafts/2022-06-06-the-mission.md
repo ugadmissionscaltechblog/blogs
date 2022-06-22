@@ -101,6 +101,12 @@ The fully-inflated balloon was truly a sight to behold. Its less-than-spherical 
 
 We finished assembling the flight-train, attached the parachute (a last-minute engineering feat courtesy of Saren and Krishna, the Subbasement Dwellers), called the FAA to tell them our estimated flight path... and finally, at 08:56 on June 4th, 2022, the first Caltech CubeSat Balloon took to the skies.
 
+{% include floatimage.html src="https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/balloon-hunting.png" alt="Florida Man atop a picnic table pointing a handheld antenna into the sky" caption="" -%}
+
+Astoundingly, my makeshift antenna setup was able to keep relatively steady contact with the balloon far after we lost visual on it. From tiny screen on my phone, which I had plugged into the radio receiver, we watched the altitude readings grow higher and higher, mile, by mile. 
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/last-words.png)
+
 CREDITS
 
 Title inspired by [this amazing book](https://www.indiebound.org/book/9780062655868)!
