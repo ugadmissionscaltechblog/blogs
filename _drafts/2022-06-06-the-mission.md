@@ -101,8 +101,6 @@ The fully-inflated balloon was truly a sight to behold. Its less-than-spherical 
 
 We finished assembling the flight-train, attached the parachute (a last-minute engineering feat courtesy of Saren and Krishna, the Subbasement Dwellers), called the FAA to tell them our estimated flight path... and finally, at 08:56 on June 4th, 2022, the first Caltech CubeSat Balloon took to the skies.
 
-{% include floatimage.html src="https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/balloon-hunting.png" alt="Florida Man atop a picnic table pointing a handheld antenna into the sky" caption="" -%}
-
 Astoundingly, my makeshift antenna setup was able to keep relatively steady contact with the balloon far after we lost visual on it. From tiny screen on my phone, which I had plugged into the radio receiver, we watched the altitude readings grow higher and higher, mile, by mile. Soon enough, we passed 21,000 feet, which meant we had broken the record for longest communications link with a balloon in (recent) Subbasement Dweller history!
 
 But our signal strength started dropping sharply soon after. I wasn't concerned at first, but then at 09:47, we received a garbled signal from the payload, and then... nothing.
