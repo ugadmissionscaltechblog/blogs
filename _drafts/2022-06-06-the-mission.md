@@ -109,7 +109,7 @@ But our signal strength started dropping sharply soon after. I wasn't concerned 
 
 ***
 
-Over victory pancakes at IHOP, we crunched the GPS data we'd received. Lily graphed the ascent rate using her mad MATLAB skills, and as it turns out, we'd put _too little helium_ in the balloon... which meant by the time it had risen to popping altitude, the wind had carried it way farther than we anticipated. 
+Over victory pancakes at IHOP, we crunched the GPS data we'd received. Lily graphed the ascent rate using her mad MATLAB skills, and as it turns out, we'd put _too little helium_ in the balloon... which meant by the time it had risen to popping altitude (more than 60,000 feet!), the wind had carried it way farther than we anticipated. 
 
 Also, the last two plot points sent before the battery banks (presumably) died showed the payload was falling... way faster than it should have, if the parachute had deployed...
 
@@ -131,10 +131,24 @@ The desert landscape was seriously awesome, and the adventure was getting more e
 
 Deliberation ensued. Do we preserve our physical safety... or our pride? (And, all told, about $1,000 worth of electronics, plus our data and footage, which would otherwise be doomed to a sandy, unmarked grave?) And what about the newly-fledged space peanuts? THINK OF THE PEANUTS, PEOPLE!
 
-In the end, considering that 1) it was the hottest part of the day, 2) my flight was in 6 hours, 3) we were 3 hours away from Caltech, which is an hour away from LAX, and 4) like any responsible Techer, I hadn't finished packing... we decided it was for the best to turn back.
+In the end, considering that 1) it was the hottest part of the day, 2) my flight was in 6 hours, 2b) we were 3 hours away from Caltech, which is an hour away from LAX, and 2c) like any responsible Techer, I hadn't finished packing... we decided it was for the best to turn back.
+
+We may not have recovered the payload, but all things considered, THE MISSION was still a huge success. Even on this small scale, we learned so much about "space"craft operations -- both {% include hoverinfo.html text="technical" info="Add more battery capacity than you think you need" %} and {% include hoverinfo.html text="logistical" info="Don't save integration and testing for the last day!" %} -- and we got to learn it all the hard way, which is so much more fun.
+
+Amazingly, we did make it safely out of the desert (only one of the cars got stuck!) and I boarded my flight on time. In my book at least, that's a happy ending if I ever seen one.
+
+***
 
 CREDITS
 
 Title inspired by [this amazing book](https://www.indiebound.org/book/9780062655868)!
 
 Cover photo courtesy of Tyler Nguyen and the EE154 class
+
+Huge thanks to Shivansh Gupta for inviting me to join the CubeSat Club, and to the rest of the team \[Saren Daghlian, Krishna Pochana, Turner Bumbary, Lily Coffin\] for being awesome :)
+
+***
+
+**_Epilogue._**
+
+This isn't over!
