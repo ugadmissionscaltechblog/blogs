@@ -127,7 +127,11 @@ _But_ _the desert takes the weak..._
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-flat-tire.png)
 
-The desert landscape was seriously awesome, and the adventure was getting more exciting by the second, but we were actually in quite a sticky situation. Fortunately, accompanying us was Saren's father (an actual Former Desert Militiaman) who knew not only how to patch a tire, but also how to survive weeks in hot, arid climates (just in case). Still, our next move was unclear. 
+The desert landscape was seriously awesome, and the adventure was getting more exciting by the second, but we were actually in quite a sticky situation. Fortunately, accompanying us was Saren's father (an actual Former Desert Militiaman) who knew not only how to patch a tire, but also how to survive weeks in hot, arid climates (just in case). Still, our next move was unclear. Attempt to return the steep, rocky way we came? Or pursue the last couple miles of this tire-shredding terrain, and find a different way out? Or even hike there on foot?
+
+Deliberation ensued. Do we preserve our physical safety... or our pride? (And, all told, about $1,000 worth of electronics, plus our data and footage, which would otherwise be doomed to a sandy, unmarked grave?) And what about the newly-fledged space peanuts? THINK OF THE PEANUTS, PEOPLE!
+
+In the end, considering that 1) it was the hottest part of the day, 2) my flight was in 6 hours, 3) we were 3 hours away from Caltech, which is an hour away from LAX, and 4) like any responsible Techer, I hadn't finished packing... we decided it was for the best to turn back.
 
 CREDITS
 
