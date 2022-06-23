@@ -139,24 +139,20 @@ Amazingly, we did make it safely out of the desert (only one of the cars got stu
 
 ***
 
- 
-
- 
-
 CREDITS
 
 Title inspired by [this amazing book](https://www.indiebound.org/book/9780062655868)!
 
-Cover photo courtesy of Tyler Nguyen and the EE154 class
+Cover photo courtesy of Tyler Nguyen and the EE154 class, since we haven't recovered the footage from our own MISSION :sob:
 
 Huge thanks to Shivansh Gupta for inviting me to join the CubeSat Club, and to the rest of the team \[Saren Daghlian, Krishna Pochana, Turner Bumbary, Lily Coffin\] for being awesome :)
-
- 
-
- 
 
 ***
 
 **_Epilogue._**
 
 This isn't over!
+
+First, the payload. At the time of writing, it's still stranded in the desert, but the team is plotting a rescue mission. The onboard GPS, which had its own battery, stayed alive for a few days. It moved a few feet in that period, but our best guess is it's still in that general area. Fingers crossed!
+
+What's next for CubeSat Club? For starters, we want to go full steam ahead for the next round of NASA's CubeSat Launch Initiative, so we hope to recruit a bunch of new members (could be you, dear reader??👀) and find a bigger space to work in. No current plans to launch another balloon, but if there's enough interest...? {% include hoverinfo.html text="The sky's the limit!" info="Strictly speaking, the stratosphere. The stratosphere is the limit." %}
