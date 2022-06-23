@@ -139,6 +139,10 @@ Amazingly, we did make it safely out of the desert (only one of the cars got stu
 
 ***
 
+ 
+
+ 
+
 CREDITS
 
 Title inspired by [this amazing book](https://www.indiebound.org/book/9780062655868)!
@@ -146,6 +150,10 @@ Title inspired by [this amazing book](https://www.indiebound.org/book/9780062655
 Cover photo courtesy of Tyler Nguyen and the EE154 class
 
 Huge thanks to Shivansh Gupta for inviting me to join the CubeSat Club, and to the rest of the team \[Saren Daghlian, Krishna Pochana, Turner Bumbary, Lily Coffin\] for being awesome :)
+
+ 
+
+ 
 
 ***
 
