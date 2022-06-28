@@ -37,7 +37,7 @@ But that wasn’t going to stop us! If NASA wasn't taking us to space, we would 
 > WE CHOOSE TO GO TO SPACE. WE CHOOSE TO BUILD A CUBESAT **BY THE END OF THIS TERM**, AND DO THE OTHER THINGS, NOT BECAUSE THEY ARE EASY, BUT BECAUSE THEY ARE HARD. BECAUSE THAT GOAL WILL SERVE TO ORGANIZE AND MEASURE THE BEST OF OUR ENERGIES AND SKILLS. BECAUSE THAT CHALLENGE IS ONE WE ARE WILLING TO ACCEPT, ONE WE ARE UNWILLING TO POSTPONE, AND ONE WHICH WE INTEND TO WIN!
 >
 > \--John F. Kennedy  
-> \--Michael Guutz (AKA Florida Man){% include tone.html tone="j" %}
+> \--Michael Guutz (AKA Florida Man) {% include tone.html tone="j" %}
 
 ***
 
