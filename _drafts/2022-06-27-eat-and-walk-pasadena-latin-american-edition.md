@@ -21,7 +21,7 @@ If you have little more time in your hands and are willing to walk to Old Pas, h
 
 I gotta say, Tacos 1986 holds a special place in my heart (or stomach!?). **_“When I was a frosh”_*** I lived off-campus with a couple of friends, and we’d walk to get food from here as often as possible. I think what got us in the door was the promise of tacos but what kept us coming back were the vampiros. Kind of like cheesier tostadas, vampiros with either Mexican Coke or some Agua Fresca are definitely worth the 35ish minute walk from campus (or 8-minute drive).
 
-![](https://lh4.googleusercontent.com/TLPDBo7tBCZG2G1z5s5yzN0pyXJq18VdNEtt4Gp6Vx3N5WdaH9iDyroxaii0SLfqjomalhktBgj7OJGypsLmb7RF4p_oLqd64Q1dlk8YmYyJFtDF4NGzS1it5w25VWSipa-_gX5mBc8RuKjmzw =511x376)[tacos_1986.jpg (1457×1073) (d24slhcvzhzz82.cloudfront.net)](https://d24slhcvzhzz82.cloudfront.net/images/2022/bea/tacos_1986.jpg)
+[tacos_1986.jpg (1457×1073) (d24slhcvzhzz82.cloudfront.net)](https://d24slhcvzhzz82.cloudfront.net/images/2022/bea/tacos_1986.jpg)
 
 **King Taco:**
 
