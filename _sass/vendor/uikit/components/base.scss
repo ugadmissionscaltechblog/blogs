@@ -151,6 +151,10 @@ a:hover,
 .content-primary a {
     color: #00b950
 }
+.content-primary sup a {
+    color: $base-link-color;
+    border-bottom: dotted .5px $base-link-color;
+}
 
 /* Text-level semantics
  ========================================================================== */
