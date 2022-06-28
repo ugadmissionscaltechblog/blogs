@@ -65,7 +65,7 @@ About two days later, I woke up to a terrifying sight: FOUR unread emails from A
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/alice4.png "There are not many people that can email everyone in the student body with a single keystroke, but Alice Edel is one of them.")
 
-Alice Edel may be the single most powerful being within the Institute. Not even the smallest envelope will make it past 1200 E. California Blvd. without her knowing about it. If she so desired, she could bring the entire campus's operations to a screeching halt with a gesture. So when she manually sends you an email with that many exclamation marks in the subject line, you book it to the Mail Center.
+Alice Edel may be the single most powerful being within the Institute. Not even the smallest envelope will make it past 1200 E. California Blvd. without her knowing about it. If she so desired, she could bring the entire campus's operations to a screeching halt with a gesture. So when she manually sends you an email with that many exclamation marks in the subject line, you book it to the Mail Center.{% include tone.html tone="j" %}
 
 So I did, and Alice was only too happy to present me with an armful of packages. After ripping them all open like a kid on Christmas, though, I noticed we were missing a mission critical element: the GPS unit. The shipping tracker said it had been delivered, yet the Mail Center disavowed any knowledge of it.
 
@@ -109,7 +109,7 @@ But our signal strength started dropping sharply soon after. I wasn't concerned 
 
 ***
 
-Over victory pancakes at IHOP, we crunched the GPS data we'd received. Lily graphed the ascent rate using her mad MATLAB skills, and as it turns out, we'd put _too little helium_ in the balloon... which meant by the time it had risen to popping altitude (more than 60,000 feet!), the wind had carried it way farther than we anticipated. 
+Over victory pancakes at IHOP, we crunched the GPS data we'd received. Lily graphed the ascent rate using her mad MATLAB skills, and as it turns out, we'd put _too little helium_ in the balloon... which meant by the time it had risen to popping altitude (more than 60,000 feet!), the wind had carried it way farther than we anticipated.
 
 Also, the last two plot points sent before the battery banks (presumably) died showed the payload was falling... way faster than it should have, if the parachute had deployed...
 
