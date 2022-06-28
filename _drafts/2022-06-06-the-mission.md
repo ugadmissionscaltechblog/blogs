@@ -69,7 +69,7 @@ The Mail Center Associates may be the most powerful beings within the Institute.
 
 So I did, and the Associate was only too happy to present me with an armful of packages. After ripping them all open like a kid on Christmas, though, I noticed we were missing a mission critical element: the GPS unit. The shipping tracker said it had been delivered, yet the Mail Center disavowed any knowledge of it. This meant war.{% include tone.html tone="j" %}
 
-To make matters worse, later that day we got an email from AirGas Corp., saying "sowwy (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄).. we awen't accepting new customers wight now (*^.^).., cause of the gwobal hewium shortage 😭" (roughly transcribed).{% include tone.html tone="f" %} Those cowards. Don't they know it's our American right to dump scarce natural resources into the atmosphere?{% include tone.html tone="j" %}
+To make matters worse, later that day we got an email from AirGas Corp., saying "sowwy (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄).. we awen't accepting new customers wight now (*^.^).., cause of the gwobal hewium shortage 😭" (roughly transcribed).{% include tone.html tone="f" %} Those cowards. Don't they know it's our American right to dump scarce natural resources into the atmosphere?{% include tone.html tone="s" %}
 
 {% include floatimage.html src='https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-roblox_intern.PNG' -%}
 
