@@ -125,7 +125,7 @@ Over victory pancakes at IHOP, we crunched the GPS data we'd received. Lily grap
 
 Also, the last two plot points sent before the battery banks (presumably) died showed the payload was falling way faster than it should have been, if the parachute had deployed...
 
-It seemed our child would be lost forever in a distant, unknown location. But at the moment we started packing up to head home, by some miracle, one last transmission from the payload trickled in. It had landed around 12:00, apparently in the middle of the desert, and we knew exactly* where. After a brief discussion, we punched the coordinates into Google Maps and hit "GO."
+It seemed our child would be lost forever in a distant, unknown location. But at the moment we started packing up to head home, by some miracle, one last transmission from the payload trickled in. It had (crash?)landed around 12:00, apparently in the middle of the desert, and we knew exactly* where. After a brief discussion, we punched the coordinates into Google Maps and hit "GO."
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/flight-path.png)
 
