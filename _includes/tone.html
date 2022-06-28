@@ -39,6 +39,8 @@
     <sup><a class="tooltip">/{{ include.tone }}<span class="tooltiptext">Tone indicator: like, for real!</span></a></sup>
 {% when "f" %}
     <sup><a class="tooltip">/{{ include.tone }}<span class="tooltiptext">Tone indicator: fake, for humorous effect</span></a></sup>
+{% when "ref" %}
+    <sup><a class="tooltip">/{{ include.tone }}<span class="tooltiptext">Tone indicator: making a reference</span></a></sup>
 {% else %}
     <sup>/{{ include.tone }}</sup>
 {% endcase %}
