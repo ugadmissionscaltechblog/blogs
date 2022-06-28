@@ -55,7 +55,7 @@ This idea came from a project that a couple of our team members, the Moore Lab S
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_1726794127666486-a.jpeg)
 
-Up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier for the balloon. After all, less than a month before the drop-dead launch date is as good a time as any to start!{% include tone.html tone="hj" %} (It actually kind of was, because nothing -- literally nothing -- motivates better than a fast-approaching deadline. \[Did you know that a group of Caltech students is called a _procrastination_?{% include tone.html tone="j" -%}\])
+Up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier for the balloon. After all, less than a month before the drop-dead launch date is as good a time as any to start!{% include tone.html tone="hj" %} (It actually kind of was, because nothing -- literally nothing -- motivates better than a fast-approaching deadline. \[Did you know that a group of Caltech students is called a _procrastination_? {%- include tone.html tone="j" -%} \])
 
 ASCIT, the undergrad student government, actually turned around our funding proposal very quickly -- and with a generous grant. We distributed our two-day shipping orders across the internet, ranging from the hip new Adafruit chips with built-in micro-machine-learning (overkill if you ask me), all the way to the sleaziest depths of Amaz*n.{% include tone.html tone="hyp" %} To top it off, the Facilities office made it surprisingly easy to request a tank of helium from their account with AirGas Corp.
 
