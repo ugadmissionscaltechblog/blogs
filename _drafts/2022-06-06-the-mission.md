@@ -121,8 +121,6 @@ But our signal strength started dropping sharply soon after. I wasn't concerned 
 
 ***
 
-Over victory pancakes at IHOP, we crunched the GPS data we'd received. Lily graphed the ascent rate using her mad MATLAB skills, and as it turns out, we'd put _too little helium_ in the balloon... which meant by the time it had risen to popping altitude (more than 60,000 feet!), the wind had carried it way farther than we anticipated.
-
 Over victory pancakes at IHOP, we crunched the GPS data we'd received. Lily graphed the ascent rate using her mad MATLAB skills, and as it turns out, we'd put _too little helium_ in the balloon... which meant by the time it had risen to popping altitude (more than 60,000 feet!), the wind had carried it way farther than we anticipated.{% include tone.html tone="neg" %}
 
 Also, the last two plot points sent before the battery banks (presumably) died showed the payload was falling way faster than it should have been, if the parachute had deployed...
