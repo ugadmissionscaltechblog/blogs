@@ -28,7 +28,7 @@ This adventure began at the end of winter term, when I joined Caltech's [**CubeS
 
 > **cube·sat** ║ kjub sæt ║ (n.) **1.** A tiny, inexpensive satellite, about the size of a loaf of bread, that can [**hitch a ride into Earth orbit**](https://www.youtube.com/watch?v=JQy9EwMrILI&ab_channel=Nanoracks) using empty space in another rocket.
 
-The Caltech website plays us up _a lot_, but the missing context is that all of the club's pre-pandemic members had either graduated or left by the end of last year. This left five sophomores plus one "me," led by our intrepid president Turner Bumbary (AKA the Luminous Plasma Scientist), to scavenge through the remnants scattered everywhere from an almost-forgotten Google Drive to a room-that-everyone-thought-was-just-a-closet next to the[ **Pellegrino Space Structures Lab**](http://www.pellegrino.caltech.edu/).
+The Caltech website plays us up _a lot_, but the missing context is that all of the club's pre-pandemic members had either graduated or left by the end of last year. This left five sophomores plus one "me," led by our intrepid president Turner Bumbary (AKA the Luminous Plasma Scientist), to scavenge through the remnants scattered everywhere from an almost-forgotten Google Drive to a room-that-everyone-thought-was-just-a-closet next to the Pellegrino Space Structures Lab ([**if you're curious**](http://www.pellegrino.caltech.edu/)).
 
 Our original plan for the club was to submit a proposal for NASA's annual[ **CubeSat Launch Initiative**](https://www.nasa.gov/directorates/heo/home/CubeSats_initiative) competition, but we quickly realized that we lacked the knowledge and experience (and staffing) to design an entire spacecraft mission in time for the deadline.
 
