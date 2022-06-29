@@ -43,14 +43,14 @@
     opacity: 1;
 }
 
-.content-primary a:hover {
+.content-primary a:hover, .content-primary a:hover em {
     color: $base-link-hover-color;
     text-decoration: $base-link-hover-text-decoration;
     @if(mixin-exists(hook-base-link-hover)) {@include hook-base-link-hover();}
 }
 
 
-.content-primary a {
+.content-primary a, .content-primary a em {
     color: #00b950
 }
 .content-primary sup a {
