@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-06-28T20:00:26.000+00:00
+date: 2022-06-30 20:00:26 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/274362642_1066083627289117_7685991158024664000_n
   (1).png
 tags: []
@@ -37,7 +37,7 @@ But that wasn’t going to stop us! If NASA wasn't taking us to space, we would 
 > WE CHOOSE TO GO TO SPACE. WE CHOOSE TO BUILD A CUBESAT **BY THE END OF THIS TERM**, AND DO THE OTHER THINGS, NOT BECAUSE THEY ARE EASY, BUT BECAUSE THEY ARE HARD. BECAUSE THAT GOAL WILL SERVE TO ORGANIZE AND MEASURE THE BEST OF OUR ENERGIES AND SKILLS. BECAUSE THAT CHALLENGE IS ONE WE ARE WILLING TO ACCEPT, ONE WE ARE UNWILLING TO POSTPONE, AND ONE WHICH WE INTEND TO WIN!
 >
 > \--John F. Kennedy  
-> \--Michael Guutz (AKA Florida Man){% include tone.html tone="j" %}
+> \--Michael Guutz (AKA Florida Man) {% include tone.html tone="j" %}
 
 ***
 
@@ -55,7 +55,7 @@ This idea came from a project that a couple of our team members, the Moore Lab S
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_1726794127666486-a.jpeg)
 
-Up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier for the balloon. After all, less than a month before the drop-dead launch date is as good a time as any to start!{% include tone.html tone="hj" -%} (It actually kind of was, because nothing -- literally nothing -- motivates better than a fast-approaching deadline. \[Did you know that a group of Caltech students is called a _procrastination_? {%- include tone.html tone="j" -%} \])
+Up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier for the balloon. After all, less than a month before the drop-dead launch date is as good a time as any to start!{% include tone.html tone="hj" %} (It actually kind of was, because nothing -- literally nothing -- motivates better than a fast-approaching deadline. \[Did you know that a group of Caltech students is called a _procrastination_? {%- include tone.html tone="j" %}\])
 
 ASCIT, the undergrad student government, actually turned around our funding proposal very quickly -- and with a generous grant. We distributed our two-day shipping orders across the internet, ranging from the hip new Adafruit chips with built-in micro-machine-learning (overkill if you ask me), all the way to the sleaziest depths of Amaz*n.{% include tone.html tone="hyp" %} To top it off, the Facilities office made it surprisingly easy to request a tank of helium from their account with AirGas Corp.
 
@@ -69,7 +69,7 @@ The Mail Center Associates may be the most powerful beings within the Institute.
 
 So I did, and the Associate was only too happy to present me with an armful of packages. After ripping them all open like a kid on Christmas, though, I noticed we were missing a mission critical element: the GPS unit. The shipping tracker said it had been delivered, yet the Mail Center disavowed any knowledge of it. This meant war.{% include tone.html tone="j" %}
 
-To make matters worse, later that day we got an email from AirGas Corp., saying "sowwy (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄).. we awen't accepting new customers wight now (*^.^).., cause of the gwobal hewium shortage 😭" (roughly transcribed).{% include tone.html tone="f" %} Those cowards. Don't they know it's our American right to dump scarce natural resources into the atmosphere?{% include tone.html tone="j" %}
+To make matters worse, later that day we got an email from AirGas Corp., saying "sowwy (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄).. we awen't accepting new customers wight now (*^.^).., cause of the gwobal hewium shortage 😭" (roughly transcribed).{% include tone.html tone="f" %} Those cowards. Don't they know it's our American right to dump scarce natural resources into the atmosphere?{% include tone.html tone="s" %}
 
 {% include floatimage.html src='https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-roblox_intern.PNG' -%}
 
@@ -121,13 +121,11 @@ But our signal strength started dropping sharply soon after. I wasn't concerned 
 
 ***
 
-Over victory pancakes at IHOP, we crunched the GPS data we'd received. Lily graphed the ascent rate using her mad MATLAB skills, and as it turns out, we'd put _too little helium_ in the balloon... which meant by the time it had risen to popping altitude (more than 60,000 feet!), the wind had carried it way farther than we anticipated.
-
 Over victory pancakes at IHOP, we crunched the GPS data we'd received. Lily graphed the ascent rate using her mad MATLAB skills, and as it turns out, we'd put _too little helium_ in the balloon... which meant by the time it had risen to popping altitude (more than 60,000 feet!), the wind had carried it way farther than we anticipated.{% include tone.html tone="neg" %}
 
 Also, the last two plot points sent before the battery banks (presumably) died showed the payload was falling way faster than it should have been, if the parachute had deployed...
 
-It seemed our child would be lost forever in a distant, unknown location. But at the moment we started packing up to head home, by some miracle, one last transmission from the payload trickled in. It had landed around 12:00, apparently in the middle of the desert, and we knew exactly* where. After a brief discussion, we punched the coordinates into Google Maps and hit "GO."
+It seemed our child would be lost forever in a distant, unknown location. But at the moment we started packing up to head home, by some miracle, one last transmission from the payload trickled in. It had (crash?)landed around 12:00, apparently in the middle of the desert, and we knew exactly* where. After a brief discussion, we punched the coordinates into Google Maps and hit "GO."
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/flight-path.png)
 

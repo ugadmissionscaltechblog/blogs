@@ -1,10 +1,10 @@
 ---
 layout: post
 date: 2022-06-27 22:09:28 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/
+image: https://d24slhcvzhzz82.cloudfront.net/images/2022/bea/tacos_1986.jpg
 tags: []
 title: 'Eat and Walk Pasadena: Latin American Edition'
-author: Beatriz Avila-Rimer
+author: Bea
 categories:
 - local
 
@@ -20,6 +20,8 @@ If you have little more time in your hands and are willing to walk to Old Pas, h
 **Tacos 1986:**
 
 I gotta say, Tacos 1986 holds a special place in my heart (or stomach!?). **_“When I was a frosh”_*** I lived off-campus with a couple of friends, and we’d walk to get food from here as often as possible. I think what got us in the door was the promise of tacos but what kept us coming back were the vampiros. Kind of like cheesier tostadas, vampiros with either Mexican Coke or some Agua Fresca are definitely worth the 35ish minute walk from campus (or 8-minute drive).
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/bea/tacos_1986.jpg)
 
 **King Taco:**
 
