@@ -141,20 +141,12 @@ a,
 }
 
 a:hover,
-.uk-link:hover,
-.content-primary a:hover {
+.uk-link:hover {
     color: $base-link-hover-color;
     text-decoration: $base-link-hover-text-decoration;
     @if(mixin-exists(hook-base-link-hover)) {@include hook-base-link-hover();}
 }
 
-.content-primary a {
-    color: #00b950
-}
-.content-primary sup a {
-    color: $base-link-color;
-    border-bottom: dotted .5px $base-link-color;
-}
 
 /* Text-level semantics
  ========================================================================== */
@@ -203,47 +195,6 @@ strong { font-weight: $base-strong-font-weight; }
  */
 
 //em { color: $base-em-color; }
-
-.tooltip {
-    position: relative;
-    border-bottom: dotted 1.5px black;
-}
-
-.tooltip .tooltiptext {
-    visibility: hidden;
-    width: 15em;
-    background-color: #555;
-    color: #fff;
-    text-align: center;
-    border-radius: 6px;
-    padding: .5em;
-    position: absolute;
-    z-index: 1;
-    bottom: 125%;
-    left: 50%;
-    margin-left: -7.5em;
-    opacity: 0;
-    transition: opacity 0.3s;
-    font-weight: normal;
-    font-style: normal;
-    line-height: normal;
-}
-  
-.tooltip .tooltiptext::after {
-    content: "";
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    margin-left: -5px;
-    border-width: 5px;
-    border-style: solid;
-    border-color: #555 transparent transparent transparent;
-}
-  
-.tooltip:hover .tooltiptext {
-    visibility: visible;
-    opacity: 1;
-}
 
 
 /*
