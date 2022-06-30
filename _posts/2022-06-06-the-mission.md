@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-06-29 20:00:26 +0000
+date: 2022-06-29T20:00:26.000+00:00
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/274362642_1066083627289117_7685991158024664000_n
   (1).png
 tags: []
@@ -65,7 +65,7 @@ About two days later, I woke up to a terrifying sight: FOUR unread emails from t
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/mailservices.png)
 
-The Mail Center Associates may be the most powerful beings within the Institute. Not even the smallest envelope will make it past 1200 E. California Blvd. without them knowing about it. If they so desired, they could bring the entire campus's operations to a screeching halt with flick of the wrist.{% include tone.html tone="j" %} So when one of them manually sends you an email with that many exclamation marks in the subject line, you book it to the Mail Center.
+The Mail Center Associates may be the most powerful beings within the Institute. Not even the smallest envelope will make it past 1200 E. California Blvd. without them knowing about it. If they so desired, they could bring the entire campus's operations to a screeching halt with a flick of the wrist.{% include tone.html tone="j" %} So when one of them manually sends you an email with that many exclamation marks in the subject line, you book it to the Mail Center.
 
 So I did, and the Associate was only too happy to present me with an armful of packages. After ripping them all open like a kid on Christmas, though, I noticed we were missing a mission critical element: the GPS unit. The shipping tracker said it had been delivered, yet the Mail Center disavowed any knowledge of it. This meant war.{% include tone.html tone="j" %}
 
