@@ -22,7 +22,7 @@ Source: [Iron Man: The engineer who became a superhero | Penn Today (upenn.edu)]
 
 Now we have basically the opposite end of the spectrum. Not to say that Steve Rogers isn’t intelligent or smart (although some of his decisions have been a bit….questionable to say the least), it’s just that Steve has always been more of the person to rely on his own prowess instead of any sort of technology. I also suspect that the entirety of STEM at Caltech is highly different from the STEM background that Steve might have had back in the 1930s. Steve’s background, however, would likely have led him to a major in history, with him having first-hand information from the previous century but also being interested in what led society from the past to become the society that we know today. However, this isn’t to say that Steve would be completely out of the realm of STEM. I believe that Steve would try for a minor in Information and Data Sciences that would allow him to gain general knowledge in the field while also being able to have some practical training, especially considering his background in S.H.I.E.L.D where he was not someone to sit back and let others do the job for him.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/aija/Caltech%20but%20Avengers/Captain%20America%20History.png)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/aija/Caltech%20but%20Avengers/Captain%20America%20History1.png)
 
 Source: [Smithsonian Institution | Marvel Cinematic Universe Wiki | Fandom](https://marvelcinematicuniverse.fandom.com/wiki/Smithsonian_Institution)
 
@@ -40,7 +40,6 @@ Source: [Black Widow Hair: The Definitive Ranking, By Movie (formulate.co)](http
 
 Thor was a bit harder to narrow down, in part because he is definitely more of a physical education guy than a STEM major, but also because we have no idea what, if any, type of education he was getting on Asgard. The guy could’ve been a Math prodigy on Asgard as far as we know. However, since Thor was technically King of an entire planet, I’m pretty sure that out of all of the majors that Caltech has, he would be a Political Science major. This would help him figure out how to rule Asgard in the event that it was ever up to him to rule instead of Valkyrie. Besides this, I could see Thor minoring in planetary sciences, in part to understand how Earth (aka Midgard) works seeing as how the Asgardians now reside on Earth, but also probably to amuse himself with “how much better Asgard was than Midgard”.
 
-  
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/aija/Caltech but Avengers/Thor Politics.png)
 
 Source: [The 10 Best Food Moments From the Thor Trilogy | Food & Wine (foodandwine.com)](https://www.foodandwine.com/news/marvel-thor-food-moments)
@@ -49,7 +48,7 @@ Source: [The 10 Best Food Moments From the Thor Trilogy | Food & Wine (foodandwi
 
 Short answer: Make stuff go boom
 
-Long answer: Now while Clint may not appear to be someone that would enjoy material science, or any STEM class for that matter, you’ve got to remember that Clint bases most of his Avengering (yes, that is now a verb) on his archery skills. This, of course, relies on arrows– Arrows that could be tailored to meet the needs of the archer. Clint would be a materials science major with a HUGE focus on tailoring his arrows to fit any type of situation he might find himself stuck in. Most, if not all, of the Avengers are very independent people who don’t love relying on others if they could have solved the problem themselves. Clint knows that he is one of the only Avengers without superpowers and he would definitely want to make up for that with reliable archery skills. Being a materials science major would help him figure out what substances could be used as adhesives or flares or would go *boom* in the right scenarios.
+Long answer: Now while Clint may not appear to be someone that would enjoy material science, or any STEM class for that matter, you’ve got to remember that Clint bases most of his Avengering (yes, that is now a verb) on his archery skills. This, of course, relies on arrows– Arrows that could be tailored to meet the needs of the archer. Clint would be a materials science major with a HUGE focus on tailoring his arrows to fit any type of situation he might find himself stuck in. Most, if not all, of the Avengers are very independent people who don’t love relying on others if they could have solved the problem themselves. Clint knows that he is one of the only Avengers without superpowers and he would definitely want to make up for that with reliable archery skills. Being a materials science major would help him figure out what substances could be used as adhesives or flares or would go _boom_ in the right scenarios.
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/aija/Caltech but Avengers/Hawkeye Materials Science.png)
 
