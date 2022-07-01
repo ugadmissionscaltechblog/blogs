@@ -32,10 +32,12 @@ It feels a little cliché to say that my life changed after the trip. But after 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/1.JPG "Galapagos Tortoise!")
 
-[https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/3.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/3.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/3.JPG")
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/2.JPG "The Whole Galapa-Gang :)")
 
-[https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/4.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/4.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/4.JPG")
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/3.JPG "Sleepy flamingo")
 
-[https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/6.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/6.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/6.JPG")
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/4.JPG "blue footed boobie")
 
-[https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/7.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/7.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/7.JPG")
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/6.JPG)
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/7.JPG)
