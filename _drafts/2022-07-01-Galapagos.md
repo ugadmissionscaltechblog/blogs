@@ -2,7 +2,10 @@
 layout: post
 date: 2022-07-01 18:33:07 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/7.JPG
-tags: []
+tags:
+- coolest_classes
+- spotlight
+- global_travel
 title: 'My Trip to the Galapagos! '
 author: Katelyn Lee
 categories:
