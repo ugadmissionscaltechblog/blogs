@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-06-24T03:45:29.000+00:00
-image: https://d24slhcvzhzz82.cloudfront.net/https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/images/2022/juni/Screen+Shot+2022-07-01+at+10.44.55+PM.png
+image: https://d24slhcvzhzz82.cloudfront.net/images/2022/juni/CCSL.png
 tags: []
 title: 'The Caltech Covid Lab: Where Nothing Can Become Something'
 author: Juni Polansky
@@ -30,3 +30,5 @@ However, it did not take me long to learn speed and efficiency, and soon enough 
 I’ve made friends with the other employees, and we use work as an opportunity to detox from school stressors and relax. We made a group playlist and we listen to music while catching up on each other's lives. Work is an environment of peace, comfort, and camaraderie.
 
 So, the next time you're spitting into a cup to submit your weekly sample and you wonder how exactly your test kit was made, just know it was made with love.
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/juni/CCSL.png)
