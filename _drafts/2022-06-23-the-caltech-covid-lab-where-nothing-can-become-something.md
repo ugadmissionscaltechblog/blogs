@@ -1,8 +1,7 @@
 ---
 layout: post
 date: 2022-06-24T03:45:29.000+00:00
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/juni/Screen Shot 2022-07-01
-  at 10.44.55 PM.png
+image: https://d24slhcvzhzz82.cloudfront.net/https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/images/2022/juni/Screen+Shot+2022-07-01+at+10.44.55+PM.png
 tags: []
 title: 'The Caltech Covid Lab: Where Nothing Can Become Something'
 author: Juni Polansky
