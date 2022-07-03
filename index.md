@@ -10,4 +10,4 @@ layout: full
 
 {% include section-authors.html title="Meet Our Bloggers" %}
 
-{% include section-instagram.html title="Latest On Instagram" cols="4" count="3" gutter="true" %}
+{% include section-calendar.html title = "What's Happening at Caltech" %}
