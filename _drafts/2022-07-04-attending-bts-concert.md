@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-07-05 01:27:13 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/
+image: https://d24slhcvzhzz82.cloudfront.net/images/2022/mila/sofi.JPG
 tags: []
 title: Attending BTS Concert
 author: Mila Hong
@@ -14,6 +14,8 @@ categories:
 Prior to the fall term, I had never been to a concert. So when my roommate asked me one morning if I wanted to go to a BTS concert with her, I had to. In fact, Kpop and BTS were how we decided to become roommates. It was a little tricky to attend because it was during the week before finals. However, how often was BTS going to come to LA?
 
 We planned our outfits, took pictures, and Lyfted to SOFI stadium. Even though we got there early, it was already swarming and packed. Vendors tried to sell us BTS shirts, sweatshirts, and bags.
+
+[https://d24slhcvzhzz82.cloudfront.net/images/2022/mila/sofi.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2022/mila/sofi.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2022/mila/sofi.JPG")
 
 We wanted to get ARMY Bombs, which are concert lightsticks. However, unfortunately, we got in line for a first-level vendor booth and they ran out. As a tip to anyone who plans on going to a BTS concert, if you want to just get an ARMY Bomb (a lightstick), it’s better to get them at the second-level vendors.
 
