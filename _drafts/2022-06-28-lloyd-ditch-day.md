@@ -31,7 +31,9 @@ We also get this incredibly photogenic shot of my teammates trying to build a ju
 
 ## Bomb Defuse
 
-Next, we enter a suspicious white tent where we learn that the nefarious Dr. Doofenshmirtz has planted these very dangerous-looking nuclear bombs as part of an evil plan. Unfortunately, unlike most of his gadgets, these bombs do not have a big red self-destruct button. Instead, we must cut the wires in a certain order to save the world. We hunt post-its around the area, complete a semantle, and finally puzzle out a truth table related to the cryptocurrency scheming of several Phineas and Ferb characters.
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/enoch/IMG_1147.jpg)
+
+Next, we enter a suspicious white tent where we learn that the nefarious Dr. Doofenshmirtz has planted these very dangerous-looking nuclear bombs as part of an evil plan. Unfortunately, unlike most of his gadgets, these bombs do not have a big red self-destruct button. Instead, we must cut the wires in a certain order to save the world. We hunt post-its around the area, complete a semantle, and finally puzzle out a truth table related to the cryptocurrency scheming of several Phineas and Ferb characters.Next, we enter a suspicious white tent where we learn that the nefarious Dr. Doofenshmirtz has planted these very dangerous-looking nuclear bombs as part of an evil plan. Unfortunately, unlike most of his gadgets, these bombs do not have a big red self-destruct button. Instead, we must cut the wires in a certain order to save the world. We hunt post-its around the area, complete a semantle, and finally puzzle out a truth table related to the cryptocurrency scheming of several Phineas and Ferb characters.Next, we enter a suspicious white tent where we learn that the nefarious Dr. Doofenshmirtz has planted these very dangerous-looking nuclear bombs as part of an evil plan. Unfortunately, unlike most of his gadgets, these bombs do not have a big red self-destruct button. Instead, we must cut the wires in a certain order to save the world. We hunt post-its around the area, complete a semantle, and finally puzzle out a truth table related to the cryptocurrency scheming of several Phineas and Ferb characters.Next, we enter a suspicious white tent where we learn that the nefarious Dr. Doofenshmirtz has planted these very dangerous-looking nuclear bombs as part of an evil plan. Unfortunately, unlike most of his gadgets, these bombs do not have a big red self-destruct button. Instead, we must cut the wires in a certain order to save the world. We hunt post-its around the area, complete a semantle, and finally puzzle out a truth table related to the cryptocurrency scheming of several Phineas and Ferb characters.Next, we enter a suspicious white tent where we learn that the nefarious Dr. Doofenshmirtz has planted these very dangerous-looking nuclear bombs as part of an evil plan. Unfortunately, unlike most of his gadgets, these bombs do not have a big red self-destruct button. Instead, we must cut the wires in a certain order to save the world. We hunt post-its around the area, complete a semantle, and finally puzzle out a truth table related to the cryptocurrency scheming of several Phineas and Ferb characters.
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/enoch/IMG_1145.jpg)
 
@@ -52,8 +54,6 @@ After lunch at the park behind the track, we head to the next activity - the sen
 Pictured: Jonah and Aditya wheelbarrowing across the pool with newspapers and a basket.
 
 After all the materials were transported, we set about building the highest tower possible. The rules are very unclear with regard to what constituted a tower, so my team goes up to the skywalk and throws down a basket attached to unrolled duct tape.
-
-Pictured: Sam becomes the tower for his team with a suit of newspaper armor while standing on a chair
 
 ## Paintball
 
