@@ -23,7 +23,7 @@ For those of you who don’t know, an Arnold Palmer is a drink made by mixing ic
 
 **3. Lavender lemonade**
 
-This is one of the most popular drinks on campus, and rightfully so. Adding lavender syrup to lemonade is one of the best combinations, and this drink has earned its spot as a Red Door staple. Red Door also recently added peach and strawberry syrups (mentioned earlier), and these are also great to add to lemonade!
+This is one of the most popular drinks on campus, and rightfully so. Adding lavender syrup to lemonade is one of the best combinations, and this drink has earned its spot as a Red Door staple. Red Door recently added peach and strawberry syrups (mentioned earlier), and these are also great to add to lemonade!
 
 **4. Hot latte with caramel and vanilla syrup**
 
