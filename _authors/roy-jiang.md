@@ -6,6 +6,6 @@ house: Fleming
 meet: 'false'
 class: "2025"
 pronouns: He/Him/His
-image: images/2022/roy/pfp.JPG
+image: https://d24slhcvzhzz82.cloudfront.net/images/2022/roy/pfp.JPG
 
 ---
