@@ -65,10 +65,10 @@ Jenni: art chair
 
 Mabel: construction chair
 
-Sulekha - party chair
+Sulekha: party chair
 
-Katelyn - house president
+Katelyn: house president
 
 **Special mentions:**
 
-Luka Valencic: Caltech ‘22
+Luka: Caltech ‘22
