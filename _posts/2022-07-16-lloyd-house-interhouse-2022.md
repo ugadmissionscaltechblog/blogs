@@ -57,8 +57,6 @@ Sulekha, one of the party chairs, found the building to be the most rewarding pa
 
 Overall, I consider Lloydax - the preparation and the party- to be one of the most fulfilling moments of my first year at Caltech. I was able to get out of my comfort zone by picking up new skills like constructing the railings for the stage and perfecting the up-down strokes for background colors on the boards. With strong leadership and good participation, we were able to put together a party like no other.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/enoch/interhouse/matticus.png)
-
 **People interviewed:**
 
 Adele: food chair
