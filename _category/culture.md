@@ -1,4 +1,5 @@
 ---
-tag: culture
+tag: []
 permalink: "/category/culture/"
+
 ---
