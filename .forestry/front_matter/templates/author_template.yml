@@ -59,5 +59,6 @@ fields:
   description: Needs to be optimized and then uploaded to AWS. If you're up to this
     stage and don't know what to do, pause and head back to the Google Doc.
 pages:
+- _authors/enoch-luk.md
 - _authors/michael-gutierrez.md
 - _authors/roy-jiang.md
