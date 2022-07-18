@@ -4,7 +4,7 @@ date: 2022-06-29 02:48:18 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/enoch/1photogenic.jpg
 tags: []
 title: 'Lloyd Ditch Day: Phineas and Ferb'
-author: Enoch Luk
+author: eluk
 categories:
 - culture
 username: eluk
