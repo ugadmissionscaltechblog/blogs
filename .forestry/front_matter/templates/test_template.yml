@@ -10,8 +10,9 @@ fields:
   name: title
   label: title
 - type: text
-  name: author
-  label: author
+  name: username
+  label: username
+  description: 'Enter your AWS username. '
 - type: list
   name: categories
   label: categories
@@ -34,14 +35,11 @@ fields:
 - name: image
   type: text
   config:
-    required: false
+    required: true
+    min: 1
   label: image
-  description: '- Optimize your images at <a href="http://www.imageoptimizer.net/Pages/Home.aspx"
-    title="Image Optimizer" target="_blank">http://www.imageoptimizer.net/Pages/Home.aspx</a>
-    and <a href="https://tinypng.com" title="Tinypng" target="_blank">https://tinypng.com</a><br>-
-    Upload to AWS and <strong>make public</strong> <br>- Grab that key and paste it
-    after "<a href="https://d24slhcvzhzz82.cloudfront.net/" title="https://d24slhcvzhzz82.cloudfront.net/"
-    target="_blank">https://d24slhcvzhzz82.cloudfront.net/</a>"'
+  description: After uploading your image to AWS, paste the key here. Remember to
+    <strong>make your photo public</strong>!
   default: https://d24slhcvzhzz82.cloudfront.net/
 - name: tags
   type: tag_list
