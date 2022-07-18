@@ -4,7 +4,7 @@ date: 2022-07-13 03:39:34 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/julian/Braun_Gym_Weight_Room.jpg
 tags: []
 title: What does Lifting look like at Caltech?
-author: Julian Millan
+author: jmillan
 categories:
 - academics
 username: ''
