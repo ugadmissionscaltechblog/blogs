@@ -57,6 +57,7 @@ fields:
     stage and don't know what to do, pause and head back to the Google Doc.
   default: https://d24slhcvzhzz82.cloudfront.net/
 pages:
+- _authors/aija-washington.md
 - _authors/athena-kolli.md
 - _authors/bea.md
 - _authors/benjamin-r.lugo.md
