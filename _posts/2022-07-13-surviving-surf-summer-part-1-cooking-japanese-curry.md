@@ -4,7 +4,7 @@ date: 2022-07-13 01:13:32 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/rachael/67789294668__7442B7F6-DF06-457B-831C-56645ADD6B94.png
 tags: []
 title: 'Surviving SURF Summer Part 1: Cooking Japanese Curry'
-author: Rachael Kim
+author: subinkim
 categories: []
 
 ---
