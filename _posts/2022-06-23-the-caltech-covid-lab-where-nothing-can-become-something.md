@@ -7,6 +7,7 @@ title: 'The Caltech Covid Lab: Where Nothing Can Become Something'
 author: Juni Polansky
 categories:
 - research
+username: jpolansky
 
 ---
 Like many students at Caltech, I suffer from a slight boba addiction, where side effects may include over caffeination, minor sugar highs, and of course, a large toll on one’s wallet. This addiction is not helped by the fact that there are at least three boba shops within walking distance of campus. So, after an entire term’s worth of boba runs, I came back from winter break with a new year’s epiphany: it was time to get a job. Rather than try to curb my addiction, I decided to find a way to subsidize it.
