@@ -4,7 +4,7 @@ date: 2022-07-14 21:19:14 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/
 tags: []
 title: Red Door Secret Menu Drinks
-author: Aditee Prabhutendolkar
+author: aditee
 categories:
 - culture
 
