@@ -8,7 +8,7 @@ fields:
     required: false
   label: title
   description: Enter your name. This name will be displayed on the post.
-- name: AWS_username
+- name: author
   type: text
   config:
     required: false
