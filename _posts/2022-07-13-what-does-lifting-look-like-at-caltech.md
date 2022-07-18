@@ -7,7 +7,6 @@ title: What does Lifting look like at Caltech?
 author: jmillan
 categories:
 - academics
-username: ''
 
 ---
 **What does Lifting look like at Caltech?**

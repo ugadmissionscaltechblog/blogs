@@ -8,7 +8,6 @@ title: What Caltech major would the Avengers be?
 author: awashing
 categories:
 - culture
-username: awashing
 
 ---
 When we think of Caltech and the Avengers, most of us would not make any sort of direct connections between the two. The only connection that comes to my mind is that many Caltech students enjoy Marvel and the Avengers. But what if we made another sort of connection. Where instead of Caltech students liking the Avengers, the Caltech students WERE the Avengers. If this was the case, what major would each Avenger be? (Note: For my emotional well-being, in this scenario, everyone is alive and happy with their lives at Caltech)

@@ -4,7 +4,7 @@ date: 2022-06-27 22:09:28 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/bea/tacos_1986.jpg
 tags: []
 title: 'Eat and Walk Pasadena: Latin American Edition'
-author: Bea
+author: bea
 categories:
 - local
 
