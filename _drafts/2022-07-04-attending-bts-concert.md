@@ -4,7 +4,7 @@ date: 2022-07-05 01:27:13 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/
 tags: []
 title: Attending BTS Concert
-author: Mila Hong
+author: mhong
 categories:
 - culture
 
