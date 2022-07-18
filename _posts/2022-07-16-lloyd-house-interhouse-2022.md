@@ -4,7 +4,7 @@ date: 2022-07-16 00:57:43 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/enoch/interhouse/food.JPG
 tags: []
 title: Lloyd Interhouse 2022
-author: Enoch Luk
+author: eluk
 categories:
 - culture
 username: eluk
