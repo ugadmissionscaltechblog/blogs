@@ -11,7 +11,7 @@ fields:
   name: title
   label: title
 - type: text
-  name: username
+  name: author
   label: username
   description: 'Enter your AWS username. '
 - type: list
