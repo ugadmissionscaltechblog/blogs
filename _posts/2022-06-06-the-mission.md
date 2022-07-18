@@ -5,7 +5,7 @@ image: https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/274362642_1066083
   (1).png
 tags: []
 title: THE MISSION...
-author: Michael Gutierrez
+author: magutier
 categories:
 - clubs
 username: magutier
