@@ -4,7 +4,7 @@ date: 2022-06-29T04:36:18.000+00:00
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/julian/fork_in_the_road.jfif
 tags: []
 title: My Experience with Caltech Humanities
-author: Julian Millan
+author: jmillan
 categories:
 - academics
 username: jmillan
