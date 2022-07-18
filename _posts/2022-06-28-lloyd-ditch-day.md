@@ -7,7 +7,6 @@ title: 'Lloyd Ditch Day: Phineas and Ferb'
 author: eluk
 categories:
 - culture
-username: eluk
 
 ---
 ## Ditch Day begins

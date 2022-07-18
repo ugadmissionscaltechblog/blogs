@@ -7,8 +7,6 @@ title: Lloyd Interhouse 2022
 author: eluk
 categories:
 - culture
-username: eluk
-
 ---
 About a dozen frosh sit and stand in a semicircle around a whiteboard. Various Lloyd-themed interhouse names sit on a list awaiting their fate. One by one, possibilities are discussed and voted on, until four remain.
 

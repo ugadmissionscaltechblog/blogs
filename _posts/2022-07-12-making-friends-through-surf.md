@@ -6,7 +6,6 @@ tags: []
 title: Making Friends Through SURF
 author: subinkim
 categories: []
-username: subinkim
 
 ---
 # **Making Friends Through SURF**
