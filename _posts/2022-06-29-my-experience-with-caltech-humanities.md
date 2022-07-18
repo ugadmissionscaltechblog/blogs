@@ -7,7 +7,7 @@ title: My Experience with Caltech Humanities
 author: Julian Millan
 categories:
 - academics
-username: ''
+username: jmillan
 
 ---
 # My Experience with Caltech Humanities
