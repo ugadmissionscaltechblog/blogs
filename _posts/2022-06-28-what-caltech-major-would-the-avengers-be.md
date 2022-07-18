@@ -5,7 +5,7 @@ image: https://d24slhcvzhzz82.cloudfront.net/images/2022/aija/Caltech but Avenge
   logo but Caltech.png
 tags: []
 title: What Caltech major would the Avengers be?
-author: Aija Washington
+author: awashing
 categories:
 - culture
 username: awashing
