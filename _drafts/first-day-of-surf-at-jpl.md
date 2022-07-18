@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2022-06-27 17:07:41 +0000
+date: 2022-06-27T17:07:41.000+00:00
 image: https://d24slhcvzhzz82.cloudfront.net/
 tags: []
 title: First day of SURF at JPL
-author: Philippe Des Boscs
+author: pdesboscs
 categories:
 - research
 
