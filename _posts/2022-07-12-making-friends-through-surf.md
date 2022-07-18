@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-07-13 01:02:14 +0000
+date: 2022-07-13T01:02:14.000+00:00
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/rachael/IMG_6061.JPG
 tags: []
 title: Making Friends Through SURF
@@ -8,8 +8,6 @@ author: subinkim
 categories: []
 
 ---
-# **Making Friends Through SURF**
-
 As a rising sophomore, I decided to take advantage of the Summer Undergraduate Research Fellowship (SURF) program, a 10-week research program, at Caltech. SURF is a great opportunity to work with professors who have expertise in the field, but it also provides you an amazing opportunity to make new friends. According to the Student-Faculty Program office at Caltech, nearly half of SURF students every year come from other institutions. Always wanting to make more friends, my friends and I decided to take advantage of this.
 
 I currently live in a suite in Bechtel residence (one of the unaffiliated undergraduate residences on campus) for this summer, which is where I lived all of my freshman year. Throughout the academic year, I would spend some of my time with my suitemates, but most of my time in different houses with my friends. But as the summer came, campus started to feel emptier as a lot of the students left after graduation, and for off-campus jobs, and remote-SURF works. So, instead of keeping ourselves to a small circle of friends staying on campus, my friends and I decided to branch out a little more and meet students from other schools.
