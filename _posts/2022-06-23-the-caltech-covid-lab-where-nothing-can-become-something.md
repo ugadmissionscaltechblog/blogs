@@ -4,7 +4,7 @@ date: 2022-06-24T03:45:29.000+00:00
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/juni/CCSL.png
 tags: []
 title: 'The Caltech Covid Lab: Where Nothing Can Become Something'
-author: Juni Polansky
+author: jpolansk
 categories:
 - research
 username: jpolansk
