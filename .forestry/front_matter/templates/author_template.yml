@@ -7,24 +7,19 @@ fields:
   config:
     required: false
   label: title
-  description: Enter your full name.
-- name: username
+  description: Enter your name. This name will be displayed on the post.
+- name: AWS_username
   type: text
   config:
     required: false
-  label: username
-  description: 'If a previous or existing author shares your name, enter a unique
-    username. This will be the name you sign off all your posts on. For example, if
-    your username is <strong>Jane Doe</strong>, then on all your posts the author
-    needs to be <strong>Jane Doe</strong>.<br><br>---<br>title: This is a title for
-    a blog post<br><strong>author: Jane Doe<br></strong>---'
+  label: AWS username
+  description: Enter your AWS username.
 - name: option
   type: text
   config:
     required: false
-  label: option
-  description: If you have a long major name, consider abbreviating it. This is true
-    of double majoring too i.e CS + BEM.
+  label: major/option
+  description: What are you studying?
 - name: house
   type: text
   config:
@@ -38,12 +33,13 @@ fields:
   label: meet
   description: If you want/are allowed to be added to the "Meet the Bloggers" row
     on the homepage, put true. Else, put <strong>false</strong>.
+  hidden: true
 - name: class
   type: text
   config:
     required: false
   label: class
-  description: Enter your graduating class year.
+  description: Enter your expected graduating class year.
 - name: pronouns
   type: text
   config:
@@ -54,10 +50,12 @@ fields:
 - name: image
   type: text
   config:
-    required: false
+    required: true
+    min: 1
   label: image
   description: Needs to be optimized and then uploaded to AWS. If you're up to this
     stage and don't know what to do, pause and head back to the Google Doc.
+  default: https://d24slhcvzhzz82.cloudfront.net/
 pages:
 - _authors/athena-kolli.md
 - _authors/bea.md
