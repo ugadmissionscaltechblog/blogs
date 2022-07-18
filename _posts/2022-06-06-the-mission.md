@@ -8,6 +8,7 @@ title: THE MISSION...
 author: Michael Gutierrez
 categories:
 - clubs
+username: magutier
 
 ---
 **…Or, How a Disciple of Bethany Ehlmann, a Former Desert Militiaman, Moore Lab Subbasement Dwellers, Roblox's Newest Intern, a Florida Man, and a Luminous Plasma Scientist Went to War with the Caltech Mail Center, Got Double-Crossed by AirGas Corp., Survived Three COVID Outbreaks, and Nearly Stranded Themselves in the Mojave in order to Send a Bag of Peanuts to Space (A True Story).**
