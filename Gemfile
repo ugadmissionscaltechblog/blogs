@@ -34,3 +34,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "webrick"
 gem "commonmarker", ">= 0.23.4"
 gem "nokogiri", ">= 1.13.6"
+gem "activesupport", ">= 4.1.11"
