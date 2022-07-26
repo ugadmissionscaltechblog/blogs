@@ -37,3 +37,9 @@ fields:
       format: markdown
   label: Interview Content
   description: 'Should be the bulk of the article. Could be in QnA format for otherwise. '
+- name: author
+  type: text
+  config:
+    required: false
+  label: author
+  description: Give yourself credit!
