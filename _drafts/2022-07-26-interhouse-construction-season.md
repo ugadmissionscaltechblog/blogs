@@ -51,7 +51,7 @@ As the railings for this upper platform were worked on, the smaller 2ft-tall pla
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/makoa/BlinterPlatform1.jpg)
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/makoa/BlinterPlatform2.jpg)  
-While work was done on the platforms, the art chairs led by Alicia Zhang painted a large mural that hung in the Blacker lounge. Although she created the design and led the team, it took many contributors to complete over the course of several weeks. UV paint was used to add extra flair under black lights, making for an impressive final product.
+While work was done on the platforms, the Art Chairs led by Alicia Zhang and Shalini Kurinchi-Vendhan painted a large mural that hung in the Blacker lounge. Although they created the design and led the team, it took many contributors to complete over the course of several weeks. UV paint was used to add extra flair under black lights, making for an impressive final product.
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/makoa/BlinterArt.jpg)
 
