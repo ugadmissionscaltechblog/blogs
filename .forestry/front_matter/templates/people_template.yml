@@ -43,5 +43,3 @@ fields:
     required: false
   label: author
   description: Give yourself credit!
-pages:
-- _posts/People Section Draft.md
