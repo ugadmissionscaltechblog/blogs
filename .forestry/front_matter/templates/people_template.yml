@@ -1,4 +1,39 @@
 ---
 label: people_template
 hide_body: true
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
+  description: This is the name of the person you are interviewing.
+- name: profile_photo
+  type: file
+  config:
+    maxSize: 64
+  label: Profile Photo
+  description: Photo of the person you are interviewing. Typically a professional
+    photo/headshot.
+- name: short-biography
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Short-Biography
+  description: This should be a short biography of the person you are interviewing.
+    Include information like grade/graduation year, major, and extracurriculars. A
+    short blurb of the person would also be good here.
+- name: interview_content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Interview Content
+  description: 'Should be the bulk of the article. Could be in QnA format for otherwise. '
