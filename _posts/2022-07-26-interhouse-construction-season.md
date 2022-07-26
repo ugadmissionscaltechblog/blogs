@@ -4,7 +4,7 @@ date: 2022-07-26 22:20:51 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/makoa/BlinterPlatform1.jpg
 tags: []
 title: Interhouse Construction Season
-author: Makoa Inciong
+author: minciong
 categories:
 - culture
 
