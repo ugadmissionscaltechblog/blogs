@@ -7,7 +7,6 @@ house: Avery
 meet: ''
 class: "2025"
 pronouns: She/her/hers
-published: false
 
 ---
 Hi! I'm Mila, a sophomore from Palo Alto, California. I'm on the Caltech Swim Team as well as a part of the Women Mentoring Women program. I love singing and Kpop.
