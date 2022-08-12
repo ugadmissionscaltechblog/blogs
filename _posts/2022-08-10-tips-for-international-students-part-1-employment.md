@@ -8,8 +8,6 @@ author: subinkim
 categories: []
 
 ---
-# **Tips for International Students, Part 1: Employment**
-
 Adjusting to Caltech, California, and the United States as an international student can be difficult at first: you have to get used to the different systems and cultures and understand the limitations that come with your status as an F-1 student in the United States. I myself was an international student for three years in high school, which provided me an opportunity to adjust culturally, but coming to Caltech as a college student, I still had to research and learn more about things I can and cannot do in the United States as an F-1 student, which was time-consuming and confusing at first.
 
 So, here are some pro-tips as an international student at Caltech for foreign students who plan to apply to Caltech or incoming students who are planning their four years at Caltech. *NOTE: I am an international student without a US passport. I am currently studying at Caltech on a student visa (F-1), and some of the tips I list below may not apply to international students who are US citizens in terms of their status.
@@ -55,7 +53,6 @@ First, you need to fill out an I-9 form, which is a form to check your eligibili
 
 Then you need to visit your local social security administration to apply for an SSN. The Pasadena social security administration didn’t take any appointments, so you can just walk in. You bring all of the documents listed above to the officer, and they will inform you that you will be issued a social security card in a week or so, which will be mailed to your address.
 
-  
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/rachael/Screenshot 2022-08-10 at 12.41.03 AM.png)
 
 Location of Pasadena Social Security Administration (104 N Mentor Ave, Pasadena, CA 91106)
