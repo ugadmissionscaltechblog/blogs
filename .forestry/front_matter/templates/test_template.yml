@@ -12,7 +12,7 @@ fields:
   label: title
 - type: text
   name: author
-  label: username
+  label: AWS username
   description: 'Enter your AWS username. '
 - type: list
   name: categories
