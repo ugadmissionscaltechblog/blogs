@@ -4,7 +4,7 @@ date: 2022-08-10 07:39:26 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/rachael/67805427606__6698DD07-9F48-4850-AA78-0B68CCD2CF72.png
 tags: []
 title: 'Tips for International Students, Part 1: Employment'
-author: Rachael Kim
+author: subinkim
 categories: []
 
 ---
