@@ -4,7 +4,7 @@ date: 2022-08-10 07:50:52 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/rachael/67945004821__2CD55EF9-E45D-4C92-B50A-CA82A7AC7202.JPG
 tags: []
 title: Puzzles on campus
-author: Rachael Kim
+author: subinkim
 categories: []
 
 ---
