@@ -4,7 +4,7 @@ date: 2022-08-09 20:31:42 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/julian/Map_of_Pasadena.jfif
 tags: []
 title: Transportation on Campus and Beyond
-author: Julian Millan
+author: jmillan
 categories:
 - local
 
