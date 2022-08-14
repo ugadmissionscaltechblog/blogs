@@ -16,4 +16,4 @@ Studying at Caltech is a lot like crewing a spaceship. You get to work alongside
 
 Stress and mental health are matters I take very seriously. I could (and probably will) write an entire blog post about it, but for today I want to explain, and hopefully help you avoid, one aspect of it that particularly affects prospective and incoming college students.
 
-![Me: prof, can we play among us? Prof: No, we have among us at home. Among us at home: Dictionary definition of impostor syndrome.](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/impostor_meme.png){: width="50em"}
+![Me: prof, can we play among us? Prof: No, we have among us at home. Among us at home: Dictionary definition of impostor syndrome.](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/impostor_meme.png){: width="50%" class="uk-align-center"}
