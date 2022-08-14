@@ -18,4 +18,4 @@ Stress and mental health are matters I take very seriously. I could (and probabl
 
 ![Me: prof, can we play among us? Prof: No, we have among us at home. Among us at home: Dictionary definition of impostor syndrome.](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/impostor_meme.png){: width="50%" class="uk-align-center"}
 
-[Explanation of the meme ;-)](https://www.npr.org/2020/11/12/931304349/among-us-its-every-little-space-sausage-for-themselves){: class="uk-align-center"}
+<p class="uk-text-center" markdown=1>[Explanation of the meme ;-)](https://www.npr.org/2020/11/12/931304349/among-us-its-every-little-space-sausage-for-themselves)</p>
