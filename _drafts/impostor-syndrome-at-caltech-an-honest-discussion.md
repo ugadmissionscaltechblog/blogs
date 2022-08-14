@@ -24,4 +24,4 @@ Stress and mental health are matters I take very seriously. I could (and probabl
 
 **The bad news:** If you’re considering applying or have been accepted to Caltech, you probably don’t need me to tell you that the college admissions process is _extremely_ stressful. And how could it not be? It’s only the entire rest of your life that’s contingent on this application! One wrong word in that essay, one blemish on that transcript, or one single waking hour squandered? Kiss your dreams of changing the world goodbye! You might as well skip Backupsmore University and move straight into a log cabin in Gravity Falls, Oregon.
 
-{% include youtubePlayer.html id=ugp1TlSUkY4 %}
+{% include youtubePlayer.html id="ugp1TlSUkY4" %}
