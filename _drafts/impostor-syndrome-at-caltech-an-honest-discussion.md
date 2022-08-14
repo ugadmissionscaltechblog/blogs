@@ -19,3 +19,9 @@ Stress and mental health are matters I take very seriously. I could (and probabl
 ![Me: prof, can we play among us? Prof: No, we have among us at home. Among us at home: Dictionary definition of impostor syndrome.](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/impostor_meme.png){: width="50%" class="uk-align-center"}
 
 <p class="uk-text-center" markdown=1>[Explanation of the meme ;-)](https://www.npr.org/2020/11/12/931304349/among-us-its-every-little-space-sausage-for-themselves)</p>
+
+## Let's talk about college apps.
+
+**The bad news:** If you’re considering applying or have been accepted to Caltech, you probably don’t need me to tell you that the college admissions process is _extremely_ stressful. And how could it not be? It’s only the entire rest of your life that’s contingent on this application! One wrong word in that essay, one blemish on that transcript, or one single waking hour squandered? Kiss your dreams of changing the world goodbye! You might as well skip Backupsmore University and move straight into a log cabin in Gravity Falls, Oregon.
+
+<p align="center"><div class="embed-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ugp1TlSUkY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
