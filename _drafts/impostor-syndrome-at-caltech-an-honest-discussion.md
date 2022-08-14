@@ -16,6 +16,6 @@ Studying at Caltech is a lot like crewing a spaceship. You get to work alongside
 
 Stress and mental health are matters I take very seriously. I could (and probably will) write an entire blog post about it, but for today I want to explain, and hopefully help you avoid, one aspect of it that particularly affects prospective and incoming college students.
 
-{% include image.html url=https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/impostor_meme.png caption=Test Test %}
+{% include image.html url="https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/impostor_meme.png" caption="Test Test" %}
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/impostor_meme.png)
