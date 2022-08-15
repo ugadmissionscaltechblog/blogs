@@ -73,7 +73,7 @@ However, I also think it's important to highlight how this process _isn't always
 But life goes on. Every now and then, it’s good to step back and remember where you are: a place where _everyone_ is brilliant and talented. If you’re behind schedule or having a tough time with the work, it doesn’t mean you’re somehow “worse” or less capable than others. It doesn’t mean you’re doomed to fail. It certainly doesn’t mean admissions made a mistake. (Admissions doesn’t make mistakes!{%- include tone.html tone="fr" -%}) _Maybe_ it means you’re weaker in that subject, or dealing with personal circumstances, or at the _very_ worst going to have to retake the class (gasp! the horror! the disgrace!{%- include tone.html tone="s" -%}). For real though, despite what you may have been told your whole life, these are small potatoes ;-)
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/amogus_2.jpg)
-<p class="uk-text-center" style="line-height: 1em;" markdown=1><small>_Pictured: yet another amogus, this time hidden in plain sight as a decoration for the Spring ‘22 DAVe_ [_Interhouse party._](https://e02n3v5bjeuo0q.instant.forestry.io/interhouse-construction-season/)</small></p>
+<p class="uk-text-center" style="line-height: 1em;" markdown=1><small>_Pictured: yet another amogus, this time hidden in plain sight as a decoration for the Spring ‘22 DAVe_ [_Interhouse party._](https://caltechadmissions.blog/interhouse-construction-season/)</small></p>
 
 ***
 
