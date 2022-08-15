@@ -67,3 +67,7 @@ For example, a lot of professors take the “firehose” approach to teaching, m
 That's not to say it’s always miserable -- on the contrary, this level of rigor provides one-of-a-kind opportunities to not just learn the material, but to _immerse yourself_ in it. It’s a fundamental part of studying at Caltech: you gain experience and familiarity with how the sciences _look and feel_ IRL, rather than just a bunch of memorized concepts.
 
 However, I also think it's important to highlight how this process _isn't always 100% positive_ -_-_ especially at this level of academics. It's natural to be hard on yourself. It's normal to struggle. In fact, it would be weird if you didn't. Of course, that doesn't make it any easier - believe me, I have felt the pain of falling short of an A by 1 point. I know all too well how much it bites to get a 50% on that problem set you felt really confident about. And yes, I do often stress out when I can’t solve that “easy” problem without help.
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/amogus_4.jpg)
+
+<p class="uk-text-center" style="line-height: 1em;" markdown=1><small>_For people who don't get this joke: There's a popular mobile game called 'Among Us' that's sort of like a real-time version of Mafia set on a spaceship. Most of the players are trying to determine who's the 'impostor' while completing tasks, and the impostor is trying to kill all the other players. So when he says 'red sus' he means, the red player is acting ‘sus’picious and is ‘sus’pected to be the impostor._</small></p>
