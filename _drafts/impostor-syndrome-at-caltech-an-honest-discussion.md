@@ -33,13 +33,13 @@ In all seriousness, defining your success and self-worth by a test score, a clas
 **The good news:** it doesn’t have to be this way! Surviving and thriving at Caltech requires strong academics, yes, but equally so it requires self-motivation, passion for what you do, and the ability to fail gracefully. Read that again. That’s why the admissions team has been working hard to make our application much more [“holistic.”](https://www.admissions.caltech.edu/apply/what-we-look-for/how-we-review) In other words, focusing less on your numbers (SAT/ACT scores are no longer required through fall 2025!) and more on your character (extracurriculars, personal statements, etc.). That doesn't mean Caltech is dropping its standards -- quite the opposite in fact -- but I hope it does allow you to stress a little less about a few percentage points ;-)
 
 <p class="uk-text-center">
-<ul>Things that are pretty cool:</ul>
-Straight A’s
-Getting a 5 on the AP Calculus X̶̪̖̒̊K̵̨͚̺͍̀̇̑̚Ω̵͖̳̖̃̓̎̔ exam
-Winning a science olympiad or a research competition
-
-<ul>Things that are equally cool:</ul>
-A “B” in a difficult class you took to challenge yourself
-A random hobby you’re passionate about
-Spending most of your free time working an after-school job to support your family
+<u>Things that are pretty cool:</u>
+<br>Straight A’s
+<br>Getting a 5 on the AP Calculus X̶̪̖̒̊K̵̨͚̺͍̀̇̑̚Ω̵͖̳̖̃̓̎̔ exam
+<br>Winning a science olympiad or a research competition
+<br>
+<br><u>Things that are equally cool:</u>
+<br>A “B” in a difficult class you took to challenge yourself
+<br>A random hobby you’re passionate about
+<br>Spending most of your free time working an after-school job to support your family
 </p>
