@@ -86,3 +86,5 @@ Special thanks to Anna M. for maintaining the #sussy Discord channel, and the Da
 Cover photo made using craiyon.com (formerly DALL-E Mini) with seed string “among us impostor at caltech university campus with mountains in the background at sunset”
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/impostor_runner1.png){:width="32%"} ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/amogus_3.jpg){:width="33%"} ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/impostor_runner2.png){:width="32%"}
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/impostor_paradox.jpg)
