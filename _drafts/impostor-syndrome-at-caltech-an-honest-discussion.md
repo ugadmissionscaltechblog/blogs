@@ -10,7 +10,7 @@ categories:
 - academics
 
 ---
-Studying at Caltech is a lot like crewing a spaceship. You get to work alongside some of the most talented people on Earth, you’re constantly doing science in order to survive, and the environment tends to keep you under a lot of pressure. It’s an incredible experience, and also a very challenging one, to be sure. Sometimes you’re left feeling like an impostor among your crewmates, having failed to complete every task you think is expected of you. But fear not! These feelings are not based in reality; they are merely symptoms of a benign condition known as _impostor syndrome_. Think you might be affected? This post is for you. 
+Studying at Caltech is a lot like crewing a spaceship. You get to work alongside some of the most talented people on Earth, you’re constantly doing science in order to survive, and the environment tends to keep you under a lot of pressure. It’s an incredible experience, and also a very challenging one, to be sure. Sometimes you’re left feeling like an impostor among your crewmates, having failed to complete every task you think is expected of you. But fear not! These feelings are not based in reality; they are merely symptoms of a benign condition known as _impostor syndrome_. Think you might be affected? This post is for you.
 
 ***
 
@@ -43,3 +43,19 @@ In all seriousness, defining your success and self-worth by a test score, a clas
 <br>A random hobby you’re passionate about
 <br>Spending most of your free time working an after-school job to support your family
 </p>
+
+***
+
+## So you got in! Now what?
+
+Allow me to paint you a picture; to spin a yarn, if you will.
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/sussy.png)
+
+It was Fall 2020. The popular mobile game Among Us was in the midst of its meteoric rise to infamy. It was a very uncertain time -- nobody knew when we’d be allowed to move onto campus. The subset of undergrads who kept in touch over Discord found solace in the spaceship in Among Us, isolated from the hellscape of 2020 by billions of miles of void. Techers from vastly different walks of life, many of whom had never met in person, suddenly shared a common experience; they formed close bonds through the hours of working together to keep the ship running and unmask the impostors.
+
+But for some people, something about Among Us put a twinge in the depths of their soul. Perhaps it stirred up a long-suppressed fear of being exposed as a fraud; an “other”; an impostor.
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/amogus_1.jpg)
+
+<p class="uk-text-center" markdown=1><small>_pictured: a whiteboard in a Caltech lecture hall with a drawing of a character from the popular mobile game Among Us. this icon, known as an "amogus" (pl. amogi), has taken on a similar cultural meaning to the Cool ‘S’ and “Kilroy was here” in that they pop up in unexpected places._</small></p>
