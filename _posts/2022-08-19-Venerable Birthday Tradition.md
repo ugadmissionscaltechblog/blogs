@@ -5,7 +5,8 @@ image: https://d24slhcvzhzz82.cloudfront.net/images/2022/juni/cake2.png
 tags: []
 title: 'Venerable Birthday Tradition '
 author: Juni Polansky
-categories: []
+categories:
+- culture
 
 ---
 When packing for college, the first thing on your mind is likely not about celebrating your birthday. However, months later, as the inevitable birthday approaches, you may actually start to wonder what a birthday looks like without the friends and family you’ve likely spent every year with. Thankfully, at Caltech, there are many opportunities to make sure that a birthday away is just as good, if not better, than the one at home. One example is the Venerable house birthday tradition.
