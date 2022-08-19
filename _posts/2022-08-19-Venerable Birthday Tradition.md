@@ -3,7 +3,7 @@ layout: post
 date: 2022-08-19 21:03:35 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/juni/cake2.png
 tags: []
-title: ''
+title: 'Venerable Birthday Tradition '
 author: Juni Polansky
 categories: []
 
