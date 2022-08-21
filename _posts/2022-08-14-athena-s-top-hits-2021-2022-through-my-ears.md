@@ -6,8 +6,14 @@ username: akolli
 option: Mechanical Engineering
 house: Fleming House
 meet: ''
-class: "2024"
+class: '2024'
 pronouns: she/her/hers
+layout: post
+date: 2022-08-21 02:07:53 +0000
+tags: []
+categories:
+- culture
+author: ''
 
 ---
 As someone who listens to lots of music, many songs on my playlists remind me of specific memories from my past year at Caltech. Here are a few, in no particular order:
