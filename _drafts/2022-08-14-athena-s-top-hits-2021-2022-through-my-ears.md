@@ -1,6 +1,6 @@
 ---
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/2021-2022 Through
-  My Ears/everysummertime.jpg
+  My Ears/newlight.jpg
 title: 'Athena''s Top Hits: 2021-2022 Through My Ears'
 username: akolli
 option: Mechanical Engineering
