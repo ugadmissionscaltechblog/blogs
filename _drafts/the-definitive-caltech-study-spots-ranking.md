@@ -21,6 +21,8 @@ Moore Courtyard, Bechtel Study Rooms, Avery Conference Room, Page Lounge
 
 5\. Outside Red Door
 
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/rahul/IMG_9983.JPG)
+
 Environment: 8
 
 Comfort: 6
@@ -33,6 +35,8 @@ Simply put, the classic outdoor study space at Caltech. The environment is great
 
 4\. Moore Subbasement
 
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/rahul/IMG_9887.JPG)
+
 Environment: 7
 
 Comfort: 4
@@ -44,6 +48,8 @@ Total: 21
 As an Electrical Engineering major, my love and hate for the Moore Subbasement borders on Stockholm Syndrome. However, there are certain undeniable facts: The Moore subbasement is well equipped and can allow for deep work. The environment is perfect for finishing up a project or assignment, and with many fellow students also there, you can find someone to help you 24/7. However, something seriously lacking in Moore…the comfort. The chairs are subpar, the temperature never fits perfectly, the lack of natural lighting is depressing, and something about being next to circuits all day/night can get tiring. But, Moore is possibly the best place on campus for studying amenities. Whiteboards abound throughout the subbasement, printers and computers are always at the ready, and the wifi connection is excellent. It’s the supreme amenity studying experience with some slight drawbacks.
 
 3\. Broad Cafe
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/rahul/IMG_9979.JPG)
 
 Environment: 8
 
@@ -68,6 +74,8 @@ Total: 22
 The SAC, or Student Activities Center, is located directly under the South Houses. Some may wonder why I put it on here so high, but there is something special about the SAC as a study spot: its quietness. I take all my finals here for a reason, it’s quiet and full of places to work. It also has a Piano room to jam out in between exams! However, this location comes with a serious drawback…it’s very uncomfortable. It’s again underground with no natural lighting, but because of its age, it suffers from less comfort than Moore. A serious tradeoff, but the best location on campus for hardcore exams.
 
 1. Top Floor of Caltech Hall
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/rahul/IMG_9980.JPG)
 
 Environment: 9
 
