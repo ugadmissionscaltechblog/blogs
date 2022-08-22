@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-08-21 01:59:55 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/
+image: https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Avery.JPG
 tags: []
 title: 'Caltech Through Courtyards '
 author: akolli
@@ -11,13 +11,9 @@ categories:
 ---
 One of the unique things that Caltech students experience in their first year (if they opt in, of course) is a process called rotation. During rotation, over the course of their first two weeks on campus, first year students get to visit each of the eight houses, attend dinners and speak to current house members to decide which residences they like best. Students can also choose to live in unaffiliated housing, such as Marks, Braun, or Bechtel. Overall, Rotation is a really great way to get to know fellow Techers and the houses themselves, to help you make your ranking of the houses! However, you may have noticed that there aren’t too many blogs describing what the houses are like, and what traits they generally have. This is because we have something called ‘Rotation Rules’ in which students ‘may speak freely about direct, personal experiences within the residential system at Caltech’ but are encouraged not to share any rumors or stereotypes they may have heard about houses. This is to ensure that first year students get to experience the houses without bias and make decisions based on their own experiences. All that being said, you may be curious of what the houses look like, especially since COVID has prevented a lot of students from visiting, or going inside the houses. So, I went around the houses and took pictures of all of the residential courtyards on campus. Perhaps they will give you a feel for the houses, and where we as students hang out!
 
-Avery House
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Avery.JPG "Avery House")
 
-![](https://lh4.googleusercontent.com/rCvDmFCNtkvzGZ9zoVFp2Y-Y9XT-ISpgzbrY8fLpU4FvLUC4fPqpDm7jV3_dhYJI9bccId1csaDfyCyFGFoI4GPQ4BKtEtXjfNCCWELzlb1MU19cX129XmZIeMnNWvCunoJEHHENpWpJvsQ20ZOGaT8 =437x323)
-
-Blacker House
-
-![](https://lh4.googleusercontent.com/5-1ZUYUQbSSiEJSyXUErQO-gy_tgW-gjJtB-oyVlKDPMgm0UI2HZZlmjdAaT4GCA2PXyvIixK0G2_PmCXjwhILELmB-LV1f74OpxSJnlW3t4lAvgDm7bL2pgeDrhWcmaXgALGn2mjG49t-5kQ-it7NI =437x323)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Blacker.JPG "Blacker House")
 
 Dabney House
 
