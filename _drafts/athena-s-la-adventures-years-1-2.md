@@ -35,13 +35,15 @@ _Malibu (\~55 miles)_
 
 Malibu is a great destination for a day trip! My friends and I spent the afternoon relaxing on Trancas Beach with a picnic. Later in the day, we drove around the area and ended up at a lookout on Encinal Canyon Road, where we watched the sunset.
 
-![](https://lh5.googleusercontent.com/hgxnbikSXsh56h_bH-fp_wwctb9ukgZcZpzZJneqeHU1xETXv2eYJphpIlFqifAPlN9R4H_yJf_g9n85BEvAAA_7Dx59EFVQ3Kn286QrbIKhl5qUqA7qR4wlC7scSUD7ITQdBpKyuaKzzrQxnRqRptOPaJeCdyZGfKOnVpTiIh_l6SckQi-YPtY0_A =335x252)![](https://lh4.googleusercontent.com/DA_d_DeRvKyGeGM81aMGkjuhZMknMLFqlVX22R6XIJhd2L1bX1vGpea-MRDAp3qN2rF479pDpCAaOw4u0lBb6XCY6t3WtqsqITIN7fVfpH6MpAO0tQs3TnKy3xYdH2ktZPVXRNid19B7V0n_2j3kU_ULrU-9ps4g4_ywW2bmqap9VLhdRV8I39lIqA =325x434)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/adventures/Malibu.JPG)
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/adventures/Malibu%20(2).jpg)
 
 _Manhattan (\~30 miles)_
 
 Manhattan Beach is one of the closest beaches to Caltech, if you’re looking for something nearby! I’ve visited this beach on countless occasions. This beach is right next to Hermosa Beach, another one of my favorites.
 
-![](https://lh4.googleusercontent.com/dcQRThHUhKNOHV-buR8CdYE9z-vqxxvdfHZ9kq9-IB2-CSFnRPzoH_XJsokdanS97kghqLuy1LWiH9FWMlJ2UWQEM4mU-AtauIJrXyMCbkmxQTyhriJQZqvcW2gN4vDZ9E6E0CoSbn0jRMsYZgmsXgZaZFaJKzyoiv-o_TBYh-PjhcYaC9D0agVRpg =399x300)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/adventures/Manhattan.jpg)
 
 _Huntington (\~50 miles)_
 
@@ -67,7 +69,7 @@ _Hollywood (\~17 miles)_
 
 Hollywood is another popular tourist spot on this list, but I figured that I couldn’t live in SoCal for four years, and not see Hollywood. On this trip, I walked the Hollywood Walk of Fame and saw the Chinese Theater and the Capitol Records Building. But there is lots more to do and see in Hollywood, if you’re interested.
 
-![](https://lh5.googleusercontent.com/CiSxvSszIsbV6wkgzznubv0-qHTP0rQuRpa3DjqQ-ddWfexDIbLaooslZsWI0S_ERocvdpHBINUYc-1YaWJKOucxU3D8EEoRokMzVjIXdLuStfccq4BVpt-pVlJ8BMRxNm-gCt87ZbGw9w-QBTZr2Ll-7tuJvG4T4_7-SpielpIMwA1Gg6Civ55YVw =398x738)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/adventures/hollywood.jpg)
 
 _Rodeo Drive (\~25 miles)_
 
@@ -83,7 +85,7 @@ The LA County Museum of Art is a great museum to visit again and again. I took m
 
 Adult Tickets to LACMA are $20, but there is a student discount, putting the tickets at $16 per visit.
 
-![](https://lh4.googleusercontent.com/mMbZ7OZZDZ26S2TP_pBu-ePMXPh9PmOYXR9ieTxN55AoYp3Ls2nRFyo_gGRuUwwPSm1cdEZPHvo8817h9iBZJN_70RkUDiMsIDv16g02GKmmehKtB06zALSUNsnVkj6LH0GOK_jUhoP10ryGHBX3wFAwGcb-IHqctUngqpugDnzHVvCa0hgEJ6ERFA =278x370)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/adventures/lacma.JPG)
 
 _Academy Museum of Motion Pictures (\~18 miles)_
 
