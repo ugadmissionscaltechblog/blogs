@@ -59,7 +59,7 @@ _Hermosa Beach Pier (\~32 miles)_
 
 Hermosa Beach Pier is one of my favorite SoCal spots. This spot is home to a short stretch of shops, restaurants and bars, and the pier extends about 1000 ft into the ocean. If you want to enjoy a quiet night of watching the waves crash into the shore, Hermosa is a great spot. Also if you are a fan of musicals, La La Land’s the Lighthouse Cafe is actually located at the pier, and the scene from ‘City of Stars’ where Ryan Gosling is walking up the pier is also at this pier.
 
-![](https://lh5.googleusercontent.com/Fk7JPFJboBTg2pKuL1gbFdUDMIt9B_3yGXb4D5_PRykBZL3GROFdUT4haZ14VXJdIHn45RVF1c7yR6-pdGG-flNG2MmppBjy3Kpo7VokHKtdPaDR7QNQPI2gAc270iUwstSLDWbDRcObclK3vuiphTVv_ijNItbyal54BtdamKqbchwDwIIGRzJ-cg =312x416)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/adventures/Hermosa.JPG)
 
 **LA**
 
