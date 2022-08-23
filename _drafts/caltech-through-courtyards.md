@@ -13,42 +13,44 @@ One of the unique things that Caltech students experience in their first year (i
 
 Avery House
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Avery.JPG "Avery House")Blacker House
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Avery.JPG)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Blacker.JPG "Blacker House")
+Blacker House
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Blacker.JPG)
 
 Dabney House
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Dab.JPG "Dabney House")
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Dab.JPG)
 
 Fleming House
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Flem.JPG "Fleming House")
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Flem.JPG)
 
 Lloyd House
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Lloyd1.JPG "Lloyd House")
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Lloyd1.JPG)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Lloyd2.JPG "Lloyd House Alternate View")
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Lloyd2.JPG)
 
 Page House
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Page1.JPG "Page House")
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Page1.JPG)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Page2.JPG "Page House Alternate View")
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Page2.JPG)
 
 Ricketts House
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Rix1.JPG "Ricketts House")
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Rix1.JPG)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Rix2.JPG "Ricketts House Alternate View")
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Rix2.JPG)
 
 Venerable House
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Ven2.JPG "Venerable  House")
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Ven2.JPG)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Ven1.JPG "Venerable House Alternate View")
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Ven1.JPG)
 
-Bechtel Residence 
+Bechtel Residence
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/courtyards/Bechtel.JPG)
