@@ -67,3 +67,11 @@ To close this episode of Film Club out (how did I write almost 2000 words about 
 CREDITS
 
 I am a sophomore undergrad at Caltech, not actually part of the Admissions team, so I feel like I should say that the views and opinions in this post are my own. That said, if you have any questions about Caltech or college apps in general, I would totally love to help! Feel free to email me at [magutier@caltech.edu](mailto:magutier@caltech.edu) :)
+
+Works referenced:
+
+Gravity Falls: A Tale of Two Stans, written by Alex Hirsch and aired on Disney Channel
+
+The Lego Movie
+
+@insleyy on TikTok for the "feed two birds with one scone" video which I was reminded of by the "feed the fed horse" joke I wrote, and then spent many many minutes trying to find in my camera roll, and also article cover photo because I thought it was funny, it fit the tone, and also I couldn't think of anything else.
