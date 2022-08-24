@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-08-24T17:04:36.000+00:00
+date: 2022-08-24 21:00:36 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/filmclub1/two-schools-cover.png
 tags: []
 title: 'Film Club #1: A Tale of Two Schools'
