@@ -30,4 +30,4 @@ It's crazy to think that I began applying to college almost three years ago. I s
 
 * College is much more than just the academic aspects, it's also about growing as a person and learning from others. Choose to go somewhere where you can see yourself as a part of the community.
 
-And remember that at the end of the day, whatever the outcome of your college decisions, it doesn't define who you are.
+And remember that at the end of the day, whatever the outcome of your college decisions, it doesn't define who you are. You’re going to make great friends and memories at wherever you end up.
