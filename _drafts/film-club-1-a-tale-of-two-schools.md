@@ -44,7 +44,7 @@ Now, add the context back in. The tone immediately shifts, doesn’t it? Gravity
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/filmclub1/baloney.gif){: width="50%" class="uk-align-center"}
 
-I won’t even [feed the fed horse](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/filmclub1/peta.mp4){:target="_blank"} by breaking down the provost’s welcome speech. It only says what we’re all already thinking. Although, I will add that “mostly-bug-free dorms” are actually a huge plus. A lot of undergraduate dorm buildings won’t even _try_ to keep the bugs out.
+I won’t even {% include hoverinfo.html text="feed the fed horse" info='a humorous alternative phrase to "beat the dead horse" suggested in a controversial press release from PETA' link="https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/filmclub1/peta.mp4" %} by breaking down the provost’s welcome speech. It only says what we’re all already thinking. Although, I will add that “mostly-bug-free dorms” are actually a huge plus. A lot of undergraduate dorm buildings won’t even _try_ to keep the bugs out.
 
 ***
 
