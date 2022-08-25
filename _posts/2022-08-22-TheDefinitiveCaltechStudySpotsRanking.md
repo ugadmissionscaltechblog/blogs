@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2022-08-22 17:28:41 +0000
+date: 2022-08-22T17:28:41.000+00:00
 image: https://d24slhcvzhzz82.cloudfront.net/
 tags: []
 title: The DEFINITIVE Caltech Study Spots Ranking
-author: Rahul Chawlani
+author: 'rchawlani '
 categories:
 - academics
 
