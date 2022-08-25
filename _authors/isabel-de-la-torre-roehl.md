@@ -12,7 +12,6 @@ pronouns: I'm a senior in Page house, born and raised in the Pasadena area. On c
   perform as a company member with a local ballet company and explore other dance
   classes in the area. I also like to host Bachelor/Bachelorette viewing parties and
   explore the area and food scene with my friends!
-published: false
 
 ---
 I'm a senior in Page house, born and raised in the Pasadena area. On campus I am an admissions ambassador, undergraduate researcher in the Stoltz Lab (synthetic/organic chemistry), Deans Tutor, and TA for various chemistry courses. In my free time I perform as a company member with a local ballet company and explore other dance classes in the area. I also like to host Bachelor/Bachelorette viewing parties and explore the area and food scene with my friends!
