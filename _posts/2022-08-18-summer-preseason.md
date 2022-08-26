@@ -4,7 +4,7 @@ date: 2022-08-18T21:30:01.000+00:00
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/juni/soccer.png
 tags: []
 title: Summer Preseason
-author: jpolansky
+author: jpolansk
 categories:
 - clubs
 
