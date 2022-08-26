@@ -4,7 +4,7 @@ date: 2022-08-19T21:03:35.000+00:00
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/juni/cake2.png
 tags: []
 title: 'Venerable Birthday Tradition '
-author: jpolansky
+author: jpolansk
 categories:
 - culture
 
