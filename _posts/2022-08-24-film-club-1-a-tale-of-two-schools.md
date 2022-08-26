@@ -20,7 +20,7 @@ No need to watch all of it for this meeting of Film Club, though. I want to talk
 
 {% include youtubePlayer.html id="ugp1TlSUkY4" %}
 
-Yikes. Let’s get an [F in the chat](https://en.wikipedia.org/wiki/Press_F_to_pay_respects){:target="_blank"} for Stan, y’all. This scene really pulls at the heart strings of academically-minded students everywhere. Watching this for the first time in high school, it definitely hit me hard. Brutally denounced by his dream school as a fraud? Forced to enroll at his insultingly mediocre Backup school? How could his life have gone so disastrously wrong?{%- include tone.html tone="hyp" %}
+Yikes. Let’s get an [F in the chat](https://en.wikipedia.org/wiki/Press_F_to_pay_respects){:target="_blank"} for Stan, y’all. This scene really pulls at the heart strings of academically-minded students everywhere. Watching this for the first time in high school, it definitely hit me hard. Brutally denounced by his dream school as a fraud? Forced to enroll at his insultingly mediocre Backup school? How could his life have gone so disastrously wrong?
 
 OK, enough with the drama. While this clip was obviously written as comic exaggeration, I really do think it helps perpetuate a toxic perception of pursuing higher education. Let’s break it down shot by shot.
 
@@ -32,7 +32,7 @@ It’s hard to fault him, though; and we see why in the next scene. Young Stan i
 
 Without even a beat, the West Coast Tech dude spits out an utterly disrespectful retort. A womp-womp sound effect plays as we watch the light drain from Stan’s eyes, realizing that his invention had malfunctioned and shut down in the middle of the night. They don’t even give him a second glance -- West Coast Tech lady freehands an inhumanly straight line through Stan’s name on her clipboard, West Coast Tech dude continues to lambast him, and as if they’d practiced it, all three representatives heelturn in perfect synchronization. The lady, spine rigid and nose turned up, and the old professor, face twisted with -- is that _disgust?_ -- march out of the room. The dude adjusts his meticulously double-windsored tie, regards Stan with the same look he’d give a stain on his exquisitely pressed suit, and with the most insulting self-important swagger imaginable, joins them. They don’t waver when Stan rushes after, begging for a chance to explain.
 
-What just happened? More specifically, how does Stan _not_ walk away from that believing that it’s all his fault; that it was _his_ incompetence which made him fail to live up to expectations? Further, if a single mistake disqualified _Stan_ of all people, how does a young ambitious viewer _not_ internalize that fear of inadequacy, of having their dreams disintegrated by the slightest deviation from perfection?{%- include tone.html tone="rh" %}
+What just happened? More specifically, how does Stan _not_ walk away from that believing that it’s all his fault; that it was _his_ incompetence which made him fail to live up to expectations? Further, if a single mistake disqualified _Stan_ of all people, how does a young ambitious viewer _not_ internalize that fear of inadequacy, of having their dreams disintegrated by the slightest deviation from perfection?
 
 ***
 
