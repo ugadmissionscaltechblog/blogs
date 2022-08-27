@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-08-23 23:03:00 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/
+date: 2022-08-23T23:03:00.000+00:00
+image: https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/adventures/Griffith2.jpg
 tags: []
 title: 'Athena''s LA Adventures: Years 1-2'
 author: akolli
@@ -21,7 +21,9 @@ _Griffith Observatory (\~15 miles)_
 
 Griffith gives a great view of the Hollywood sign and LA, while the observatory has many exhibits which are free of charge for visitors. There are also a number of hiking trails in Griffith Park. Last time my friends and I went, we followed the East Observatory Trail from Griffith Observatory all the way out of the park, and we ended up walking all the way to the Hollywood Walk of Fame!
 
-![](https://lh4.googleusercontent.com/l8wohgc_d1bMie6lv2SBeCTkXrmPnwL1uSJXL-4LuYO2wuaV89ytZwKiB2nf5mWfmKEuPuX6Fcyxyss0rXEe0xOi8Hp1c_7ym0kWKrmbpmtDQEtcfiFdtqAHCslYKDY78r9GRdURWQqspSdU0Z8R2xJ2hBWKpeZA1zzabUM8wXTYpT9MQBDhv6tyxQ =437x328)![](https://lh4.googleusercontent.com/6jwMM8Vn02WDL8FFTTMGqVI_Wniq9gFVomks8cpgm95Ko7KNMp14AHZRiZdL0FP-JrBTHcxWwuFTfZfgECHfrbuwwc-ycpT0jUyfP_DVNLcDZw-4qOm_agQJdgkRXGfDKcgxnbD_OqOh86lFZBsRUO1f2c7cN4ZM4QrjK-jc-z9U_wn_oKZjYR6_3A =439x329)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/adventures/Griffith_1_(1).jpg)
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/adventures/Griffith2.jpg)
 
 _Angeles Crest Highway (\~15 miles)_
 
@@ -55,7 +57,7 @@ _Santa Monica Pier (\~25 miles)_
 
 This spot has all the things you would expect of a pier, from little vendor carts and restaurants to a ferris wheel. There is also a pretty nice beach on the side of the pier. But be warned – the pier is a pretty popular tourist spot and is almost always busy. But it’s a great place to bring visiting friends and family!
 
-![](https://lh6.googleusercontent.com/xAKNodMP7cGzX_J_1EzwgXRNB69iOVofjxNLCmVkQhgJ2x7GnMjyuTZToKNmEJcrEh0xCZr5EuHMHrq0p5NEYmcqW3f8GBkMdOcwu73e0cEt_Td5ly67GMp_ymuZBBHjaTaP12svgPbhHPLqlgT1bkdRmyLzq2mH9ECpi3mmGY4J4lB82UyIJcJ_zg =346x260)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/adventures/Santa%20Monica.jpg)
 
 _Hermosa Beach Pier (\~32 miles)_
 
@@ -75,7 +77,7 @@ _Rodeo Drive (\~25 miles)_
 
 Another SoCal classic, Rodeo Drive is home to pretty much every designer store you can think of! I enjoyed an afternoon of window shopping and getting a feel for the LA crowd.
 
-![](https://lh3.googleusercontent.com/e9Rt0vN8JgqdeFICOQljeBFIwOomQBonKGUXXfvGLJo_YtyL4fDYDTsWJfjsyn40N46BEji25VUZ2YFSOB9EgArGIN-VS5vj-0niAKhX6kHBr0i-zSCcp56M2i9-WJjOLbdenm0VXxyij6CLRi5xS7XrBxG2_QaL4T-EdSWFt3H3vigtDoTIFsINvg =431x322)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/adventures/rodeo.png)
 
 **Museums**
 
@@ -93,7 +95,7 @@ The Academy Museum is located right next to LACMA, and just opened last year. Th
 
 Adult Tickets to the Academy Museum are $25, but the rate for students is only $15!
 
-![](https://lh6.googleusercontent.com/ao-uHqX2G2fQ65wv15hZ_5640fnI_-6-bAPf2Ulh6ME3v0cLyOGWezjuR079SBcPivwI3fsFXfyotgc4foJoA-e9kl7V6BsgTY4j9jI70KYChtkD8euVwvxhEcicymP18hU16IX9gQlyxR9kMxguYW_g__x8uD3JMbeWiv6mvFO50llBCDOd38Fr4A =348x261)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/adventures/motion%20pics.JPG)
 
 **The Rose Bowl**
 
@@ -101,7 +103,7 @@ _Flea Market (\~4 miles)_
 
 Just four miles from campus, the Rose Bowl hosts many events throughout the year that are popular among Caltech students. One of their events is the Rose Bowl Flea Market, which happens on the second Sunday of every month, and is a great spot for buying things like jewelry, plants, and second hand clothes, along with hand crafted goods.
 
-![](https://lh3.googleusercontent.com/VipzwbENaXnxG0kgrOeae9yZqCXfCXRBWxspidUlNzyONIz4ugc3bq9irD8Bc0-4CdX_fmyhlx6-_L7QN68ASdbOyw-cEJ3GM__iIi5dNAC4D7ti7ljdVtlNWwP5ygkEu_G5zVR13qXUkKNpnt0DdT5nN3LkEQ2nEFzQjtiCVZOENECSecovm_8HfA =395x297)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/athena/adventures/rose%20bowl.jpg)
 
 _Foodieland (\~4 miles)_
 
