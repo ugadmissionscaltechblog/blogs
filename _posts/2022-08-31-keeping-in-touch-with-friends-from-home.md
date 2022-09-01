@@ -4,7 +4,7 @@ date: 2022-08-31 23:57:33 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/julian/Plane_Window.jpg
 tags: []
 title: Keeping in Touch with Friends from Home
-author: Julian Millan
+author: jmillan
 categories:
 - global
 
