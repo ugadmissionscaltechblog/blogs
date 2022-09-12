@@ -39,12 +39,16 @@ With no sleep (not a problem for us since we already had terrible sleep schedule
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/Sarah/get_gas_blog/IMG_1632.JPG)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/Sarah/get_gas_blog/IMG_1639.JPG)![](https://d24slhcvzhzz82.cloudfront.net/images/2022/Sarah/get_gas_blog/IMG_1643.JPG)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/Sarah/get_gas_blog/IMG_1639.JPG)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/Sarah/get_gas_blog/IMG_1646.JPG)![](https://d24slhcvzhzz82.cloudfront.net/images/2022/Sarah/get_gas_blog/IMG_1665.JPG)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/Sarah/get_gas_blog/IMG_1643.JPG)
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/Sarah/get_gas_blog/IMG_1646.JPG)
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/Sarah/get_gas_blog/IMG_1665.JPG)
 
 Then, after returning to the campsite and having a brief respite where we all passed out in the tent, we went to Erick Schat’s Bakery (a must see if you’re in or near Bishop) and then I drove 4 out of the 5 hours back while hyped up on caffeine because Sylvia had been up driving all night (another piece of advice, don’t go on a trip with only two people who have their driver's license). Overall, despite staying up all night, almost getting stranded, and feeling like I was dead for at least a day after, it was a worthwhile trip away from campus with beautiful mountains and fresh air.
 
-![](https://lh3.googleusercontent.com/DACqazXfFxvq1bCw9CyPQ3lzEhweD-UJxHiCwVHq9BPAKVo_IO8RExj7uxxnC80km2Z4licwuPCwMJbgehw0hu4hfD5Jr3plC8PlSO1bKS0QFrGI8c1pP3Q8Nv7_cCj3G8PcKu28P50zdAKiXP0gZYAxz0RtKI8fzNXDX-y39xm9z00n0EIdk6xv =326x434)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/Sarah/get_gas_blog/IMG_1669.JPG)
 
 Always remember to get gas.
