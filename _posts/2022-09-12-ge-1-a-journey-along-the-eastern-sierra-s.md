@@ -4,7 +4,7 @@ date: 2022-09-12 20:34:33 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/images/2022/Sarah/Ge 1 blog/Red Rock
   Canyon.jpg
 tags: []
-title: 'Ge 1: A Journey Along the Eastern Sierra’s'
+title: 'Ge 1: A Journey Along the Eastern Sierras'
 author: sbass
 categories:
 - academics
