@@ -17,6 +17,10 @@ I’ve screenshotted two weeks from this past term that are fairly representativ
 
 So, here’s my schedule for two weeks of the term: October 16th to 22nd, and November 6th to 12th. Of course, these schedules don’t include the time I spent doing homework, cooking, hanging out with friends, going off campus, sleeping, etc.
 
+[https://d24slhcvzhzz82.cloudfront.net/images/2022/hannah_f/oct_16_22.png]()
+
+[https://d24slhcvzhzz82.cloudfront.net/images/2022/hannah_f/nov_6_22.png]()
+
 For context, a brief description of my classes:
 
 * ME 72 is Engineering Design Laboratory, a two-term hands-on team project robotics class. For the first half of the term, our team of six people planned and designed our robots, and in the second half of the term we began to build them.
