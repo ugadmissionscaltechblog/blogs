@@ -24,7 +24,7 @@ So, here’s my schedule for two weeks of the term: October 16th to 22nd, and No
 For context, a brief description of my classes:
 
 * ME 72 is Engineering Design Laboratory, a two-term hands-on team project robotics class. For the first half of the term, our team of six people planned and designed our robots, and in the second half of the term we began to build them.
-* MS 115 is Fundamentals of Material Science, which is exactly what it sounds like, and counts as an advanced mechanical engineering elective.
+* MS 115 is Fundamentals of Materials Science, which is exactly what it sounds like, and counts as an advanced mechanical engineering elective.
 * ME 12 is Mechanics, a sophomore year fundamentals class that I took last year, and now work as a teaching assistant for.
 * L 130 is Elementary German, the first term of the first year of German language class offered at Caltech. This class counts as a “miscellaneous humanities,” and was somewhat of a random choice for me, but I really enjoyed it and am taking German again next term.
 * ME 40 is Dimensional and Data Analyses for Engineers, which again is what it sounds like.
