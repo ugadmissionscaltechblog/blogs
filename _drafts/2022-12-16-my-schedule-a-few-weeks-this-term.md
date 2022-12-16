@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-12-16 22:56:08 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/
+image: https://d24slhcvzhzz82.cloudfront.net/images/2022/hannah_f/nov_7.jpg
 tags: []
 title: My Schedule, A Few Weeks This Term
 author: Hannah Fisher
