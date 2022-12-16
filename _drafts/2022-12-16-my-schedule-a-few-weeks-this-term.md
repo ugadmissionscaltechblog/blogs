@@ -19,7 +19,7 @@ So, here’s my schedule for two weeks of the term: October 16th to 22nd, and No
 
 [https://d24slhcvzhzz82.cloudfront.net/images/2022/hannah_f/oct_16_22.png]()
 
-[https://d24slhcvzhzz82.cloudfront.net/images/2022/hannah_f/nov_6_22.png]()
+[https://d24slhcvzhzz82.cloudfront.net/images/2022/hannah_f/nov_6_12.png]()
 
 For context, a brief description of my classes:
 
