@@ -16,6 +16,8 @@ categories:
 
 It honestly changes depending on my mood. I'm someone who gets distracted very easily so a lot of times I like to work in the dining area at Red Door Marketplace, or in the dining hall/lounge of one of the houses (usually Ricketts House where I'm a member). That also provides nice social time to chat with people and collaborate if you're like me and like to switch between tasks frequently. Other times the ninth floor of the library is really nice and peaceful.
 
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/faq-with-florida-man/red-door.jpg){:width="32%"} ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/faq-with-florida-man/ricketts.jpg){:width="32%"} ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/faq-with-florida-man/ninth-floor.jpg){:width="32%"}
+
 **2. Do you explore outside the campus while at Caltech? If so, where are your favorite places to go?**
 
 Yes, I have a long term goal to get off of campus at least once per week. A lot of times it's just to Lake Avenue which is a block away. They have boba and a 24/7 donut shop and Trader Joe’s and restaurants. It's nice to just find some friends and be like, “Hey, want to go walk to Tea Spots?”
