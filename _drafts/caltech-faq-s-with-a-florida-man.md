@@ -44,9 +44,13 @@ Yes, although I'm a little bit of an outlier. I was originally admitted to the C
 
 Haha. Ha. Hmmm. Good question. I wish I had a good answer lol. Best answer I can give is I want to build stuff that does space science. I would love to work on a spacecraft going to the outer solar system maybe. Or on new astronomy instruments. Idk. What I do know is that being part of the Caltech community – all the real world experience I get here and the people I meet – all of that will be invaluable assets to working toward that future. I repeat, the Caltech community is extremely overpowered if you take advantage of the resources it has. :)) (In more specific terms, it's less the actual classes and academics that make Caltech unique and that will really help me in the future, although the academics are very worthwhile. It's the things I learn by walking into a professor’s office and asking them if I can get involved, for example.)
 
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/faq-with-florida-man/future-1.jpg){:width="50%"} ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/faq-with-florida-man/future-2.jpg){:width="49%"}
+
 **7. What's your favorite place to go to where you grew up?**
 
 I grew up in a retiree town in Florida and there wasn't much to do. My favorite place was the local Fab Lab, which had a maker space with tons of tools and machines that I could use to go and build anything. They also had after-school STEM programs for younger kids that I often helped teach. It was a really welcoming place where I could nerd out and it got me where I am today, without a doubt.
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/faq-with-florida-man/fablab.png){:width="100%"}
 
 ***
 
