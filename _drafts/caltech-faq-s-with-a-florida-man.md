@@ -24,6 +24,8 @@ Yes, I have a long term goal to get off of campus at least once per week. A lot 
 
 I also like to do indoor rock climbing, so I'll take the Metro over to a nearby climbing gym when I have a free evening. Beyond that, there are termly organized events to farther away places like ski, desert, and beach trips, depending on your house.
 
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/faq-with-florida-man/lake.jpg){:width="32%"} ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/faq-with-florida-man/h18.jpg){:width="32%"} ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/faq-with-florida-man/desert.jpg){:width="32%"}
+
 **3. What was the hardest part about Caltech you had to overcome? (e.g. courses, psets, exams, workload)**
 
 I'm still finding the answer to that question; so far it's been avoiding burnout. I'm someone who tends to fill my schedule with activities and stuff to the point where I have no free time, and I'm trying to learn how to not do that. It's a really bad state to be in, feeling like you have so much stuff to do that you just want to curl up into a ball and hide from it all. I highly recommend you start learning to discipline yourself for that kind of stuff; that's what I'm having to do now, lol.
