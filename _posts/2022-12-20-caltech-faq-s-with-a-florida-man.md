@@ -38,7 +38,7 @@ I came from a small high school, so I really like the small class size. I enjoy 
 
 Yes, although I'm a little bit of an outlier. I was originally admitted to the Class of 2024 (who are juniors this year) but I decided to take a gap year before starting at Caltech, so now I'm part of the Class of 2025 (the sophomores). During my gap year I did an internship in Boston with a tiny startup company run by college students, which was a great experience to get familiar with various engineering-type concepts. That following summer (of 2021), I was able to get an internship at an electric truck company near Pasadena. I actually got that internship from one of the Caltech Discord servers. An upperclass student was asking if anyone was interested in an internship at this company called Xos Trucks. (She had also taken time off from Caltech and had been working there during the year.) I was like, “uhh YES”, so she gave me the email of the CTO, who is a Caltech alum, which helped me get the internship. The Caltech alumni community is extremely overpowered for getting internships! This past summer (of 2022) I did an internship at MIT's Haystack Observatory, which Caltech subsidized, and which I got connected to through a similar series of coincidences and emails to the right people at the right times. This year I might be working on a project in the astronomy department, which I found out about by literally walking into a professor's lab in the basement of the Cahill building, and saying, “Hey hi I'm an undergrad can I ask you about your work?” He was like, “Sure!” and showed me around. (That is the extremely short version of the story but the point is you can do that kind of thing pretty easily, and sometimes it turns into something!)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/faq-with-florida-man/discord.png){:width="50%"}
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/faq-with-florida-man/discord.png){:width="100%"}
 
 **6. What would you want to do a few years from now (when you're about 25-30)? How do you hope to use Caltech to get you to who you want to be in the future?**
 
@@ -50,7 +50,7 @@ Haha. Ha. Hmmm. Good question. I wish I had a good answer lol. Best answer I can
 
 I grew up in a retiree town in Florida and there wasn't much to do. My favorite place was the local Fab Lab, which had a maker space with tons of tools and machines that I could use to go and build anything. They also had after-school STEM programs for younger kids that I often helped teach. It was a really welcoming place where I could nerd out and it got me where I am today, without a doubt.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/faq-with-florida-man/fablab.png){:width="50%"}
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/faq-with-florida-man/fablab.png){:width="100%"}
 
 ***
 
