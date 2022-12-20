@@ -41,3 +41,11 @@ Haha. Ha. Hmmm. Good question. I wish I had a good answer lol. Best answer I can
 **7. What's your favorite place to go to where you grew up?**
 
 I grew up in a retiree town in Florida and there wasn't much to do. My favorite place was the local Fab Lab, which had a maker space with tons of tools and machines that I could use to go and build anything. They also had after-school STEM programs for younger kids that I often helped teach. It was a really welcoming place where I could nerd out and it got me where I am today, without a doubt.
+
+***
+
+CREDITS
+
+Special thanks to Brandon L for supplying the questions!
+
+I am a sophomore undergrad at Caltech, not actually part of the Admissions team, so I feel like I should say that the views and opinions in this post are my own. That said, if you have any questions about Caltech or college apps in general, I would totally love to help! Feel free to email me at [magutier@caltech.edu](mailto:magutier@caltech.edu) :)
