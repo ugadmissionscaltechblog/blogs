@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-12-22 04:49:11 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/
+image: https://d24slhcvzhzz82.cloudfront.net/images/2022/chase/516_20221222_000450_chrome.png
 tags: []
 title: Why is there an EE in my computer systems class?
 author: Chase Blanchette
