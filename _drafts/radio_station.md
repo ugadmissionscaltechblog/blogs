@@ -14,7 +14,7 @@ A friendly desert community where the sun is hot, the mountains are beautiful, a
 
 Welcome to Caltech!
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2023/guutz/welcometocaltech.png)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2023/guutz/welcometocaltech.png){:width="33%}
 
 Hi, friends! It has been several months since my last blog post -- what can I say? I had a moderately busy fall term. What little downtime I did have, I chose to spend on other things like “sleep” and “friends”. Those can become foreign concepts if you’re not careful!
 
@@ -22,7 +22,7 @@ Things have been good, though. I had a really great summer which I’d love to t
 
 More on all of that soon -- we’re going to do this radio announcer style! But first, a word from today’s sponsor™™.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2023/guutz/bean2.jpg)  
+![](https://d24slhcvzhzz82.cloudfront.net/images/2023/guutz/bean2.jpg){:width=33%}  
 _Brought to you by **Dabney bEans Initiative (DEI)**_
 
 Thanks, DEI. It truly is a tragedy that they got rid of the Beans Vending Machine. Sure, it might have started as a home-brewed social economics experiment, but the free cans of joy that it dispensed became the foundation of an entire culture of Caltech students! Anyway, back to business.
