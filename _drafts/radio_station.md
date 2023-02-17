@@ -89,7 +89,7 @@ I probably made that sound like a lot, but I wasn’t lying before about this te
 
 Let’s go to the weather.
 
-{% include youtubePlayer.html id="[https://www.youtube.com/watch?v=KyK9UUfChi4](https://www.youtube.com/watch?v=KyK9UUfChi4 "https://www.youtube.com/watch?v=KyK9UUfChi4")" %}
+{% include youtubePlayer.html id="https://www.youtube.com/watch?v=KyK9UUfChi4" %}
 
 Dear listeners, as our broadcast comes to a close, I want to leave you with a reflection about uncertainty. If you’re reading this, chances are you’ve been thinking a lot about the future lately. So many options, so many possible ways things could play out, and yet, so much work and responsibility on your shoulders to create the right opportunities for yourself. For me, that future is rather immediate, as I’m getting ready to start my winter term classes at Caltech -- and they’re going to be tough. I’m going to have more and harder coursework than I’ve ever had before (joys of sophomore year!), and I frankly have no idea how I’ll be able to handle it without sacrificing other important parts of my life that keep me sane. Such is the struggle, generally, of being a student with academic aspirations. Same deal with college applications. You might feel overwhelmed with the uncertainty of the future -- I know I did back in high school -- in fact it would be weird if you didn’t! So the best thing you can do is trust yourself. Trust that your best WILL be good enough. Trust that you _always_ have options, and that no matter how much you think you’ve screwed up, it’s never the end of the world. Trust yourself to choose what _you_ want and what makes _you_ happy, instead of what you think the world expects of you.
 
