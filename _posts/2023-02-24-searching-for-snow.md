@@ -4,7 +4,7 @@ date: 2023-02-24 23:38:59 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/
 tags: []
 title: Searching for snow
-author: ''
+author: Katelyn Lee
 categories:
 - culture
 
