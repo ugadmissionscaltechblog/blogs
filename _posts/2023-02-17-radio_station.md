@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-02-17T22:11:22.000+00:00
+date: 2023-02-25 22:11:22 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/images/2023/guutz/welcometocaltech.png
 tags: []
-title: ''
+title: What I've been up to since my last blog post
 author: magutier
 categories:
 - academics
