@@ -39,41 +39,41 @@ I also went on a solo trip to England for a week, because, fortunately, past-Mic
 
 And now, this week’s horoscopes, presented according to fields of study.
 
-[**Applied Physics:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/applied-physics)**  
-**Your whole deal is very threatening, and I’m into it.
+[**Applied Physics:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/applied-physics)
+Your whole deal is very threatening, and I’m into it.
 
-[**Chemistry:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/chemistry)**  
-**Someone you love will betray you. Or they won’t. One of those two things, it’s unclear which.
+[**Chemistry:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/chemistry)
+Someone you love will betray you. Or they won’t. One of those two things, it’s unclear which.
 
-[**Electrical Engineering:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/electrical-engineering)**  
-**Today is your lucky day. So that’s one out of 364.
+[**Electrical Engineering:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/electrical-engineering)
+Today is your lucky day. So that’s one out of 364.
 
-[**Business, Economics, and Management:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/business-economics-and-management)**  
-**An investment is about to pay off in a huge way. Oh, not for you. Sorry, this was unrelated. Harold Richards, CEO of the Good Food Company, is about to get a huge stock payout. On the other hand, you are going to accidentally throw away a 5 dollar bill. Sorry.
+[**Business, Economics, and Management:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/business-economics-and-management)
+An investment is about to pay off in a huge way. Oh, not for you. Sorry, this was unrelated. Harold Richards, CEO of the Good Food Company, is about to get a huge stock payout. On the other hand, you are going to accidentally throw away a 5 dollar bill. Sorry.
 
-[**Geology:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/geology)**  
-**Do you really like mid-modern design, or are you merely nostalgic for a time when consumer goods weren’t made to be discarded after two years?
+[**Geology:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/geology)
+Do you really like mid-modern design, or are you merely nostalgic for a time when consumer goods weren’t made to be discarded after two years?
 
-[**Astronomy:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/astrophysics)**  
-**Remember the rule of social media: no one is actually screaming as much as they are on Instagram, wailing as much as they are on Facebook, nor scratching at the dirt as much as they are on Twitter. The versions of ourselves we present online aren’t necessarily our true selves.
+[**Astronomy:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/astrophysics)
+Remember the rule of social media: no one is actually screaming as much as they are on Instagram, wailing as much as they are on Facebook, nor scratching at the dirt as much as they are on Twitter. The versions of ourselves we present online aren’t necessarily our true selves.
 
-[**Mathematics:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/mathematics)**  
-**A penny saved is a penny earned. Now you just need like 10,000 more of those bad boys to afford a few days’ worth of groceries.
+[**Mathematics:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/mathematics)
+A penny saved is a penny earned. Now you just need like 10,000 more of those bad boys to afford a few days’ worth of groceries.
 
-[**Planetary Science:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/planetary-science)**  
-**You’re a big sweetie boy. Just a big old sweetie boy. This has nothing to do with your gender presentation or identification, this transcends physical and mental reality. You are, at your heart of hearts, a big old sweetie boy and we love you.
+[**Planetary Science:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/planetary-science)
+You’re a big sweetie boy. Just a big old sweetie boy. This has nothing to do with your gender presentation or identification, this transcends physical and mental reality. You are, at your heart of hearts, a big old sweetie boy and we love you.
 
-[**Biochemistry:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/biology)**  
-**You’re gonna make pasta tonight. Listen, not every prediction is an important one.
+[**Biochemistry:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/biology)
+You’re gonna make pasta tonight. Listen, not every prediction is an important one.
 
-[**Physics:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/physics)**  
-**You will be hit by a meteorite tonight. Some predictions are super important.
+[**Physics:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/physics)
+You will be hit by a meteorite tonight. Some predictions are super important.
 
-[**Computer Science:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/computer-science)**  
-**You know that one lady who is running a years-long scam on you, carefully harvesting you for personal information that she will someday turn against you for her own profit? Oh you don’t? Well… heads up I guess.
+[**Computer Science:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/computer-science)
+You know that one lady who is running a years-long scam on you, carefully harvesting you for personal information that she will someday turn against you for her own profit? Oh you don’t? Well… heads up I guess.
 
-[**Mechanical Engineering:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/mechanical-engineering)**  
-**Not all ideas are bad. The one you just had though? Oof. Rethink, buddy.
+[**Mechanical Engineering:**](https://www.admissions.caltech.edu/why-caltech/academics/majors-minors/mechanical-engineering)
+Not all ideas are bad. The one you just had though? Oof. Rethink, buddy.
 
 ***
 
@@ -83,7 +83,7 @@ I probably made that sound like a lot, but I wasn’t lying before about this te
 
 Let’s go to the weather.
 
-{% include youtubePlayer.html id="https://www.youtube.com/watch?v=KyK9UUfChi4" %}
+{% include youtubePlayer.html id="KyK9UUfChi4" %}
 
 ***
 
