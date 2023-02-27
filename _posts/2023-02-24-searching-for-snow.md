@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-02-24 23:38:59 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/images/2023/katelyn/image4.HEIC
+image: https://d24slhcvzhzz82.cloudfront.net/images/2023/katelyn/searching-for-snow/image4.jpg
 tags: []
 title: Searching for snow
 author: Katelyn Lee
@@ -19,10 +19,10 @@ I'm taking two 3 unit, P/F computer science classes for giggles—one is a compu
 
 My friend, Emily, invited me on a "snow hike" a few weekends ago in Lytle Creek, California. We—a group of four seniors finally with enough time on our hands—found ourselves bouncing about in her Subaru trying to make our way up the bumpy road to the trail head. The hike was beautiful, with the bright blue sky and lack of humidity in the air reminiscent of a crisp November afternoon in my hometown of New York. It was the perfect time to reflect on what I wanted for the rest of my time at Caltech and beyond. It's so easy to find yourself getting caught up in doing the same things just because they're familiar, without really questioning whether it's actually what you want. My choice to apply to biodevices/biomechatronics graduate programs was my first foray into the clichéd "stepping out of my comfort zone," and it felt exciting, liberating, and a little scary.
 
-[https://d24slhcvzhzz82.cloudfront.net/images/2023/katelyn/image2.JPG](https://d24slhcvzhzz82.cloudfront.net/images/2023/katelyn/image2.JPG "https://d24slhcvzhzz82.cloudfront.net/images/2023/katelyn/image2.JPG")
+![](https://d24slhcvzhzz82.cloudfront.net/images/2023/katelyn/searching-for-snow/image2.jpg)
 
-[https://d24slhcvzhzz82.cloudfront.net/images/2023/katelyn/image3.HEIC](https://d24slhcvzhzz82.cloudfront.net/images/2023/katelyn/image3.HEIC "https://d24slhcvzhzz82.cloudfront.net/images/2023/katelyn/image3.HEIC")
+![](https://d24slhcvzhzz82.cloudfront.net/images/2023/katelyn/searching-for-snow/image3.jpg)
 
-[https://d24slhcvzhzz82.cloudfront.net/images/2023/katelyn/image4.HEIC](https://d24slhcvzhzz82.cloudfront.net/images/2023/katelyn/image4.HEIC "https://d24slhcvzhzz82.cloudfront.net/images/2023/katelyn/image4.HEIC")
+![](https://d24slhcvzhzz82.cloudfront.net/images/2023/katelyn/searching-for-snow/image4.jpg)
 
 At this point we had reached the point of the hike where we were going to double-back, and we hadn't seen any snow. Misleading, right? I had been carrying 10 lbs worth of crampons in the case we came across snow and ice. But I guess that's part of the beauty of hiking—it's all about the journey, and maybe just a little about the view at the top. And if I'm going to stretch this metaphor just a little further, isn't that what college is about? I did enter as a pre-med bio major, after all. Here I am, about to graduate as a bioengineer masquerading as a mechanical engineer. My journey has been good :)
