@@ -25,28 +25,29 @@ Walk towards the Sherman Fairchild Library (SFL), the main library on campus. In
 
 Once in GTL, take another left, and walk down the hall to this little alcove, right across from the elevator.
 
-![](https://lh4.googleusercontent.com/I76UICI7V461BvBXszYM8_SLNWqz7mbGhSfdpcOx8tKEtepUgm2VSjMi86AbPRRjNlgNMfkT5skz2QMwSwffQc32gRPjZWo1iD17Im4J04GiXWpVull8bFCKLYj58cypLjB81f7Z1od3p4wHn6sf7fg =498x374)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2023/hfisher/gtl139_2.jpg)
 
 Scan your keycard at the door scanner and head on in! It is unknown if all undergrads have access to this room, or only those who have declared a Mechanical Engineering major.
 
-![](https://lh6.googleusercontent.com/L63kR79reS2OwqvmSIrd9_tpYB5j8SKttPTQUYHQQiT9WT6JstRA80WYPEVNNWQETgnck4K6GOf7g9YiytGs2f-2R52-z1v5yXwal0DEWUa9xgkN8bPMdC7sKQyoEVPxEH6fvhGb2NfJTLKIW3UKReY =264x353)
+  
+![](https://d24slhcvzhzz82.cloudfront.net/images/2023/hfisher/gtl139_3.jpg)
 
 **Once inside GTL 139:**
 
 Enjoy the gigantic tables, upon which you can spread your papers far and wide. Side note: wonder about why someone decided that exactly one wall should be wallpapered, and that it should be done in a blue polka-dot/splat pattern.
 
-![](https://lh5.googleusercontent.com/LxaXigoQ2RIt0QtrW00PmCYkKzdKOIq43SBRSUP3OBEBTAQhmbOpFcI3DXXzY-l-WKpGbYglskBHSaarHrr5FMvmH-pIzwbBbWrp04LcFohEIYwYDjFDK2U6k1BC-wQrjAvfhwawKWp1xOWEVUeWKYo =450x338)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2023/hfisher/gtl139_4.jpg)
 
 When the tables are not enough, spread your work further using the white board wall.
 
-![](https://lh3.googleusercontent.com/YnyzcRr8Tm-IOZgVZrvgdnDgSaGTiBunIqG5caGG15ZuR8eHMxl8OCLcDd9k1YVV_u9QYtvDkk27ijXaPYF0Y6WJCC2zKBGhD6kBxH3UyKJ-gZByyYrf_rfriTg-SDcNAGHgOs8_gnj4d5Gu55eoCPg =415x312)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2023/hfisher/gtl139_5.jpg)
 
 Bring a jacket if you plan to stay for long, because the thermostat is always locked and usually set to some absurdly freezing temperature. No amount of randomly pressing the buttons will have any effect.
 
-![](https://lh5.googleusercontent.com/PNbdBVsaLoYTXK3yoSNQyCHM5E6nSZvIYCXuU6zeqWiOrDGTJ8IWX1At1S7CgcxcSjx6gUlowEfbSMiSXaPuaEjxzq85Ikhr2dGn3YyYa6aLEBh1Mv8avN2XcrVgAXXwEo2ooWlaXRBiPpHH6X_52kI =232x310)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2023/hfisher/gtl139_7.jpg)
 
 Enjoy this delightful painting.
 
-![](https://lh4.googleusercontent.com/DT1jH07iJInKFfiIVP_bw5vk3jLU4pCK2ugVvE6u5pDCUcNW5rJaQt1o4XPtdnjttgG8D3GsQnsPZWHJQ09a__oXU7Te6XtHXklTVFkLZ4V_rZh7z007c-CxqIDRX3JWIJDpsqf76UXpPjKAiRaA8yQ =439x329)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2023/hfisher/gtl139_6.jpg)
 
 Also, don’t forget to get up and stretch your legs every 15-20 minutes, because the lights are on a motion-detector timer and will unexpectedly plunge you into darkness.
