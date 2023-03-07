@@ -21,7 +21,7 @@ So, I found a new place to do homework: GTL 139. Short for [Gates-Thomas Laborat
 
 Walk towards the Sherman Fairchild Library (SFL), the main library on campus. Instead of going into the library, take a hard left into GTL.
 
-![](https://lh4.googleusercontent.com/4r7uwfN5NEZdrqmj6QVcBgre05ndXAHkbL6PyPGuS00H6FbUYqCGNXnIzsmjk7kqiwP5QVR32rquANyBgOl47FHsAafTyXEKgADqMT2EVFeh3n4BbituuZMhpQ82fmFjSynCYeeKtmvCnjbf-QrSSkw =435x326)
+![](https://d24slhcvzhzz82.cloudfront.net/images/2023/hfisher/gtl139_1.jpg)
 
 Once in GTL, take another left, and walk down the hall to this little alcove, right across from the elevator.
 
