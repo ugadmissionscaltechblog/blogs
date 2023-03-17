@@ -26,7 +26,7 @@ If you like the stickers you see on my computer, you're out of luck! The left on
 
 I was never able to get into drinking coffee. My usual go-to is a hot matcha latte from Red Door, but a homemade cup of Earl Grey is just the thing to get me through the day. The mug is from my favorite place to go skiing, Mammoth Mountain, where Lloyd goes for our annual ski trip. After making my way down a double-black that felt practically vertical, I've deemed myself enough of a skier to own a skiing mug.
 
-1. **A "Busy Beaver Zone" sign** my brother purchased in Québec.
+2. **A "Busy Beaver Zone" sign** my brother purchased in Québec.
 
 I stole this from his room. I mean, I go to an engineering school with a beaver for its mascot. How could I not?
 
