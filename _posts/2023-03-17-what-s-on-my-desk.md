@@ -4,6 +4,7 @@ date: 2023-03-17 05:42:30 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/images/2023/katelyn/on_my_desk.jpg
 tags:
 - student_life
+- spotlight
 title: What's on my desk?
 author: katelyn_lee
 categories:
