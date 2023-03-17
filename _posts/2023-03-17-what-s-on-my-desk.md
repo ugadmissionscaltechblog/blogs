@@ -6,7 +6,7 @@ tags:
 - student_life
 - spotlight
 title: What's on my desk?
-author: katelyn_lee
+author: Katelyn Lee
 categories:
 - culture
 
