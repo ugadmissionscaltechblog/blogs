@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-02-06 07:53:26 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/
+date: 2023-02-06T07:53:26.000+00:00
+image: https://d24slhcvzhzz82.cloudfront.net/images/2023/RahulC/IMG_9701.JPG
 tags: []
 title: A Trip to Legoland
 author: Rahul Chawlani
@@ -31,6 +31,8 @@ What I liked: Mini San Francisco
 
 Easily one of the coolest experiences, seeing a miniature San Francisco was amazing. They also had a small Los Angeles, New York, New Orleans, Washington DC, and Las Vegas!
 
+![](https://d24slhcvzhzz82.cloudfront.net/images/2023/RahulC/IMG_9699.JPG)
+
 What I didn’t like: Long lines to buy a Lego Set
 
 Ok, yes I’m 20 years old. Yes, I wanted to buy a Lego Set to commemorate my time at Legoland, I’m entitled to buy one without judgment! Sadly, the prices were ridiculously high and the lines even longer. I did not want to catch covid waiting in line for a cool Lego car.
@@ -40,3 +42,5 @@ What I liked: The Coastersaurus
 Ok, as a ride it’s ok. Nothing great, nothing special. But here’s the trick: you get to go TWICE, as an exasperated ride worker yells into the mic “ONE MORE TIME!” as all the kids, parents, (and us as well) chant “ONE MORE TIME!” I feel this probably started as either a mistake or peer pressure on behalf of the kids, but I LOVED this.
 
 I loved Legoland. Easily one of the highlights of my Third Term. Although not the closest place from Caltech, it is definitely worth a visit sometime in your time here!
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2023/RahulC/IMG_9709.JPG)
