@@ -11,6 +11,8 @@ categories:
 ---
 Growing up as a kid, I LOVED Legos. Getting the opportunity to go to Legoland since it’s relatively close to campus was one of the highlights of my time here so far. Fast Forward to 2022 in the waning days of the school year, Page had their annual Beach Trip to a house in Carlsbad, California. At this point in time, I wanted to go to the beach, but I wasn’t really excited for it. I wanted to chance to have some fun and be away from campus with my housemates for a while. That’s why when I was offered a chance at Page House Beach Trip to find myself in the middle of Legoland, of course I wanted to go! Below, I compiled some thoughts to give everyone the best look at Legoland, California.
 
+![](https://d24slhcvzhzz82.cloudfront.net/images/2023/RahulC/IMG_9707.JPG)
+
 What I liked: The Dragon:
 
 While not super extreme, it is super fun. With a retro, nostalgic look, a cool Lego dragon, and a cute medieval theme (as well as less than a 3 minute wait time!) this fun ride whipped us around the park and was incredibly fun.
@@ -18,6 +20,8 @@ While not super extreme, it is super fun. With a retro, nostalgic look, a cool L
 What I didn’t like: Coast Cruise
 
 A long wait for a subpar cruise ride. The only highlight of the ride were the incredible jokes by the tour guide.
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2023/RahulC/IMG_9702.JPG)
 
 What I liked: Coast Guard Build a Boat
 
