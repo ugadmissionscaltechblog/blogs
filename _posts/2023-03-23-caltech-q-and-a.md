@@ -1,10 +1,10 @@
 ---
 layout: post
 date: 2023-03-23 19:44:26 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/images/2023/JPolansky/triangle.png
+image: https://d24slhcvzhzz82.cloudfront.net/images
 tags: []
 title: caltech q and a
-author: jpolansky
+author: jpolansk
 categories:
 - culture
 
@@ -99,8 +99,6 @@ In order to get a good sense of the Caltech community, there is no better way th
 6. “I saw \[a freefalling squirrel\] too. There was a splat sound. It was motionless for a bit. But then it got up.” – VZ
 7. “Personally, I come from Kentucky and there are a lot of squirrels there. The squirrels there are a lot bigger and meaner. In comparison, the California squirrels are pretty chill. I have yet to be attacked by one, so that's positive marks.” – AA (Upon clarification, “yet” implies he does expect to be attacked by one.)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2023/JPolansky/triangle.png)
-
 **What’s your favorite three-dimensional shape?**
 
 1. “The sphere. It has no hard edges.” – AL
@@ -109,6 +107,8 @@ In order to get a good sense of the Caltech community, there is no better way th
 4. “The cylinder but with a cross cap.” *insert some mathematical jargon * - VN
 5. “I like donuts. Touri are cool. They have interesting properties. Imagine if you had a planet that was taurus-shaped and somehow did not collapse under its own gravity. That’d be a cool place to live.” – MG
 6. “Icosahedron. Cause it's got 20 sides and a bunch of triangles. That's pretty cool. And it's a platonic solid, which is also pretty cool.” – AA
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2023/JPolansky/triangle.png)
 
 **Is the Bermuda Triangle real?**
 
