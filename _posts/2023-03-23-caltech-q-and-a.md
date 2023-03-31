@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-03-23 19:44:26 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/images
+image: https://d24slhcvzhzz82.cloudfront.net/imagesimages/2023/JPolansky/bird.png
 tags: []
 title: caltech q and a
 author: jpolansk
