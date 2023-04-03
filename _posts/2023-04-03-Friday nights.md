@@ -1,14 +1,17 @@
 ---
 layout: post
 date: 2023-04-03 04:53:45 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/
+image: https://d24slhcvzhzz82.cloudfront.net/images/2023/katelyn/gingerbread.jpg
 tags: []
-title: ''
-author: ''
-categories: []
+title: My Friday Nights
+author: katelyn_lee
+categories:
+- culture
 
 ---
 It was the Friday night of midterms during my first year at Caltech, and I was alone in the library. That weekend (week five of term, if you're keeping count) also happens to coincide with Halloween. But as a bright-eyed frosh trudging my way through Ma 1a lecture notes, I was just baffled that no one else was studying alongside me. Spoiler alert: not all Caltech students spend Friday night—or every night—studying or grinding sets, _even_ during midterms. And especially on Halloween weekend.
+
+![](https://d24slhcvzhzz82.cloudfront.net/images/2023/katelyn/gingerbread.jpg "you, too, can make stale gingerbread houses in Lloyd")
 
 Disclaimer: I can't speak for everyone at Caltech. Sometimes even I'll be working late on Friday to catch up on work or trying to get ahead on the upcoming set due the next week. But more often than not, I'll find myself goofing off with my friends because hey, all work and no play makes Katelyn a dull girl.
 
@@ -18,4 +21,4 @@ I'm pretty partial to watching movies with my friends in the Shed, the Lloyd hou
 
 Sometimes we'll do a self-care night, which is just as basic as it sounds: chill music, mood lighting, face masks, nail polish, and making friendship and bead bracelets. Which is fun because at the end of the night you have a cool bracelet to wear! A small sense of accomplishment to tide you through the week.
 
-Or we'll stop by the Lloyd llounge to play ping pong, pool, or Mario Kart on the Switch. Or maybe Ricketts Open Mic night is happening. Friday night is typically a pretty chill time on campus, especially with the bling and excitement of Saturday looming on the horizon, but this is all to say, TGIF!
+Or we'll stop by the Lloyd llounge to play ping pong, pool, or Mario Kart on the Switch. Or make a gingerbread house. Or maybe Ricketts Open Mic night is happening. Friday night is typically a pretty chill time on campus, especially with the bling and excitement of Saturday looming on the horizon, but this is all to say, TGIF!
