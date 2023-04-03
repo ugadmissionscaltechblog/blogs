@@ -4,7 +4,7 @@ date: 2023-04-03 04:53:45 +0000
 image: https://d24slhcvzhzz82.cloudfront.net/images/2023/katelyn/gingerbread.jpg
 tags: []
 title: My Friday Nights
-author: katelyn_lee
+author: Katelyn Lee
 categories:
 - culture
 
