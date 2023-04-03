@@ -64,4 +64,4 @@ A dried rose from my freshman year that my friends gave me after my first acapel
 
 10. **A brick.**
 
-Also, a cat toy. A squeaky pig. Some shells. A 3D printed dinosaur head. A Mandalorian plushie. A striped rock that I use as a paperweight. I love looking at my little trinkets on this shelf. Each one has its own story, but it would take too long to explain each one.
+Also, a cat toy. A squeaky pig. Some shells. A 3D printed dinosaur head. A Mandalorian plushie. A striped rock that I use as a paperweight. I love looking at my little trinkets on this shelf. Each one has its own story, but it would take too long to explain each one. 
