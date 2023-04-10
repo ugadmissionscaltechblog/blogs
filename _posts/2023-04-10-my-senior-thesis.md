@@ -7,6 +7,7 @@ title: 'My Senior Thesis '
 author: argomez
 categories:
 - research
+- academics
 
 ---
 One of the graduation requirements at Caltech, specifically in the Mechanical and Civil Engineering Department, is the completion of a Capstone Design project. This can be accomplished by either completing a Senior Thesis or taking ME 72 (Engineering Design Laboratory), a robotic competition where teams of students are tasked with designing and building several robots throughout the term. In my case, I opted for a Senior Thesis. Although it’s called a Senior Thesis, I got approval from the admin to complete it during my junior year. A senior thesis is an independent, experimental year-long research project you get academic credit for. Part of the responsibility is finding a mentor, either at Caltech or JPL, and developing a year-long project plan. You are also required to frequently present your progress to the Mechanical Engineering Undergraduate Committee. 
