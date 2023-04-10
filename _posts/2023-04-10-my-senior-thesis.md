@@ -24,4 +24,4 @@ This research project was by far my most challenging yet rewarding to date. It g
 
 Overall, I think both options for fulfilling the Capstone Design project requirement are very beneficial, and you’ll learn a lot. Deciding to complete one over the other is a personal choice. In my case, a Senior Thesis fit better into my schedule and was a project where I could directly apply what I was learning in class that year. At the end of the day, it’s really about your preferences and what you want to get out of the experience that counts.
 
-More about my internship and Senior Thesis can be found on JPL's YouTube: [https://www.youtube.com/watch?v=kFS0JRPf8P4](https://www.youtube.com/watch?v=kFS0JRPf8P4 "https://www.youtube.com/watch?v=kFS0JRPf8P4")
+More about my internship and Senior Thesis can be found on JPL's YouTube: [https://d24slhcvzhzz82.cloudfront.net/](https://d24slhcvzhzz82.cloudfront.net/ "https://d24slhcvzhzz82.cloudfront.net/")[https://www.youtube.com/watch?v=kFS0JRPf8P4](https://www.youtube.com/watch?v=kFS0JRPf8P4 "https://www.youtube.com/watch?v=kFS0JRPf8P4")
