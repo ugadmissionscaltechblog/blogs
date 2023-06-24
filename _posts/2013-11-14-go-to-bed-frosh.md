@@ -9,7 +9,7 @@ date: 2013-11-14
 ---
 
 
-At 7:45 am last Friday morning, Venerable house members were woken up in the most gentle way possible: senior members, armed with metal pots &amp; pans and a blowhorn, ran through the house, banging on everyone’s door for a nice, old-fashioned wake-up call.
+At 7:45 am last Friday morning, Ruddock house members were woken up in the most gentle way possible: senior members, armed with metal pots &amp; pans and a blowhorn, ran through the house, banging on everyone’s door for a nice, old-fashioned wake-up call.
 
 While this boisterous behavior might seem cruel and unusual, the early morning wake-up actually signals an hour of activities, puzzles, and all-around fun, planned by the seniors for their underclassmen. Let me back-track a bit.
 
@@ -29,7 +29,7 @@ So we decided to create a stack around this. With the theme “Modern Art,” we
 
 Sixteen Rudds signed up for our stack, and read the first clue we’d provided for them:
 
-*Well, midterms didn’t go too well for you and you’ve flunked out of Caltech. . . which has given you the opportunity to pursue your other dream of Art School! In order to gain admission to Art School, you have to have a portfolio -- but wait, you don’t have one! In true Caltech style (ex-Caltech for you), you’d better throw one together ASAP. Head over to the Venerable Courtyard to take the first step towards satisfying your raging art-on.*
+*Well, midterms didn’t go too well for you and you’ve flunked out of Caltech. . . which has given you the opportunity to pursue your other dream of Art School! In order to gain admission to Art School, you have to have a portfolio -- but wait, you don’t have one! In true Caltech style (ex-Caltech for you), you’d better throw one together ASAP. Head over to the Ruddock Courtyard to take the first step towards satisfying your raging art-on.*
 
 **7:55 am:** In the courtyard, the students were greeted with two blank canvas, makeshift darts:
 

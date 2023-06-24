@@ -15,9 +15,9 @@ Thanks for all those emails telling me how awesome my blog posts are - it's nice
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e2b14437970b.jpg)
-I'm writing this blog post on the back of finishing my first set in E&amp;M for Ph106b (I'd imagine it's comparable to graduate level, but don't take my word for it). As you can see, I'm blatantly advertising my house - Venerable - on the back of Jessica Davis's (astrophysics, Junior) sweatshirt. Also, we tend to get really loopy past midnight... Collaboration at Caltech is always fun since you get to socialize and learn at the same time in perfect harmony (experimentally-determined). So, lemme introduce some of the things I'll talk about in this blog post...
+I'm writing this blog post on the back of finishing my first set in E&amp;M for Ph106b (I'd imagine it's comparable to graduate level, but don't take my word for it). As you can see, I'm blatantly advertising my house - Ruddock - on the back of Jessica Davis's (astrophysics, Junior) sweatshirt. Also, we tend to get really loopy past midnight... Collaboration at Caltech is always fun since you get to socialize and learn at the same time in perfect harmony (experimentally-determined). So, lemme introduce some of the things I'll talk about in this blog post...
 
-- Venerable House's Formal Dinner
+- Ruddock House's Formal Dinner
 - Olive Harvest "Linner"
 - Dinner with Mark Wise
 - Jurassic Park OPI progress update
@@ -43,16 +43,16 @@ I apologize in advance for not taking pictures of all the food before I ate it..
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e5f563b80970c.jpg)
-Actually, really only the one picture - but the soup was delicious and looked awesome! It even had the fancy-writing "R" on it in homage to Venerable house. On that same night, we had "Installiations" [always mispelled it by tradition] of the new House Officers including Ath Team (sports), Soc Team (social events), Librarian (has to be lazy and keep the house library clean), Treasurer (rules our monies), Secretary (types everything and handles emailing the house and so forth), Vice President (creates Alley Challenges), and President (the face of our house).
+Actually, really only the one picture - but the soup was delicious and looked awesome! It even had the fancy-writing "R" on it in homage to Ruddock house. On that same night, we had "Installiations" [always mispelled it by tradition] of the new House Officers including Ath Team (sports), Soc Team (social events), Librarian (has to be lazy and keep the house library clean), Treasurer (rules our monies), Secretary (types everything and handles emailing the house and so forth), Vice President (creates Alley Challenges), and President (the face of our house).
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e2b156e8970b.jpg)
 Also, you might be wondering why the cake is "Install-Dethrone-K-Bitz-Iation". Our ex-president is Daniel Kolodrubetz (or KBitz, Special-K, Ginger [he's red-haired]); a senior in Physics. It was a hilarious joke. Also, I think the dinosaur has something to do with our OPI being dinosaur-related, but that could just be coincidence...
 
 ## Olive Harvest "Linner"
-Way way back before I started blogging - first term - we had an event called "Olive Harvest" which took place on the appropriately named "Olive Walk" at Caltech. Olive Walk is a long walk starting at the Athaneum and ending just before Millikan Library that is lined with Olive trees. Every time the trees start producing a crapload of olives, instead of hiring outside landscapers to get all the olives down so they don't mess up the Olive Walk, Caltech gets all the students, grad students, and random people from the community to help collect olives. The end purpose is to make Olive Oil with these olives. In particular, all the student houses had a competition: whoever collected the most olives by weight would win $1000 for their house and a free dinner at President Chameau's house. So guess who won? Venerable did! I have a hard time recalling but I think it was something like 800-900 pounds of olives from our houses - the next highest being around 600 pounds...
+Way way back before I started blogging - first term - we had an event called "Olive Harvest" which took place on the appropriately named "Olive Walk" at Caltech. Olive Walk is a long walk starting at the Athaneum and ending just before Millikan Library that is lined with Olive trees. Every time the trees start producing a crapload of olives, instead of hiring outside landscapers to get all the olives down so they don't mess up the Olive Walk, Caltech gets all the students, grad students, and random people from the community to help collect olives. The end purpose is to make Olive Oil with these olives. In particular, all the student houses had a competition: whoever collected the most olives by weight would win $1000 for their house and a free dinner at President Chameau's house. So guess who won? Ruddock did! I have a hard time recalling but I think it was something like 800-900 pounds of olives from our houses - the next highest being around 600 pounds...
 
-So we just had the Linner last week. We've called it a "linner" because it occured between lunch/dinner (around 3pm). So we got to the President's house which is less than a minute away from Venerable - north of us. Here are some pictures of the event:
+So we just had the Linner last week. We've called it a "linner" because it occured between lunch/dinner (around 3pm). So we got to the President's house which is less than a minute away from Ruddock - north of us. Here are some pictures of the event:
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e2b16b17970b.jpg)
 Here's a picture of President Chameau talking with Rebecca Wernis (S'more, Physics) about how to play Petanque (a french game). The goal of the game was to start with a yellow ball - throw it to determine where you toss the metal balls next. The person who gets closest to the yellow ball (no restrictions about hitting it or other players' balls) wins. Here's the game in action...
@@ -183,7 +183,7 @@ So Soc Team got us free food from In-n-Out which was pretty good. Then we went b
 Here's a picture of what we're doing in the back of the gate - building on the doors. You can see the painted doors on the left leaning against our birdcage platform. And here's the almost-finalized result we have:
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e5f597c12970c.jpg)
-Pretty cool eh? For those of you nearby in the SoCal region (that means you Techers and Admission people who like to read the blogs), you should stop by, visit me in Venerable 216, and check out the party (it's on March 5th, but if you wanna see it during the day, stop by beforehand or after the party before the term ends).
+Pretty cool eh? For those of you nearby in the SoCal region (that means you Techers and Admission people who like to read the blogs), you should stop by, visit me in Ruddock 216, and check out the party (it's on March 5th, but if you wanna see it during the day, stop by beforehand or after the party before the term ends).
 
 Here is another nearly finalized picture of the gates - with the doors we just finished!
 

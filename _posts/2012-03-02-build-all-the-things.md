@@ -9,7 +9,7 @@ date: 2012-03-02
 ---
 
 Whew, these past two weeks have been intense, without any time to write another blog. I suppose it’s necessary to write about why I haven't been writing then!
-Mainly, it's because Venerable's interhouse party is this weekend and I have been helping as much as possible for the past two weeks (though not as much as one of the other freshmen, who has put in over 30 hours easily).The official theme now is Island Paradise, and together with the volcano, plane, hut, and all of the theme-provoking painted wallboards, we might get close to looking like an island. Construction has been working hard, and most things are up now, with two days to go. Here’s some pictures of the rough underbelly we’ve built for the party:
+Mainly, it's because Ruddock's interhouse party is this weekend and I have been helping as much as possible for the past two weeks (though not as much as one of the other freshmen, who has put in over 30 hours easily).The official theme now is Island Paradise, and together with the volcano, plane, hut, and all of the theme-provoking painted wallboards, we might get close to looking like an island. Construction has been working hard, and most things are up now, with two days to go. Here’s some pictures of the rough underbelly we’ve built for the party:
 First a picture from about a week ago:
 
 And now:
@@ -21,7 +21,7 @@ The plane:
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b016763434000970b.jpg)
-It’ll have propellers at some point (see below). It may not look like much right now, but once art gets finished with it, you’ll believe it’s an actual plane. Plus... it'll have wing tip lights! Haha, I didn't expect us to do more than paper mache and paint, but apparently we make it real here in Venerable.
+It’ll have propellers at some point (see below). It may not look like much right now, but once art gets finished with it, you’ll believe it’s an actual plane. Plus... it'll have wing tip lights! Haha, I didn't expect us to do more than paper mache and paint, but apparently we make it real here in Ruddock.
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e844ea8d970c.jpg)
@@ -37,11 +37,11 @@ We also have a raised platform in front of the volcano.
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e844eb66970c.jpg)
-The Venerable crest will go in front of the platform, mimicking flowing lava of course (see below). A few other wall boards are resting beside it,waiting for positioning later.
+The Ruddock crest will go in front of the platform, mimicking flowing lava of course (see below). A few other wall boards are resting beside it,waiting for positioning later.
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e844ec7c970c.jpg)
-And don’t forget the hut! It’s an awesome piece of construction, and we’re going to reinforce the hut later on and keep it in our lower courtyard for years to come. It will be cool to have a piece of my first OPI (that’s what we in Venerable call our interhouse party) last through my four years here.
+And don’t forget the hut! It’s an awesome piece of construction, and we’re going to reinforce the hut later on and keep it in our lower courtyard for years to come. It will be cool to have a piece of my first OPI (that’s what we in Ruddock call our interhouse party) last through my four years here.
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0167634344bf970b.jpg)

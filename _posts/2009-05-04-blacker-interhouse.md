@@ -11,8 +11,8 @@ date: 2009-05-04
 
 Caltech parties. Seems like an oxymoron, right? Maybe..but we try to break that stereotype every once in awhile, and one way we do it is with Interhouse Parties.
 
-Each House (Avery, Blacker, Dabney, Fleming, Lloyd, Page, Ricketts, and Venerable) gets a chance to hold an Interhouse party during the school year, and each House goes all out in constructing a dance floor and entire theme for it. 
-Avery had its Hitchhiker's Guide the Galaxy Theme, Venerable had Atlantis, and Lloyd had Go Go Tokyo to name a few. Blacker this time had Trojan War as the theme, building a two-story Trojan horse and a two-story battleship to go with it. They even flooded their courtyard for their battleship! 
+Each House (Avery, Blacker, Dabney, Fleming, Lloyd, Page, Ricketts, and Ruddock) gets a chance to hold an Interhouse party during the school year, and each House goes all out in constructing a dance floor and entire theme for it. 
+Avery had its Hitchhiker's Guide the Galaxy Theme, Ruddock had Atlantis, and Lloyd had Go Go Tokyo to name a few. Blacker this time had Trojan War as the theme, building a two-story Trojan horse and a two-story battleship to go with it. They even flooded their courtyard for their battleship! 
 Here's a couple of pics. Also, really sorry about the bad quality; my flash wasn't working properly.
 
 The following three are pictures of the mural that Blacker painted on their Hovse wall:

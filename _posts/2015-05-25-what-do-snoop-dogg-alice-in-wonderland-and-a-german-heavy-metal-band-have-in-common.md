@@ -32,7 +32,7 @@ And another was the Mad Hatter:
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08342b20970d.jpg)
-Once everyone changed, ate, and filled out their waivers, our journey began. We fit 22 people into Venerable’s screening room to watch a brilliant intro video featuring the cool beats of Snoop Dogg, Alice in Wonderland, and Rammstein (du hast, du hast mich…):
+Once everyone changed, ate, and filled out their waivers, our journey began. We fit 22 people into Ruddock’s screening room to watch a brilliant intro video featuring the cool beats of Snoop Dogg, Alice in Wonderland, and Rammstein (du hast, du hast mich…):
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d119c12f970c.jpg)
@@ -48,7 +48,7 @@ During this time, we also composed raps, which came into play later. All 22 of u
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08342b3a970d.jpg)
-We also learned how to make flamingo “croquet” clubs, which we used to play a round of Venerable House golf. Here’s Sirus modeling his apron and club:
+We also learned how to make flamingo “croquet” clubs, which we used to play a round of Ruddock House golf. Here’s Sirus modeling his apron and club:
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d119c142970c.jpg)
@@ -72,7 +72,7 @@ Next was a hike up Millikan library’s 8 flights of stairs, all while listening
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7902edd970b.jpg)
-We worked on a crossword puzzle that included everything from “The only hallway in Venerable House that matters” (Alley Three) to “The kind of stress that is expressed by (σ1+σ2+σ3)/3” (We had to look in Jim’s ME65 notebook for the answer, because Google gave us the wrong answer). For one of the clues, we played a game where we had to sing at the correct frequency to shrink a box. 42 times. After we finished, we had an elephant toothpaste demonstration with our “tea”:
+We worked on a crossword puzzle that included everything from “The only hallway in Ruddock House that matters” (Alley Three) to “The kind of stress that is expressed by (σ1+σ2+σ3)/3” (We had to look in Jim’s ME65 notebook for the answer, because Google gave us the wrong answer). For one of the clues, we played a game where we had to sing at the correct frequency to shrink a box. 42 times. After we finished, we had an elephant toothpaste demonstration with our “tea”:
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d119c18d970c.jpg)
@@ -84,7 +84,7 @@ We played laser tag twice, and I had an astonishing accuracy of around 2.4% both
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7902f07970b.jpg)
-We headed back home after an exhausting and full day, and exchanged stories with the people on other stacks. Venerable’s other stacks were The Jungle Book, The Hobbit, Carmen San Diego, and a joint stack with Ricketts, Pulp Fiction. 
+We headed back home after an exhausting and full day, and exchanged stories with the people on other stacks. Ruddock’s other stacks were The Jungle Book, The Hobbit, Carmen San Diego, and a joint stack with Ricketts, Pulp Fiction. 
 It took me a long while to feel like working again, but the four-day weekend was generous in those terms. These are the souvenirs I took back from our stack, in addition to the huge cat head that is currently sitting in our room, and filling up what feels like half the space. 
 
 

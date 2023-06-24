@@ -11,7 +11,7 @@ date: 2010-09-01
 
 This past weekend I saw another year come and go as I turned another year older. Though most of my friends had already finished SURF and had left, I still had plenty of fun spending it with those still around and pigging out. And also because...
 
-Remember how I said one of the Venerable traditions is to celebrate house member's birthday in our common area? Well, this past Friday, the last day of SURF for most of SURFers, my friends decided to surprise me with an early birthday celebration. I was packing up all my things to move the next day and was actually about to go to lab to stop a gel when one of my friends came knocking at the door, panting and out of breath, and saying that there was something I needed to see. What a surprise I got when I saw everyone standing around this cake:
+Remember how I said one of the Ruddock traditions is to celebrate house member's birthday in our common area? Well, this past Friday, the last day of SURF for most of SURFers, my friends decided to surprise me with an early birthday celebration. I was packing up all my things to move the next day and was actually about to go to lab to stop a gel when one of my friends came knocking at the door, panting and out of breath, and saying that there was something I needed to see. What a surprise I got when I saw everyone standing around this cake:
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f3751ff1970b.jpg)Mm... this cake was chocolate with blueberry cream and lots of chocolate and strawberries on the top. And apparently my friends thought that just one cake wasn't enough because...
 

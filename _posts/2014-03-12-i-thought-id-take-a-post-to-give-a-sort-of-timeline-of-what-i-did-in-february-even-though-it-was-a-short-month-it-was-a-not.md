@@ -12,7 +12,7 @@ Since I haven't written for so long, I thought I'd take a post to give a sort of
 
 February 14--I'll start with Valentine's Day. This has become one of my new favorite holidays due to all the fun and crazy things we did.
 
-It's apparently tradition for the guys and girls in Venerable House to do things for each other as a collective group on this day. We baked all of the men cookies and made cards for them, while they gave us each a rose! I wonder how long it took for them to write our names in that calligraphy...
+It's apparently tradition for the guys and girls in Ruddock House to do things for each other as a collective group on this day. We baked all of the men cookies and made cards for them, while they gave us each a rose! I wonder how long it took for them to write our names in that calligraphy...
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73d8ada21970d.jpg)

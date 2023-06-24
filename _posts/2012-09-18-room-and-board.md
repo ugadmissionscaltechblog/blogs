@@ -10,8 +10,7 @@ date: 2012-09-18
 
 At Caltech, the dorms are split into eight houses. We are sorted into these houses after Rotation, which starts in October along with classes. During the process and preseason we are placed in temporary housing assignments, meaning we may or may not stay in the same house for the rest of college.
 
-The house I'm in right now is Dabney; the other houses are Page, Lloyd, Venerable, Ricketts, Blacker, Fleming, and Avery. Every house has kind of like their own flavor.You'll have to wait until you get on campus yourself to get a feel for the houses because me telling you would break Rotation rules. While the students of Caltech love science and math, the personalities here are super diverse, and it's in everyone's best interest to find a house they are compatible with without outside influence.
-
+The house I'm in right now is Dabney; the other houses are Page, Lloyd, Ruddock, Ricketts, Blacker, Fleming, and Avery. Every house has kind of like their own flavor.You'll have to wait until you get on campus yourself to get a feel for the houses because me telling you would break Rotation rules. While the students of Caltech love science and math, the personalities here are super diverse, and it's in everyone's best interest to find a house they are compatible with without outside influence.
 
 Here's a picture of the Dabney courtyard! Most of the other courtyards aren't as messy haha.
 

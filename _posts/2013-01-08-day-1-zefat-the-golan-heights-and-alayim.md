@@ -23,7 +23,7 @@ Also, now would be a good time to introduce my (particularly photogenic) Caltech
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee6bd24c6970d.jpg)
-That's Jeff and Eric, both of whom live in Venerable House with me
+That's Jeff and Eric, both of whom live in Ruddock House with me
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3519c26b970b.jpg)

@@ -8,7 +8,7 @@ status: Publish
 date: 2015-01-06
 ---
 
-The lovely ladies of Venerable House decided to compile together a Girls' Night on 11/14, which would entail watching rom coms, decorating each other, and eating cupcakes. (This prompted the men of Venerable House to hastily throw together a Guys' Night of beverages, action films, and card games.)
+The lovely ladies of Ruddock House decided to compile together a Girls' Night on 11/14, which would entail watching rom coms, decorating each other, and eating cupcakes. (This prompted the men of Ruddock House to hastily throw together a Guys' Night of beverages, action films, and card games.)
 
 Nutrition at Girls' Night
 

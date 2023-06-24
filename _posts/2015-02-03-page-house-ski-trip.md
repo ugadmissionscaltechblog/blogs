@@ -24,7 +24,7 @@ Much Catan was played that weekend.
 
 We spent some of the time working on problem sets, some of the time skiing or hiking (not everyone decided to ski), and a lot of time just hanging out. Five hours might seem like quite a drive to not actually go skiing, but the best part of ski trip is just the change of scenery. Techers don't get off campus as often as we would like, so big organized house trips to the beach or to a mountain are really, really nice.
 
-On Saturday, a large group of us went ice skating nearby the condos. We ran into a large group from Venerable house, who were having their ski trip on the same mountain that weekend!
+On Saturday, a large group of us went ice skating nearby the condos. We ran into a large group from Ruddock house, who were having their ski trip on the same mountain that weekend!
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c741a887970b.jpg)

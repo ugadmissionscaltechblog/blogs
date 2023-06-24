@@ -11,7 +11,7 @@ date: 2012-03-23
 
 Hi everybody!!
 
-This is my first time blogging for Admissions and I am super excited about it! So first off, let me introduce myself :)My name is Lori and I am a frosh in Venerable House. You could consider me to be super girly, and I love fashion and the color pink. I'm planning on double majoring in Planetary Science and Philosophy. Random facts: according to the enrollment figures for 2010-2011 (last school year), there were three Planetary Science majors, and zero Philosophy majors. Kinda scary doing stuff that not a lot of people have done before!
+This is my first time blogging for Admissions and I am super excited about it! So first off, let me introduce myself :)My name is Lori and I am a frosh in Ruddock House. You could consider me to be super girly, and I love fashion and the color pink. I'm planning on double majoring in Planetary Science and Philosophy. Random facts: according to the enrollment figures for 2010-2011 (last school year), there were three Planetary Science majors, and zero Philosophy majors. Kinda scary doing stuff that not a lot of people have done before!
 
 I guess I'm not the average Techer in that I don't want to pursue research. I want to be a science journalist because I LOVE writing and reading. My biggest dream is to work for National Geographic! My second biggest dream is to be a high school teacher... so I get a lot of people asking, "Why did you even come here?"
 

@@ -10,7 +10,7 @@ date: 2016-01-12
 
 Hi there!
 It's Monday, which means we just finished the first weekend of winter term, which means we just got back from ski trip!
-Most houses have a ski trip. Venerable, Ricketts, Page, and Fleming all had theirs this weekend. I was on the Page ski trip to Mammoth, which was really fun.
+Most houses have a ski trip. Ruddock, Ricketts, Page, and Fleming all had theirs this weekend. I was on the Page ski trip to Mammoth, which was really fun.
 
 We drove up on Thursday, which was an adventure in and of itself. We searched the town of Lancaster for snow chains (panic set in when the first place didn't have the right size, and was quelled when Pepboys saved us). Just before we got into Mammoth Lakes, we learned how to put on snow chains. We got into the cabins around 11 and hung out with the majority of the Pageboys until 4am or so, when we got tired and called it a night.
 

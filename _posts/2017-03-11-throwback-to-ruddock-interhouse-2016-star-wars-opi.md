@@ -2,13 +2,13 @@
 layout: post
 author: Anita
 image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8da50a4970b.jpg
-title: Throwback to Venerable Interhouse 2016
+title: Throwback to Ruddock Interhouse 2016
 categories: [research]
 status: Publish
 date: 2017-03-11
 ---
 
-The third installment of Venerable OPI continues. In this post, I will be sharing with you memories of OPI from my junior year, where the theme was Star Wars and everything was truly out of this world.
+The third installment of Ruddock OPI continues. In this post, I will be sharing with you memories of OPI from my junior year, where the theme was Star Wars and everything was truly out of this world.
 
 In addition to the dance platform, we had a lot of side construction projects. My friends Jerry and Sandra made a 10-foot AT-AT with light-up eyes, which stood on the overpass between Endor and Bespin. Here is Jerry half-smiling by his finished project on the big night.
 
@@ -52,7 +52,7 @@ Here is our RA Viki dressed like R2-D2 to also match the old piano we painted in
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2649f39970c.jpg)
-And every year, we add additional murals outside denoting the name of the party and the theme--hahaha, very punny, a new H(OPI)--as well as a themed twist on the Venerable House Crest. The 2016 crest was done by Lily, who turned it into a glorious symbolic struggle between order and freedom.
+And every year, we add additional murals outside denoting the name of the party and the theme--hahaha, very punny, a new H(OPI)--as well as a themed twist on the Ruddock House Crest. The 2016 crest was done by Lily, who turned it into a glorious symbolic struggle between order and freedom.
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8da529a970b.jpg)
@@ -64,7 +64,7 @@ Finally, a picture of all 6 of the party team leaders for OPI 2016! Starting fro
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2649f6f970c.jpg)
-Venerable Interhouse 2016, A New H(OPI), everyone! Stay tuned for Kingdom Hearts OPI 2017.
+Ruddock Interhouse 2016, A New H(OPI), everyone! Stay tuned for Kingdom Hearts OPI 2017.
 
 Till next time!
 Anita

@@ -99,5 +99,5 @@ And that was the end to a wonderful meal at Cafe Chardonnay. After the dinner, w
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0148c774df63970c.jpg)
 
-And that was the end to a fabulous winter break with Sheila and my Family. Join me next time as I blog about Stephen Hawking, TEDxCaltech (https://tedxcaltech.com/), Mandelbrot Sets, and Venerable OPI! Until next time, TTFN.
+And that was the end to a fabulous winter break with Sheila and my Family. Join me next time as I blog about Stephen Hawking, TEDxCaltech (https://tedxcaltech.com/), Mandelbrot Sets, and Ruddock OPI! Until next time, TTFN.
 

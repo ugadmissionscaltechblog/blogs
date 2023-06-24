@@ -9,7 +9,7 @@ date: 2017-03-10
 ---
 
 
-The Venerable OPI sequence continues in this installment of "4 Years and 4 Seasons." In this post, I will be talking about painting all of the murals to go on the dance platform, so turn on your artistic ears. (Are those even a thing? I must be tired, writing this at 3 a.m.)
+The Ruddock OPI sequence continues in this installment of "4 Years and 4 Seasons." In this post, I will be talking about painting all of the murals to go on the dance platform, so turn on your artistic ears. (Are those even a thing? I must be tired, writing this at 3 a.m.)
 
 Just like how the construction team uses a lot of power tools and wood, the art team uses copious amounts of paint and things called wallboards. Wallboards are flat pieces of drywall--gypsum plaster sandwiched between two pieces of plaster, literally used in houses that people live in. Luckily for us, wallboards are available at Home Depot and other stores, and we buy them to frame our dance floor for our interhouse party. They are rather heavy, not to mention awkwardly sized, and generally require two people to handle. They come in pristine, white, 4 foot by 8 foot panels (and this time I mean, truly those dimensions, not half a foot shorter).
 

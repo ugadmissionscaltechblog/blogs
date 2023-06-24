@@ -2,13 +2,13 @@
 layout: post
 author: Anita
 image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09898e66970d.jpg
-title: Pictures from Venerable Interhouse 2017
+title: Pictures from Ruddock Interhouse 2017
 categories: [culture]
 status: Publish
 date: 2017-04-07
 ---
 
-As promised, here are some pictures of Venerable OPI 2017.
+As promised, here are some pictures of Ruddock OPI 2017.
 
 On the actual night of the party, the disco lights were on and the dancing was in full swing:
 
@@ -66,7 +66,7 @@ And some holistic daylight shots of the dance floor:
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d270bef0970c.jpg)
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0989acd2970d.jpg)
-The Venerable crest, Kingdom Hearts style:
+The Ruddock crest, Kingdom Hearts style:
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0989aeb6970d.jpg)
@@ -98,7 +98,7 @@ For a week after OPI before we have to start deconstructing, our House moves din
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0989aeaa970d.jpg)
-My last OPI as a Caltech student is finally over. I'll never slave away at painting or building ever again to this degree. Next year, I'll come back and enjoy the hard work of my Venerable underclassmen, as the alumni did before me.
+My last OPI as a Caltech student is finally over. I'll never slave away at painting or building ever again to this degree. Next year, I'll come back and enjoy the hard work of my Ruddock underclassmen, as the alumni did before me.
 
 Senior out.
 

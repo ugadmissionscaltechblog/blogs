@@ -13,7 +13,7 @@ date: 2011-07-22
 
 There are many answers to the question "What do Techers do for fun over the summer?" For instance, some of us experience new cuisines and culture in foreign countries. Others don't travel as far but still travel off campus, perhaps, to the east coast to places such as MIT. So, what do the people on campus do?
 
-That's right! Some of us choose to develop our natural talents. Shown here is Marvin, a rising junior in Venerable/Avery house. What makes this guy unique is that he has an affinity towards baking, which is not the type of thing you usually see guys do. He also loves whipped cream as you can tell here.
+That's right! Some of us choose to develop our natural talents. Shown here is Marvin, a rising junior in Ruddock/Avery house. What makes this guy unique is that he has an affinity towards baking, which is not the type of thing you usually see guys do. He also loves whipped cream as you can tell here.
 
 It's common to see Techers cooking together over the summer. When Caltech Dining Services (CDS) doesn't serve you food, you have to get it yourself. Of course eating out is easy, but it can't compare with the fun you can have with friends by cooking together.
 

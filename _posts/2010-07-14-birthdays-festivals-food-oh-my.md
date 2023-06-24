@@ -30,7 +30,7 @@ Switching gears here a bit....
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0134856e38ca970c.jpg)
-Another thing I love about being back at Caltech is the sense of community. In Venerable, my house, we always celebrate birthdays in 1.5, our common area. We all pitch in to buy a cake and sign a card and bring the person to 1.5 and sing them happy birthday. It's a nice way to show how much everyone cares and definitely strengthens our bonds!
+Another thing I love about being back at Caltech is the sense of community. In Ruddock, my house, we always celebrate birthdays in 1.5, our common area. We all pitch in to buy a cake and sign a card and bring the person to 1.5 and sing them happy birthday. It's a nice way to show how much everyone cares and definitely strengthens our bonds!
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0134856e3c06970c.jpg)
 This week, we had three birthdays in a row! That means...

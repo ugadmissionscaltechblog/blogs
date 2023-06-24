@@ -16,7 +16,7 @@ Weekend food at Tea Sports, the local Chinese-Taiwanese place down past PCC (Pas
 A snapshot from Big Interhouse, the all-8-dorms, collaborative, build-it-yourself party that Caltech throws every two years. The construction is pretty amazing, even though it was all done in less than 3 weeks!
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c72f5818970b.jpg)
-Can't have a party without food. Here is a rainbow cupcake from the Venerable-Dabney Houses' Wizard of Oz party.
+Can't have a party without food. Here is a rainbow cupcake from the Ruddock-Dabney Houses' Wizard of Oz party.
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07d348a4970d.jpg)

@@ -18,7 +18,7 @@ Our fall term in Lake Arrowhead was where I first fell in love with the mountain
 
 In Lake Arrowhead, we quickly discovered a very different world only an hour from campus. The elevation took some adjusting to, but we settled into a rhythm of regular walks to the lake half a mile away and hikes in the surrounding mountains.
 
-![](https://ik.imagekit.io/u9ndqdgam20/images/2021/10/2_pinnacle.jpg "Me and my roommate Reuben Rosenberg (Venerable ‘23) at the top of the Arrowhead Pinnacles, with the San Gabriel Mountains (including Mt. Wilson, which is visible from campus) in the distance")
+![](https://ik.imagekit.io/u9ndqdgam20/images/2021/10/2_pinnacle.jpg "Me and my roommate Reuben Rosenberg (Ruddock ‘23) at the top of the Arrowhead Pinnacles, with the San Gabriel Mountains (including Mt. Wilson, which is visible from campus) in the distance")
 
 There was a smaller lake closer to where we were staying with a nice grassy area and a bench. I would take my lunch there to eat sometimes, and when I had a 48-hour-long final at the end of term, I went there to work on it and feed the ducks -- it wasn’t a bad substitute for the turtle pond, which had always been one of my favorite places to sit and think on campus.
 
@@ -30,7 +30,7 @@ I also tried branching out and biking around the mountains. The San Bernardino M
 
 SoCal is pretty dry, especially compared to the regular rain and storms I’m used to back home. While trails back home were generally well-packed dirt (or mud, after it rained), trails in the San Bernardinos were dustier, and the vegetation was browner and more sparse. In some places, we saw scars from past wildfires. Despite the dry weather, we did get one early-season snowstorm in October -- an afternoon spent playing in the snow was a welcome reprieve from the sophomore year set slog.
 
-![](https://ik.imagekit.io/u9ndqdgam20/images/2021/10/5_sledding.jpg "Lake Arrowhead’s steep slopes make for good sledding! Pictured, from left to right: Paulina Ridland (Venerable ‘21), Tanner Moore (Venerable ‘20), and myself!")
+![](https://ik.imagekit.io/u9ndqdgam20/images/2021/10/5_sledding.jpg "Lake Arrowhead’s steep slopes make for good sledding! Pictured, from left to right: Paulina Ridland (Ruddock ‘21), Tanner Moore (Ruddock ‘20), and myself!")
 
 After a term of hiking, biking, and strolling in the mountains, it was an abrupt change of pace when we moved to Ann Arbor in the winter. The Midwest is flat! Reuben and I could go for 3-mile runs and gain not more than 15 feet of elevation. Because it was winter, going out also meant braving 10-degree wind chills and powdery subzero snow. It was the kind of snow that’s too dry to clump properly into a snowball, and the landscape was so flat that we couldn’t find a good sledding hill near our house.
 

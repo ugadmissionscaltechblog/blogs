@@ -30,6 +30,6 @@ A bunch of enthusiastic karaoke-ers.
 
 
 ![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee9e2fda3970d.jpg)
-This is before OPI, what we call Venerable Interhouse. It was Harry Potter themed, and we attempted to dress up as Fluffy, the three-headed dog from the book/movie. A lot of people thought we were cats, but we did our best to look like the dog. Venerable built Hogwarts in their courtyard and had Harry Potter themed snacks and other things. Other blogs have more about OPI; unfortunately I didn't get any pictures of that.
+This is before OPI, what we call Ruddock Interhouse. It was Harry Potter themed, and we attempted to dress up as Fluffy, the three-headed dog from the book/movie. A lot of people thought we were cats, but we did our best to look like the dog. Ruddock built Hogwarts in their courtyard and had Harry Potter themed snacks and other things. Other blogs have more about OPI; unfortunately I didn't get any pictures of that.
 
 The weekend coming up is Lloyd Interhouse. The theme is Up, and I'll be sure to get a couple photos since we are dressing up for that as well. Ice skating is also going to be this weekend! Soc team has a budget which we use to subsidize cost for ice time and rental skates for example, and gas for the drivers. Even though I will be sleeping less now that Spring Break is over, it's so exciting to be back in the business of college!

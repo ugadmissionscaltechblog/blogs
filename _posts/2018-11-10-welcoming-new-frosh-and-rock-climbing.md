@@ -8,7 +8,7 @@ status: Publish
 date: 2018-11-10
 ---
 
-It's the end of Rotation, and all the frosh have rotated into their new houses! As part of our house initiation, we painted Fleming's red cannon a nice Page blue :) (with Fleming's permission, of course). During my rotation 3 years ago, we pulled pranks like stealing Lloyd's gong and Venerable's couches, but nothing as big as this. Apparently the paint is washable though, so it should come off fine.
+It's the end of Rotation, and all the frosh have rotated into their new houses! As part of our house initiation, we painted Fleming's red cannon a nice Page blue :) (with Fleming's permission, of course). During my rotation 3 years ago, we pulled pranks like stealing Lloyd's gong and Ruddock's couches, but nothing as big as this. Apparently the paint is washable though, so it should come off fine.
 
 The first weekend after end of Rotation, Page organized a house trip to go climbing! In our house, if we can get 15 people to go to an event, the cost gets subsidized by $15 per person. We went to LA Boulder to climb, and the cost for a day pass is usually $31, but it got subsidized down to $16.
 

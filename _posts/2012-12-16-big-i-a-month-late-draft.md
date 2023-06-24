@@ -15,7 +15,7 @@ Big I is a semi-annual party of stunning proportions - all eight houses throw 4 
 
 Dabney + Page: Brought to you by the Letter I (including a 20-foot tall letter I behind the DJ)
 
-Fleming + Venerable: Fall of Troy (complete with Greek-themed murals, togas, and the aforementioned giant Trojan horse)
+Fleming + Ruddock: Fall of Troy (complete with Greek-themed murals, togas, and the aforementioned giant Trojan horse)
 
 Blacker + Avery: 20,000 Leagues Under the Sea (a wall-to wall mural of Atlantis, a flooded courtyard with a 10-foot paper-maché giant squid, and a submarine that had a hidden dance platform inside along with a deck above)
 
