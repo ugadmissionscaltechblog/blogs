@@ -3,8 +3,7 @@ layout: post
 title: "The Indian Festival of Lights"
 categories: [culture]
 date: 2020-12-19
-author: rashi 
-categories: [ ]
+author: rashi
 image: https://ik.imagekit.io/u9ndqdgam20/images/2020/12/diwali_candles.jpg
 youtubeId: FeR7GkrP-0Y
 ---

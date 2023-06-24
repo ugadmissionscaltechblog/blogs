@@ -3,7 +3,6 @@ layout: post
 title: "It's Rant Night!!!!!" 
 categories: [culture]
 author: andy
-categories: [ Student Life ]
 image: https://ik.imagekit.io/u9ndqdgam20/images/2021/04/Dining+Hall.jpg
 ---
 

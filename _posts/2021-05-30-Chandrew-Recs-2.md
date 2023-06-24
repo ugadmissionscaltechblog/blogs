@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Chandrew’s Recs #2:
+title: "Chandrew’s Recs #2: In Search of Hot Chicks (Specifically, the Best Nashville Hot Chicken)"
 categories: [local]
-In Search of Hot Chicks (Specifically, the Best Nashville Hot Chicken)"
 author: Andrew
 image: https://ik.imagekit.io/u9ndqdgam20/images/2021/chick3.jpg
 featured: false
