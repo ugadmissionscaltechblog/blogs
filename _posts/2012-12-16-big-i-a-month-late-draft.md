@@ -11,7 +11,7 @@ date: 2012-12-16
 
 Alright, so Big I might have happened a month ago, but I'm really bad at using my camera so it took me about that long to figure out how to get pictures off of it and onto my computer, and Big I can't truly be admired without fantastic pictures.
 
-Big I is a semi-annual party of stunning proportions - all eight houses throw 4 simultaneous parties, one in each of the courtyards of the South Houses. As with all Caltech parties, the themes are picked by students, students build and design the decorations and construction (complete with elevated dance platforms, staircases, and sometimes <a href="https://caltech.typepad.com/caltech_as_it_happens/2012/11/update.html" target="_self">elaborate gargantuan Trojan horses</a>). The themes this year were as follows:
+Big I is a semi-annual party of stunning proportions - all eight houses throw 4 simultaneous parties, one in each of the courtyards of the South Houses. As with all Caltech parties, the themes are picked by students, students build and design the decorations and construction (complete with elevated dance platforms, staircases, and sometimes [elaborate gargantuan Trojan horses](https://caltech.typepad.com/caltech_as_it_happens/2012/11/update.html)). The themes this year were as follows:
 
 Dabney + Page: Brought to you by the Letter I (including a 20-foot tall letter I behind the DJ)
 
@@ -26,8 +26,8 @@ At Space, we had a pretty simple dance platform with a tarp above to keep the ra
 Because it wouldn't be space without Nic Cage's face made out of flashing LEDs to make it so he blinks, right?
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d3ec4a3a3970c.jpg" %}The ceiling - pretty basic stuff.
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d3ec4a3a3970c.jpg)The ceiling - pretty basic stuff.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee6391651970d.jpg" %}The dance platform, with the band's setup (music provided by <a href="https://www.facebook.com/blownoutband" target="_self">Blown Out</a>, a Lloydie band, and <a href="https://soundcloud.com/slopycopy" target="_self">Slopycopy</a>, a Ricketts DJ).
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee6391651970d.jpg)The dance platform, with the band's setup (music provided by [Blown Out](https://www.facebook.com/blownoutband), a Lloydie band, and [Slopycopy](https://soundcloud.com/slopycopy), a Ricketts DJ).
 

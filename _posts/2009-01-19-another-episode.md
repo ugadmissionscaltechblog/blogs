@@ -64,7 +64,7 @@ that. It was an extraordinarily good
 time, though, and I fell asleep completely exhausted.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536dde39b970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536dde39b970c.jpg)
 Alright, it’s after 7 now, and this blog entry is officially
 finished. What happens now? Laundry?
 Math set? Will productivity truly skyrocket?! Find out on the next episode of...The Frosh Experience!

@@ -16,5 +16,5 @@ One night at cooking class, I heard Evan, a senior cooking TA and member of the 
 I sat next to Rachel (and Audrey, pictured in the bottom of the selfie):
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb082fef83970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb082fef83970d.jpg)
 This was probably the most comfortable I have been at a movie showing. Every time there was a joke on screen, I could hear specific people in the back laughing. When the Barden Bellas went on a retreat, the groups that had recently been on retreats started cheering. We stumbled out of the theater at 1:30 a.m., discussing the merits of the music and inanity of the plot points. We all really enjoyed the movie (and the free tickets — thanks Tom!!) and the experience of watching it in a theater full of fellow a cappella enthusiasts. 

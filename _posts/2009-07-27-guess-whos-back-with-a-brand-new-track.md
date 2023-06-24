@@ -23,15 +23,15 @@ And then Sunday it was off to Lille! Sarah drove us for the hour long voyage, an
 Well to be honest, although Lille is cute and everything, nothing is open on Sunday (like most towns in France, shame...) 
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157140b48e970c.jpg" %}Sarah and me in front of the Opera House of Lille...
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157140b48e970c.jpg)Sarah and me in front of the Opera House of Lille...
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157235490b970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157235490b970b.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157140b9b1970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157140b9b1970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157238af1b970b.jpg" %}The jazz musicians that night :)
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157238af1b970b.jpg)The jazz musicians that night :)
 
 Anyway, before I end this session, I'll just include a little story about how I got my ticket to Lille... So I found this guy selling a ticket on a site. It was $22 first class O_O rather than $39 second class, the latter I would have had to pay on the official TGV site... Anyway, I met up with the guy, got the ticket and had a cup of coffee with him and darn it, the ticket worked!!! Woohoo. It was kinda funny, he actually was an immigrant from Africa that had overstayed his carte de sejour (like a green card). This was sketchy as heck but ended up just being AWESOME ;-)
 Anyway, coming up....

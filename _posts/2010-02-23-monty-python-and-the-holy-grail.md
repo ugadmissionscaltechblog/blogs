@@ -15,11 +15,11 @@ Avery's Interhouse had a rather obvious theme:
 That's a bunny rabbit/Trojan Horse contraption. I thought it was the killer bunny from the end of Monty Python, but apparently not.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310f2cdf52970c.jpg" %}I forget what part of Monty Python and the Holy Grail this cow is from....
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310f2cdf52970c.jpg)I forget what part of Monty Python and the Holy Grail this cow is from....
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a8c60ee3970b.jpg" %}People in the foreground have made a moat between Avery's inner and outer pillars, and people in the background are painting drywall. I might be one of those blurry background figures.
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a8c60ee3970b.jpg)People in the foreground have made a moat between Avery's inner and outer pillars, and people in the background are painting drywall. I might be one of those blurry background figures.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310f2ce247970c.jpg" %}This is the packed dance floor, structured like King Arthur's Round Table!
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310f2ce247970c.jpg)This is the packed dance floor, structured like King Arthur's Round Table!
 The party was great, until it was shut down by Caltech Security at 1:30 for being too loud. Apparently a neighbor a few blocks away complained?

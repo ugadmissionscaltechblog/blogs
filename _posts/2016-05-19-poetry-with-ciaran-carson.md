@@ -20,11 +20,11 @@ We had read a bunch of Carson's poems this week for English. To me they seem eni
 At the end of the reading and music, there were book signings and book buyings for those who hadn't already purchased a book of Carson's. For those of us in the class, we lined up by the dozens (okay, there are only maybe 24 people in the class, so 2 dozen) and got agood old-fashioned autograph! No snarky selfies like the types you see so much on Facebook today. For the curious, here is the cover of his *Collected Poems* that we read.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0901ced5970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0901ced5970d.jpg)
 And some dessert and my nametag from the reception after :D
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c85e4107970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c85e4107970b.jpg)
 Going to Caltech does have its perks. Even if I don't have as much time as I'd like to ponder the meaning of all the poetry we do manage to read, it was still very refreshing and inspiring to attend a reading and hear a writer talk about his work. It definitely brought new perspective, and gave me some ideas in my own writing. A shout-out to our awesome Prof Gilmartin for his dedication in bringing famous poets to this unique STEM school every year for Irish lit!
 Till next time,
 Anita

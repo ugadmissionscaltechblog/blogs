@@ -9,7 +9,7 @@ date: 2017-08-28
 ---
 
 
-One of the most exciting and delicious things about California is the wide spread availability of Poke. If you are a sushi fan, or have had it before, you know exactly what I am talking about. If you are unfamiliar, you should <a href="https://www.eater.com/ad/14547640/beginners-guide-to-authentic-poke">read this article by Eater</a>. In short, it is a healthy rice bowl with raw fish and other fix-ins. Poke is originally from Hawaii, but the craze has spread to most major cities including Vancouver, where I am from. Back home, the bowls are pricier due to limited competition, but here, it is much more affordable. Think upscale Chipotle, but even more customizable and actually good for you.
+One of the most exciting and delicious things about California is the wide spread availability of Poke. If you are a sushi fan, or have had it before, you know exactly what I am talking about. If you are unfamiliar, you should [read this article by Eater](https://www.eater.com/ad/14547640/beginners-guide-to-authentic-poke). In short, it is a healthy rice bowl with raw fish and other fix-ins. Poke is originally from Hawaii, but the craze has spread to most major cities including Vancouver, where I am from. Back home, the bowls are pricier due to limited competition, but here, it is much more affordable. Think upscale Chipotle, but even more customizable and actually good for you.
 
 
 

@@ -34,7 +34,7 @@ meantime, my roommate Hanna was out of town because she went to Florida for the
 weekend. No, she did not go there for an extended beachy spring break. Rather,
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ec8845cc970b.jpg" %}More and more Prefrosh are appearing on
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ec8845cc970b.jpg)More and more Prefrosh are appearing on
 campus and on Monday I was quite amazed to learn that one of my preschool
 friends not only got admitted to Caltech but was also to be on campus from
 Monday to Tuesday! I saw him and introduced him to as many people as I could.

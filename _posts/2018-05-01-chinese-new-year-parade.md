@@ -14,11 +14,8 @@ I didn’t actually spend a lot of time watching the parade, instead walking aro
 
 I also couldn’t resist getting boba in Chinatown - it was a great way to quench thirst while walking around. In addition, I went to the Little Jewel of New Orleans, a nearby convenience store and restaurant, for their Deluxe Crawfish Mac and Cheese. I really couldn’t resist making this stop, because I’m such a religious follower of the Buzzfeed Worth It episodes. While the regular mac and cheese there is good, I would definitely suggest the deluxe, as the extra spices that come with the shrimp and sausages cuts through the rich delicious grease of the cheese very well.
 
-<div data-featherlight-filter="a" data-featherlight-gallery="" data-featherlight-type="image" id="featherlight-gallery"><fieldset class="asset featherlight-gallery border" gallery-width="250-auto"><legend class="featherlight-gallery border">LA Chinatown and Parade</legend>
-<div class="gallery-scroll" id="gallery-container">
-<ul class="asset-thumbnails">
+## LA Chinatown and Parade
 
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c96163d4970b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c96163d4970b.jpg" %}
-
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c96163d0970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c96163d0970b.jpg)

@@ -17,16 +17,16 @@ The tickets for the museum were $19 -- originally they're $29, but after 6:30pm,
 The artwork in the museum was absolutely amazing! The museum is constructed as a series of rooms featuring different pieces in each room. There were both large scale and smaller pieces, but most of the pieces were very large. For example, the sculpture in the photo below is probably 4-5 times my height, and it stretches from floor to ceiling! In contrast, the turtles in the next photo were about the size of my hand.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3833585200d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3833585200d.jpg)
 In this room, the whole ceiling was covered in glass pieces, with light shining through them from above.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3833589200d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3833589200d.jpg)
 There were also chandeliers of different colors, boats full of glass spheres, and flower-like glass sculptures.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3833578200d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3833578200d.jpg)
 Lastly, the garden has glass pieces interspersed among the plants. The combination of plants and glass was really quite beautiful. I'd highly recommend going to this museum :) It's definitely worth it!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad383359a200d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad383359a200d.jpg)

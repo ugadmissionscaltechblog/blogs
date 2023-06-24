@@ -15,10 +15,10 @@ Max, Sly, Andrew, Erin, John, and I all headed down to Bolsa Chica beach in the 
 I was very careful to apply lots of sunscreen. The sun here is harsher than on the east coast. Last year, I tried to make do with spray-on sunscreen but, having never used it before, I didn’t realize that you are supposed to rub it in. I ended up with streaks all over my skin, alternating red and white. I looked ridiculous!John has a very fair complexion, so in addition to sunscreen, he had to hide under an umbrella.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5338ccc970c.jpg" %}Andrew had been up very late the night before and had only gotten one hour of sleep. In addition to his SURF, he's working hard to edit the Little T (an annually released guidebook to Caltech). He took a nap on the beach.
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5338ccc970c.jpg)Andrew had been up very late the night before and had only gotten one hour of sleep. In addition to his SURF, he's working hard to edit the Little T (an annually released guidebook to Caltech). He took a nap on the beach.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0120a4dc86e4970b-800wi.jpg" %}Erin had never surfed before, but it's really easy to pick up. She had some trouble at first because the waves would dump her off her board, but she quickly got the hang of it. I managed to ride a wave all the way in to shore, so I was very pleased. Sly, who is better than the rest of us, managed to catch many waves. I even caught a picture of her standing up!
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0120a4dc86e4970b-800wi.jpg)Erin had never surfed before, but it's really easy to pick up. She had some trouble at first because the waves would dump her off her board, but she quickly got the hang of it. I managed to ride a wave all the way in to shore, so I was very pleased. Sly, who is better than the rest of us, managed to catch many waves. I even caught a picture of her standing up!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0120a53392af970c-800wi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0120a53392af970c-800wi.jpg)

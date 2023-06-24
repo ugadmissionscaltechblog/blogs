@@ -10,7 +10,7 @@ date: 2009-01-26
 
 
 Another week down! Can you believe we’re already starting
-the 4<sup>th</sup> week of the term? Up until now, it’s been all about starting
+the 4th week of the term? Up until now, it’s been all about starting
 fresh and getting acclimated to our new classes, but sometime this week, the
 new wore off and we all got settled into our schedules. Speaking of schedules,
 the other frosh on my alley and I have developed this standing appointment that
@@ -66,10 +66,10 @@ himself. Which I did. Unfortunately, it came out terribly blurry, so instead
 enjoy these (clearer) ones my friend took during the show.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536e9153d970b.jpg" %}  
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536e9153d970b.jpg)  
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536e91554970b.jpg" %}Now, it’s my understanding that this is likely my last blog before
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536e91554970b.jpg)Now, it’s my understanding that this is likely my last blog before
 a new blogger takes over The Frosh Experience, so let me say goodbye. Blogging
 has been such an excellent experience: Taking time to stop and reflect on my Frosh Experience has made me realize how
 unique my freshman year has been, how many cool opportunities I’ve had, and all

@@ -15,14 +15,14 @@ The yellow storefront is Daikokuya, a famous ramen place, and right next to it i
 The interior of Marugame looks like this:
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3bdb4bc200d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3bdb4bc200d.jpg)
 In the back of the restaurant, you can see the chefs cutting the udon noodles that are going to be served to you!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3bdb4c9200d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3bdb4c9200d.jpg)
 My favorite dishes to order are the curry udon (sometimes with extra noodles) and the beef udon. I got the curry udon this time, and my boyfriend got the duck nanban udon. He also likes the squid mentai butter udon.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3bdb4b6200d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3bdb4b6200d.jpg)
 I love this restaurant!! I'd highly recommend going if you ever get the chance.
 

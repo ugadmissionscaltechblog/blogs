@@ -15,7 +15,7 @@ Friday turned out to be a fake, but it was fun nonetheless. We were divided into
 Alley truffle making event! 
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01910249215e970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01910249215e970c.jpg)
 
 Tara caught red, err pink handed! (Making white chocolate rose truffles--fancy!)
 I wish I took pictures during the fake, but running around with a camera is pretty chaotic :P 

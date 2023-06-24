@@ -19,23 +19,23 @@ Before those six weeks are up, though, I plan to make the most of my time with t
 
 Somehow those plans will have to happen, between school work and medical school applications. I'm taking these classes this term:
 
-<span style="color: #bc6f95;">Ch 25 - Introduction to Biophysical Chemistry: Thermodynamics
+Ch 25 - Introduction to Biophysical Chemistry: Thermodynamics
 
-<span style="color: #bc6f95;">Bi/Ch 113 - Biochemistry of the Cell
+Bi/Ch 113 - Biochemistry of the Cell
 
-<span style="color: #bc6f95;">Ch 7 -Advanced Experimental Methods in Bio-organic Chemistry
+Ch 7 -Advanced Experimental Methods in Bio-organic Chemistry
 
-<span style="color: #bc6f95;">Art 55 -Art of the 19th Century
+Art 55 -Art of the 19th Century
 
-<span style="color: #bc6f95;">PA 31C - Chamber Music
+PA 31C - Chamber Music
 
 I've really enjoyed these classes so far. I've also been dropping into Ch 250 when I've had the time. It's a seminar about medicinal chemistry. It really showed me how much hard work andresearch andtesting there is to go through before a medicine can be made available to patients.
 
 Art history class has been really great, too. My favorite painter of all time is JMWTurner, a British Romantic landscape painter. For this class, we got to go to the Huntington Museum last week to see some of his works, including this one:
 
-And this next one is just one I really like, called <span style="color: #bc6f95;"><a href="https://en.wikipedia.org/wiki/The_Fighting_Temeraire" style="color: #bc6f95;" target="_blank">The Fighting Temeraire tugged to her last berth to be broken up, 1838</a>:
+And this next one is just one I really like, called [The Fighting Temeraire tugged to her last berth to be broken up, 1838](https://en.wikipedia.org/wiki/The_Fighting_Temeraire):
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73d94d1a8970d01b7c83fae89970b-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73d94d1a8970d01b7c83fae89970b-pi.jpg)
 And then there'sbio-organic chemistry lab, where we've prepared L-nitrophenylalanine amino acid from a racemic mixture using stereoselective hydrolysis by the protease*Subtilisin Carlesberg*. We then protected it with Fmoc. Thisweek and the next, we plan to incorporate it into a pentapeptide (a peptide string of five amino acids) by using solid-phase synthesis. I'm usually a klutz in lab, so I hope I'll make it to five... we'll see!
 
 As for medical school apps, I've been working on a personal statement, some way to express just why I really want to be a physician. The hardest part is to step back and think about what*my* story is. It's a little tough to step aside when I've been in the thick of it for all this time.
@@ -44,5 +44,5 @@ That's my story for now. Good luck to all the Prefrosh!! See some of you in the 
 
 Keep lookin' up,
 
-<span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #bc6f95;">Jenny.
+Jenny.
 

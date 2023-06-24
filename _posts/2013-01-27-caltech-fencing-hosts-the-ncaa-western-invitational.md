@@ -13,7 +13,7 @@ As I mentioned in my last blog post, I'm pretty involved with the Caltech fencin
 Foil is a point weapon (you only hit with the tip), and the target you can hit in order to score a point is limited to a metal vest that covers the torso and the back (but not the arms). If you hit on the target area, you score a point, and if you don't hit, you score "off target," which just means that the action stops but neither fencer earns a point; you cease fencing for a few seconds and then pick up where you left off. If both fencers hit each other at the same time (off-target or not), then the referee decides which fencer had "priority." In order to have priority, you have to have the attack, meaning that you must start extending your weapon at the other fencer before they do the same to you. Alternatively, if your opponent has the attack, you can parry their blade by hitting it with your blade, which transfers priority from them to you. Sounds pretty simple, right? I wish.
 
 This is some Olympic foil fencing from Beijing:
-<iframe frameborder="0" height="281" src="https://www.youtube.com/embed/GYw20ktA6Qw?feature=oembed" width="500"></iframe>
+[Watch on YouTube](https://www.youtube.com/watch?v=GYw20ktA6Qw)
  These are just highlights (they have some nice slow-motion replays so you can really see the points). If you're interested in seeing more, you can see the full replays of individual and team matches from this year's Olympics and the 2011 World Championships in Catania. I highly recommend anything the Italians fence in; they have amazing teams, especially in foil.
 
 Epee and sabre are the other two weapons of fencing. Sabre is similar to foil in that it has the same rules about priority, but the weapon is entirely different. While foil is only a point weapon, sabre has no constraints on what part of the weapon you can hit with, generally making it a "slashing" weapon. The target area is also from the waist up, including the arms and head. It's also generally much faster than foil. Like, crazy fast. 
@@ -44,11 +44,11 @@ Here's some pictures:
 Me fencing!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3619e36d970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3619e36d970b.jpg)
 Our men's epee team, plotting the demise of their next opponents. Or discussing what they want for lunch. I'm not sure.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d4048e20a970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d4048e20a970c.jpg)
 
 Emilia, looking incredibly intimidating in her sabre uniform.
 

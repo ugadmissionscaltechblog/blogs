@@ -22,7 +22,7 @@ I boiled a pot of water and began mixing the dyes. In each cup went some hot wat
 Figure 1. Easter egg bucket. Solid-colored eggs, mushroom polka dots, stripes, and striped hearts!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c845d260970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c845d260970b.jpg)
 Figure 2. Tamagoyaki. (Unfortunately sideways...couldn't find the rotate button for some reason.)
 Eggs turned out quite well. And the tamagoyaki was delicious. And people enjoyed blowing out raw eggs more than I expected! This is one alley event idea I'm definitely keeping.
 

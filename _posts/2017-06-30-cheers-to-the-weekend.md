@@ -20,15 +20,15 @@ On Saturday, most people went to the beach on a trip organized by SFP (Student-F
 On Sunday, there was a crab boil at Tom Mannion's house which I volunteered to help at. We prepared tons of crab, hot dogs, pasta, and brownies for all the hungry SURF students. Funny story, we found a pair of car keys while boiling the pasta. It turns out that they fell into the pot from a hook overhead while we were filling it with water. Oops, sorry Tom.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09a9303e970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09a9303e970d.jpg)
 
 *Guess how many pounds of pasta we boiled?*
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9060224970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9060224970b.jpg)
 
 *EAT ALL THE FOOD!!!*
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d29055d7970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d29055d7970c.jpg)
 I stuffed my face because I LOVE seafood. I apologize if I am making you hungry right now. I am just getting hungry thinking about all the food and writing this. Well, I'm going to make myself some avocado toast now (yes, call me basic), so until next time...
 

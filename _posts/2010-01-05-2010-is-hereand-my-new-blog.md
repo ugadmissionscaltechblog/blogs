@@ -25,5 +25,5 @@ trips with my friends during the next two terms. I think we seniors
 definitely deserve it!
 - GRADUATION: need I say more?!?
 
-:D 2010 is going to be awesome!...and of course I will be continuing to blog throughout my final months here! So that being said...out with the old, and in with the new, right? Follow my NEW BLOG: <a href="https://caltech.typepad.com/caltech_as_it_happens/sweet-life-of-a-second-term-senior/">Sweet Life of a Second Term Senior</a>. 
+:D 2010 is going to be awesome!...and of course I will be continuing to blog throughout my final months here! So that being said...out with the old, and in with the new, right? Follow my NEW BLOG: [Sweet Life of a Second Term Senior](https://caltech.typepad.com/caltech_as_it_happens/sweet-life-of-a-second-term-senior/). 
 See you at my new blog!!

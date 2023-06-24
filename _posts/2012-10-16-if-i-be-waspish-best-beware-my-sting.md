@@ -9,7 +9,7 @@ date: 2012-10-16
 ---
 
 Hiya! :D
-So this is the 2<sup>nd</sup> week of classes-CHEM3205
+So this is the 2nd week of classes-CHEM3205
 (Principles and Methods of Organic Synthesis) here is really interesting and is
 definitely the most challenging course for me here. The lecturer moves pretty
 quickly, but I enjoy learning about the mechanisms and figuring out how to
@@ -44,12 +44,12 @@ share with everyone for my birthday. None of the British freshers have ever
 heard of or tried Snickerdoodles before, but they really liked them. 
 
 Thursday morning I woke up to a large sign made by Panarat
-and Kalpana wishing me a Happy 21<sup>st</sup> Birthday :D However, it must
+and Kalpana wishing me a Happy 21st Birthday :D However, it must
 have violated some fire safety rule because when I came back from class, it was
 gone. Luckily I got a quick snapshot:
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee41e0dd4970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee41e0dd4970d.jpg)
 I’ll be going to Les Miserables later tonight-super excited
 for my first musical! I find that being here in London is similar to being in
 Pasadena/LA in the sense that there is so much to do and so much culture. I

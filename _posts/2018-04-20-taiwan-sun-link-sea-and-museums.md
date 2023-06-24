@@ -11,8 +11,8 @@ date: 2018-04-20
 Taiwan has gorgeous mountains and forests. There are also fields for agriculture in other regions, rocky mountain gorges, the ocean, hot springs, and other attractions throughout Taiwan. We went to this place called Sun Link Sea, which is a beautiful forest with hiking trails.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d2e944ac970c-500wi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d2e944ac970c-500wi.jpg)
 Back in the city, we went to a set of ruins, the natural history museum, and an interesting bank museum.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d2e94493970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d2e94493970c.jpg)

@@ -15,7 +15,7 @@ We had 3 nights of delicious food... strangely, none of which was . My grandmoth
 
 2) Mesquite Quail - My dad loved this the last time he came down to Houston, so we were sure to return. The quail is extremely tasty because of the delicious sauce it's cooked/smoked/grilled/? in (we think it had some tomato and onion base to it...). My grandmother comes once a month with a friend in the winter to get this quail at the Goode Co. Taqueria.
 
-3) Seafood Gumbo - You can hear more about this amazing seafood restaurant in one of my previous posts (<a href="https://caltech.typepad.com/caltech_as_it_happens/2012/07/kill-all-the-mosquitos-final.html" target="_self">here</a>), but the moral of the story is that the crab, shrimp, and oyster gumbo is delicious.
+3) Seafood Gumbo - You can hear more about this amazing seafood restaurant in one of my previous posts ([here](https://caltech.typepad.com/caltech_as_it_happens/2012/07/kill-all-the-mosquitos-final.html)), but the moral of the story is that the crab, shrimp, and oyster gumbo is delicious.
 
 Yeah, it feels kind of lame that we ate out for three nights when my dad was here (and all three were Goode Co. restaurants...) but the food was so good that I'm willing to forget that.
 

@@ -14,5 +14,5 @@ San Diego has amazing tacos (and amazing Mexican food in general). I ate *so* ma
 We also visited Balboa Park, which has many museums, a garden, and an artist's market. It's a really nice area to walk around, and the artisan market was interesting. The tiles were all painted different colors, so it was quirky and cute.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c022ad3983804200b-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c022ad3983804200b-pi.jpg)
 The beaches in San Diego and Carlsbad were both beautiful as well -- I would highly recommend visiting. Make sure to eat fish and shrimp tacos when you go!

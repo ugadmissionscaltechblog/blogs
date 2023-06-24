@@ -46,11 +46,11 @@ their room.
 This is my friend Cat; she plays volleyball!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d017d4296e196970c-800wi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d017d4296e196970c-800wi.jpg)
 We are very well stocked with tape.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d017c3867d21c970b-800wi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d017c3867d21c970b-800wi.jpg)
 One of the stem machines. I haven't needed to use it and hopefully don't have to. Not quite sure what it does but it's for more serious injuries.
 
 After all this, we get back to the dorms just in time for

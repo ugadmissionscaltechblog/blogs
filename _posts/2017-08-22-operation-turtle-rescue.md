@@ -17,7 +17,7 @@ As a proud turtle owner, I feel like it's my duty to rescue them. So, that's wha
 
 Normally, when I rescue turtles from the pond it's usually because they walk a few steps into the walking path and could get stepped on. However, the turtle I rescued made it all the way into Millikan Pond! The water in the fountain is treated with what smells like chlorine, so I knew it was very bad for the turtle. She needed to come out.
 
-<div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09b6dd6e970d" id="caption-xid-6a01b8d28f2955970c01bb09b6dd6e970d">Here's the runaway turtle!
+Here's the runaway turtle!
 
 I threw off my shoes, stepped in, reached down, and picked her up. I then walked over to the turtle pond and placed her back in the water, next to some other turtles. Hopefully, she will be all right and isn't harmed too much, but the turtle rescue definitely makes a great story!
 

@@ -16,4 +16,4 @@ Getting there was both easy and incredibly difficult at the same time. It’s on
 After getting to the front of the line of cars, we finally figured out what the hold-up was: although there was plenty of parking in the recreation area, they only had 3 people taking payment for parking. This situation probably happens every weekend (and every year) as well. It seemed like they knew it would happen, with the number of traffic policemen we saw on our way in. It’s unfortunate that there doesn’t seem to be a solution to the problem.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0223c84e5f2e200c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0223c84e5f2e200c.jpg)

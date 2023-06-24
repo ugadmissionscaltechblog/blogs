@@ -9,17 +9,25 @@ date: 2017-05-31
 ---
 
 
-<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8faabec970b" id="caption-xid-6a01bb08213082970d01b7c8faabec970b">Friends in Ktown.
+Friends in Ktown.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8faabfe970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8faabfe970b" id="caption-xid-6a01bb08213082970d01b7c8faabfe970b">Spicy rice cakes with noodles from Toe Bang. So good!
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8faabfe970b-pi.jpg)
+
+Spicy rice cakes with noodles from Toe Bang. So good!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb099dc430970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01bb099dc430970d" id="caption-xid-6a01bb08213082970d01bb099dc430970d">Kimchi potato pancake from Toe Bang.
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb099dc430970d-pi.jpg)
+
+Kimchi potato pancake from Toe Bang.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d284eb7b970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b8d284eb7b970c" id="caption-xid-6a01bb08213082970d01b8d284eb7b970c">Light display at Snow Monster (steps away from Toe Bang).
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d284eb7b970c-pi.jpg)
+
+Light display at Snow Monster (steps away from Toe Bang).
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb099dc438970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01bb099dc438970d" id="caption-xid-6a01bb08213082970d01bb099dc438970d">Strawberry macaron ice cream sandwich with green tea ice cream from Snow Monster.
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb099dc438970d-pi.jpg)
+
+Strawberry macaron ice cream sandwich with green tea ice cream from Snow Monster.
 

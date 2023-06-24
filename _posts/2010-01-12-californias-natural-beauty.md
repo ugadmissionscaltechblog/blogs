@@ -22,7 +22,7 @@ We left long after my toes froze.
 On the way back, between fresh beef jerky and a capella sing-along in the car, we stopped at California's Red Rock Canyon. Geology lovers: California wants you to visit! How can you say no to this canyon, not to mention the San Andreas fault?
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a7c94d1b970b.jpg" %}Climbing up the "hill" was difficult-- if my two-inch heels could have talked, they would have been yelling at me.
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a7c94d1b970b.jpg)Climbing up the "hill" was difficult-- if my two-inch heels could have talked, they would have been yelling at me.
 
 And now, it's time for me to learn some more mind-bending special relativity.... Till next time!
 

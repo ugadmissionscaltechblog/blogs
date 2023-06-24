@@ -13,7 +13,7 @@ Naturally, a large majority of characters in Shounen(targeted to teen male audie
 Large muscular men and flowers are totally compatible.And a detailed blueprint design of how to implement your own intra-particle accelerator.(read right to left)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019101a0ce22970c.png" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019101a0ce22970c.png)
 I suppose since I brought this topic up, I'm expected to perform calculations deciding how realistic this is. Perhaps a quantification of how much energy is needed, in comparison to how much mass the typical alien-cyborg body has. Unfortunately, I'm not a physics major and don't have an in-depth understanding of particle physics. Instead, I picked something more elementary.
 
 Firstly, gel electrophoresis is when you put DNA/proteins into slots made in agarose/alternative gel. Followed by applying an electric field across the gel so that the DNA/proteins migrate through the gel. The different sizes of molecules will make them migrate at different rates resulting in gel electrophoresis patterns. DNA is naturally negatively charged while proteins are soaked in SDS(sodium dodecyl sulfate) first which when binded make the proteins negatively charged as well.
@@ -21,7 +21,7 @@ Firstly, gel electrophoresis is when you put DNA/proteins into slots made in aga
 Now consider what would happen if you create a torus out of your circulatory system, embeded in your palm. Since white blood cells contain DNA, if you accelerated your circulatory system enough, you simulate a solenoid. With enough speed, perhaps you can become like Toki Fujiwara from "Code-Breaker" and shoot large chunks of metal using magnetic power!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017eeaa8b086970d.png" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017eeaa8b086970d.png)
 
 There are about 7000 white blood cells per microliter. The density of blood is about the density of water. 1 base pair of DNA is about 2 negative charges. There are 6e9 base pairs in a DNA molecule. An electron is 1.6e-19 coulombs. Assuming this toroid is .5cm thick, theres now enough information to calculate how fast your blood needs to be pumping to create a sizeable magnetic field, say 100000 Gauss. For comparison, a MRI machine is about 30000 Gauss. 
 1.92e-9 coulombs in one white blood cell. .00001344 coulombs in a microliter of blood..01344 coulombs per cubic cmlet V be the velocity of your blood in cm/spi*(.5/2)^2*V*.01344 coulombs/s.002638V amperes

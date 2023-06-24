@@ -14,7 +14,7 @@ A friendly desert community where the sun is hot, the mountains are beautiful, a
 
 Welcome to Caltech!
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2023/guutz/welcometocaltech.png){:width="33%}
+![](https://d24slhcvzhzz82.cloudfront.net/images/2023/guutz/welcometocaltech.png)
 
 _Foreword: I wrote this post in December 2022 with the intention of posting it shortly afterward... and now it's the end of February 2023. Whoops_ ( ✌︎'ω')✌︎
 
@@ -24,7 +24,7 @@ Things have been good, though. I had a really great summer which I’d love to t
 
 More on all of that soon -- we’re going to do this radio announcer style! But first, a word from today’s sponsor™™.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2023/guutz/bean2.jpg){:width=33%}  
+![](https://d24slhcvzhzz82.cloudfront.net/images/2023/guutz/bean2.jpg)  
 _Brought to you by **Dabney bEans Initiative (DEI)**_
 
 Thanks, DEI. It truly is a tragedy that they got rid of the Beans Vending Machine. Sure, it might have started as a home-brewed social economics experiment, but the free cans of joy that it dispensed became the foundation of an entire culture of Caltech students! Anyway, back to business.
@@ -83,7 +83,7 @@ I probably made that sound like a lot, but I wasn’t lying before about this te
 
 Let’s go to the weather.
 
-{% include youtubePlayer.html id="KyK9UUfChi4" %}
+[Watch on YouTube](https://www.youtube.com/watch?v=KyK9UUfChi4)
 
 ***
 

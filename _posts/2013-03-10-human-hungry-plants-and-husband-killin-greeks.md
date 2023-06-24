@@ -9,7 +9,7 @@ date: 2013-03-10
 ---
 
 
-*<a href="https://www.youtube.com/watch?annotation_id=annotation_625577&amp;feature=iv&amp;src_vid=8PDuqpyGRNA&amp;v=_C2oaJYuNCU">One of my favorite scenes from the play</a> (Explanation to follow).*
+*[One of my favorite scenes from the play](https://www.youtube.com/watch?annotation_id=annotation_625577&amp;feature=iv&amp;src_vid=8PDuqpyGRNA&amp;v=_C2oaJYuNCU) (Explanation to follow).*
 
 Last weekend, my housemate and I went to see Caltech’s production of “The Little Shop of Horrors." In the play, a nerdy florist nurtures a vicious, human-devouring plant.. Throw in a sadistic dentist and a soulful Greek chorus and you’ve got a pretty hilarious show. The actors and musicians were Caltech undergrads, grad students, and JPLers, most of whom had done theatre before (at least, their phenomenal performances in Little Shop would suggest so).
 
@@ -18,17 +18,17 @@ Since Caltech is fifteen minutes away from Hollywood, it’s not uncommon for me
 While the set and some props were either borrowed or reused from previous productions, the plant itself was designed by JPL and Caltech people. Since the plant grows from a small potted plant to a human-eating monster, the crew made four different plant puppets representing different stages of growth. The last, and most terrifying puppet, is a 6-foot tall singing, dancing machine and what audience members called “an engineering feat of Caltech proportions.”
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d4188803e970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d4188803e970c.jpg)
 I try to go see every Caltech play because:
 
   a. They're really well-done and entertaining
 
   b. They bring back oh-so-fond memories from freshman year.....
 
-As a new frosh, I wanted to try everything. But I especially wanted to commit to an extracurricular activity I’d never done in high school. During the first week of freshman year, I impulsively auditioned for the play <a href="https://en.wikipedia.org/wiki/Big_Love_(play)" target="_self">“Big Love,”</a> because college is all about trying new things at the risk of public humiliation, right? Frosh me thought so.
+As a new frosh, I wanted to try everything. But I especially wanted to commit to an extracurricular activity I’d never done in high school. During the first week of freshman year, I impulsively auditioned for the play [“Big Love,”](https://en.wikipedia.org/wiki/Big_Love_(play)) because college is all about trying new things at the risk of public humiliation, right? Frosh me thought so.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee8fc5f10970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee8fc5f10970d.jpg)
 I had experience with public speaking in high school, but somehow debate and mock trial seemed easier than theatre. With debate, I wasn’t pretending to be someone else. I didn’t need to figure out a whole new set of mannerisms-- I was just myself, a nerdy teenager arguing for say, first amendment rights or the benefits of genetically modified food. I didn’t have to sing and dance and act when I gave speeches and closing arguments.
 
 Theatre, on the other hand, was much more nerve-wracking.
@@ -46,7 +46,7 @@ The first couple rehearsals were rough, and probably more so for the now panicke
 After getting much one-on-one training with both the director and assistant director (and much more training than all the other actors), I finally started to at least feel comfortable playing Lydia. And once performance week came around, I actually began.. enjoying the part. I wasn’t fully confident, and the audience still seemed intimidating, but hey. I was playing a Greek royal fighting for her autonomy. That’s pretty cool.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee8fc9082970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee8fc9082970d.jpg)
 Would I participate in another play for the Caltech theatre department? Probably. I’m now well-aware that acting is difficult and something I’m not particularly good at. But I also know that I actually enjoy it.
 
 Chances are, if you’ve applied to Caltech, your hobbies just happen to be your talents as well. You’re the science olympiad champ or the Model UN winner, you’re the best clarinet player in your high school band or the captain of your tennis team. In college, sign up for something you're not so stellar at. 

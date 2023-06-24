@@ -14,5 +14,5 @@ One game that I really enjoy watching is Newlyweds. Any pair of people can parti
 
 This year Cocktail Party was held in Crellin Courtyard, which is outdoors. Unfortunately it rained, so we had to move everything into the Page lounge. It was still agreat event though! (I didn't take many pictures because the lighting was bad.)
 
-<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8f79260970b" id="caption-xid-6a01bb08213082970d01b7c8f79260970b">Live band! (Sorry for the bad lighting.)
+Live band! (Sorry for the bad lighting.)
 

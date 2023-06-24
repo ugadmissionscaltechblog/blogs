@@ -24,18 +24,18 @@ His brother married a Hindu woman. He made the decision to avoid Christian marri
 At the conclusion of the panel, we were led up to the auditorium to once again rock out to some music. This time, though, instead of classical we had what was described as “music from the desert.” There were some pretty funky jams. Katherine and Margaret pulled me up into what quickly became American-only dance crowd as the Indian students watched us with poorly-hidden amusement. I wasn’t self conscious: I was just too in the groove.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff524ef0970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff524ef0970d.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e5481207970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e5481207970c.jpg)
 The next day, we were rounded up for a trip to the Sabarmati Ashram, where Gandhi stayed for a number of years during his movement. It was very cool and I learned some interesting things (for instance, Gandhi kicked his sister out of the Ashram when she wouldn’t accept the fact that untouchables were living there too), but I won’t bore you with the details of a trip to a museum.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01676047114b970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01676047114b970b.jpg)
 That night, we were all invited over to Rita Kothari’s house to hang out and stuff our faces with the delicious food that she prepared. I wasn’t even that hungry, but I forced myself to eat, knowing that I would regret passing up the opportunity. From the Kothari household we journeyed to Law Garden, a street shopping district that caters mostly to women, but where vendors have no qualms about yelling at men to buy purses. I had no money with me (I just wanted to check it out), but when I told this to one guy who was trying to sell me a map, he stared at me for a second before saying “very nice joke, sir” and continuing his one-sided haggling.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff526941970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff526941970d.jpg)
 When each of us had had our fair share of shopping, we ventured into a restaurant where I shared a “Mexican sandwich” and made my one error of the entire trip.
 
 I drank a glass of tap water.
@@ -73,13 +73,13 @@ Cause I always do.
 And so began our last day in India. We had a short session reflecting on the program itself and then, after our customary lunch, were given the rest of the day to simply relax.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0167604714d7970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0167604714d7970b.jpg)
 Needless to say, we wheedled away the time tossing around a Frisbee with some of our Indian friends while the girls hit up Law Garden once more for some last minute shopping. While we boys were not in dire need of a purse, we did decide to make a brief stop at a nearby supermarket to take advantage of the obscenely low price of food one last time.
 
 We made the most of our final night by playing poker (another game at which I got trounced by pretty much all of the Indian students) and just hanging out with each other in the boys’ hostel. Before long, our 1AM deadline arrived and we piled back into the same vans that had delivered us to IITGN 11 days before.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e547f531970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e547f531970c.jpg)
 At the airport, we said our goodbyes, shared hugs and handshakes, and were off.
 
 Now that I’m back in The States, I’ve had a lot of time to reflect on my experience in India. I won’t bore you by attempting to wax philosophic, but I think it’s worth saying that no matter how different the culture, language, and customs, the people that you meet in a foreign country always seem so familiar in some intangible way. College students are college students wherever you go and those friends that I made, both IITGN and Caltech students, are not ones whom I will soon forget.

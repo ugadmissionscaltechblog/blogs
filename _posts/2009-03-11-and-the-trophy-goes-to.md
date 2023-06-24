@@ -26,29 +26,29 @@ That is about all I have to say. I hope you enjoyed reading, and have fun lookin
 
  Team ROBOTIC HAMSTER! Hateful on the left and Hungry on the right :)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011168d22b5d970c.png" %}Each team had to place both of their robots in the designated square on the starting field. Both robots had to fit in a 60x60x60 cm box, which was confirmed prior to the competition, which is why you can see here, the teams stacked their robots.
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011168d22b5d970c.png)Each team had to place both of their robots in the designated square on the starting field. Both robots had to fit in a 60x60x60 cm box, which was confirmed prior to the competition, which is why you can see here, the teams stacked their robots.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011168d22c61970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011168d22c61970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01127947249a28a4.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01127947249a28a4.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0112794724e028a4.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0112794724e028a4.jpg)
  
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01127947235528a4.jpg" %}Teams had to control their robots from the top of Millikan bridge. We were not allowed to walk around anywhere else on the course, so we had to do everything from that vantage point. This picture also allows you to see all of the people across campus who showed up.
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01127947235528a4.jpg)Teams had to control their robots from the top of Millikan bridge. We were not allowed to walk around anywhere else on the course, so we had to do everything from that vantage point. This picture also allows you to see all of the people across campus who showed up.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011168d22d6f970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011168d22d6f970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011168d22dbd970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011168d22dbd970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0112794725cf28a4.jpg" %} 
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0112794725cf28a4.jpg) 
 Ramen Cheesesteaks waiting to compete in the final. This robot typically dominated in the mini class deadlines throughout the term, and had very high expectations for contest day. However, their 2nd robot, which was a mini land vehicle, was accidentally driven into Millikan pond in the first round, and so it was no longer functional. They battled the entire competition with only one bot, and still got 2nd place.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0112794722dc28a4.png" %}The final minute of the competition. Newt N Salamander rushed the course, drove up the ramp, and put balls in their bin, and went to block the ramp before Ramen Cheesestakes could make it to the ramp. Then, one robot stayed on the ramp, while the other robot went and pushed Ramen Cheesesteaks into the corner. For the entirety of the minute, Newt N Salamander kept Ramen Cheesesteaks in this position. As soon as the 3 minutes were over, Newt N Salamander members, Marc and Kevin, leapt off of the bridge and into the water!!! It was a well deserved win, and a good fight :)
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0112794722dc28a4.png)The final minute of the competition. Newt N Salamander rushed the course, drove up the ramp, and put balls in their bin, and went to block the ramp before Ramen Cheesestakes could make it to the ramp. Then, one robot stayed on the ramp, while the other robot went and pushed Ramen Cheesesteaks into the corner. For the entirety of the minute, Newt N Salamander kept Ramen Cheesesteaks in this position. As soon as the 3 minutes were over, Newt N Salamander members, Marc and Kevin, leapt off of the bridge and into the water!!! It was a well deserved win, and a good fight :)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01127947267028a4.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01127947267028a4.jpg)
 The white board with everyone's records through the different rounds. 3 teams (including us, :( ) were eliminated after the first 2 rounds, and then it went down from there. W is for Win, L for Lose, B for Buy (which was when they went against the TA bot) and F was for False start, and they had a rematch. (some people thought F was for Fail...) 
  

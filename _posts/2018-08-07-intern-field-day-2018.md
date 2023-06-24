@@ -17,8 +17,8 @@ I was on Operation, which unfortunately had yellow as their team color. I’m so
 Anyway, I found the day fun and entertaining for many different reasons this year. I am glad that I got to play the sport that I like: volleyball. Afterwards, I did not continue to embarrass myself trying to play in sports that I can only marginally play. Instead, I chose to play with giant inflatable basketballs (they were literally 4ft in diameter) and race with my friends on the slides and race course. I definitely had a lot of fun that day. And amazingly enough, Operation came out as the winning team. Good thing I didn’t contribute much, otherwise it might have gone the other way.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b022ad3a66a30200b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b022ad3a66a30200b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b022ad3a66a34200b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b022ad3a66a34200b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b022ad3a66a38200b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b022ad3a66a38200b.jpg)

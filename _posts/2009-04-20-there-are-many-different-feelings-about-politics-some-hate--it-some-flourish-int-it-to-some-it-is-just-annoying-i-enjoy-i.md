@@ -20,79 +20,17 @@ labs, classes, and pranks, but rarely do I mention student government so here’
 the overview.
 
 ASCIT:
-<table border="0" cellpadding="0" class="MsoNormalTable">
- <tbody><tr>
- <td style="padding: 0.75pt; width: 375pt;" width="500">
- Anthony Chong
 
- </td>
- <td style="padding: 0.75pt;">
- President
+|                 |                               |
+|-----------------|-------------------------------|
+| Anthony Chong   | President                     |
+| Andrey Poletayev| Vice President of Academic Affairs |
+| Pallavi Gunalan | Vice President of Non-Academic Affairs |
+| Michael Maseda  | Director of Operations        |
+| Maral Mazrooei  | Treasurer                     |
+| Nadia Iqbal     | Director for Social Activities |
+| Joel Nikolaus   | Secretary                     |
 
- </td>
- </tr>
- <tr>
- <td style="padding: 0.75pt;">
- Andrey Poletayev
-
- </td>
- <td style="padding: 0.75pt;">
- Vice President of Academic Affairs
-
- </td>
- </tr>
- <tr>
- <td style="padding: 0.75pt;">
- Pallavi Gunalan
-
- </td>
- <td style="padding: 0.75pt;">
- Vice President of Non-Academic
- Affairs
-
- </td>
- </tr>
- <tr>
- <td style="padding: 0.75pt;">
- Michael Maseda
-
- </td>
- <td style="padding: 0.75pt;">
- Director of Operations
-
- </td>
- </tr>
- <tr>
- <td style="padding: 0.75pt;">
- Maral Mazrooei
-
- </td>
- <td style="padding: 0.75pt;">
- Treasurer
-
- </td>
- </tr>
- <tr>
- <td style="padding: 0.75pt;">
- Nadia Iqbal
-
- </td>
- <td style="padding: 0.75pt;">
- Director for Social Activities
-
- </td>
- </tr>
- <tr>
- <td style="padding: 0.75pt;">
- Joel Nikolaus
-
- </td>
- <td style="padding: 0.75pt;">
- Secretary
-
- </td>
- </tr>
-</tbody></table>
 
 Houses: There are a
 million house positions from President to Cannon Master. Here is a general idea
@@ -151,11 +89,11 @@ the beach (pics below)!
 This is the Santa Monica Pier
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01156f377971970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01156f377971970c.jpg)
 This is Grace and her boyfriend Alex (nice pose) :)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0115702e1b28970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0115702e1b28970b.jpg)
 Until next time!
 "Quantum Mechanics: The dreams stuff is made of"
 

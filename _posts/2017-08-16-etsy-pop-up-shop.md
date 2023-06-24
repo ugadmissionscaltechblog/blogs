@@ -13,13 +13,13 @@ Last weekend, I went to Ghiradelli Square for the Etsy Pop-Up Shop. Etsy is a gr
 Inside, there were many stands selling a variety of crafts, such as wooden artwork, cutting boards, journals, corgi pillows, jewelry, and more.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b7c912d9a9970b-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b7c912d9a9970b-pi.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b7c912da4e970b-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b7c912da4e970b-pi.jpg)
 I really enjoy browsing through small knick knacks like these and ended up buying a tea strainer for myself It was unique in that instead of just a plain chain hanging off the strainer, there was a wooden animal attached to the chain that you can hang over the side of the mug. That way, you know the chain won't fall into the drink, and there's a cute animal dangling off your cup! The one I got had a cat, but there were also dogs, giraffes, dinos, foxes, and other options.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b7c912da6b970b-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b7c912da6b970b-pi.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b8d29d22b0970c-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b8d29d22b0970c-pi.jpg)
 Afterwards, we went to the famous Ghiradelli chocolate shop in the square. Read the next post for more details!

@@ -12,26 +12,19 @@ Hong Kong is a really pretty city. It doesn’t feel very different from many ot
 
 Instead, we went to Victoria Peak and Ocean Park, two places from which one can get a great view of Hong Kong, including its surrounding islands. While Victoria Peak is a large and well known tourist attraction, Ocean Park is actually a zoo, an aquarium, and an amusement park all in one. They have many animals and quite a few rides for visitors. They also have pandas, which my family spent quite a bit of time looking at. They are cute, lazy creatures, really amusing. The most interesting part of the park is that all of the rides are actually on top of a mountain in Aberdeen (which is a city on the other side of Hong Kong Island).
 
-<div data-featherlight-filter="a" data-featherlight-gallery="" data-featherlight-type="image" id="featherlight-gallery"><fieldset class="asset featherlight-gallery border" gallery-width="250-auto">
-<div class="gallery-scroll" id="gallery-container">
-<ul class="asset-thumbnails">
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d01b8d2d853b6970c-pi.jpg)
+
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d01b8d2d853bc970c-pi.jpg)
+
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c94de8e6970b.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d01b8d2d853b6970c-pi.jpg" %}
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d01b8d2d853bc970c-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d2d853cd970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c94de8e6970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d2d853c5970c.jpg)
 
-<div data-featherlight-filter="a" data-featherlight-gallery="" data-featherlight-type="image" id="featherlight-gallery"><fieldset class="asset featherlight-gallery border" gallery-width="250-auto">
-<div class="gallery-scroll" id="gallery-container">
-<ul class="asset-thumbnails">
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d2d853c9970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d2d853cd970c.jpg" %}
-
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d2d853c5970c.jpg" %}
-
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d2d853c9970c.jpg" %}
-
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d2d853c1970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d2d853c1970c.jpg)
 

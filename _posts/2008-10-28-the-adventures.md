@@ -48,14 +48,13 @@ the most stressful!
 In fairness, you might not know
 of half the things I’m talking about, so I’ll just tell you that it was the
 presentation. I spent this summer
-working at Caltech through a program called the <a href="https://www.surf.caltech.edu/">Summer Undergraduate Research Fellowship or
-SURF</a> for short. Basically, you do
+working at Caltech through a program called the [Summer Undergraduate Research Fellowship or SURF](https://www.surf.caltech.edu/) for short. Basically, you do
 ten weeks of research with a Caltech professor, you write a paper and give a
 presentation, and you get a pretty nifty six grand stipend. It’s a really great deal, so a lot of
 students at Caltech do SURFs. In fact,
 
-This was my second SURF with <a href="https://nanofab.caltech.edu/Members/Axel%20Scherer.htm">Dr. Axel Scherer</a>,
-the head of Caltech’s <a href="https://nanofab.caltech.edu/">Nanofabrication</a>
+This was my second SURF with [Dr. Axel Scherer](https://nanofab.caltech.edu/Members/Axel%20Scherer.htm),
+the head of Caltech’s [Nanofabrication](https://nanofab.caltech.edu/)
 group. My project was really cool—I made
 some really tiny (10% of your average human hair’s width) incandescent light
 emitters to be used in on-chip infrared spectroscopy. You can see one of the ones I made to the right. I started from the ground up—I designed the
@@ -78,4 +77,4 @@ that my summer experience was one I’ll never forget.
 Oh—and the presentation? It went fine.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/images/2008/10/28/blogsurf_copy.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/images/2008/10/28/blogsurf_copy.jpg)

@@ -23,18 +23,18 @@ These things are amazing -- when I'm stuck in the middle of a set or midterm, I 
 
 My purpose in writing this blog post was to share with you my experience at my second ever formal dinner. My first ever formal dinner can be summed up by this collage:
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08015624970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08015624970d.jpg)
 This is my friend and fellow Rudd frosh, Katherine. We like food. We ate food. It was okay. My second ever formal dinner can be summed up by this collage:
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c75dabf4970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c75dabf4970b.jpg)
 This is Katherine again. We like food. We ate food. It was really good! There was a gingered butternut squash soup with spicy pecan cream, which was quite palatable:
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c75dac16970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c75dac16970b.jpg)
 Then there was the tremendously flavorful grilled flat iron steak with mustard butter, accompanied by parsley potatoes in all shades of purple, and cute colorful vegetables:
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c75dac1d970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c75dac1d970b.jpg)
 And at last there was the Irish cream bread pudding with whiskey sauce. I love bread pudding, and this variant didn't diminish my love:
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c75dac24970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c75dac24970b.jpg)
 Food is good, food is great! Even though I ate sparsely beforehand, I was very stuffed at the end of this meal. Formal dinner is a Caltech tradition that I (and my stomach) very much appreciate.
 

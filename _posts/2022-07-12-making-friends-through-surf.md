@@ -20,7 +20,7 @@ It was their first day at work, second day at Caltech, so they were not familiar
 
 Once we came back from Afters, we took them around other houses such as Fleming, Lloyd and Page, introducing them to our friends in those houses. We came back to Bechtel and hung out in their suite until 1 am that night (not thinking about the 8am wake-up for work the next day), and ended up making a group chat together. We still spend a lot of time together, going to local parties and events and introducing them to more of Pasadena. We sometimes go to other houses to play poker, go out to Koreatown to have Korean corn dogs and shaved ice, or get a late-night boba from Twinkle Tea. Fortunately for us, some of them come from local areas such as Santa Barbara, so they have been able to introduce us to LA that we never got to know until now.
 
-![Us with some of our WAVE friends at Marina del Rey after watching the 4th of July fireworks](https://d24slhcvzhzz82.cloudfront.net/images/2022/rachael/IMG_6061.JPG "Us with some of our WAVE friends at Marina del Rey after watching the 4th of July fireworks")
+![Us with some of our WAVE friends at Marina del Rey after watching the 4th of July fireworks](https://d24slhcvzhzz82.cloudfront.net/images/2022/rachael/IMG_6061.JPG)
 
 _(Above) Us with our WAVE friends after watching the 4th of July Fireworks at Marina del Rey_
 

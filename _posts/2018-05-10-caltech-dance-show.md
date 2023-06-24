@@ -12,12 +12,9 @@ Although the Caltech Dance Show is put on every year, this is the first year I w
 
 Although I’ve seen a lot of ballet in Chicago, I haven’t seen much hip-hop, and especially none of the ethnic dances. It was really interesting and eye-opening to be able to experience the dances. I still think that hip-hop was probably the coolest, but that’s also my American perspective talking. There were a lot of different musics that people chose to dance to as well: Chinese, Japanese, Indian (I don’t know the specific types) as well as old and new pop songs. The costumes for the show were also well done, as all of the groups had their own coordinated clothes to perform in. There was an impressive amount of variation in the hip-hop clothes, considering they all danced in the same style.
 
-<div data-featherlight-filter="a" data-featherlight-gallery="" data-featherlight-type="image" id="featherlight-gallery"><fieldset class="asset featherlight-gallery border" gallery-width="220-auto"><legend class="featherlight-gallery border">Dance Show</legend>
-<div class="gallery-scroll" id="gallery-container">
-<ul class="asset-thumbnails">
+## Dance Show
 
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0224df2d8ea2200b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0224df2d8ea2200b.jpg" %}
-
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0224df2d8ea6200b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0224df2d8ea6200b.jpg)
 

@@ -23,7 +23,7 @@ After we changed money, the Limavision tour bus picked us up from our hostel in 
 There was a very beautiful hike to the Ychma temple of the sun, from which we could see rocks out in the ocean said by local legend to be a mother running away with her baby.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c82aad06970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c82aad06970b.jpg)
 We also saw the women's building, in which young women were raised by the Incas to be sacrificed during fertility festivals. We also saw a human skull - a real one - just lying in the sand. Apparently there are so many that it's not of archaeological significance.
 
 We took the bus back to our own hostel; by then, it was about 2pm. We set off in search of lunch. One of our number is vegetarian, which makes eating difficult. Being vegetarian isn't really a thing here. Luckily we found a Turkish food stand (which sold falafel). Not everyone was feeling Mediterranean food, so we walked a long a street (*Avenida J. Larco*) with restaurants and shops until we found a chicken place (*Don Belisario*). I had grilled chicken with fries and salad. It was my first non-airplane meal since Thursday dinner. It felt great.
@@ -35,7 +35,7 @@ I spent about an hour journaling and watching*Cowboys vs. Aliens*. When that end
 We went to dinner at a restaurant called Punto Azul. I got a fish and tomato soup. Camila got us all a bowl of ceviche to share and it was delicious.*Ceviche is a dish made from seafood that has been cooked using acid (lemon juice, vinegar) instead of heat*. Like a more sour version of excellent sashimi. I really liked that restaurant. Would recommend!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1b52171970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1b52171970c.jpg)
 After dinner, I coordinated two taxis to get the group to a light show. I was really (silently) proud of that.
 
 - I haggled successfully in Spanish and
@@ -46,7 +46,7 @@ Our trip supervisor, Camila, speaks excellent Spanish, being a native speaker of
 So we got the the Parque de las Aguas in Lima just in time for this giant water-and-light show. It's in the Guinness Book of World Records. It was very impressive and entertaining. It was a little like the World of Color show at Disneyland, and I would say the water part of the show here was more impressive. Disneyland has pyrotechnics, though. And Disney characters, which are my childhood and therefore all the feelings.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1b52197970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1b52197970c.jpg)
 The park has 13 fountains in total, most of which are colorfully lit at night. We saw the light show fountain, a really tall spectacular fountain, a tunnel made of orange-lit water, and a maze made of jets on timers that shot spots within the maze and got everyone soaking wet. There were some others but they were less fun/spectacular.
 
 We took taxis back to the hostel and started preparing for bed. The shower situation was much improved over last night when we got home from the airport because it was 10:30 instead of 3am and everyone knows now not to brush their teeth with the tap water. I journaled after my shower and I think I'll try to sleep now, despite all my roommates still being awake.

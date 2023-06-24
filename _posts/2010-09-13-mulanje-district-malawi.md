@@ -20,11 +20,11 @@ The morning after the hike we needed to get cooking water for Bri. So she gave m
 Look at these smiles!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013487457073970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013487457073970c.jpg)
 That's authentic, Malawian water on my head! And, yes, I know I'm a hussy for not having a chitenje on.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0134874574c3970c.jpg" %}Other exciting parts of village life: 
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0134874574c3970c.jpg)Other exciting parts of village life: 
 -Using the outhouse! Aim is very important when the hole in the ground is tiny!
 -The neighbors were about to bake bricks so they were cutting down a tree today. 
 -The Limbuli Market, an outdoor market about an hour from Bri's house, was pretty happening. A huge selection of clothes and food and everything less expensive than in the city! Mandazi are these little fried dough balls that cost 6 US cents. Delicious and dangerously inexpensive. 

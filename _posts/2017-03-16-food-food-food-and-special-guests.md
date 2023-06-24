@@ -20,8 +20,8 @@ I have taken advantage of my brand-new donut pan to bake chocolate donuts! I als
 I've also discovered that banana bread muffins, made out of overripe bananas from open kitchen, can be a fantastic breakfast alternative to the cereal and fruit in open kitchen that you've been eating all year (and also make a great study snack).
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d266a3ae970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d266a3ae970c.jpg)
 Another weird discovery, not related to food: Silicon Valley has been filming on campus! They filmed a few scenes in the student center a couple of months ago, and filmed a big scene in front of the Annenberg Center (the computer science building) last week. Apparently they do all of their filming in LA but the characters are supposed to be visiting Stanford, so they came here to shoot. I spent the entire afternoon that day inside of Annenberg working on my CS122 project, so getting in and out of the building around the camera crews was extremely difficult (especially during live shooting). But seeing actors from one of my favorite shows up close was very cool. I managed to get a creepy photo from my professor's office during a scene (please don't judge me).
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8dc40ce970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8dc40ce970b.jpg)

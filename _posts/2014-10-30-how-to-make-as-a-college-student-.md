@@ -22,7 +22,7 @@ I’m a waiter! Waiting pays $8/hour, so $12/night including set up (putting dis
 - Grill Team
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6f94d4c970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6f94d4c970b.jpg)
 Similar to house waiters, Grill Team is in charge of Thursday night grill night. That’s right, students grill your steak on Thursdays! Grill Team members also go through food handling training (online course) and get trained in person by current Grill Team members. You can join after your second Frosh term. Pays similarly to waiting.
 
 - Blogging for admissions!
@@ -31,7 +31,7 @@ Pretty sweet job, if I do say so myself :P
 
 - Work Study
 
-This is a federal program, and sometimes included in financial aid packages. For more information, call the financial aid office, or go on their <a href="www.finaid.caltech.edu" target="_blank">website</a>!
+This is a federal program, and sometimes included in financial aid packages. For more information, call the financial aid office, or go on their [website](www.finaid.caltech.edu)!
 
 On top of ways to make money, college students are often interested in ways to save money. Turns out, many large retailers offer student discounts to anybody with a college ID! It's always worth checking if whatever store you're in has a student discount (including local restaurants), but here is a short list that may help while you're shopping for your new dorm room:
 

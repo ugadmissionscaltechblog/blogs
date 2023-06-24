@@ -15,9 +15,9 @@ In any case, I'm finally at home after the conclusion of the winter term. I can 
 
 Now, everyone can complain about finals week, and I'm no exception. However, I also like to remain optimistic in the face of any situation--a fact to which any of my friends will readily attest. It's not always easy, but I think that I can spin both of the following stories in a positive light.
 
-My first starts this past Sunday, the 14th of March. I'm part of the women's club soccer team, the Strikers--with the dissolution of the women's intercollegiate team a few years back (now it's a coed team), there was a void waiting to be filled. Enter Dalia, a current junior, who applied and received <a href="https://mhf.caltech.edu/" target="_blank">MHF funding</a> to start a women's team. There's about...12 of us, and we play 7v7 Women's Soccer against other area teams on Sundays. It's great fun and really low key--two one hour practices and one two hour practice a week, and then the games.
+My first starts this past Sunday, the 14th of March. I'm part of the women's club soccer team, the Strikers--with the dissolution of the women's intercollegiate team a few years back (now it's a coed team), there was a void waiting to be filled. Enter Dalia, a current junior, who applied and received [MHF funding](https://mhf.caltech.edu/) to start a women's team. There's about...12 of us, and we play 7v7 Women's Soccer against other area teams on Sundays. It's great fun and really low key--two one hour practices and one two hour practice a week, and then the games.
 
-So it's our last game before the term ends, and we're up against the current #1 team in the league. Things are looking up midway through the second half--we're up 2-1 and holding our own. Then one of our players has to take a knee. *No problem*, I think to myself, *just have to step up the defending.<span style="font-style: normal;">So I run to the ball, no one covering me, plenty of time...and roll my left ankle.*
+So it's our last game before the term ends, and we're up against the current #1 team in the league. Things are looking up midway through the second half--we're up 2-1 and holding our own. Then one of our players has to take a knee. *No problem*, I think to myself, *just have to step up the defending.So I run to the ball, no one covering me, plenty of time...and roll my left ankle.*
 
 I have a history of spraining this ankle (indeed, my mother just started laughing when I called her to tell her), but at least we won our game. I also spent the next few days sitting at my desk, one foot propped up on a series of boxes. While it wasn't too bad, I found that I needed help with the oddest things--climbing onto my bed, for example, orre-parkingmy car at the suddenly-miles-away parking garage. But it was no problem--people were more than happy to help out. :)
 
@@ -34,4 +34,4 @@ Until next time, Mythili.
 This is the pineapple upside down cake we made for a friend's 20th birthday.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310fbfabda970c.jpg" %}This is the lemon cake that my friends made for my 20th. :)
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310fbfabda970c.jpg)This is the lemon cake that my friends made for my 20th. :)

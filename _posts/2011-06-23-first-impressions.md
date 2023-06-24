@@ -15,7 +15,7 @@ The majority of the streets around GIST are at least this bright. When I took th
 
 Eventually I made it to my dorm room. These new dorms were built just last year, and they are AMAZING. I get a double to myself, and I have my own balcony and bathroom. They even gave me bedding for the summer!
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01538f60bea8970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01538f60bea8970b.jpg)
 The sliding doors in the back lead to my balcony, and the door on the right leads to the bathroom. I even have wallpaper.
 
 The floor just in front of the door to the hallway is recessed a few inches below the rest of the floor is used as a place to leave shoes.
@@ -25,7 +25,7 @@ They also have raised floors at some restaurants near here. You leave your shoes
 I met my lab group the next day. Professor Tae, my mentor here, is very kind and told me to ask him about anything I wanted help with. There are about 18 graduate students and researchers associated with his lab and they are really fun. Not all of them speak English well, but they are all really friendly.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01538f60c173970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01538f60c173970b.jpg)
 The staff provided us a water pitcher instead of refilling individual glasses, but here you hardly ever pour your own glass. One of the students would fill everyone else’s glasses and then pass the pitcher to someone else so that their own glass could be filled.
 
 After our meal we went to an arcade for a bit. There was a game where you shot at targets with an airsoft rifle-like gun. The boys were all pretty good at this because they had already served their mandatory two years in the military.
@@ -38,6 +38,6 @@ I think this is a little long, especially for my first post, so I will leave off
 
 One last photo…
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01538f60c3cc970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01538f60c3cc970b.jpg)
 From left to right: Marino Di Franco, Sylvia Sullivan, and Kelly Guan
 

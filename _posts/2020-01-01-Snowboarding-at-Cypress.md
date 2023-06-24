@@ -14,4 +14,4 @@ Getting back on the slopes felt quite strange. I feel like I never use my quads 
 I think I was able to get about 6 runs in before we had to take the bus back home. I also don't think I could go for any longer since I had taken a few falls by that point and my entire lower body was sore. Although the conditions were not ideal, it felt good to be back. I wished I could go a couple more times, but I had other plans for the remainder of my break. Perhaps I will visit Big Bear or Mammoth in the new year, or will go more next winter.
 
 
-{% include image.html img="https://ik.imagekit.io/u9ndqdgam20/images/2020/01/6a0105349b8251970b0240a4b0d9dd200c-800wi.jpg" %}
+![](https://ik.imagekit.io/u9ndqdgam20/images/2020/01/6a0105349b8251970b0240a4b0d9dd200c-800wi.jpg)

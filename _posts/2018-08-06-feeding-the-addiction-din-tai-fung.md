@@ -15,4 +15,4 @@ The restaurant had a super long wait, as always. So in the intervening time, we 
 As for our meal at Din Tai Fung… what else can I say but that it was delicious. My only problem with the Bay Area DTF is that although the Xiao Long Bao are the same price, you only get 6 or them instead of 10. What a disappointment. I always want more of those delicious bao to eat.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d022ad386a62d200d-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d022ad386a62d200d-pi.jpg)

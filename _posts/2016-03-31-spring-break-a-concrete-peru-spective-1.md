@@ -13,7 +13,7 @@ Buenas noches,
 
 I´m super sore right now, and I don´t want to see any more cement or buckets ever again.
 
-Although I´m in Peru to help out at mobile clinics withMedlife (seeposts <span style="color: #438059;"><a href="https://caltech.typepad.com/caltech_as_it_happens/2016/03/spring-break-a-peru-spective.html" style="color: #438059;" target="_blank">1</a> and <span style="color: #438059;"><a href="https://caltech.typepad.com/caltech_as_it_happens/2016/03/spring-break-a-peru-spective.html" style="color: #438059;" target="_blank">2</a>),the purpose of this trip is really about learning what the people here need and how we can help them in those ways. One of those needs is staircases. A lot of the poorer people in Peru live in the hills, in districts that started out from illegal settlements. In order for their houses to count as property (for benefits like bank loans and addresses etc.) as well as in order for better safety andevacuation routes, people need staircases to their homes. This is especially important in the rainy winter season when the dust on the slopes turns to slippery mud.
+Although I´m in Peru to help out at mobile clinics withMedlife (seeposts [1](https://caltech.typepad.com/caltech_as_it_happens/2016/03/spring-break-a-peru-spective.html) and [2](https://caltech.typepad.com/caltech_as_it_happens/2016/03/spring-break-a-peru-spective.html)),the purpose of this trip is really about learning what the people here need and how we can help them in those ways. One of those needs is staircases. A lot of the poorer people in Peru live in the hills, in districts that started out from illegal settlements. In order for their houses to count as property (for benefits like bank loans and addresses etc.) as well as in order for better safety andevacuation routes, people need staircases to their homes. This is especially important in the rainy winter season when the dust on the slopes turns to slippery mud.
 
 So Medlife splits up volunteers into teams, and each team works on the staircase construction project for one day of the week. Today was my turn.
 
@@ -33,7 +33,7 @@ I´ll get to see the completed staircase on Friday, so I´m pretty excited. Also
 
  After:
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1b5ab57970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1b5ab57970c.jpg)
 keep lookin´ up,
 
 jenny.

@@ -17,7 +17,7 @@ The process of being on the COUCH has been super enlightening to me. As a frosh,
 
 When we first got there, we were given hard hats, construction vests, and shown the live-cam view of the entirety of the construction site. It's huge! The project managers explained that they even had a drone come in to tell them how much dirt they needed to remove in order to not be left with a tremendous soil pile when the construction was over.
 
-<div class="photo-caption caption-xid-6a01b8d28f2955970c01b7c90d41ec970b" id="caption-xid-6a01b8d28f2955970c01b7c90d41ec970b">Here I am with my hat and construction vest!
+Here I am with my hat and construction vest!
 
 After the brief presentation, we got to go into the construction site. We saw the foundation of various buildings, the spaces between each building allowing for earthquake safety, and the location of the courtyard. One of my favorite parts was looking at the mock-ups. A mock-up is a practice project for the construction team; they build a single room or wall to perfect the technique for completing the entire building. We got to see a mock-up of one wall and the polished concrete floor as well as another mock-up of an actual bedroom, furniture and everything. The room was pretty large for a single.
 

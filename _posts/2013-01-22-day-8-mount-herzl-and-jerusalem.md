@@ -22,6 +22,6 @@ At the Temple Mount, right before the entrance to the Kotel
 After our trip to the Wall, we had some time to explore the Jewish Quarter. It has a different feel from the rest of the places in Israel we've visited, sort of a historic meets modern. You walk down narrow cobblestone alleys and see everything from old-fashioned bakeries (marzipan, yummmm) to gift shops to Apple stores. We went all the way from the Jewish Quarter to the front gate, where all four Quarters (Jewish, Muslim, Christian, and Armenian) meet.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c35d79d74970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c35d79d74970b.jpg)
 Then it was back to the hotel so we could try and get some sleep before our last day in Israel!
 

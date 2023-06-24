@@ -16,6 +16,6 @@ After the adventure was over we were let out onto the exhibition floor with old 
 SO CREEPY:
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015437f49bd0970c.jpg" %}
-If you love Doctor Who and ever visit London it's totally worth a trip. But until then, remember that Christmas Day there is a new episode AND here's a youtuber eating fishsticks and custard: <a href="https://www.youtube.com/watch?v=8htMWfgl10U">https://www.youtube.com/watch?v=8htMWfgl10U</a>Enjoy.
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015437f49bd0970c.jpg)
+If you love Doctor Who and ever visit London it's totally worth a trip. But until then, remember that Christmas Day there is a new episode AND here's a youtuber eating fishsticks and custard: [https://www.youtube.com/watch?v=8htMWfgl10U](https://www.youtube.com/watch?v=8htMWfgl10U)Enjoy.
 

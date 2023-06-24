@@ -10,12 +10,14 @@ date: 2014-07-31
 
 On Sunday morning, when I left my dorm to go get lunch, I saw a friend longboarding back carrying a soda in a yellow cup in his right hand and a bag in his left. The soda cup, I recognized quickly, was from Which Wich, a sandwhich chain that recently opened a location on Lake Avenue.
 
-<div class="photo-caption caption-xid-6a017c3671e245970b01a511e7051c970c" id="caption-xid-6a017c3671e245970b01a511e7051c970c">From Google Maps
+From Google Maps
 
 Getting to Which Which is easy!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c3671e245970b01a3fd3757d3970b-pi.jpg" %}<div class="photo-caption caption-xid-6a017c3671e245970b01a3fd3757d3970b" id="caption-xid-6a017c3671e245970b01a3fd3757d3970b">From https://www.whichwich.com/
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c3671e245970b01a3fd3757d3970b-pi.jpg)
+
+From https://www.whichwich.com/
 
 I personally enjoy getting the humus sandwhich with:
 

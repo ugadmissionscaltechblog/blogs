@@ -13,13 +13,13 @@ Walking, Hill Walking, and Hiking are all incredibly popular in the UK. Walking 
 My flatmate Jean Googled "great walks in Edinburgh" and we set off on an hour-long bus ride out of the city. We stopped in the tiny town of Aberlady, and started our hike around Aberlady Bay. We walked for about two and a half hours, ending in the town of Gullane. Both towns were adorable, picturesque seaside towns, and we day dreamt about becoming reclusive writers in tiny towns on the coast. We got some amazing views of the sea, and of Gullane from a distance (so adorable).
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d16655c3970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d16655c3970c.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08805fb7970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08805fb7970d.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08805fc7970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08805fc7970d.jpg)
 
 After finishing our walk in Gullane, we stopped for a pub lunch, then took the bus back to Edinburgh. Having left our flats at 9AM, we finally returned at about 4PM. Not a bad way to spend a Scottish Sunday.
 

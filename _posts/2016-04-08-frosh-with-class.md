@@ -15,17 +15,17 @@ Our venue was absolutely gorgeous. We had a photo booth, and dinner, and a reall
 And of course we danced.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b7c80685b6970b01b8d1b97361970c-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b7c80685b6970b01b8d1b97361970c-pi.jpg)
 A lot.
 
 It’s always fun to see everybody out of the usual sweats and messy buns. And with formal being only a week after term, the work hasn’t piled up yet, and we can all afford to take a break.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b7c80685b6970b01b8d1b97381970c-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b7c80685b6970b01b8d1b97381970c-pi.jpg)
 Turns out Caltech students clean up nice.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b7c80685b6970b01b8d1b973aa970c-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b7c80685b6970b01b8d1b973aa970c-pi.jpg)
 
 Cheers,
 Sakthi

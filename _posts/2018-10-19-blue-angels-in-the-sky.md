@@ -17,4 +17,4 @@ The performance was really cool! The planes can choose to let out white smoke wh
 Below I've included photos of them spiraling in a tight loop upwards thousands of feet, making a huge loop in the sky with about 5 planes flying next to each other, and doing other coordinated aerobatics! The performance lasted about 45 minutes to an hour.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c022ad372ea18200c-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c022ad372ea18200c-pi.jpg)

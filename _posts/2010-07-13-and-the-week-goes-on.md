@@ -13,15 +13,15 @@ Hello peoples,SURF is almost at it's halfway point. It's crazy that I've already
 Besides that, last week in lab went okay. I did some pretty basic stuff. Tuesday was kind of boring because I spent the entire day at the fly station. I started the morning off by seeing if the crosses I had set the week before had produced any transformants. For one fly line, this produced red-eyed flies, while transformants in the other fly line had orange eyes. I was able to find tons of red-eyed flies, but failed to find any orange eyed flies. Oh well. After looking for these transformants, I set up new crosses. It can be soooo boring sometimes! All you have to do is place either 3 mutant males or females with 3 wild-type males or females. After about 30 vials, it gets a little sickening. :) But, it had to be done and in a few days I'll go check to see if we got any more transformants.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f238d5f5970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f238d5f5970b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0134855e923b970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0134855e923b970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0134855e92b2970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0134855e92b2970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0134855e931c970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0134855e931c970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f238d864970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f238d864970b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0134855e93ad970c.jpg" %}-Mario
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0134855e93ad970c.jpg)-Mario
 

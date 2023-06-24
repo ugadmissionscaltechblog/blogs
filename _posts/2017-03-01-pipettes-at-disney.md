@@ -23,19 +23,19 @@ After our performance, we spent the rest of the day in the park riding the rides
 
 It was cloudy for much of the day, which was actually quite comfortable since fortunately it didn't rain as much as it was forecasted to. The sun finally peeked out for a short while late in the afternoon. My friend Yuka and I snuck in a selfie then:
 
-The full video of our performance at Disney is on our <span style="color: #a94a76;"><a href="https://www.facebook.com/CaltechPipettes/" rel="noopener noreferrer" style="color: #a94a76;" target="_blank">Facebook page</a> and posted below:
+The full video of our performance at Disney is on our [Facebook page](https://www.facebook.com/CaltechPipettes/) and posted below:
 
-<iframe allowfullscreen="true" allowtransparency="true" frameborder="0" height="315" scrolling="no" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCaltechPipettes%2Fvideos%2F1891778694416447%2F&amp;show_text=0&amp;width=560" style="border: none; overflow: hidden;" width="560"></iframe>
+[Watch on Facebook](https://www.facebook.com/CaltechPipettes/videos/1891778694416447/)
 
 After we sang (and danced!) "Gee" by SNSD last year, we've been more interested in singing songs in other languages. We are preparing a completely non-English, multi-cultural set for concert at the end of this term.
 
-If you like how we sound, please subscribe to our <span style="color: #a94a76;"><a href="https://www.youtube.com/channel/UCkHVoWtlEhoMUjbkeAHrzDg" rel="noopener noreferrer" style="color: #a94a76;" target="_blank">Youtube channel</a> for more! Every subscribe brings us a little closer to our own custom URL (: Here's the video of "Gee" by SNSD:
+If you like how we sound, please subscribe to our [Youtube channel](https://www.youtube.com/channel/UCkHVoWtlEhoMUjbkeAHrzDg) for more! Every subscribe brings us a little closer to our own custom URL (: Here's the video of "Gee" by SNSD:
 
-<p class="asset-video" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/dYRjjVCQP7U" width="560"></iframe>
+[Watch on YouTube](https://www.youtube.com/watch?v=dYRjjVCQP7U)
 
-<p class="asset-video" style="text-align: left;">Here's my favorite and the song I found the most difficult to learn. This one is a cover we did last spring of Postmodern Jukebox's version of "Thrift Shop":
+Here's my favorite and the song I found the most difficult to learn. This one is a cover we did last spring of Postmodern Jukebox's version of "Thrift Shop":
 
-<p class="asset-video" style="text-align: center;"><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/C5Pe-0pns8c" width="560"></iframe>
+[Watch on YouTube](https://www.youtube.com/watch?v=C5Pe-0pns8c)
 
 Do you sing? Any requests or suggestions for next songs? We do anything from pop to Disney to whatever our hearts desire, and we're open to suggestions! You can also find us on Instagram (@caltechpipettes), which is managed by yours truly. (;
 

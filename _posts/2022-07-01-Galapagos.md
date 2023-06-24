@@ -33,13 +33,13 @@ Here's just a taste of the biodiversity we observed at the Galapagos:
 
 It feels a little cliché to say that my life changed after the trip. But after a trip like this, getting to live and breathe and sleep biology, shepherded by our incredible guides Ernesto and Fausto, it would've been weirder if my life didn't change. Everywhere I look, I am in awe of the changes each organism took to get to its current form. I wonder how it will change in the future, and how we will change! It's so easy to take the life around us for granted. Having the unique opportunity to go to the Galapagos and see life for what it is—biodiversity itself as a living, breathing, evolving organism—humbled me to the core. You don't need to go to the Galapagos to see this, but hey! It can't hurt :)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/1.JPG "Galapagos Tortoise!")
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/1.JPG)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/2.JPG "The Whole Galapa-Gang :)")
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/2.JPG)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/3.JPG "Sleepy flamingo")
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/3.JPG)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/4.JPG "blue footed boobie")
+![](https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/4.JPG)
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/katelyn/blog_pics/6.JPG)
 

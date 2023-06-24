@@ -13,7 +13,7 @@ I think I am starting to sound like Mad-Eye Moody from Harry Potter...After bein
 
 The thing is since I don't know, I'm always waiting by the phone and obsessively checking my e-mail and mailbox. So that means in addition to the stress associated with midterms week (I have two midterms, both of which will be a pretty big challenge), I have the basal stress of waiting for decisions. Fortunately, I have some amazing friends here at Caltech! They make things so much better, and can take my mind off of whatever is getting me anxious at the moment. I'm so grateful for them every day!
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a8630367970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a8630367970b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b012877654681970c.jpg" %}Well, I guess back to waiting. I'll keep you posted!
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b012877654681970c.jpg)Well, I guess back to waiting. I'll keep you posted!
 

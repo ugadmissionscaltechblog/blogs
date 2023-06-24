@@ -18,5 +18,5 @@ Planning the Fair was pretty awesome. My favorite part was ordering the boba; we
 **
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a510d0419e970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a510d0419e970c.jpg)
 *A view of the Fair. We held it during lunch time so people could learn about the organizations on their way to lunch.*

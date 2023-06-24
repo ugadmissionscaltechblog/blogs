@@ -13,9 +13,9 @@ Each house hosts one big party during the school year, and Page is the first to 
 We (mostly the frosh) build a dance floor, railings, and walls for the party. We painted it just like the disco floor in Club Penguin! Building and painting definitely take several weeks, and security has to clear all the construction before the party is approved.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3a646f0200d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3a646f0200d.jpg)
 We also had a place for fun photo ops! I thought the construction turned out really cute even though the theme seemed a bit weird at first. In past years, the themes have been the Cold War, Back to the Future, and Spongebob.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3a646f5200d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3a646f5200d.jpg)
 I was really looking forward to the party, but unfortunately it got shut down early this year due to some incidents unrelated to Page. I also hosted a Potluck just before the party, so look out for a blog post on that coming up!

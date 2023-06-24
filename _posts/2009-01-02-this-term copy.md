@@ -55,7 +55,7 @@ seen back home!), I saw my first Jamba Juice (very California, IMHO), nearly
 crashed a wedding taking place near Pasadena town hall, and snapped a picture
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536a86f3f970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536a86f3f970c.jpg)
 After consulting the map, we found that
 there is also a Newton Ave. and a Eureka Ave. in Pasadena, but after all that,
 we were ready to head back to campus. I mentioned a lot about visiting classes,
@@ -103,30 +103,10 @@ There’s a similar class for biology, physics, and engineering as well, and I�
 recommend that every frosh take one. Your freshman classes are informative and
 everything, but its nice to take time each week to hear about all the amazing
 research going on around you at Caltech.
-<span>Talking about all the
+Talking about all the
 classes I’m taking next term has got me surprisingly pumped for my return to
 Tech, which is good because my plane leaves this Saturday. I’ll be posting
 again before that, but once get back, it’ll mean new classes, new pics, and
-new frosh experiences.</span>
+new frosh experiences.
 
 Happy 2008! Happy 2009! Happy Winter Term!
-
-
-
-
-
-
-
-<span>     </span>
-
-
-
-
-
-
-
-
-
-<span> </span>
-
-<span class="Apple-tab-span" style="white-space: pre;">                       </span>

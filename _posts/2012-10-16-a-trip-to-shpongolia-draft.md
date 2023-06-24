@@ -22,5 +22,5 @@ This isn't a concert review, so I'll just say it was perhaps the most fantastic 
 
 Unfortunately, my phone's camera decided to die on me that night, but here's a picture of the venue:
 
-And, for those of you who want to see what this concert looked like and what exactly this music is that I'm so in love with, <a href="https://www.youtube.com/watch?v=fGjE9-DiYyo&amp;feature=related" target="_self">here's</a> a youtube link to one of Shpongle's earlier stops on the tour.
+And, for those of you who want to see what this concert looked like and what exactly this music is that I'm so in love with, [here's](https://www.youtube.com/watch?v=fGjE9-DiYyo&amp;feature=related) a youtube link to one of Shpongle's earlier stops on the tour.
 

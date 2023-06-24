@@ -18,15 +18,15 @@ The next morning, we drove about an hour to the canyon. When I saw it for the fi
 
 We spent a few hours hiking around the rim. At one point, I nearly lost my cellphone, dropping it as I approached the edge. We eventually decided to hike for a while down into the canyon. Going downhill was a breeze. We made it nearly a mile and a half in a half an hour, including time spent just standing and photographing the beauty of the canyon. We were deciding whether to hike down farther when we heard an ominous clap of thunder in the distance, a sound almost foreign to us Techers used to Pasadena’s constant sun. While normally it is worse to be up high in thunder storms, since the Grand Canyon is so wide, it is common for even the lower sections to be struck by lightning. We decided to head back. Although we ended up making great time (it took us less than an hour to hike back up), it was difficult. I thought my heart would leap out of my chest and fall straight into the canyon at some points. At one point, we had to take a break because we were all feeling too dehydrated (always remember to bring extra water when hiking in the hot desert!).
 
-<span style="font-size: 8pt;">Here I am, seconds before almost dropping my phone into the abyss. The canyon looks almost like a painting.
+Here I am, seconds before almost dropping my phone into the abyss. The canyon looks almost like a painting.
 
 We finally made it to the top and headed for some dinner with a view. Nearby, I stopped at the gift shop, picking up some prickly pear jam, a delicacy not normally sold in California.
 
 The next day, we headed out, stopping in Flagstaff for a barbeque brunch (I had some of the best potato salad ever) and Phoenix for Whataburger (my friend from Texas missed it…although I am vegetarian, I did enjoy the free drinks). On the way out of Phoenix, we drove by one of my own personal paradise: mountainsides filled with Saguaro cacti! Cacti are one of my favorite types of plants—I even grow two of my own! I just love how different they are from basically any other plant I’ve seen; they’re almost like little desert hedgehogs with their spines. Fun facts about the cactus—it is the Arizona state flour, and in the state it’s a class 4 felony to cut one down. Despite it being nearly 110 degrees and parts of the asphalt on the road were melting, I made everyone stop so we could go up and touch one. It was amazing!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b7c90bbb96970b-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b7c90bbb96970b-pi.jpg)
 
-<span style="font-size: 8pt;">Here I am with the Saguaro Cactus! It looks like it's growing its first arm, indicating it is probably over 75 years old!
+Here I am with the Saguaro Cactus! It looks like it's growing its first arm, indicating it is probably over 75 years old!
 Nothing else that eventful happened on the way back to Tech. I did pick up some key limes in a huge, cheap grocery store (see what I did with them in my next post!). When we finally got back to Caltech, I was exhausted. We accomplished so much over those few days, and I had an amazing time doing so.
 

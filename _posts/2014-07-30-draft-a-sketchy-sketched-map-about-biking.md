@@ -18,7 +18,7 @@ I was skeptical about getting a refurb[ished bike] because, come on, what if som
 
 But what do I do with it?
 
-<div class="photo-caption caption-xid-6a017c3671e245970b01a73de43ea3970d" id="caption-xid-6a017c3671e245970b01a73de43ea3970d">From Google Maps.
+From Google Maps.
 
 Here's a beautiful map of the area around Caltech. If you check routes ahead of time using Google Maps, Pasadena can be a very bike-friendly area.
 
@@ -27,5 +27,7 @@ I started my day with Led Zeppelin's "Stairway to Heaven" and now I'm working my
 I'll end with a picture of an axolotl.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c3671e245970b01a511d8d5af970c-pi.jpg" %}<div class="photo-caption caption-xid-6a017c3671e245970b01a511d8d5af970c" id="caption-xid-6a017c3671e245970b01a511d8d5af970c">From https://southerncrossreview.org/73/axolotl.jpg
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c3671e245970b01a511d8d5af970c-pi.jpg)
+
+From https://southerncrossreview.org/73/axolotl.jpg
 

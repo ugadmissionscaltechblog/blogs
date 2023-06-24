@@ -44,17 +44,17 @@ The restaurant specializes in xiaolongbao, beef rolls, dumplings, and beef noodl
 
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09ad6518970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09ad6518970d.jpg)
 
 
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09ad651c970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09ad651c970d.jpg)
 
 
 *Top to bottom: beef brisket noodles (hand-torn), beef tendon noodles (regular), pan fried dumplings.*
 
-We walked in the &gt;100F heat to the mall after. We were fanatics of stationary, so we checked out Daiso, a Japanese chain where everything is $1.50 (wayyy better quality than Dollarama) and MUJI. We saw their new food hall that had Instagram hotspots like <a href="https://www.yelp.com/biz/matcha-matcha-arcadia-2">Matcha Matcha</a>, <a href="https://www.instagram.com/explore/locations/1715737002008168/side-chick/">Side Chick</a>, and <a href="https://www.laweekly.com/restaurants/las-latest-dessert-craze-is-uncle-tetsu-cheesecake-7789883">Uncle Tetsu's Cheesecake</a>. We were too full to eat anymore, but we will be back.
+We walked in the &gt;100F heat to the mall after. We were fanatics of stationary, so we checked out Daiso, a Japanese chain where everything is $1.50 (wayyy better quality than Dollarama) and MUJI. We saw their new food hall that had Instagram hotspots like [Matcha Matcha](https://www.yelp.com/biz/matcha-matcha-arcadia-2), [Side Chick](https://www.instagram.com/explore/locations/1715737002008168/side-chick/), and [Uncle Tetsu's Cheesecake](https://www.laweekly.com/restaurants/las-latest-dessert-craze-is-uncle-tetsu-cheesecake-7789883). We were too full to eat anymore, but we will be back.
 
 
 We are planning Thai or Vietnamese food for lunch next weekend, but I am also open to your recommendations!

@@ -17,20 +17,20 @@ We began driving at 6 am (definitely not my thing) in order to reach campus by 7
 
 After multiple near-misses, we finally met the roommate, who comes from Germany and seemed quite chill. Introductions were made between the parents, room arrangements were discussed, and we all went to lunch.
 
-^<span style="color: #111111;">Early impressions: Pomona is awfully fond of square plates...
+^Early impressions: Pomona is awfully fond of square plates...
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73e11286f970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73e11286f970d.jpg)
 
-<span style="color: #111111;">^A note on the wildlife: Their squirrels are skinnier than the Caltech squirrels! Perhaps we are too generous with ours (all those olive trees and their fruits must've raised their lipid intake or *something*). Pomona squirrels are not only able to climb trees but also scale buildings!
+^A note on the wildlife: Their squirrels are skinnier than the Caltech squirrels! Perhaps we are too generous with ours (all those olive trees and their fruits must've raised their lipid intake or *something*). Pomona squirrels are not only able to climb trees but also scale buildings!
 
-<span style="color: #111111;">The rest of the day was the usual convocation speech and question-and-answer panels that comes with all first days at college (and yes, I am most definitely justified in making such a generalization after going through two college orientations). A noteworthy moment: they kicked all of the parents and family members out after 5 pm, under the pretense of treating them to a delicious reception involving coconut shrimp, blackberry-infused cheeses, and strawberry parfait desserts. You devious devil, you, Pomona College!
+The rest of the day was the usual convocation speech and question-and-answer panels that comes with all first days at college (and yes, I am most definitely justified in making such a generalization after going through two college orientations). A noteworthy moment: they kicked all of the parents and family members out after 5 pm, under the pretense of treating them to a delicious reception involving coconut shrimp, blackberry-infused cheeses, and strawberry parfait desserts. You devious devil, you, Pomona College!
 
-<span style="color: #111111;">So it was that I came away one little brother short and several camera-phone masterpieces richer on the 22nd of August, 2014. 
+So it was that I came away one little brother short and several camera-phone masterpieces richer on the 22nd of August, 2014. 
 
-<span style="color: #111111;">But we didn't go home to stew over our loss--not at all. We went on vacation.
+But we didn't go home to stew over our loss--not at all. We went on vacation.
 
-<span style="color: #111111;">Till next time!
+Till next time!
 
-<span style="color: #111111;">Anita
+Anita
 

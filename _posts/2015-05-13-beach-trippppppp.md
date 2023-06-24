@@ -18,10 +18,10 @@ Saturday morning a group of us made pancakes and bacon for the whole house, and 
 We then changed into bathing suits and made it back to the beach with the rest of the house, who were boogey-boarding and building sand castles.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7882c63970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7882c63970b.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d111add7970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d111add7970c.jpg)
 
 Yeah, just because you're 20 years old doesn't mean you stop building sand castles. There was actually a competition going on, over whose castle could withstand the most waves. The mechanical engineers won (duh).
 

@@ -18,7 +18,7 @@ This week, a movie night was organized. We picked up general admission tickets t
 
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09b12d41970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09b12d41970d.jpg)
 
 
 My friends and I decided to watch Despicable M3 since it is super cute and light-hearted. I absolutely adored the first movie so it almost seems like a tradition to watch the sequels. It's not a movie you would expect to have a 5 star rating. You watch it for the childish humor, nostalgia, and of course the innuendos. Here's the trailer if you haven't seen it yet.
@@ -27,7 +27,7 @@ My friends and I decided to watch Despicable M3 since it is super cute and light
 
 
 
-<p class="asset-video"><iframe allowfullscreen="" frameborder="0" height="281" src="https://www.youtube.com/embed/6DBi41reeF0?feature=oembed" width="500"></iframe>
+[Watch on YouTube](https://www.youtube.com/watch?v=6DBi41reeF0)
 
 
 
@@ -35,7 +35,7 @@ My favorite character is Agnes. It makes me so happy that there is a representat
 
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2983fb8970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2983fb8970c.jpg)
 
 
 Most of my other friends chose to watch Dunkirk instead since it has amazing reviews on Rotten Tomatoes. I'll have to go check it out some other time.

@@ -10,8 +10,8 @@ date: 2017-09-07
 
 
 
-<div style="direction: ltr; margin-top: 0in; margin-left: 0in; width: 6.1118in;">
-<div style="direction: ltr; margin-top: 0in; margin-left: 0in; width: 6.1118in;">
+
+
 This week I went on a tour of Panavision, an equipment rental agency that specializes in anamorphic projection lenses. Their products have revolutionized filmmaking and Hollywood since the 1950s. They have locations across the world but they are headquartered in Woodland Hills, CA. We were able to get a tour of their manufacturing facilities and listen to a lecture on the science behind their lenses.
 
 

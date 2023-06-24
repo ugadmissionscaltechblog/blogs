@@ -11,7 +11,7 @@ date: 2014-06-23
 
 Hey guys!
 
-So the week before commencement, we had a church bonfire at<a href="https://www.parks.ca.gov/?page_id=617" style="color: #00bfbf;" target="_blank">Dockweiler Beach</a>. I feel like the past month has been spent trying to say our goodbyes to the ghosts. (It's tradition: they're "ghosts" after Ditch Day. The juniors become the new seniors then, too.)
+So the week before commencement, we had a church bonfire at[Dockweiler Beach](https://www.parks.ca.gov/?page_id=617). I feel like the past month has been spent trying to say our goodbyes to the ghosts. (It's tradition: they're "ghosts" after Ditch Day. The juniors become the new seniors then, too.)
 
 I can't imagine graduating from this place and having to leave. Looking back, being on the quarter system and having such a collaborative culture meant I got to do so much more than each semester in high school. Being eleven weeks long, each term was shorter, but it was still a fifteen-week semester's worth of learning and exploring and maybe even eating, heh.
 
@@ -23,11 +23,11 @@ We spent our second-to-last Friday evening around a bonfire with the sound of wa
 
 And then, there's this:
 
-<span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; text-align: center;">But anyway, it's been a good year. Remembering all the late nights and long talks and looking at the stars and raiding open kitchen, remembering all the tough quizzes and boba runs and weekend trips, it's been a good year. Maybe my last post from this term will be an off-the-top-of-my-head list of things I learned. This one's for the seniors. Thanks for the Ditch Days, real and fake, thanks for the advice and reassurance and love. Thanks for the support and the food. Thanks for letting me be your frosh.
+But anyway, it's been a good year. Remembering all the late nights and long talks and looking at the stars and raiding open kitchen, remembering all the tough quizzes and boba runs and weekend trips, it's been a good year. Maybe my last post from this term will be an off-the-top-of-my-head list of things I learned. This one's for the seniors. Thanks for the Ditch Days, real and fake, thanks for the advice and reassurance and love. Thanks for the support and the food. Thanks for letting me be your frosh.
 
-*<span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; text-align: center;">"May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."<span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; text-align: center;">--Romans 15:13*
+*"May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."--Romans 15:13*
 
-<span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; text-align: center;">Keep lookin' up,
+Keep lookin' up,
 
-<span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; text-align: center; color: #00bfbf;">Jenny.
+Jenny.
 

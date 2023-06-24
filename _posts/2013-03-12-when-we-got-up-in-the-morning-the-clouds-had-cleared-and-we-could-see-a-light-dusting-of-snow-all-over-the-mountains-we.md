@@ -26,20 +26,20 @@ sign of the trail, we backtracked and took the lift after all. It was a good
 thing we did because even the ride on the lift took about 20 minutes. We passed over what would be ski slopes and roads and cows. 
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee9170fa3970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee9170fa3970d.jpg)
 *Passing over cow fields during the gondola lift.*
 
 *
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d41a34535970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d41a34535970c.jpg)
 *Happy to be in the lift and not hiking for hours just to reach the start point of the high Alpine hike!*
 
 The gondola had two intersections where it slowed down and changed direction slightly. At one of these, we got confused and hopped off, but then realized we were at the wrong stop, and had to run along our gondola before hopping in
 again.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3773f3c4970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3773f3c4970b.jpg)
 *At a momentary pause during our gondola ride.*
 
 As we neared First, snow started
@@ -47,13 +47,13 @@ appearing on the ground from the rain the last two days. It was above freezing,
 so the snow was starting to melt. However, there was quite a bit of snow on top of the grass.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee9171770970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee9171770970d.jpg)
 *The transition to snow covered trails and ground as the altitude increases.*
 
 *
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3773f7f6970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3773f7f6970b.jpg)
 *Still happy that we are in the gondola!*
 
 We were at the top of a steep cliff and we
@@ -61,27 +61,27 @@ had a great view of the snow-capped mountains around us and a huge waterfall
 below.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d41a34feb970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d41a34feb970c.jpg)
 *Great view of the snow capped mountains and valley!*
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d41a34d72970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d41a34d72970c.jpg)
 *Wow! A magnificent waterfall being fueled by glacial runoff and melting snow!*
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee91721a6970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee91721a6970d.jpg)
 *I'm excited that we're about to begin our high-Alpine hike of the Bernese Alps!!*
 
 We hiked to the beautiful Lake at First, which took about thirty-five minutes and then stopped for lunch. Today was the first day that we encountered snow in the Alps and actually had snow on our hike! We had packed our own lunch so we could sit by the Lake and enjoy the breathtaking beauty. 
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee91723d0970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee91723d0970d.jpg)
 *Hiking to the Alps. Surrounded by snow!*
 
 *
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c377405a5970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c377405a5970b.jpg)
 *The Lake at First-- breathtaking!!*
 
 There were a
@@ -89,7 +89,7 @@ lot of people around, and some fish in the lake were actually jumping out of the
 was sunny and peaceful so we stayed for a long while to take in and fully appreciate the nature around us.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c37740cae970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c37740cae970b.jpg)
 *Very happy and a little overwhelmed to be surrounded by natural wonders.*
 
 The problem was
@@ -123,13 +123,13 @@ down. We were sliding all over on the muddy mush of the trails! Once we turned o
 the trail became wetter and wetter. The snow was melting so quickly that the water took the path of least resistance, making the trails into streams of water!!!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee9173b1b970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee9173b1b970d.jpg)
 *The snow meltoff was sturning into a stream next to the trail! Everything was very slippery.*
 
 *
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee9173cca970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee9173cca970d.jpg)
 *Verycarefully making my way down the trail, which was slippery and mushy due to the melting snow. The only way we knew we were on the right path was because of the white and red striped trail markings.*
 
 We could
@@ -140,13 +140,13 @@ Eventually, we got below the
 snowline and the trail got drier. Thanks goodness! 
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d41a388ac970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d41a388ac970c.jpg)
 *Taking a moment to enjoy the scenery. We were relieved that we made it through the hike and in time for the last bus!*
 
 *
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c37744d40970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c37744d40970b.jpg)
 *A friendly yellow hiking sign telling us the direction of Bussalp, where we would catch the bus to Grindelwald.*
 
 We passed some water troughs for cows. The
@@ -155,13 +155,13 @@ cows with tinkling cow bells. Walking through cow fields was a cool end to the h
 watch out for cow pats on the trail!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee9174fac970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee9174fac970d.jpg)
 *At the end of our hike that lead through a cow field!*
 
 *
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d41a3849a970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d41a3849a970c.jpg)
 *A cow in the foreground with the snow-capped Bernese Alps in the background. Very Swiss!*
 
 When we reached the bus at Bussalp that went back to Grindelwald, it surprisingly wasn’t covered by the Swiss Youth Pass.The driver had probably seen us coming and waited so he was
@@ -173,13 +173,13 @@ We had dinner in Grindelwald, where the view from the
 restaurant was excellent. We had some*Fendant*wine, veal sausages and rosti dish. Fendant is a Swiss wine that is made from a well-known white grape, Chasselas, grown in the Valais. This grape takes a long time to mature and does well in the long cool summers of the Alpine region. We learned that we don't usually hear much about Swiss wines becuase it is rarely exported from the country! This is because the Swiss drink a large portion of their small production and the cost of producing the wine is high due to the high basic wages for the manual labor to produce the wine.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee9175b3c970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee9175b3c970d.jpg)
 *The spectacular view of the Alps from our restaurant as we ate our dinner.*
 
 *
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee9175e0c970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee9175e0c970d.jpg)
 *Fendant wine, veal sausage and rosti. Meal of champions, who conquered the Alps!*
 
 Thus, since Swiss wines are rarely found outside of Switzerland, I'm glad we took this unique opportunity to try different Swiss wines. I really enjoyed the Fendant, which was dry and had a nice aroma. However, we both wished the portions from the Swiss restaurants were a little more like American portions in size since we had a long and tiring day! Carly was still hungry after the entree and ordered dessert as well. There were also other patrons

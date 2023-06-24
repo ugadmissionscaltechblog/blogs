@@ -21,5 +21,5 @@ I feel like my experience with learning how to administer proper healthcare to h
 
  Well, I hope that all of the medicine helps Pablo get better and maybe helps him become slightly less grumpy, even if that means that I lose my practice patient.
 
-<div class="photo-caption caption-xid-6a01b8d28f2955970c01b7c91c8a90970b" id="caption-xid-6a01b8d28f2955970c01b7c91c8a90970b">Pablo, angrily hiding in the corner of his box. The white spots are the cream-covered welts. Poor dude!
+Pablo, angrily hiding in the corner of his box. The white spots are the cream-covered welts. Poor dude!
 

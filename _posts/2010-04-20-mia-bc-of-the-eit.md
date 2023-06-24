@@ -18,12 +18,12 @@ The exam is really comprehensive---I had to review EVERYTHING I have learned in 
 The morning of the exam, Brian (another senior from Fleming House, and an Electrical Engineer also taking the exam) and I woke up super early to drive out to Pomona to take the 8 hour exam O_O. We had to be there at 7am, so we left Tech about 6am..
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348002537e970c.jpg" %}We had no idea there was going to be so much traffic due to so many people taking the exam---the street on the way to the test was completely jam-packed! I couldn't believe that all these people were testing to get their professional engineering license...
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348002537e970c.jpg)We had no idea there was going to be so much traffic due to so many people taking the exam---the street on the way to the test was completely jam-packed! I couldn't believe that all these people were testing to get their professional engineering license...
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013480025721970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013480025721970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0134800257eb970c.jpg" %}Cameras and cell phones weren't allowed anywhere near the testing facility...so I kept it in the car...but I REALLY wish I could have taken pictures to better paint you a picture of this experience. 
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0134800257eb970c.jpg)Cameras and cell phones weren't allowed anywhere near the testing facility...so I kept it in the car...but I REALLY wish I could have taken pictures to better paint you a picture of this experience. 
 We were in this HUGE auditorium that looked like a giant airplane 
 hanger sitting side by side at these long tables that just went on and on and on.They were super strict---we couldn't even use our own pencils or erasers--all the materials were provided. There were proctors for every 20 testers or so....I would estimate that there were about 2000 people or so sitting for this exam (no joke). 
 There were people from all different age groups...I definitely did feel, however, that there were more men than women---which definitely presented itself as correct when we had a break to use the restroom between the 4 hour blocks....and the line for the men's restroom was about 100 men long, and there was a non-existent line for the women's restroom!!!!!!!!--HILARIOUS! Since it is almost ALWAYS the opposite scenario....but I guess since this is an engineering exam, it makes sense.... LOL...(I definitely felt like one of the few women engineers).

@@ -30,4 +30,4 @@ I’ve connected with the students on many different topics like the newest song
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/leah/IMG_0151.jpg)
 
-Photo Credits: [https://www.caltechy.org/rise-tutor](https://www.caltechy.org/rise-tutor "https://www.caltechy.org/rise-tutor")
+Photo Credits: [https://www.caltechy.org/rise-tutor](https://www.caltechy.org/rise-tutor)

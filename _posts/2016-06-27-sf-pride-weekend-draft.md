@@ -15,7 +15,7 @@ The interns met up for dinner and a play at 6:30. Dinner was at Osha Thai, a cha
 
 Iwoke up late on Saturday and made myself One-Eyed Jack (aka Bird in the Nest aka Egg in a Hole) for breakfast. I sat around reading for a while and then went with Boyfriend to La Taqueria, where the best burrito ever may be had. We both got carne asada super burritos.
 
-We then wandered around the Mission for a bit, finishing up at Mission Dolores Park. That was a fun scene, lots of groups of people just hanging out (ostensibly to celebrate the <a href="https://www.thedykemarch.org/">Dyke March</a>, which was nearby and had occurred that afternoon). It was pretty relaxed. The Airware interns sat together on the hill.
+We then wandered around the Mission for a bit, finishing up at Mission Dolores Park. That was a fun scene, lots of groups of people just hanging out (ostensibly to celebrate the [Dyke March](https://www.thedykemarch.org/), which was nearby and had occurred that afternoon). It was pretty relaxed. The Airware interns sat together on the hill.
 
 We went to get Mexican food after that, but it got pretty late. I went to bed after Mexican food.
 

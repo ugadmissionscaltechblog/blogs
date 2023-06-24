@@ -12,7 +12,7 @@ Nevertheless, I am very much excited to be back on campus. A lot of things have 
 
 This combination of items below are from my own packing list along with some honorable mentions from the wonderful people in my alley. Let’s go through every item together!
 
-{% include image.html img="https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/images/2021/isha/ItemsNumbered.jpg" %}  
+![](https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/images/2021/isha/ItemsNumbered.jpg)  
 
 1. *Headphones* - An essential for doing sets in the Sherman Fairchild Library if you’re going to be sitting and working for a long time. Usually, I listen to a combination of R&B and new playlists made by friends. 
 

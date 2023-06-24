@@ -12,8 +12,10 @@ The Sunday before classes start, ASCIT organizes a carnival with the help of Tom
 
 One of the best parts of the carnival happens when it gets dark. That’s when the organizers set fireworks off behind the Beckman Auditorium (the building we call the wedding cake for its white color and large circular shape). Before the show, Tom was handing out glowsticks, which some people used as poi, spinning them around in different ways to create really cool patterns.
 
-The show this year was also spectacular, as all of the fireworks set off were synchronized to music. With a showing of Guardians of the Galaxy 2 afterwards, I give <a href="https://caltech.typepad.com/caltech_as_it_happens/blogger-sakthivetrivel/">Sakthi</a>, the ASCIT president, all the props she deserves for organizing such a fun carnival!
+The show this year was also spectacular, as all of the fireworks set off were synchronized to music. With a showing of Guardians of the Galaxy 2 afterwards, I give [Sakthi](https://caltech.typepad.com/caltech_as_it_happens/blogger-sakthivetrivel/), the ASCIT president, all the props she deserves for organizing such a fun carnival!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d01bb09c87bf0970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb09a3c88f970d01bb09c87bf0970d" id="caption-xid-6a01bb09a3c88f970d01bb09c87bf0970d">Sorry the fireworks are so blurry :P
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d01bb09c87bf0970d-pi.jpg)
+
+Sorry the fireworks are so blurry :P
 

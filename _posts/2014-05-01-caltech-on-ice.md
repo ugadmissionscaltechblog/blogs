@@ -11,7 +11,7 @@ date: 2014-05-01
 Whew, this weekend was busy! Work-wise as well as event-wise. Seeing the other side of Prefrosh Weekend was certainly interesting. When we heard that there were too many lady prefroshlings attending to be fit into all the girls’ rooms on campus, my roommate and I said to each other, “Eh, why not?” and volunteered to take on *not one*, *not two*, ***but THREE*** prefrosh!!! I guess they aren’t kidding when they throw this meme around:
 Dearest prefrosh readers, I hope you had a wonderful time and definitely come and visit again! Wherever you’ve decided to go next year, I’m proud of you :) .
 
-Dearest non-prefrosh readers, if you have no idea what I’m talking about, check out Jenny’s blog post <a href="https://caltech.typepad.com/caltech_as_it_happens/2014/04/pfw.html" target="_blank" title="PFW">here</a>. This article is a pretty fun summary of what PFW’s all about as well and details very nicely some of the shenanigans that we Techers love to get into during PFW.
+Dearest non-prefrosh readers, if you have no idea what I’m talking about, check out Jenny’s blog post [here](https://caltech.typepad.com/caltech_as_it_happens/2014/04/pfw.html). This article is a pretty fun summary of what PFW’s all about as well and details very nicely some of the shenanigans that we Techers love to get into during PFW.
 
 On Saturday night, the house was calm again once more. Just kidding, what’s calm at Caltech? We had an alley event!!!
 Background: Lloyd house has seven alleys. Four upstairs and three downstairs. An Alley is comprised of five or six rooms, each with two people each, and is named after the murals in that alley’s respective hallway.
@@ -23,15 +23,15 @@ It was the first time for one guy in our group, but since he was already a prett
 Check these pics.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01a511ad1b1c970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01a511ad1b1c970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511ad1a8c970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511ad1a8c970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73db83d29970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73db83d29970d.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcfd75c8970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcfd75c8970b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73db83e62970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73db83e62970d.jpg)
 
 Until next time,
 Stay cool.

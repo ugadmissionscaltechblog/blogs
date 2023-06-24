@@ -17,6 +17,6 @@ Although the show *Numb3rs* has become known as THE show that is filmed on campu
 Here are some scenes you might remember from TV and film with their real life campus counter parts
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01156fbd8c1d970c.jpg" %}Where it really is: The Gene Pool in front of the Beckman Institute (Where I work!)
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01156fbd8c1d970c.jpg)Where it really is: The Gene Pool in front of the Beckman Institute (Where I work!)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011570b2d003970b.jpg" %}Where it really is: In front of Parsons-Gates
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011570b2d003970b.jpg)Where it really is: In front of Parsons-Gates

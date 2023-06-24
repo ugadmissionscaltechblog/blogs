@@ -22,24 +22,24 @@ Mechatronics, as I learned on the first day of class, lies in the intersection b
 - Lighting up an LED through a relay, which is a type of switch. It's the green-tinted box with a coil of copper wire inside.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9092993970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9092993970b.jpg)
 
 - Building a brushless motor controlled by a magnetic sensor.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c909299b970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c909299b970b.jpg)
 
 - Designing and assembling a toy car with the proper gear ratio and PWM* circuit to make it move at a desired speed. Sorry, apparently I was lazy for this lab and didn't take a photo :(
 - Wiring a circuit to use PWM to control the position of a servo motor based on detected light.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d29370af970c.gif" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d29370af970c.gif)
 
 - Our final was to build a boat that would follow an ultrasonic beacon using two fans at the back of the boat. After working all morning on our boats, the class walked over to a little pool and replicated the scene I’d witnessed as a prefrosh, the perfect bookend to a great class.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2937177970c.jpg" %}
-P.S. For any interested prefrosh—who aren't technically freshmen until the cannon fires—Introduction to Mechatronics (EE/ME 7) is being <a href="https://schedules.caltech.edu/FA2017-18.html#dept_details_ELECTRICAL_ENGINEERING">offered this upcoming fall</a>!
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2937177970c.jpg)
+P.S. For any interested prefrosh—who aren't technically freshmen until the cannon fires—Introduction to Mechatronics (EE/ME 7) is being [offered this upcoming fall](https://schedules.caltech.edu/FA2017-18.html#dept_details_ELECTRICAL_ENGINEERING)!
 
 * PWM = Pulse Width Modulation. To control the speed of a motor, it’s relatively hard to directly scale the power sent to it. It’s easier to just use two levels of power—none and full—and switch between them so fast that nobody can tell that you’re using black and white, not gray. The relative durations of these two alternating states determines the speed.
 

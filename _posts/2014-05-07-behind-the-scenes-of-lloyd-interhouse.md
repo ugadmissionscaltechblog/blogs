@@ -30,51 +30,51 @@ Enjoy the pictures below!
 Val and Christina chillin on the boat ^
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511af8ced970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511af8ced970c.jpg)
 Setting up stairs - team effort! ^
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a511af925b970c-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a511af925b970c-pi.jpg)
 Master Artist: Irene, hard at work on the Green Flash Mural ^
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a3fcffecb1970b-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a3fcffecb1970b-pi.jpg)
 Green Flash at work ^
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a73dbac66d970d-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a73dbac66d970d-pi.jpg)
 Looking good! ^
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a511af92b6970c-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a511af92b6970c-pi.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511af8d5a970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511af8d5a970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a3fcffecf1970b-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a3fcffecf1970b-pi.jpg)
 Everybody's working hard! ^
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a511af92c3970c-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a511af92c3970c-pi.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a511af92cb970c-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a511af92cb970c-pi.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a3fcffed15970b-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a3fcffed15970b-pi.jpg)
 O, Captain! My Captain! ^
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511af8d8e970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511af8d8e970c.jpg)
 Dat smile looks like we did it! ^
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dbac189970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dbac189970d.jpg)
 Mimi, expert painter! ^
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a511af92f6970c-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a511af92f6970c-pi.jpg)
 Such engineering ^
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a73dbac6d4970d-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a73dbac6d4970d-pi.jpg)
 Get ready to PARTY! ^
 
 Yaaaargh!

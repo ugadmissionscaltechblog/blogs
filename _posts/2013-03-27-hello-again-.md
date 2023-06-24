@@ -36,7 +36,7 @@ looks like!
 And here's the back.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d423ea714970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d423ea714970c.jpg)
 Our final was a no collaboration lab. The task was to build
 a circuit that converted AC to DC power to light up an LED, plus capacitors and
 other things. 
@@ -82,7 +82,7 @@ that it is much easier to get involved with research at Caltech compared to
 other schools. After all, it is often referred to as a research institute. I
 don’t have any prior research experience, and was able to get a SURF project. Even
 more so, Richard Murray is what I’d consider a rockstar in science. His work
-was recently recognized by the NAE as well; the full article is here: <a href="https://www.caltech.edu/content/murray-and-ortiz-elected-national-academy-engineering">https://www.caltech.edu/content/murray-and-ortiz-elected-national-academy-engineering</a>.
+was recently recognized by the NAE as well; the full article is here: [https://www.caltech.edu/content/murray-and-ortiz-elected-national-academy-engineering](https://www.caltech.edu/content/murray-and-ortiz-elected-national-academy-engineering).
 
 The SURF awards will be announced early April, so I’m waiting for those to come
 out.

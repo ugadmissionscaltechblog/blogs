@@ -19,5 +19,5 @@ Finally, we watched the bride open up all of her presents. I was amazed by how m
 
 Overall, it was a great time. It was very nice to see some of my Michigan and New York relatives who are unable to come to California to see me.I can't wait for the wedding in December!
 
-<div class="photo-caption caption-xid-6a01b8d28f2955970c01b8d29ee6fc970c" id="caption-xid-6a01b8d28f2955970c01b8d29ee6fc970c">Here I am with the bride, Aly, and the groom, Jonathan
+Here I am with the bride, Aly, and the groom, Jonathan
 

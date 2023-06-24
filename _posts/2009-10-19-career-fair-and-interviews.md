@@ -20,6 +20,6 @@ On Friday afternoon, I had two interviews within two hours of each other. The fi
 
 I was so exhausted by the end of the week---I expect a lazy weekend ahead trying to recharge and get ready for another week at Tech!
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a647f0e1970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a647f0e1970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a647f106970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a647f106970c.jpg)

@@ -15,16 +15,16 @@ We got to decorate our own paper lanterns, which were then made into floating la
 Some of our decorated lanterns:
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b8d2a50ea0970c-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b8d2a50ea0970c-pi.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b8d2a50e92970c-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b8d2a50e92970c-pi.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b8d2a50e99970c-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b8d2a50e99970c-pi.jpg)
 When they released the lanterns at night, it was quite pretty.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b8d2a50e69970c-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b8d2a50e69970c-pi.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b7c91a9fc1970b-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b7c91a9fc1970b-pi.jpg)
 Participating in events like these makes me so so grateful that I've been able to explore the Bay Area so much more than I did before college. I've had so many new experiences this summer and last summer, and I appreciate where I am so much more now.
 

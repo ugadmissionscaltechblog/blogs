@@ -16,17 +16,17 @@ There is a frosh who apparently has extensive experience with baking bread and o
 This year, our fancy frosh decided to experiment with an extra-special treat: cinnamon rolls. I was around to receive a tutorial in making these delicacies, a process that started in the middle of the afternoon with a bowl of wet, battery-looking stuff, which is in the messy-looking metal bowl on the left.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01539327e2fa970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01539327e2fa970b.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015393b9560d970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015393b9560d970b.jpg)
 Work on the cinnamon rolls re-commenced after dinner, when we rolled out the dough so we could spread the cinnamon filling on it. (The filling, by the way, consists of sugar, butter, and cinnamon.) Then we rolled up the dough and cut the roll into smaller pieces, each of which would become a cinnamon roll.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015436fb744e970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015436fb744e970c.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01539327fd23970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01539327fd23970b.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162fc7d800e970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162fc7d800e970d.jpg)

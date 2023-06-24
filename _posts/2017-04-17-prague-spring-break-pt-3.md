@@ -13,11 +13,15 @@ The next day, we took yet another free walking tour (there are so many in Europe
 
 Prague was a fairytale town - it was so beautiful, but it also felt the most touristy with the street performers and people trying to sell you things. I also felt the need to be much more aware of pickpockets in Prague! Although we didn't get to spend as much time in Prague as the other two cities (Budapest and Vienna), it was a wonderful experience overall and we were glad we made a stop in the Czech Republic!
 
-<div class="photo-caption caption-xid-6a01bb08213082970d01bb098c5bdd970d" id="caption-xid-6a01bb08213082970d01bb098c5bdd970d">Old Town Square
+Old Town Square
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb098c5be3970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01bb098c5be3970d" id="caption-xid-6a01bb08213082970d01bb098c5be3970d">View from the Astronomical Clock Tower
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb098c5be3970d-pi.jpg)
+
+View from the Astronomical Clock Tower
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8e93298970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8e93298970b" id="caption-xid-6a01bb08213082970d01b7c8e93298970b">Astronomical Clock
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8e93298970b-pi.jpg)
+
+Astronomical Clock
 

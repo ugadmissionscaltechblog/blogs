@@ -19,7 +19,7 @@ Every midterm week and final week, Page House Peer Advocates (PAs) put on a de-s
 
 _Pageboys painting in the dining hall._
 
-These de-stressing events tend to be self care focused. Past events have been halloween themed trivia with self care baskets as prizes, yoga sessions, face masks sessions, and coloring Page themed images. These events also always have PAs in attendance for emotional support as well! Read more about peer advocates here: [https://wellness.caltech.edu/advocate-programs/peer-advocate](https://wellness.caltech.edu/advocate-programs/peer-advocate "https://wellness.caltech.edu/advocate-programs/peer-advocate")
+These de-stressing events tend to be self care focused. Past events have been halloween themed trivia with self care baskets as prizes, yoga sessions, face masks sessions, and coloring Page themed images. These events also always have PAs in attendance for emotional support as well! Read more about peer advocates here: [https://wellness.caltech.edu/advocate-programs/peer-advocate](https://wellness.caltech.edu/advocate-programs/peer-advocate)
 
   
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/hannah/9AE7E59C-F2E9-4E69-90CA-2B06F5C25E58_1_105_c.jpeg)

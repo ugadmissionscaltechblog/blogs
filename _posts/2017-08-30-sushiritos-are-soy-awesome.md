@@ -19,5 +19,5 @@ Everything we got tasted great. I still had a little "burrito bust" happen to me
 Besides just eating, I was also able to practice my Japanese. There was both Japanese Katakana and English on the melon soda bottle my boyfriend ordered, meaning that while I was munching, I was also learning more words! Hopefully, at Caltech, I will have the time to take a beginner's Japanese course for one of my humanities!
 While the food didn't last very long, I had a great time and definitely plan on going back!
 
-<div class="photo-caption caption-xid-6a01b8d28f2955970c01b7c915adae970b" id="caption-xid-6a01b8d28f2955970c01b7c915adae970b">Here's half of my sushirito! I forgot to mention, along with the burrito, we also got wonton chips!
+Here's half of my sushirito! I forgot to mention, along with the burrito, we also got wonton chips!
 

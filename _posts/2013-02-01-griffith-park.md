@@ -20,10 +20,10 @@ Griffith observatory is another great attraction in Griffith Park. While it's ca
 The periodic table actually has samples of all the stable (and non-radioactive, thank goodness) elements in their unrefined and refined form.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c36543b20970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c36543b20970b.jpg)
 The noble gas column is especially fun since you can hit a button to make them all light up.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee7f7bc9f970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee7f7bc9f970d.jpg)
 Griffth park is also just that -- a park. There's plenty of grassy areas to sun-bathe on and recreational areas to play sports. Altoghether it's a great place to get away from the work of Caltech without having ot be bogged down by the hectic city environment.
 

@@ -25,31 +25,31 @@ At the event, we had a Q&amp;A with a group of Tinder's software engineers, thei
 This week, I had the opportunity to ask Tinder's President, Sean Rad, a few questions. Based on the rollout of Tinder Plus, as well as the emphasis that Tinder's VP of Product and lead recruiter put on Tinder's use beyond dating, I figured that Tinder's leaders have some changes in mind for their product. I wanted to ask him about his vision for the future of the company.
 
 **1. Why did you guys choose Caltech for your first career fair appearance and first on-campus event?**
-<div id="mI">
-<div data-item-id="#gmail:thread-f:1485043518718451900" data-item-id-qs="qs-gmail-thread-f-1485043518718451900-0">
-<div data-msg-id="#msg-f:1485043518718451900" data-msg-id-qs="qs-msg-f-1485043518718451900">
+
+
+
 *​*
-<span style="color: #ff0000;">*As Tinder keeps growing, we're faced with complicated problems that require the attention of talented engineers and thinkers. We trust and turn to Caltech for this talent given that some of Tinder's most talented engineers went there. It's a relationship we want to grow and foster.*
+*As Tinder keeps growing, we're faced with complicated problems that require the attention of talented engineers and thinkers. We trust and turn to Caltech for this talent given that some of Tinder's most talented engineers went there. It's a relationship we want to grow and foster.*
 
 **2. Is there anything people don’t know about the Tinder app that you think college students should know?**
-<div id="mI">
-<div data-item-id="#gmail:thread-f:1485043518718451900" data-item-id-qs="qs-gmail-thread-f-1485043518718451900-0">
-<div data-msg-id="#msg-f:1485043518718451900" data-msg-id-qs="qs-msg-f-1485043518718451900">
-<span style="color: #ff0000;">*The last decade of social has been about defining our friend graph and improving the ways we communicate with our friends. While we've innovated on how we connect with people we know, the ways we meet new people have remained outdated. We believe the next decade of social will be about solving problems around how we make and deepen new connections. Tinder plans to lead the charge here. We want to break down the social, psychological, and physical barriers to meeting new people.*
+
+
+
+*The last decade of social has been about defining our friend graph and improving the ways we communicate with our friends. While we've innovated on how we connect with people we know, the ways we meet new people have remained outdated. We believe the next decade of social will be about solving problems around how we make and deepen new connections. Tinder plans to lead the charge here. We want to break down the social, psychological, and physical barriers to meeting new people.*
 **3. What has been the best idea that you’ve come up with for Tinder? (feature, marketing method, hiring move, etc.)**
-<div id="mI">
-<div data-item-id="#gmail:thread-f:1485043518718451900" data-item-id-qs="qs-gmail-thread-f-1485043518718451900-0">
-<div data-msg-id="#msg-f:1485043518718451900" data-msg-id-qs="qs-msg-f-1485043518718451900">
-<span style="color: #ff0000;">*​The "double opt in" which is the idea that only those who share a mutual interest in knowing me can communicate with me. This puts our users fully in control of their experience.*
+
+
+
+*​The "double opt in" which is the idea that only those who share a mutual interest in knowing me can communicate with me. This puts our users fully in control of their experience.*
 **4. Do you still consider Tinder to be a startup?**
 
-<div id="mI">
-<div data-item-id="#gmail:thread-f:1485043518718451900" data-item-id-qs="qs-gmail-thread-f-1485043518718451900-0">
-<div data-msg-id="#msg-f:1485043518718451900" data-msg-id-qs="qs-msg-f-1485043518718451900">
-<span style="color: #ff0000;">*While Tinder has been validated to some extent, there are still a long list of challenges ahead of us. So yes, we're still a startup. Even though we've experienced a level of success that is once in a decade, we constantly remind ourselves how we have only accomplished 1% of our vision and can lose it all if we let down our guards. There is so much left to do and we need your help!*
+
+
+
+*While Tinder has been validated to some extent, there are still a long list of challenges ahead of us. So yes, we're still a startup. Even though we've experienced a level of success that is once in a decade, we constantly remind ourselves how we have only accomplished 1% of our vision and can lose it all if we let down our guards. There is so much left to do and we need your help!*
 
 Tinder is currently hiring! If you're interested in an internship or a full-time position, contact Tinder's lead recruiter Alexandra Dworsky atalexandra@gotinder.com.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07ad98fa970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07ad98fa970d.jpg)
 

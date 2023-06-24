@@ -18,25 +18,25 @@ Shortly after leaving the cabin, however, we realized that there was a stream be
 The next day, we woke up early and headed out in the bus for a long day of geology. We visited several sites, so I’ll just tell you about my favorites. First, there was Hot Creek, where steaming, acidic, electric-blue water bubbled out of the ground and fed into a stream. The water is heated and acidified underground by magma, and rises to the surface in channels created by faults.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8f7bb84970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8f7bb84970b.jpg)
 *Oooh, lovely blue swimming pools!But the water's 175**°**F. And pH 1.*
 
 Back on the bus, we stuffed down our sack lunches so we could have more time to explore at the lunch stop, Convict Lake. As soon as we arrived, we ran for the snow. White fog drifted in over the mountains as we were about to leave, and as the bus pulled away, it began to rain.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb099adbf5970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb099adbf5970d.jpg)
 *This might be my favorite view from the trip.*
 
 Another great stop was Panum Crater, the remains of an erupted volcano. At the center of the crater, tall obsidian and pumice structures formed from thick, slow-moving lava. Our professor spent ten minutes explaining the origin and mineralogy of the crater, and then gave us twenty minutes to explore.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8f7bba3970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8f7bba3970b.jpg)
 *My friend Mary is a mountain goat.*
 
 The next and final day of the trip, we visited two more sites with huge boulders to climb, Movie Flat and Fossil Falls. Unfortunately, I overwrote those photos when transferring them to my computer, so I’ll leave you instead with the sunrise we caught that morning.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb099ada7c970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb099ada7c970d.jpg)
 *5:45 AM is too early.*
 
 So, future Techers,for when you're deliberating over menu classes, here's someadvice I'm glad I followed: "Ge 1! Ge 1! Don't take anything but Ge 1!"

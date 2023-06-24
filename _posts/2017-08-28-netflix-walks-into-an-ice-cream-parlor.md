@@ -16,7 +16,7 @@ Have you ever wondered what Netflix would taste like as an ice cream flavor? Wel
 
 
 
-Cool Haus started as a food truck, but has expanded to tons of brick and mortar locations around LA. There happens to be one right in Pasadena, which we went to. If you are away for the summer and you crave some salad in ice cream form, <a href="https://cool.haus/">you can order a pint from their website</a> and have it shipped straight to your house. They also have sorbets for the lactose intolerant, and ice cream bars for those who care about portion control.
+Cool Haus started as a food truck, but has expanded to tons of brick and mortar locations around LA. There happens to be one right in Pasadena, which we went to. If you are away for the summer and you crave some salad in ice cream form, [you can order a pint from their website](https://cool.haus/) and have it shipped straight to your house. They also have sorbets for the lactose intolerant, and ice cream bars for those who care about portion control.
 
 
 We went in the early evening when most people are at dinner. During this time, the shop is more empty and we can shamelessly ask to sample all the flavors without stalling other customers. I tried Foie Gras and PBJ, and my friend tried Fried Chicken. They were both surprisingly good. In the end, we settled for more "ice creamy" scoops like Thai Iced-Tea and Bulletproof (coffee + butter).
@@ -26,5 +26,5 @@ Cool Haus offers just as many varieties of cookies as scoops, so their main draw
 
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9144927970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9144927970b.jpg)
 

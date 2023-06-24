@@ -14,12 +14,14 @@ My mentor Wei-Li taught me brain immunohistochemistry, which means selectively i
 
 Here's an example of what a section looks like after staining and imaging:
 
-<div class="photo-caption caption-xid-6a01b8d28f2857970c01bb09a9c13c970d" id="caption-xid-6a01b8d28f2857970c01bb09a9c13c970d">My first image!
+My first image!
 
 This one is a bit slanted and has a bit of damage (oops), but I got much better, I promise :) This particular image has the cell nuclei and DNA in the brain labelled. When working on my project, I stained for vasopressin in addition to these markers and took close-up images of certain brain regions for data analysis.It was really exciting to learn and go through all the steps of the process myself and then seeing the results.
 
 At the end of the year, my postdoc treated us and our guests to Peking duck and other delicacies! It was my first time having Peking duck &lt;3 I was also gifted with a small brush, the kind that I used to mount sections on slides, as a sign that my training had been successfully completed! I'm sad to be leaving lab for the summer, but I'm also looking forward to starting my internship at Facebook. On to a new and entirely different experience!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b8d290db3f970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2857970c01b8d290db3f970c" id="caption-xid-6a01b8d28f2857970c01b8d290db3f970c">Dinner at Duck House in Monterey Park
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b8d290db3f970c-pi.jpg)
+
+Dinner at Duck House in Monterey Park
 

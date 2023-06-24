@@ -16,10 +16,10 @@ It hasn’t been easy. This term was actually supposed to be easy. But a combina
 
 Sometimes, you need to take some time to make a meme. For all of you parents out there, (according to Wikipedia) a meme is an idea, behavior, or style that spreads from person to person within a culture—often with the aim of conveying a particular phenomenon, theme, or meaning represented by the meme. These often-humorous little tidbits are something that I started making during geology class.
 
-Ge 11a was honestly not my favorite class to start. It’s a required general geology class that took a bit more time than I had to spend on it and wasn’t always on topics I was interested in. So, I made it better with a little bit of 21<sup>st</sup> century humor.
+Ge 11a was honestly not my favorite class to start. It’s a required general geology class that took a bit more time than I had to spend on it and wasn’t always on topics I was interested in. So, I made it better with a little bit of 21st century humor.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad380ec51200c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad380ec51200c.jpg)
 Sure, these aren’t too funny (elf on the continental shelf is definitely low-quality creation but it was RIGHT there). And for every meme I made, I grew a little fonder of the lecture, the content we were learning, and everything else. Sure, that would often be knocked back by a long problem set or some time when I wanted to be doing something else. But generally, I grew to appreciate Ge 11a. But oh man that final wasn’t a great time. They usually never are at Caltech. The open book policy is a gift and a curse. On one hand, it means you don’t have to study to memorize things. On the other, it means that nothing is tested that’s in your notes. Either way, I only have one more exam left.
 
 Let’s yeet this wheat,

@@ -18,6 +18,6 @@ Sally's super early party was a completely different story. The morning of the p
 When Sally saw her friends congregated at the restaurant Saladong, she thought it was a happy coincidence. Cha-ching! That's how you throw a successful surprise birthday party.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a8368a3b970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a8368a3b970b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a8367abf970b.jpg" %}Dinner at Saladong was followed by shopping/girl's night out at Old Pasadena, and then a few hours of Lloyd Interhouse. The dance floor was packed-- I couldn't move without accidentally brushing up against another person's butt. I hope another blogger took pictures of the party, because the construction and artistic murals were very cool
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a8367abf970b.jpg)Dinner at Saladong was followed by shopping/girl's night out at Old Pasadena, and then a few hours of Lloyd Interhouse. The dance floor was packed-- I couldn't move without accidentally brushing up against another person's butt. I hope another blogger took pictures of the party, because the construction and artistic murals were very cool

@@ -10,14 +10,9 @@ date: 2018-02-11
 
 Over break, I had the good fortune to go to Hong Kong with my family to enjoy the city. It’s built on multiple different islands, but the principle ones being Hong Kong Island and Kowloon. It’s a really beautiful city, because from either side of Victoria Bay, you can see all the buildings on the opposite shore. It’s especially pretty at night, when the sky lights up and you can see the dark water reflecting off of all of the skyscrapers. Sometimes you will also see a couple of junks (reconstructed, not original junks) for which Hong Kong used to be known for as well. However, now those two ships are used as large tourist attractions; they're reserved far ahead of time, and are generally pretty expensive to ride on, especially when there is the ferry across the harbor which only takes 5 minutes and 50 cents, from which one can look at the views of the city.
 
-<div data-featherlight-filter="a" data-featherlight-gallery="" data-featherlight-type="image" id="featherlight-gallery"><fieldset class="asset featherlight-gallery border" gallery-width="250-auto">
-<div class="gallery-scroll" id="gallery-container">
-<ul class="asset-thumbnails">
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c94de958970b.jpg)
 
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c94de960970b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c94de958970b.jpg" %}
-
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c94de960970b.jpg" %}
-
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c94de964970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c94de964970b.jpg)
 

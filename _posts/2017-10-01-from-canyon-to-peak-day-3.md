@@ -18,14 +18,20 @@ We woke up while the sky was still filled with the Milky Way on day 3 of our bac
 
   I'm so glad that there are so many students interested in doing outdoorsy things at Caltech, and that we were able to make the eclipse trip happen. I look forward to planning another backpacking trip to see the 2024 eclipse. 
 
-<div class="photo-caption caption-xid-6a01b8d28f2955970c01b8d2ac4da7970c" id="caption-xid-6a01b8d28f2955970c01b8d2ac4da7970c">Phelps lake, again. This time, the picture was taken while walking downhill!
+Phelps lake, again. This time, the picture was taken while walking downhill!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b7c921ee65970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b7c921ee65970b" id="caption-xid-6a01b8d28f2955970c01b7c921ee65970b">The beautiful woods!
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b7c921ee65970b-pi.jpg)
+
+The beautiful woods!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d2ac4f1c970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b8d2ac4f1c970c" id="caption-xid-6a01b8d28f2955970c01b8d2ac4f1c970c">The view of the valley near our lunch spot.
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d2ac4f1c970c-pi.jpg)
+
+The view of the valley near our lunch spot.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09c51ff2970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09c51ff2970d" id="caption-xid-6a01b8d28f2955970c01bb09c51ff2970d">The valleys and peaks near Static Peak
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09c51ff2970d-pi.jpg)
+
+The valleys and peaks near Static Peak
 

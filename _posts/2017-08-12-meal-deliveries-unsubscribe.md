@@ -19,7 +19,7 @@ The meals I got were: Crispy chicken Milanese, linguine with sausage and zucchin
 
 The amount of produce you get for the price you pay is not worth it if you are paying in full. However, the produce is fresh and good quality. If convenience is a huge factor I would consider trying it out, but it shouldn't be since Pavilions and Trader Joe's are both within walking distance. I won't be renewing my subscription after these boxes since they are beyond my budget. However, I am eager to try a produce subscription that comes without recipes, which is actually half the cost of Hello Fresh.
 
-If you want a more detailed review, you should check out <a href="https://www.thekitchn.com/i-tried-the-meal-kits-from-hellofresh-and-heres-what-i-thought-product-review-220171">this one by The Kitchn</a>. It was this review that convinced me to give meal subscription a shot. Apparently subscription boxes are all the rage these days because you can get monthly deliveries of anything and everything, from cosmetics, books, snacks, to art supplies, razors, and underwear.
+If you want a more detailed review, you should check out [this one by The Kitchn](https://www.thekitchn.com/i-tried-the-meal-kits-from-hellofresh-and-heres-what-i-thought-product-review-220171). It was this review that convinced me to give meal subscription a shot. Apparently subscription boxes are all the rage these days because you can get monthly deliveries of anything and everything, from cosmetics, books, snacks, to art supplies, razors, and underwear.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2984f13970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2984f13970c.jpg)

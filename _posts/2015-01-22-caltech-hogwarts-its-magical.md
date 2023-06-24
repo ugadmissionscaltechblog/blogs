@@ -23,12 +23,13 @@ System.out.println (“Hello world!”)
 
  While we were there, there was a boat competition between the country groups. The task was to build a boat that could travel a certain distance in the Marriott’s pool. Our country group, Belgium, built a sailboat, and we won! Here’s a picture of the final product:
 
-      As our victory prize, we got a Tom Mannion dinner! Now, what does that entail, you ask? Well, all I need to say is that he made us a delicious, 15-course meal (I’m not exaggerating) that took 4.5 hours to finish. That’s right, we got there around 7 PM, and we got back to our room around 11:45 PM. Mannion dinners are famous, and Tom Mannion is one<span style="font-size: 14px;">of the ni<span style="font-size: 14px;">cest people on campus. Here you’ll see all fifteen courses and me and Carly!
+      As our victory prize, we got a Tom Mannion dinner! Now, what does that entail, you ask? Well, all I need to say is that he made us a delicious, 15-course meal (I’m not exaggerating) that took 4.5 hours to finish. That’s right, we got there around 7 PM, and we got back to our room around 11:45 PM. Mannion dinners are famous, and Tom Mannion is oneof the nicest people on campus. Here you’ll see all fifteen courses and me and Carly!
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0bcfce9970c.jpg" %}
-<strong style="font-size: 14px;">2. Blacker and The Shire**
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0bcfce9970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7339d37970b.jpg" %}
+2. Blacker and The Shire
+
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7339d37970b.jpg)
  Here at Caltech, we have a thing called Rotation. To understand Rotation, you really have to believe that Caltech is the equivalent of Hogwarts (read: it’s magical). For the first two-ish weeks of school, we live in a temporary room with a temporary roommate, and we go to dinners, desserts, and special events at each house. Then, at the end, we rank the houses, and through some mysterious process, we are sorted (read: the sorting house decides our fate) into a house.
 
  Where did I end up? Blacker House! After a term here, I absolutely love it, but you’ll hear most people say that about their own house. I live in a room called The Shire, and we have a half loft. Carly sleeps under the loft on a mattress on the floor, and I have a desk-bed (a bunk bed with the bottom mattress removed). This way, we can have the loft to lounge around! The picture to the left is of me on our loft.
@@ -47,10 +48,10 @@ System.out.println (“Hello world!”)
 
 ** **We call our “dorms” houses for a reason – Blacker really is my home away from home. While many students go home for Thanksgiving, I stayed on campus because break is only four days and it didn’t make sense to spend two of those days flying home and back. On Thursday, after waking up around noon, a bunch of the frosh spent the day making pound cake, frosting, baked potatoes, and roasted potatoes. Quite a few people stay on campus, so all of the ovens were full for the majority of the day. So much food!
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07d74b66970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07d74b66970d.jpg)
       Thanksgiving Friday, a bunch of us went to Chipotle for dinner and then went ice skating in Old Pasadena, about a 45 minute walk away. It was nice to have a break so we could go out and have some fun without having to worry about sets!
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07d74b6e970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07d74b6e970d.jpg)
      Well, that's 1-5. Numbers 6-10 will come in Part 2.
 
 After only one term, I’ve come to the conclusion that I really, really love Caltech. I love the people, I love the classes, I love the culture. Anyway, I’m now in my sweats and under a blanket, so it looks like I should sleep (what’s that again?). Look out for the second installment of my Fall Term adventures!

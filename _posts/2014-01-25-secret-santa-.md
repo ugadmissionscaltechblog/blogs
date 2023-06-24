@@ -20,12 +20,12 @@ I had put chocolates in the cup, but when my flight was delayed flying back to T
 The gift I received is quite special. An international student gave me a box from his home country wrapped in a scarf! And written along with the gift cleverly was “the hint is the box”.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d01a5114765bf970c-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d01a5114765bf970c-pi.jpg)
 *This is perfect because now I have a place to put my earrings!*
 
 Fleming is really like a big family, as are the other houses. The description as our home away from home is actually true. Here’s to us!
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d01a3fc97f9f2970b-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d01a3fc97f9f2970b-pi.jpg)
 Best,
 
 Monica

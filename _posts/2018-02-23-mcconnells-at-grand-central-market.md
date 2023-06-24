@@ -13,4 +13,4 @@ Grand Central Market in Downtown LA is great. It's home to many stalls selling f
 GCM is also home to McConnell's, which has great ice cream. Their classic is the strawberries and cream flavor (Santa Barbara Strawberry). They also have homemade waffle cones for an extra $1. This time, we got the Santa Barbara Strawberry and Dark Chocolate Chips &amp; Bits -- absolutely delicious.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09f315dd970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09f315dd970d.jpg)

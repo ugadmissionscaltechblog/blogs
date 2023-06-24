@@ -34,7 +34,7 @@ CPT is similar to OPT in a sense that it should also relate to your major. But C
 
 For on-campus employment, you may start as early as 30 days into your program. Just like OPT, your total work hour cannot exceed 20 hours when the school is in session.
 
-More help on work authorisations can be found at Caltech’s international student programs (ISP) office ([https://international.caltech.edu/about/isp](https://international.caltech.edu/about/isp "https://international.caltech.edu/about/isp")). I do recommend that you ask the officers at ISP even if you read this article, just to have the most up-to-date, accurate information. Fortunately, ISP offers information sessions on these work authorizations during International Student Orientations and throughout the year, so I also recommend checking those out to have your questions answered.
+More help on work authorisations can be found at Caltech’s international student programs (ISP) office ([https://international.caltech.edu/about/isp](https://international.caltech.edu/about/isp)). I do recommend that you ask the officers at ISP even if you read this article, just to have the most up-to-date, accurate information. Fortunately, ISP offers information sessions on these work authorizations during International Student Orientations and throughout the year, so I also recommend checking those out to have your questions answered.
 
 ### 1-2 Employment opportunities at Caltech
 

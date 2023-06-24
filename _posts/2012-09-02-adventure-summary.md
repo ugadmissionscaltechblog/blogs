@@ -47,7 +47,7 @@ Weekend 2: went to the nearby desert called Joshua Tree with
 a Caltech club to do some skywatching – see one of the previous posts.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c319045f9970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c319045f9970b.jpg)
 
 Caltech kids in the desert.
 
@@ -59,25 +59,25 @@ The stories we gathered from this short trip, however, are worth much much more
 than four days.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0177446ddd12970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0177446ddd12970d.jpg)
 
 The beginning of a crazy roadtrip.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c31904997970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c31904997970b.jpg)
 Vegas, Baby! ;)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0177446de3a2970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0177446de3a2970d.jpg)
 The Hoover Dam.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0176178762fd970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0176178762fd970c.jpg)
 
 Grand Canyon.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0176178763d7970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0176178763d7970c.jpg)
 
 The Bellagio in Las Vegas.
 
@@ -96,11 +96,11 @@ finish. After the race, I spent some time at home and then spent the rest of
 the weekend with a friend in San Jose.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017617876998970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017617876998970c.jpg)
 
-<span style="font-size: 10pt;">
 
-<span style="font-size: 10pt;">Weekends 5-7: these were a mix of me going up to San Jose<span style="font-size: 10pt;">to see Rasmus, him coming down to LA, and us both going camping in the<span style="font-size: 10pt;">Sierra Mountains near Tahoe with my parents. I’m a huge fan of camping and<span style="font-size: 10pt;">hiking, as are my parents, and we have a family tradition of going up to a<span style="font-size: 10pt;">small village called Bear Valley and camping out by a nearby alpine lake<span style="font-size: 10pt;">every summer. It’s a beautiful place with great nature.
+
+Weekends 5-7: these were a mix of me going up to San Joseto see Rasmus, him coming down to LA, and us both going camping in theSierra Mountains near Tahoe with my parents. I’m a huge fan of camping andhiking, as are my parents, and we have a family tradition of going up to asmall village called Bear Valley and camping out by a nearby alpine lakeevery summer. It’s a beautiful place with great nature.
 
 Weekend 8-10: these again were a mix of various trips and of
 being tourists with Rasmus and his folks. Weekend 10 marked the official end of

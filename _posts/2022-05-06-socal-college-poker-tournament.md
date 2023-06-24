@@ -35,11 +35,11 @@ Two Caltech students made it to the final table, and one ended up winning second
 
 Website for the event:
 
-[https://www.socalcollegepoker.com/](https://www.socalcollegepoker.com/ "https://www.socalcollegepoker.com/")
+[https://www.socalcollegepoker.com/](https://www.socalcollegepoker.com/)
 
 LinkedIn page for the event:
 
-[https://www.linkedin.com/company/socal-college-poker-tournament/](https://www.linkedin.com/company/socal-college-poker-tournament/ "https://www.linkedin.com/company/socal-college-poker-tournament/")
+[https://www.linkedin.com/company/socal-college-poker-tournament/](https://www.linkedin.com/company/socal-college-poker-tournament/ )
 
 ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/hannah/278330504_353939720129919_8271966108770344883_n%20(1).jpg)
 

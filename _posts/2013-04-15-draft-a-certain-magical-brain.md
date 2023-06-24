@@ -37,12 +37,12 @@ Unfortunately, the English Purist Church also says, 10^14 bits is 15% of a brain
 10^12 is 85%
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c38981cd5970b.png" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c38981cd5970b.png)
 
 It seems the other characters in the anime also end up realizing the flaw 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d42c758f1970c.png" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d42c758f1970c.png)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3898564f970b.png" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3898564f970b.png)
 -Pa"boooooom!!!!!"ul Zhang

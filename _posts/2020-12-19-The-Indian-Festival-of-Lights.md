@@ -13,7 +13,7 @@ Hey everyone, and happy holidays! Personally, one of my favorite holidays during
 
 The festivity (and Bollywood music) also makes me miss Dhamaka, the Bollywood dance team we have on campus. I joined Dhamaka during my freshman year: it all started out as me tagging along with friends who had pushed me to go with them to the first practice. I was pretty apprehensive because I had never really been on an official dance team before, or ever danced on a stage for that matter, but the group was incredibly welcoming! It didn’t matter that I didn’t have previous experience (as is the case for many clubs on campus!), and it was a fun outlet for me to take a break from sets every weekend. We would meet every week or so to practice for the Caltech Dance Show, held in the spring every year, where we were the big finale! Check us out on YouTube: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FeR7GkrP-0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Watch on YouTube](https://www.youtube.com/watch?v=FeR7GkrP-0Y)
 
 ![ Dhamaka ](https://ik.imagekit.io/u9ndqdgam20/images/2020/12/dhamaka_promo.JPG)
 

@@ -16,4 +16,4 @@ Below are examples of processes from previous students:
 Our class made the below posters! My topic was digital detox, and it's the rightmost poster in blue below. Since it was my first time using Adobe Illustrator and also my first time making a poster, it was a bit of a struggle (mainly in figuring out how to use Illustrator), but it was incredibly rewarding at the end. Since we worked on this project for several weeks, we did peer reviews every week and got feedback constantly, which really helped us refine our posters to be the best they could be!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0223c84dbca6200c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0223c84dbca6200c.jpg)

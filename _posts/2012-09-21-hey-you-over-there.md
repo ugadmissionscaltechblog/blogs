@@ -17,5 +17,5 @@ Secondly, I’ve been trying to get into amateur photography! You’re probably 
 Yeah yeah, I know, I’m almost done. Just a couple more things. COMMENTS!! I love comments so be sure to leave some. Doesn’t have to be anything specific; if you like a picture or want to know more about an adventure just comment and let me know. Also I’ll try to cover campus events sometimes with video or pictures so look out for those. I guess that’s it. School is cool guys! See ya.
 
 Oh and here's your first look at Caltech:
-<span style="font-size: 15px;">
+
 

@@ -20,7 +20,7 @@ Here's a picture of me in the airplane:
 I even flew so much that I got to solo right before I came back to Tech:
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee758b2b0970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee758b2b0970d.jpg)
 When I got back to Tech in the fall, I flew a couple times at El Monte airport with a new instructor, but when midterms started, I got behind with work and couldn't fly as much as I wanted to. So tomorrow, I will fly for the first time since October, and I am thrilled.
 
 El Monte Airport, here I come!

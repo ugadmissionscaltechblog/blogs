@@ -19,10 +19,10 @@ Amazing finds in Bath:
 
 -Jane Austen Centre &amp; many sites from the movies based on her novels, Northanger Abbey and Persuasion. Sites such as the Royal Crescent, Pump Room, andAssembly Rooms. This is the Royal Crescent (hotel &amp; private residences):
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015393e4f928970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015393e4f928970b.jpg)
 -Active theater scene. I saw a comedy, The Phoenix of Madrid by Calderón de la Barca. The play was fast paced and witty.In Austen's book her characters are out and about in Bath, frequentlyending the night with the theater! I felt veryproud/nerdy doing the same.
 
 Bath was a perfect day trip and a fun way to take advantage of a weekday without class!
 
-<span style="color: #b9b9b9; font-size: 8pt;">(Royal Crescent image: <a href="https://andrewinvadesbritain.files.wordpress.com/2009/12/bath-020.jpg">https://andrewinvadesbritain.files.wordpress.com/2009/12/bath-020.jpg</a>)
+(Royal Crescent image: [https://andrewinvadesbritain.files.wordpress.com/2009/12/bath-020.jpg](https://andrewinvadesbritain.files.wordpress.com/2009/12/bath-020.jpg))
 

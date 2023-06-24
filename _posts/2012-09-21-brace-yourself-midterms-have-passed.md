@@ -26,8 +26,8 @@ I was running through the neighborhood south of Caltech (I think it's San Marino
 And here's your campus picture!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b017c31de29e4970b-800wi.jpg" %}
-<a class="asset-img-link" href="https://caltech.typepad.com/.a/6a0105349b8251970b0167663b3af4970b-popup" onclick="window.open( this.href, '_blank', 'width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0' ); return false" style="float: left;"><span style="color: #000000;"></a>
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b017c31de29e4970b-800wi.jpg)
+[](https://caltech.typepad.com/.a/6a0105349b8251970b0167663b3af4970b-popup)
 
 Talk to you guys again soon.
 

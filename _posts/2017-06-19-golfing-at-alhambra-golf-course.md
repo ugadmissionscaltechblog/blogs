@@ -14,8 +14,10 @@ We left at noon from the Caltech gym and all piled in a van. After we got there,
 
 We only played 4 holes due to time constraints, but people usually play either 9 or 18 holes. It was still super fun (and super hot)! It was my first time playing golf since maybe elementary school. My whole family plays, so I'm glad I took the course this term so I can start playing with them again.
 
-<div class="photo-caption caption-xid-6a01bb08213082970d01bb09a36878970d" id="caption-xid-6a01bb08213082970d01bb09a36878970d">Some geese chilling on the golf course.
+Some geese chilling on the golf course.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c9005ad6970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c9005ad6970b" id="caption-xid-6a01bb08213082970d01b7c9005ad6970b">Sitting in the golf cart!
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c9005ad6970b-pi.jpg)
+
+Sitting in the golf cart!
 

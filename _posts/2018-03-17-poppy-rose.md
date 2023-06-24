@@ -13,6 +13,6 @@ Last weekend, I went to get brunch in downtown LA at Poppy + Rose, which is righ
 There was a long line for brunch! We got the rib tips breakfast burrito, the pulled pork hash, and a waffle a la carte, which were all yummy. I thought the waffle was especially good. This place is known for their chicken + waffle, so next time I'll try that :)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09f8897b970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09f8897b970d.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b7c9558146970b-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b7c9558146970b-pi.jpg)

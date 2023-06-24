@@ -19,22 +19,22 @@ I ordered the "Trust Me" menu, a popular option because I trust the chefs to kno
 
 Edamame was pretty basic. I ate the tuna sashimi before I got the chance to take a picture, so below you can see the plate it came on. 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8130a5b970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8130a5b970b.jpg)
 The albacore and salmon rolls came out together. I ate the albacore before taking a picture. Here's what the salmon rolls looked like:
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d19d2ade970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d19d2ade970c.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8130a80970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8130a80970b.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08b7d34e970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08b7d34e970d.jpg)
 That was the end of our amazing, delicious, well-curated meal. I will definitely be going back once my wallet's had a breather.
 
 At the end of this meal, we took an Uber to Old Pas (the sort of downtown area of Pasadena, it has lots of fun shops and cafes and bookstores and bars for the 21+). There we went to a dessert bar (they also serve dinner, but we weren't about that). We got a banana cream souffle to share and it was amazing. Why yes, I do have a picture of it.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08b7d39c970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08b7d39c970d.jpg)
 One of our number was lactose intolerant, so she got vegan ice cream and a chocolate chip cookie.
 
 That was my Saturday night. I worked some of Sunday and went to a midterm review. Midterms have been happening since Wednesday, I'm simply choosing to ignore them. It's pretty easy when I only have one midterm and it isn't until a week from Tuesday.

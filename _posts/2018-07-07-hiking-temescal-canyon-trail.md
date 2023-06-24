@@ -13,8 +13,8 @@ Temescal Canyon lies in the Santa Monica Mountains, right next to the beach and 
 Afterwards, the trail heads back down towards a small waterfall, and into a valley with a lot of colorful flowers :)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad397ed73200b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad397ed73200b.jpg)
 After the hike, we went to Pasta Sisters, which was featured on Buzzfeed's Worth It series. I got the black truffle sauce withpappardelle, and it was really tasty! I would definitely go back to try the gnocchi and another sauce.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c022ad397ed8a200b-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c022ad397ed8a200b-pi.jpg)

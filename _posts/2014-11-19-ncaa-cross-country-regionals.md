@@ -16,31 +16,31 @@ The NCAA DIII Regional XC race was last Saturday. The women's team brought five 
 We left at around 5PM on our 2 hour flight flight to Portland.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d09246e2970c.jpg" %}
-<span style="font-size: 8pt;">Blurry image of Portland from the plane window.
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d09246e2970c.jpg)
+Blurry image of Portland from the plane window.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d092472c970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d092472c970c.jpg)
 Now, Oregon has mild weather, but compared to Los Angeles, Portland was COLD. The temperature was around 45 F all weekend. It would have been an awesome refresher from SoCal non-weather, if any of us had cold-weather clothes. Oops.
 
 We ran the course at Willamette College on Friday morning. The women's course was 6k; two loops around Busch's Regional Park next to Willamette's campus. We started off on a grass field, then 200m later went up a steep hill. We ran through the woods and downhill in a loop for 2k, then out across the field again, back into the woods on the other side for a 1k flat loop. The course was muddy, as it had snowed the day before. The word "snow" isn't even in our vocabulary anymore, so this was a bit of a shock to the system.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7083b6e970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7083b6e970b.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07ad85ca970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07ad85ca970d.jpg)
 We were having so much fun in the Fall weather, and cooing over the colors on the trees. Most of the women on the team are from colder places (Colorado, Indiana, Pennsylvania) and we've missed this. "This," being actual seasons.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0924829970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0924829970c.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07ad8633970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07ad8633970d.jpg)
 We spent most of Friday relaxing in the hotel, doing problem sets and, in the case of the women's team, doing yoga. The plane ride and the long car trip made us super stiff. Friday night, we went out to dinner at an Italian restaurant (carbs carbs carbs) and headed back to the hotel for a team meeting.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d092485b970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d092485b970c.jpg)
 
 We went around the room and all 12 runners stated their goals for the race the next morning. This was the cumulation of, for some, a full year of training, and for our seniors, 4 years. We'd been working HARD for the past 11 weeks, since the beginning of preseason, so that we reached peak fitness that week. All that was left was to not think about it too much. Just race. Just run.
 
@@ -53,21 +53,21 @@ The women's team crushed Mills college, which rocked. Our two seniors, Steph and
 After the race, we showered at Willamette college as fast as possible and drove to Portland. We had just enough time to wait in line at Voodoo Doughnuts in SW Portland before heading to the airport. I am in love with this place.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07ad87b9970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07ad87b9970d.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0924a10970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0924a10970c.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0924a37970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0924a37970c.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0924a52970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0924a52970c.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7083da3970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7083da3970b.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0924a6a970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0924a6a970c.jpg)
 Trip summary: amazing running, awesome weather, great sight-seeing, delicious donuts, good stuff.
 

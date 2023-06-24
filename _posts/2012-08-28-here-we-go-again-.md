@@ -21,13 +21,13 @@ The thing is, I wouldn't have it any other way. All those months that I don't se
 
 On to Taylor Swift!
 
-So Chegg + Taylor Swift are having a competition for the College that wants a Taylor Swift competition the most. The voting process is normalized so that colleges of all sizes stand an equal chance at getting the concert and the voting is open to everyone. <span style="font-size: 14pt;">**The college with the most votes gets a Taylor Swift concert and the top 5 colleges get $10000 for their music department.** We here at Caltech having been trying our hardest to win the concert and we've been doing fairly well. We were told a few days ago that we are in the top 15 schools by votes. <span style="color: #ff0000;">**I would personally like to request you help with this endeavor by asking that you vote for caltech. The link is below!**
+So Chegg + Taylor Swift are having a competition for the College that wants a Taylor Swift competition the most. The voting process is normalized so that colleges of all sizes stand an equal chance at getting the concert and the voting is open to everyone. **The college with the most votes gets a Taylor Swift concert and the top 5 colleges get $10000 for their music department.** We here at Caltech having been trying our hardest to win the concert and we've been doing fairly well. We were told a few days ago that we are in the top 15 schools by votes. **I would personally like to request you help with this endeavor by asking that you vote for caltech. The link is below!**
 
-<a href="https://taylorswiftoncampus.com/" rel="nofollow nofollow" target="_blank">https://taylorswiftoncampus.com/</a>
+[https://taylorswiftoncampus.com/](https://taylorswiftoncampus.com/)
 
-<span style="font-size: 18pt; color: #ff0000;">Remember that you can vote daily!
+Remember that you can vote daily!
 
-<span style="font-size: 13pt;">Talk to you soon,
+Talk to you soon,
 
-<span style="font-size: 13pt;">Brad
+Brad
 

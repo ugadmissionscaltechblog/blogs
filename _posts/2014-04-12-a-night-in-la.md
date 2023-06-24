@@ -17,5 +17,5 @@ We went to the Walt Disney Concert Hall for a concert. There is a Minimalist Juk
 Here is a picture of the inside of the hall. This was taken right before I was scolded by the usher for taking a photo.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcea6a29970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcea6a29970b.jpg)
 

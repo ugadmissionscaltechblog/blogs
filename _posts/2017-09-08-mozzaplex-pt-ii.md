@@ -9,8 +9,8 @@ date: 2017-09-08
 ---
 
 
-<div style="direction: ltr; margin-top: 0in; margin-left: 0in; width: 6.1305in;">
-<div style="direction: ltr; margin-top: 0in; margin-left: 0in; width: 6.1305in;">
+
+
 Today we went to check out Nancy Silverton's other restaurant, Pizzeria Mozza. Osteria Mozza completely wowed us and we decided to try the other part of the Mozzaplex. Pizzeria and Osteria are right next to each other and the staff rotate between the two restaurants. Pizzeria is a lot more affordable than the Osteria and is perhaps the most affordable restaurant from Chef's Table.
 
 
@@ -23,14 +23,14 @@ We got three pizzas: Squash blossom with burrata, Meat lover's (guanciale, sausa
 
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09ba94ed970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09ba94ed970d.jpg)
 
 We couldn't forgo dessert since Nancy Silverton is a famous pastry chef. Her most well-known and influential dessert is the Butterscotch Budino with Rosemary Cookies. It's so famous that the recipe is pasted on the wall by their restrooms. It was the most delicious and sophisticated version of butterscotch that I have ever tasted.
 
 
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9175c81970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9175c81970b.jpg)
 
 Mozzaplex, I love you. I will be back soon. Next on the restaurant bucket list is N/naka, but I have to reserve months in advance. I trust Chef's Table's recommendations.
 

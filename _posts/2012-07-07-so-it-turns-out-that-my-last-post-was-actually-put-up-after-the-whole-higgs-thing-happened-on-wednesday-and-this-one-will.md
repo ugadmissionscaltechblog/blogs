@@ -15,26 +15,26 @@ The experience was pretty thrilling here at CERN. We woke up at 4:45 am to get t
 (People being interviewed outside the auditorium)
 I don't know what all has been published publicly since so far I have been terrible at using and sharing links that don't require CERN authorization. Hopefully these sites are public for everyone:
 **Pictures available here:**
-<a href="https://cdsweb.cern.ch/search?cc=Press+Office+Photo+Selection&amp;rg=100&amp;of=hpm&amp;p=internalnote%3A%22Higgs%22&amp;sf=year&amp;so=d" target="_blank">https://cdsweb.cern.ch/search?cc=Press+Office+Photo+Selection&amp;rg=100&amp;of=hpm&amp;p=internalnote%3A%22Higgs%22&amp;sf=year&amp;so=d</a>
+[https://cdsweb.cern.ch/search?cc=Press+Office+Photo+Selection&amp;rg=100&amp;of=hpm&amp;p=internalnote%3A%22Higgs%22&amp;sf=year&amp;so=d](https://cdsweb.cern.ch/search?cc=Press+Office+Photo+Selection&amp;rg=100&amp;of=hpm&amp;p=internalnote%3A%22Higgs%22&amp;sf=year&amp;so=d)
 **Footage available here:**
-<a href="https://cdsweb.cern.ch/search?cc=Press+Office+Video+Selection&amp;rg=100&amp;p=internalnote%3A%22Higgs%22&amp;sf=year&amp;so=d" target="_blank">https://cdsweb.cern.ch/search?cc=Press+Office+Video+Selection&amp;rg=100&amp;p=internalnote%3A%22Higgs%22&amp;sf=year&amp;so=d</a>
+[https://cdsweb.cern.ch/search?cc=Press+Office+Video+Selection&amp;rg=100&amp;p=internalnote%3A%22Higgs%22&amp;sf=year&amp;so=d](https://cdsweb.cern.ch/search?cc=Press+Office+Video+Selection&amp;rg=100&amp;p=internalnote%3A%22Higgs%22&amp;sf=year&amp;so=d)
 Despite this pleasant distraction I have actually had a very progressive week. Both of my codes are finished and debugged and now I am succesfully producing fits of the Z-&gt;EE peak from the recent 2012 data. This actually was perfectly timed seeing that we had a team meeting on Tuesday and my mentor emailed me the night before telling me that I should plan a few slides to present. I was somewhat caught of guard since at that point I had no figures at all. I finally got everything to work and then two hours before the meeting my first plots came out. Seeing that it takes a minimum of half an hour to run my code with a few files I managed to crank out a few slides just in time. I'd say this has been a pretty good second week of work. :D
 So I kinda forgot to tell you all about my most recent weekend. The four of us decided to take a road trip to the other side of the lake and visited Lausanne. The town was incredibly beautiful. It was situated around a hill so further up from the lake we found an amazing cathedral with a plaza overlooking the rest of the town and the lake.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01676832e36e970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01676832e36e970b.jpg)
 We went down to the lakeside and explored the port and beach. There was a huge festival going on along the board walk based around a local beach volleyball competition. We met up with some of Max's friends who were in the area and they went off to hang out around the beach. Lisa and I decided to explore the other side of the port and found an Olympic Museum and park that were under construction. We ended the day with crepes and made our way over to the beach to meet up with the rest of thegroup.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0177430e2836970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0177430e2836970d.jpg)
 There was this really awesome eight year old who took a liking to Max and his friend. He was so energetic and doing flips everywhere. Turns out he was a gymnast. He kept on getting Max and his friend to spin him around in circles, then used up their cell phone battery playing Angry Birds.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b016768331641970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b016768331641970b.jpg)
 The next day it rained and has been raining on and off since. It's quite random, seeing that it flips from being very sunny to pouring within just a few minutes. Actually right now there is this really weird lightning storm to the East and the sky is pretty much constantly lit up. Anyways, Sunday we decided to go for a drive in the rain, which may seem like a stupid decision but it was really pretty driving through the towns with a light rain. We drove through the town of Gex which is just North of our house and ended up being thrown on a road that led up the side of a mountain. There wasn't really any place to turn around on the road so basically we just continued up the Jura mountains for 15-20 minutes. Until magically, on the side of the mountain there was a random mountain cafe just sitting there in the rain. The place was completely empty but the people were really friendly and we sat there on the mountainside with coffee looking at the rain. Despite getting thrown up a mountain in the rain, it was a relaxing end to the weekend.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0177430e28ae970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0177430e28ae970d.jpg)
 
 So that was week two, coming up this weekend is Heidelberg!
 

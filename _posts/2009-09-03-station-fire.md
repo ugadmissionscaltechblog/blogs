@@ -15,7 +15,7 @@ Things went back to normal here on Tuesday, but the air quality is still pretty 
 
 But that doesn't mean that things are over. The current estimated boundary size is 140,150 acres (over 200 square miles!), and while JPL is safe, other areas are being threatened. This includes residential communities, as well as the Mt. Wilson communications center and the observatory. There has been a lot of work that has gone into protecting Mt. Wilson, from laying down fire retardant to back burning to get rid of fuel that the wildfire could use to jump to the facilities on the mountain top. Apparently things are looking somewhat up as far as keeping the facilities safe, but it's not over yet. The towercam on the 150 ft solar telescope went offline yesterday afternoon, so we can't directly see what's going on up there.
 
-Still, if you're inclined to follow what's going on, the incident website is <a href="https://inciweb.org/incident/1856/" target="_blank">here</a>.
+Still, if you're inclined to follow what's going on, the incident website is [here](https://inciweb.org/incident/1856/).
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a541d9b8970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a541d9b8970b.jpg)

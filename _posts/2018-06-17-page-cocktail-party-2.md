@@ -15,4 +15,4 @@ There was also a stage where people from different groups were performing. The g
 In 3rd term, Page hosts a cocktail party for its members. There are hors d'oeuvres, live music, games (poker, trivia, and newlyweds), a photobooth, and of course, cocktails for the 21+ students.Sorry the photo is really dark, but this is the stage, where people were playing jazzy music.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0224e03c3836200d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0224e03c3836200d.jpg)

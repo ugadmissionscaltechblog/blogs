@@ -22,13 +22,13 @@ We went to arguably the trendiest boba place in the immediate area: OneZo. Appar
 Dinner was an adventure! We went to my favorite place for dim sum nearby – Full House Seafood and had a Chinese meal complete with Peking duck (possibly my favorite food), fresh fish, lobster, and chow fun (which although they are super American-chinese taste like my childhood).
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3729121200c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3729121200c.jpg)
 Oh, and we got softshell turtle soup.
 
 It was actually very tasty, but mentally trying to eat the turtle claw (foot?) was one of the most challenging things I’ve done food wise. And I’ve eaten a lot of pretty wild foods in my lifetime. Either way though, it was a delicious broth and the meat was potato-esque which was a nice complement.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3b84ec9200b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3b84ec9200b.jpg)
 And then we stopped and got a cake too! A completely wild day.
 
 So yeah.

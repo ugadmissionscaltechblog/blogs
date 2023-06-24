@@ -22,4 +22,4 @@ One of the ironic aspects of eating healthy is that you feel the urge to treat y
 
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d29af40a970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d29af40a970c.jpg)

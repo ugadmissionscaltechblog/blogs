@@ -15,15 +15,15 @@ So imagine my doubt when my friend told me that a new young movie director named
 
 Luckily, my friends and I were able to nab tickets to see it. We rushed there right after the cooking final. The story is about a guy and a girl... and really I can't say more without ruining it. It really makes you think, though. The art was magnificent--if you decide to see it, I cannot emphasize enoughthe importance of seeing it in hi-def! The music was also quite swell... literally.
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/a2GujJZfXpg" width="560"></iframe>Spoiler alert!
+[Watch on YouTube](https://www.youtube.com/watch?v=a2GujJZfXpg)Spoiler alert!
 The experience was likethe satisfaction one feels from watching a droplet of watergather until it swells biggerand biggerand thenit drops.
 
-The story was well-crafted, but hearing the Japanese (there were subtitles) and seeing the oh-so-familiar-but-*just*-beyond-the-reach-of-conscious-memory Japanese city scenes... the subway, the apartment complexes, the tall school buildings, the pedestrian bridges... along with the Japanese language of my childhood that chugs along, mingled with that I have been learning in class... only revived *a longing fora forgotten familiarity,* or*<span style="color: #8dae94;"> <a href="https://en.wikipedia.org/wiki/Sehnsucht" rel="noopener noreferrer" style="color: #8dae94;" target="_blank">sehnsucht</a>.*
+The story was well-crafted, but hearing the Japanese (there were subtitles) and seeing the oh-so-familiar-but-*just*-beyond-the-reach-of-conscious-memory Japanese city scenes... the subway, the apartment complexes, the tall school buildings, the pedestrian bridges... along with the Japanese language of my childhood that chugs along, mingled with that I have been learning in class... only revived *a longing fora forgotten familiarity,* or* [sehnsucht](https://en.wikipedia.org/wiki/Sehnsucht).*
 Have y'all ever felt that? Or am I just getting old?
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d24ab6e5970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d24ab6e5970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d24ab6e5970c.jpg" %}
-<span style="color: #8dae94; font-family: arial, helvetica, sans-serif; font-size: 10pt;">jenny.
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d24ab6e5970c.jpg)
+jenny.
 

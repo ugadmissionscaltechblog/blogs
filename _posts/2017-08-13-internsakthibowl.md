@@ -16,4 +16,4 @@ This past Thursday, Microsoft rented out Lucky Strike, a luxurious bowling alley
 With two embarrassing bowling games under my belt, I headed out to the arcade only to find more lack of success at the basketball hoop and the skeeball machines. But despite my displays of athletic prowess, I had a great time, meeting a lot of the amazing interns and hearing stories from the full-time employees.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09b18a19970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09b18a19970d.jpg)

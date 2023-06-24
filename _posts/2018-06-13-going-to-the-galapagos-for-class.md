@@ -17,16 +17,16 @@ After getting on our boat, the *Galavan*, we were welcomed with refreshing fresh
 On the first day, we took small boats called Zodiacs to Black Turtle Cove. That was our first time getting up close to the animals. The animals aren't afraid of people at all! Some are very curious and playful, like the sea lions, and others just watch you go by without any reaction. We saw pelicans, sea turtles, a baby white-tipped reef shark, blue-footed boobies, and lava herons.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0224e03c2e1c200d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0224e03c2e1c200d.jpg)
 Would you guess that this silly, unassuming blue footed booby is an amazing hunter? When it hunts, it dives from the sky like a bullet!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0224e03c2e43200d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0224e03c2e43200d.jpg)
 The next day, we went to the island of Genovesa, where we saw more boobies -- but this time, they were red-footed and Nasca boobies. This was their nesting ground, so many birds had eggs or chicks to care for. It was amazing to see! There were hundreds and hundreds of birds on the small island, with nests just a few feet away from each other. Some nests were right on the trail, and it was like we were walking through a nature documentary.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0224e03c2e47200d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0224e03c2e47200d.jpg)
 The chick of the Nazca booby starts off small, but once it grows older, it's so fluffy that it looks like it's bigger than its mom!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0224e03c303c200d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0224e03c303c200d.jpg)

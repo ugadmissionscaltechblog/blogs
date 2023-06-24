@@ -30,7 +30,7 @@ One booth that really caught my attention was that of the Pasadena Humane Societ
 
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09b67ab5970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09b67ab5970d.jpg)
 
 
 I probably won't be back any time soon unless I am in need of furniture, but it's definitely worth checking out once during your time at Caltech!

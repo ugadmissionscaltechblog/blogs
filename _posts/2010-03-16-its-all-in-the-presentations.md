@@ -17,7 +17,7 @@ I have pretty much finished up...and have already passed the biggest hurdle of f
 Here are a few pictures of my E102 group working through the night preparing our presentation we gave today...and a few of us presenting. We presented our work we have done this term coming up with a business model and proposal for our entrepreneurship class.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310fa715ff970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310fa715ff970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a94027e9970b.jpg" %}Sorry for such a short post...but I'll be back later this week :)
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a94027e9970b.jpg)Sorry for such a short post...but I'll be back later this week :)
 

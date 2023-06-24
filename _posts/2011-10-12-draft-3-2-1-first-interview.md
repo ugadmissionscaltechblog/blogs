@@ -19,7 +19,7 @@ Finally, *gulp* the interview! It was actually quite relaxed and conversational,
 After a hot buffet and a fun conversation with the current fourth years, I grabbed a group of my fellow interviewees to go shadow one of the first year classes (Practice of Medicine I) and even got to join in the small-group training exercises. Monday was chest exams. Fun fact: you can feel your aorta if you lie down and press your hand firmly in the space below your ribcage, and can even sense (roughly) the diameter! At the end of the exercise, we shed our suits and heels (in my case, at least) and changed into street clothes to go explore Forest Park before we had to head home.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0153923109a9970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0153923109a9970b.jpg)
 All in all, it was a great trip at an impressive and, importantly, exciting and welcoming school. Good way to start off interview season! Now, to do the neurotic premed thing where I check my admissions status every few days. . .
 
 &lt;3

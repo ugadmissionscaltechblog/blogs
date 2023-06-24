@@ -12,7 +12,7 @@ date: 2013-02-12
 Today Carly and I got up early to go
 on a fascinating up close tour of CERN, which is also know as the European Organization for Nuclear Research. (The acronym CERN actually comes from the French name for the particle physics lab:*Organisation européenne pour la recherche nucléaire.*) We were lucky enough to have the opportunity to get an insider view of CERN byJavier Duarte and Alex Mottof Caltech Professor Maria Spiropulu’s experimental particle physics group. We had read about the research and facility in the news and seen pictures, but we were definitely very excited to get a firsthand look especially in light of the recent Higgs-Boson discovery. We first met with Javier who drove us across CERN to Point 5. It took us approximately 15-20 minutes just to drive across CERN and we were impressed with how large the instrument actually is in real life, as part of it lies in France.
 
-<img alt="" src="https://keyhole.web.cern.ch/keyhole/reception/lhc_underground.jpg" />
+![](https://keyhole.web.cern.ch/keyhole/reception/lhc_underground.jpg)
 
 *Schematic of the locations of the LHC experiments.*
 
@@ -20,7 +20,7 @@ The land above CERN was mostly covered by farmland, and non CERN-affiliated peop
 
 Alex and Javier explained how the detector works and we were fascinated and amazed to get a view at how the world’s largest and most complex scientific instruments is being used for fundamental physics research. It has many layers to stop particles resulting from collisions and to measure their trajectories. Since they know the strength of the magnetic field, they can use the trajectory to figure out each new particle’s charge by knowing which way it curved. They can also ascertain its mass, energy, etc all from the particles’ trajectories. There was picture of the detector that was only about a meter squared, but the actual detector is four stories tall. Later on the tour, we saw a full sized photo of it in one of the CERN office buildings.
 
-<img alt="" src="https://www.theinquirer.net/img/2090/lhc-cms-detector.jpg?1241331986" />
+![](https://www.theinquirer.net/img/2090/lhc-cms-detector.jpg?1241331986)
 
 *The CMS detector inside the LHC at CERN.*
 
@@ -46,17 +46,17 @@ of whom were really nice and reminded me a lot of the Caltech atmosphere, we
 went to the public museum which explained a lot about the history of CERN and fundamental probing questions scientists at CERN are asking and finding more about. We loved exploring the many aspects of CERN for a firsthand view on how research is carried out.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee85e90b5970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee85e90b5970d.jpg)
 *Me infront of a superconducting dipole replica outside the Globe of Innovation Auditorium at CERN*
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d40e9d13b970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d40e9d13b970c.jpg)
 *A playground with cool parts from old out of use parts from old equipment.*
 
 *
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee85e98af970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee85e98af970d.jpg)
 Next, Carly and I went back to
 Geneva for lunch. We had Italian food. A cultural difference we notices was that tap
 water wasn’t just brought free to the table since that was what we were used to
@@ -78,26 +78,26 @@ Another interesting thing is that the UN grounds are technically not part of
 Switzerland or any other country. 
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c36bb4f76970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c36bb4f76970b.jpg)
 *Carly and I in front of the entrance to the UN.*
 
 *
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d40e9d903970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d40e9d903970c.jpg)
 *A United Nations meeting on managing the rights on migrant workers.*
 
 *
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c36bb502c970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c36bb502c970b.jpg)
 *Another meeting room in the United Nations. The magnificent artwork is from the days when the building was used for the League of Nations.*
 
 The Red Cross museum across the
 street was closed, so we walked along the river to see the Jet d’Eau.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee85ea101970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee85ea101970d.jpg)
 *The Red Cross Headquarters is closed for renovations.*
 
 We got some great pictures of the water, the boats, and people fishing.The architecture
@@ -109,7 +109,7 @@ drink directly out of; Swiss ones are made to catch the water in some sort of
 vessel.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee85ea2af970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee85ea2af970d.jpg)
 *Walking along the waterfront with the Jet d'eau.*
 
 Next we
@@ -124,6 +124,6 @@ provided. Our room had two sets of bunk beds and a loft bed. We also had a
 balcony.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c36bb54f1970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c36bb54f1970b.jpg)
 *Our hostel in Lauterbrunnen valley, which is the largest glacial valley in the world and is ringing by 72 cascading waterfalls!*
 

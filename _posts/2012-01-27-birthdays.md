@@ -21,7 +21,7 @@ I'm not going to describe the process of making the icing, (I really don't even 
 
 Take a look:
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b016760fc6280970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b016760fc6280970b.jpg)
 As you can tell, they are all clearly impressed... and you should be too. I'm just kidding, if you're a master baker, this is probably simple stuff for you, but except for Corwin, we were just beginners. It was fun making it, but I highly doubt I'll ever spend so much time on baking here at Caltech again. Or even have the time for it.
 
 The reason the title is plural is because I also wanted to talk about my roommate's birthday which was on the 17th of January. To preface it, I just want to say a little about Caltech.
@@ -35,4 +35,4 @@ We also got Tom Mannion to take Corwin and a few other people out to Korean BBQ 
 The picture below is of the intestine cooking. It's burning because of all the fat released when you cut it open to cook the inside too.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b016760fcbfac970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b016760fcbfac970b.jpg)

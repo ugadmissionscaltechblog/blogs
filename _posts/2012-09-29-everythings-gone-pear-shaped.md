@@ -27,10 +27,10 @@ them. UCLU does provide lots of student discounts-I can’t wait to go see Les
 Miserables in about two weeks. Yesterday I visited the National Gallery (most museums have free admission!), Wesminister Abbey, and Big Ben. I love how UCL is in central London, so most things are at a walkable distance or a tube ride away.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3226e7c8970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3226e7c8970b.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3226e882970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3226e882970b.jpg)
 My hallway is all freshers except me, and most of them are
 from England. Surprisingly, they find my American accent cool (I thought they would think that I sounded dumb or uncultured) and their British
 accent boring (Their accents are definitely cooler! I wonder if I can get one

@@ -12,10 +12,12 @@ As I mentioned in my last post, after leaving Pomona, my boyfriend and I got to 
 
 When we walked in the gate, the overwhelming scent of dog hit me. While some people may have scrunched their noses up in disgust, I smiled. I felt like I was back at home with my own little dog, Doc. Basically as far as the eye could see, there were kennels with dogs, all vying for our attention. It was basically a dream come true for any dog lover. I became good friends with a dog named Coco, as she reminded me a lot of my own dog. Another white puppy named Boots wouldn't stop barking at us until we gave him a good scratch.
 
-<div class="photo-caption caption-xid-6a01b8d28f2955970c01b7c90f5b43970b" id="caption-xid-6a01b8d28f2955970c01b7c90f5b43970b">My dog, Doc, sitting on my porch back home in New York.
+My dog, Doc, sitting on my porch back home in New York.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b7c90f5b5d970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b7c90f5b5d970b" id="caption-xid-6a01b8d28f2955970c01b7c90f5b5d970b">Coco, the good girl I met at the PHS.
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b7c90f5b5d970b-pi.jpg)
+
+Coco, the good girl I met at the PHS.
 
 There were also hoards of more exotic creatures, from chinchillas to rabbits to birds to turtles. They (barring the turtles, which are kept outside with the dogs), are housed in their own private building. The cats also have their own little house to call home.
 

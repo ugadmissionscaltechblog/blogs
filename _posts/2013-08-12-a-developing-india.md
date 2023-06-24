@@ -17,11 +17,11 @@ With these issues on our mind, we spent the rest of the day experiencing more of
 After dinner we got to experience some Indian classical music and dance. The IIT students showed us some dance moves while a few of us got to partipating in playing the instruments. Vansh got to play drums and Edward, another Techer, played the harmonium.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac55e607970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac55e607970d.jpg)
 The place also had a small museum with art and pottery (pictured below).
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac55ea56970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac55ea56970d.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0191048c899b970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0191048c899b970c.jpg)
 

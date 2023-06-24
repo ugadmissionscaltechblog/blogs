@@ -8,7 +8,7 @@ status: Publish
 date: 2009-08-27
 ---
 
-<div style="text-align: justify;">
+
 **Introduction**
 My name is Tony Z. Jia and I’m a senior double majoring in Chemistry
 and Business, Economics, and Management at Caltech. For the next month
@@ -26,9 +26,9 @@ readers will be able to get a glimpse into the life of a Caltech
 student in Japan. I’ll also be attempting to post pictures onto
 Panoramio every few days (Panoramio allows you to place a picture at a
 specific location on a map, so you all can see where all of this is
-taking place). It’s here: <a href="https://www.panoramio.com/user/2916748/tags/Japan">https://www.panoramio.com/user/2916748/tags/Japan</a> under photos tagged Japan.
+taking place). It’s here: [https://www.panoramio.com/user/2916748/tags/Japan](https://www.panoramio.com/user/2916748/tags/Japan) under photos tagged Japan.
 
-<hr />
+
 
 **About Okazaki**
 
@@ -48,7 +48,7 @@ currently being more modernized very quickly and losing their original
 culture and customs in the process, so I wanted to experience Japanese
 culture in the heart of Japan. 
 
-<hr />
+
 **Side Trips**
 While I’m in Japan, I’m planning on going on some side trips on
 weekends both with the program and without the program. Tentatively,
@@ -76,7 +76,7 @@ are so close to each other anywhere else in Japan. However, this isn’t
 finalized yet, and I’ll most likely end up deciding when to go a couple
 days in advance.
 
-<hr />
+
 **Itinerary**
 Let me give you all a rundown of how this trip is going to work. I’m
 flying from O’Hare to Seoul Incheon tonight; then a connecting flight
@@ -94,9 +94,9 @@ going to be a lot of fun.
 Anyways, here’s a crude map (Google Earth and Paint).
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5772fe1970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5772fe1970c.jpg)
 I’ll post some more pictures, including pictures from Seoul Incheon and Chubu Centrair airports next time. Expect a post over the weekend or early next week.
 
 --Tony
 
-Pictures Link: <a href="https://www.panoramio.com/user/2916748/tags/Japan">https://www.panoramio.com/user/2916748/tags/Japan</a>
+Pictures Link: [https://www.panoramio.com/user/2916748/tags/Japan](https://www.panoramio.com/user/2916748/tags/Japan)

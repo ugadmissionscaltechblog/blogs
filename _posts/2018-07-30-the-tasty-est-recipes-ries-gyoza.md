@@ -15,4 +15,4 @@ After we finished the filling, it was onto my second favorite part: folding! Som
 After that was cooking them. At home, my family always pan fried them. However, I'd never tried getting the wings before. I really wanted to try it as the recipe suggested. It's super easy to do, and it looks great but… It takes so long. We were really hungry, so I gave up on the wings so we could eat them as quickly as possible. Pan fried is still delicious though.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d022ad39df861200b-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d022ad39df861200b-pi.jpg)

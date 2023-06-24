@@ -15,5 +15,5 @@ But today, a few friends and I attempted to prepare a dish without any guidance 
 Also on the menu for our Saturday dinner: Aloe vera juice, ginger dumplings, sweet spiced pickles, and mango mochi. Most of our cooking supplies were funded by a Caltech grant literally named the “Fun Fund.” The Don Shepard Fun Fund randomly distributes twenty-five dollars to about a hundred Caltech undergrads each term just to “do something fun,” as long as it has "socially redeeming value." I’ve entered the lottery for this all three terms, and have won it twice. Both times I’ve used it for—guess what—food.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c8fea0fb970b-800wi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c8fea0fb970b-800wi.jpg)
 Feels like a family dinner. PC: Juliette

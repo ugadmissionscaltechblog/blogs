@@ -17,5 +17,5 @@ All of you probably  know about the earthquake and tsunami that hit Japan recent
 *A singer performing for the charity event*
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e333d120970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e333d120970b.jpg)
 **

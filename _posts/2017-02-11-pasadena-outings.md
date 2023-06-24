@@ -18,4 +18,4 @@ This Friday, to celebrate a long week of homework (and a weekend ahead full of e
 I have been working on my reading list still, but between two project classes, TAing a class, and occasionally going off campus, I haven't had much more free time. Let's hope things calm down after midterms.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d2a378970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d2a378970b.jpg)

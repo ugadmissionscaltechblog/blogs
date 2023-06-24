@@ -15,9 +15,9 @@ Our first day in the program was filled with intern orientation, following which
 This was right outside the building, so we knew right away where we were going. Inside was a couple of photo opportunities: the rainbow background was my favorite.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d29136e0970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d29136e0970c.jpg)
 People could also write on the walls, and I found such an inspiring quote which someone wrote.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c906e685970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c906e685970b.jpg)
 In addition to being sweet and inspiring, I definitely feel the truth of this statement. Everyone has their own brilliance but the brightest light comes from people working together :)

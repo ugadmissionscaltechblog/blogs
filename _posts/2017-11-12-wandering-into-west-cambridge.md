@@ -13,5 +13,5 @@ Across the river Cam about a thirty minute walk away is West Cambridge. This are
 On the way, there are large grassy fields. It was beautiful this afternoon as the sun was lowering.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c92e237d970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c92e237d970b.jpg)
 These fields are home to cute hares, magpies, robins, and more. Last time I came here I cycled, but today I walked along it to look for hares. Although I didn't see any in the morning, I saw a robin with a red throat and chest, and it was so cute!

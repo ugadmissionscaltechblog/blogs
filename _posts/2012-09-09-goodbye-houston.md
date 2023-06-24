@@ -21,7 +21,7 @@ Overall, some personal reflection and the opportunity I had to work in academia 
 
 I really appreciate the opportunity SURF and Dr. Mikos gave me to work in the lab. Tissue engineering is an incredibly exciting field, and my interest in the subject has reaffirmed my choice to be a bioengineer!
 
-I did want to add a picture to this post too, so I thought I'd show you some of the porous craniofacial space maintainers that my lab works with. Dr. Mark Wong (see my <a href="https://caltech.typepad.com/caltech_as_it_happens/2012/08/advances-in-tissue-engineering-not-final.html" target="_self">Advances in Tissue Engineering</a>post!)is the collaborating physician that works with the patients. The space maintainers are put in place after a trauma or tumor resection to keep the bone in the correct orientation for future work. The porous space maintainers are conducive to soft tissue growth, and my lab is working to incorporate slow release antibiotics to further prevent infection.
+I did want to add a picture to this post too, so I thought I'd show you some of the porous craniofacial space maintainers that my lab works with. Dr. Mark Wong (see my [Advances in Tissue Engineering](https://caltech.typepad.com/caltech_as_it_happens/2012/08/advances-in-tissue-engineering-not-final.html)post!)is the collaborating physician that works with the patients. The space maintainers are put in place after a trauma or tumor resection to keep the bone in the correct orientation for future work. The porous space maintainers are conducive to soft tissue growth, and my lab is working to incorporate slow release antibiotics to further prevent infection.
 
 Sarah
 

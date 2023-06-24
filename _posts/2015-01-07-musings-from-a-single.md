@@ -19,12 +19,12 @@ I and a few other sophomores and juniors manned the tea party station. We themed
 Club fair happened on October 9th, during which I discovered the existence of a science fiction and fantasy club at Caltech I did not previously know about.The chemistry club showed up with their usual beautiful array of element-themed cupcakes!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7235f59970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7235f59970b.jpg)
 
 In other adventures...one Rudd frosh broke all 21 dinner rules one day and was punished severely by the head waiters.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0acd65b970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0acd65b970c.jpg)
 
 That's it for October events!
 Till next time,

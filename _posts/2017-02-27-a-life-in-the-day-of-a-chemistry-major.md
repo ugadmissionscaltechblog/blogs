@@ -15,20 +15,20 @@ I just finished my last day of lab last week, and it was just the way it should 
 
 In Ch 5a (a lab class on advanced synthesis techniques), we have spent all term making estrone, one of the three types of estrogen. Here's the structure (courtesy of Wikipedia):
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb097a2916970d.png" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb097a2916970d.png)
 So when I thought I'd finish on Monday, I was too optimistic for my own good. After I finished the last reaction (step 7 but actually step 4), I loaded my crude product onto a silica gel column for flash chromatography. I collected test tube after test tube of eluent (what chemists call the liquid that drips out) and analyzed them using thin-layer chromatography. Below is a video of what the column looks like:
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb097b3063970d.jpg" %}
-<div style="text-align: left;">And here's how to collect eluent from the column:
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb097b3063970d.jpg)
+And here's how to collect eluent from the column:
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d800f0970b.gif" %}
-<div style="text-align: left;">And my finished product! It was a colorless/white solid, just like it was supposed to be (:
-<div style="text-align: left;">
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d800f0970b.gif)
+And my finished product! It was a colorless/white solid, just like it was supposed to be (:
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb097b3013970d.gif" %}
+
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb097b3013970d.gif)
 So without further ado, a life in the day on February 10, my momentous last day as a lab student:
 
 8:00 - Alarm goes off. For especially rough mornings, I use a sleep tracking app that allegedly monitors my sleep by detecting motion. It draws cool REM cycle graphs and wakes me up when I'm in a lighter sleep part of the cycle.

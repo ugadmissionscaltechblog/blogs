@@ -23,10 +23,10 @@ Now if you know anything about me (besides that I'm Italian, from NJ, like food,
 So now it's picture time!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b012875f628a6970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b012875f628a6970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b012875f629d4970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b012875f629d4970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a6f40c2c970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a6f40c2c970b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a6f40c83970b.jpg" %} OK well then...I think that's all for now! Time for the FINAL push towards FINALS WEEK!! Dum dum dum! But first, my NYU visit - wish me luck! Too bad I didn't have any in Vegas...maybe next time!
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a6f40c83970b.jpg) OK well then...I think that's all for now! Time for the FINAL push towards FINALS WEEK!! Dum dum dum! But first, my NYU visit - wish me luck! Too bad I didn't have any in Vegas...maybe next time!

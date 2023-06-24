@@ -19,6 +19,4 @@ Our senior trip is scheduled for Tuesday June 9th, we're all going to Six Flags 
 We also had a fun farewell-senior-tour-guides Tour Guide Barbecue a few hours ago, and that was really fun also. I will miss being a senior tour guide and doing odd jobs for the Admissions office (like blogging about being a senior!) but I'll come back to visit of course.
 
 More to come!
-Love, Alex<input id="gwProxy" type="hidden" /><input id="jsProxy" onclick="jsCall();" type="hidden" />
-<div id="refHTML"><input id="gwProxy" type="hidden" /><input id="jsProxy" onclick="jsCall();" type="hidden" />
-<div id="refHTML">
+Love, Alex

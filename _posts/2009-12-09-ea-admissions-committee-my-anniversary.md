@@ -15,13 +15,13 @@ As most of you know, the early action date for fall admissions 2010 was in early
 Today, we had Committee for the early applicant pool all day at the admissions office. We made the final decisions on students we would admit and hold from the pool we received about a month ago. Admissions committee is always a little bit mentally taxing and is definitely tiring---but we pulled together and got it done! Good work team!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01287637d79a970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01287637d79a970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a7351871970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a7351871970b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a7351e2f970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a7351e2f970b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a7351ed8970b.jpg" %}I really enjoy my job reading for the admissions committee; I enjoy reading about what all you wonderful students are doing and it definitely inspires and reminds me of my experience when I applied to Caltech.
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a7351ed8970b.jpg)I really enjoy my job reading for the admissions committee; I enjoy reading about what all you wonderful students are doing and it definitely inspires and reminds me of my experience when I applied to Caltech.
 
 And to make this post more day-appropriate (and maybe even coincidental)...
 

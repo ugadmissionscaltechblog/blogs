@@ -55,7 +55,7 @@ Me: “You got that right.”
 
 
 
-I called my parents up for permission since the waiver did mention maiming, death, and serious injury and they were cool with it so just like that, I was signed up to do a Spartan Race in September. A few months later, I got an email about the Spartan Workout Tour. Since it was free to sign up, I found one in Long Beach, California on August 3<sup>rd</sup> and went ahead and signed up and then I forgot about it.
+I called my parents up for permission since the waiver did mention maiming, death, and serious injury and they were cool with it so just like that, I was signed up to do a Spartan Race in September. A few months later, I got an email about the Spartan Workout Tour. Since it was free to sign up, I found one in Long Beach, California on August 3rd and went ahead and signed up and then I forgot about it.
 
 
 
@@ -118,7 +118,7 @@ They had us doing burpees, jumping jacks, planks, push ups, and mountain climber
 Can you find me in this picture?
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511faa4ed970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511faa4ed970c.jpg)
 
 
 Hint: Look for my socks.

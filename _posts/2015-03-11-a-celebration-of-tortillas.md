@@ -13,18 +13,18 @@ For those who live in the houses (which includes all of the frosh), waited house
 I don't think I've seen a seven layer dip contained in a vessel bigger than a casserole dish. And this was...much bigger. I dug into the gloop to take my share before moving on. Here's a close-up of this magnificence:
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7573d98970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7573d98970b.jpg)
 Other featured items were nacho and taco stations, carne asada, pollo asada, tortilla chip crusted tilapia and chicken taquitos. Even though I took a small portion of each, it piled up. Here's my neighbor, Gregory, balancing his haul while dipping into the flan:
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07fb0327970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07fb0327970d.jpg)
 As you can see, we had a lot of dessert as well. There were churros, bunuelos (deep fried tortillas with cinnamon sugar -- flat churros?), and flan. Here's Gregory and blurry Sirus (another neighbor) enjoying their food while wearing the sombreros gifted to them by CDS:
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0e086a9970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0e086a9970c.jpg)
 The girls got flowers, which Sirus kindly modeled (whilst eating a taquito):
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0e082ed970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0e082ed970c.jpg)
 Everything was quite excellent. I especially enjoyed the taco chicken, seven layer dip, rice, churros, and mangos. We left Chandler with loaded stomachs and happy hearts. The board dinners have been excellent in my first year at Caltech, and continue to provide a festive change from the usual.
 

@@ -18,10 +18,10 @@ We walked all the way to Old Pas to go to Amara's Coffee and Chocolate. It's a c
 They specialize in Spanish Churros, drinking chocolate, and gluten free sandwiches. We indulged in some churros (with dark chocolate for dipping) and lattes.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0827e00c970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0827e00c970d.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c783d476970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c783d476970b.jpg)
 I forgot that they would be lattes with double espresso shots, and my Dulce de Leche latte is hitting me right now and I'm literally bouncing up and down at my desk. It also helps that I've replaced my desk chair with an exercise ball, so bouncing is easy!
 
 I've got a little bit more work to do today, so let's see if I can sit still long enough to get any writing done. Wish me luckkkkkkkk

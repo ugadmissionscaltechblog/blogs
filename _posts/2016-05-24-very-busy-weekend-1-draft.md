@@ -22,7 +22,7 @@ I skipped my Friday morning class to treat myself to a nice relaxing snack. I ju
 I made pancakes on Saturday morning and continued doing laundry. I went to my friend's birthday party - we went out to Shanghainese food.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1eb4525970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1eb4525970c.jpg)
 It was really tasty and we had a great time. (All the matching t-shirts are from the Caltech 5k, which was that morning.) I tried those dumplings with the soup inside and lots of other new things! Lidan is 22 now!
 After lunch, I did more laundry and probably some work. I don't remember doing work but I feel like that must have happened. Maybe I just wasted a few hours. Either way Alumni dinner came around at 6, which was really good!
 They like to feed the alums delicious food. I talked to some Pageboys who were back for their 50-year gradiversary (reunion?) and learned what our house was like when it was first founded. Apparently they used to terrible food. In any case, Saturday's dinner was amazing. There was an appetizer (mini pesto caprese with burrata on tiny flaky pastry circles), main (prime rib, salmon, or stuffed pasta with mashed potatoes and green beans) and dessert (cake!). Lots of more recent alums hung around after dinner and we had a fun Saturday night catching up with our graduated friends.

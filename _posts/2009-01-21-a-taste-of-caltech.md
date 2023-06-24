@@ -20,13 +20,13 @@ Bachelor pad that Mannion's house is, the entire lower floor as far as I can tel
 In the first class we attended we learned about all the different utensils we could use and made some simple things like salads, and helped President Chameau out with some lawn grooming by picking all the excess tangerines from the trees in his backyard, which we then put in the salad. (As admitted students, you will all get to loot the tangerines as well when you are invited there for dinner as part of your first week as frosh.) 
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b010536e9efc6970c.jpg" %} 
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b010536e9efc6970c.jpg) 
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536eb17da970c.jpg" %} This week, we were learning about different tastes and flavors, so we were given little numbered trays
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536eb17da970c.jpg) This week, we were learning about different tastes and flavors, so we were given little numbered trays
  
  of foods ranging from prosaic to exotic, such as plain yogurt and kumquats. My group was particularly fascinated with something called a tapenade, which we had never heard of before. Tom spent a while discoursing on the five fundamental tastes, sweet, sour, salty, bitter, and umami (Japanese concept roughly corresponding to the taste of MSG), and how to use them in cuisines, for example that one should use sour to counter something too bitter. We then had to create little mini-dishes to show that we could balance flavors properly.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536eb1965970c.jpg" %}Well, that's all until next time, when I hope to provide you with pictures of deliciously arranged soups as tomorrow is "Stocks, Sauces, and Oils". And we're told Stephen Hawking will be joining us for Asian food night on Feb. 18, so I'll be sure to have my camera out then!
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536eb1965970c.jpg)Well, that's all until next time, when I hope to provide you with pictures of deliciously arranged soups as tomorrow is "Stocks, Sauces, and Oils". And we're told Stephen Hawking will be joining us for Asian food night on Feb. 18, so I'll be sure to have my camera out then!
 

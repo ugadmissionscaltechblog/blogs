@@ -40,7 +40,7 @@ You could actually just float around a read a book or something for as
 long as you like.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c34dc0ea8970b017d3fbe31e8970c-800wi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c34dc0ea8970b017d3fbe31e8970c-800wi.jpg)
 Just floatin'
 Our last
 trip of the day was to Jerusalem for New Year’s Eve. We all went downtown around 10pm and hung out

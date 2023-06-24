@@ -8,17 +8,17 @@ status: Publish
 date: 2010-02-26
 ---
 
-<span style="color: #c00000; font-size: 18px;">Hi there, chefs (and prospective ones)!We had a really interesting day in cooking last night learning about Lebanese food! I never really had exposure to it before, so this was a good chance to try something new and different! If I could describe Lebanese food in a word, it would be aromatic! When we were cooking and eating everything smelled like cinnamon and allspice (two of the staple spices), and it was scrumptious!
+Hi there, chefs (and prospective ones)!We had a really interesting day in cooking last night learning about Lebanese food! I never really had exposure to it before, so this was a good chance to try something new and different! If I could describe Lebanese food in a word, it would be aromatic! When we were cooking and eating everything smelled like cinnamon and allspice (two of the staple spices), and it was scrumptious!
 Think of Lebanese food, if you're not familiar with it, as being a cross between Greek and Middle Eastern cuisines. The Greek influences I would say are the use of phillo dough and feta cheese in some dishes, along with yogurt; the middle eastern influences seem to be more in the aromatics and spices that are used along with the dishes. What also was really neat was having a native Lebanese teacher come in to show us the ropes (and demonstrate how to make hummus! mmmmmm). Enjoy the pictures!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310f403af8970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310f403af8970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310f403cd9970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310f403cd9970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a8d972b0970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a8d972b0970b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310f403f75970c.jpg" %}Next week... we're going to the Far East - India! I'm looking forward to a good curry (among other delicious things, of course).
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01310f403f75970c.jpg)Next week... we're going to the Far East - India! I'm looking forward to a good curry (among other delicious things, of course).
 
 Recipe of the Week: Pasta with Ricotta and Tomato Sauce. The recipe follows below. It's one of my favorite quick pasta dishes, and like many of these other recipes, it's perfect to make on a busy weekend night when you want something delicious but not time-consuming! For a variation with a bit more bite throw some peas into the pasta water for the last couple minutes of cooking time!
 1 lb pasta (preferably rotini or farfalle - something to hold onto the chunky sauce)

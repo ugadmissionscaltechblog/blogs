@@ -15,17 +15,25 @@ The train ride itself was pleasant and had free wi-fi and outlets. The ride was 
 
 Vienna completely blew me away! When you are in Vienna, you are surrounded by palaces, art museums, music and performing arts houses, and chic cafes. You have access to such a rich history and culture. Vienna manages to preserve its essencewhile keeping up with themodern world. I also felt the safest in Vienna (compared to Budapest and Prague).
 
-<div class="photo-caption caption-xid-6a01bb08213082970d01b8d26f7f2c970c" id="caption-xid-6a01bb08213082970d01b8d26f7f2c970c">Freud museum
+Freud museum
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d26f7f37970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b8d26f7f37970c" id="caption-xid-6a01bb08213082970d01b8d26f7f37970c">Schnitzel (left) and apple strudel (right)
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d26f7f37970c-pi.jpg)
+
+Schnitzel (left) and apple strudel (right)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d26f7f40970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b8d26f7f40970c" id="caption-xid-6a01bb08213082970d01b8d26f7f40970c">Sachertorte, a Viennese chocolate cake
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d26f7f40970c-pi.jpg)
+
+Sachertorte, a Viennese chocolate cake
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb098855d1970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01bb098855d1970d" id="caption-xid-6a01bb08213082970d01bb098855d1970d">Hofburg Imperial Palace
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb098855d1970d-pi.jpg)
+
+Hofburg Imperial Palace
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d26f7f49970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b8d26f7f49970c" id="caption-xid-6a01bb08213082970d01b8d26f7f49970c">At the Vienna State Opera
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d26f7f49970c-pi.jpg)
+
+At the Vienna State Opera
 

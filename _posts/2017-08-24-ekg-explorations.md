@@ -19,5 +19,5 @@ While that all was super fun and rewarding, my lab mates figured out something e
 
 We figured out that if we placed one of the electrodes over our hearts, we could see our heart beats in the EEG data! As you can see from the picture, our data looks almost as clean as a real heart monitor in the hospitals! Luckily, this test did not give me any surprise news: my heart beats look perfectly normal!
 
-<div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09b4db16970d" id="caption-xid-6a01b8d28f2955970c01bb09b4db16970d">Here's the EEG/EKG data!
+Here's the EEG/EKG data!
 

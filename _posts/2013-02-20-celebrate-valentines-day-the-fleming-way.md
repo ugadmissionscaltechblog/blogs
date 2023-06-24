@@ -15,6 +15,6 @@ Here is the wonderful setup that our Social Team put together in our dining hall
 Here are the sophomore girls of Fleming House all dressed up!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c36fcbf24970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c36fcbf24970b.jpg)
 The dinner was a great event, and I think everyone had a good time. We had a huge turnout: 54 guests! And it was a lot of fun seeing everyone dressed up, since we don't always look this good :).
 

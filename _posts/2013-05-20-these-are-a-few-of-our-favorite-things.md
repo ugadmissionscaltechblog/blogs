@@ -20,7 +20,7 @@ made me really realize that we were in Switzerland for the next three weeks.
 *View of Lake Geneva.*
 *
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901c5dac0a970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901c5dac0a970b.jpg)
 *Other paddleboats on Lake Geneva*
 Another highlight when we were in French Switzerland was
 going on the wine hike. I will never forget how picturesque the neatly trimmed vineyards
@@ -31,15 +31,15 @@ and laughter epitomized the ‘enjoy and live life to the fullest’ attitude of
 the French Swiss.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01910253b04d970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01910253b04d970c.jpg)
 *Inside the wine tavern on our wine hike.*
 *
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901c5daf75970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901c5daf75970b.jpg)
 *Neatly and well maintained vineyards in the French Swiss countryside.*
 *
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192aa1c133e970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192aa1c133e970d.jpg)
 
 Seeing the Alps for the first time was breathtaking. When we
 saw the majestic snow-capped peaks for the first time, we just stood there for
@@ -54,7 +54,7 @@ away from us, the tinkling noise from their large oversized bells around their
 necks resonated throughout the valley, creating a discordant symphony of notes.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901c5db3b6970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901c5db3b6970b.jpg)
 *Hiking in the Swiss Alps! :)*
 Even though admiring the Alps was a feast for our eyes, actually
 hiking the Alps was a dream come true. I couldn't believe how huge the
@@ -69,19 +69,19 @@ the last moments of light later was a great adventure. It was an exciting first
 day in the Alps.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901c5db49d970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901c5db49d970b.jpg)
 *Cairns on the hike that signify we were on a trail.*
 *
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01910253b72b970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01910253b72b970c.jpg)
 *A lookout structure in the Alps.*
 *
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901c5db6b7970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901c5db6b7970b.jpg)
 *Looking down to the valley from a hike.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01901c5db819970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01901c5db819970b.jpg)
 We went to the Alps right at the end of the summer hiking
 season. I loved when we hiked to Falhorn, which is one of the classic Swiss
 Alpine hikes. We took a lift up from the hot, sunny valley in Grindelwald to
@@ -99,7 +99,7 @@ hikes, we definitely busted out the jolly tunes and I think it really enhanced
 our experience and other hikers enjoyed it too.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01901c5db819970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01901c5db819970b.jpg)
 *Carefully and cautiously hiking down a snowing and slippery slope.*
 When we arrived in
 Bern on Sunday afternoon, we were pretty tired, but we wanted to try the river
@@ -116,7 +116,7 @@ landlocked, the river float is definitely a fun ride. I liked how tourist
 experience was doing something the locals did frequently.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01910253bec3970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01910253bec3970c.jpg)
 *View of the river that we were floating down in Bern.*
 Going to Italian Switzerland was like travelling to a
 different country! The contrast existed not only in the language change from German
@@ -134,18 +134,18 @@ view of Lake Lugano across to Italy and walking along the ancient cobblestoned
 paths are favorite memories.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01910253c44f970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01910253c44f970c.jpg)
 *Carly next to one of our favorite fountains in Lugano.*
 *
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901c5dc4c4970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901c5dc4c4970b.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01910253bfec970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01910253bfec970c.jpg)
 *Church in Morcote.*
 *
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01910253c6cd970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01910253c6cd970c.jpg)
 
 *View of the ceiling in a Cathedral.*
 **The Roman ruins in Avenches
@@ -160,7 +160,7 @@ build the wall and the towers in a time period when walking was the most common
 form of transportation.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01910253bfec970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01910253bfec970c.jpg)
 *Steps and seating in the ancient Roman amphitheatre.*
 It was our pleasure to write this blog for you because it allowed us to relive our adventures. Thanks so much for reading. We are very gratefull to Mr. San Pietro for setting up this travel opportunity for Caltech undergraduates. Thanks to the efforts of the Caltech FASA office as well.
 

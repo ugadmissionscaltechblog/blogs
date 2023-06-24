@@ -8,7 +8,7 @@ status: Publish
 date: 2014-05-08
 ---
 
-The conference tournament that we call SCIACs (that’s just the name of our conference) was this past weekend, concluding our season. It was especially hot this weekend, but as my coach always says, the sun shines and the wind blows on both sides of the net: what you’re feeling your opponent is as well. And after three matches, Caltech earned 7<sup>th</sup> place out of the nine teams in conference, which is quite an achievement and improvement from past years. You can read more about us <a href="https://gocaltech.com/sports/wten/index" target="_blank" title="">here</a>.
+The conference tournament that we call SCIACs (that’s just the name of our conference) was this past weekend, concluding our season. It was especially hot this weekend, but as my coach always says, the sun shines and the wind blows on both sides of the net: what you’re feeling your opponent is as well. And after three matches, Caltech earned 7th place out of the nine teams in conference, which is quite an achievement and improvement from past years. You can read more about us [here](https://gocaltech.com/sports/wten/index).
 
 A little ways back, we had Senior Day that recognizes the seniors and their achievements, similar to high school sports. We made posters that were hung up on the fence and our coach gave them a short speech. This year’s was special because it was on PFW so we had our recruits and other prefrosh cheering for us and we won!
 

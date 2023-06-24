@@ -14,8 +14,8 @@ The first time I walked Jack, I went with another Caltech exchange student, Mich
 I walked him again just two days ago, and he was a lot more obedient, thankfully!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01bb09d9c3b3970d-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01bb09d9c3b3970d-pi.jpg)
 (Sorry for the screenshot of Michelle's instagram story :P)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b7c936ac47970b-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b7c936ac47970b-pi.jpg)

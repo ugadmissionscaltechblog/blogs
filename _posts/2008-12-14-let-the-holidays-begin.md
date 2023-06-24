@@ -19,7 +19,7 @@ First, my biggest brush with a celebrity since moving to California. Sure, Keanu
 
  Secondly, some pictures from our dress dinner. Each house (as far as I know) has a dress dinner once per term. It’s a fun excuse to act fancy together, and Dining whips up a special meal for the occasion. 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0105365b5c74970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0105365b5c74970b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0105365b5cb1970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0105365b5cb1970b.jpg)
 So those were some fun things I wanted to share with you. If you have any ideas of some topics you might want me to cover in my next few blog entries, I’d love to know. Until then, I’ll be enjoying my holiday, and you guys enjoy yours too!

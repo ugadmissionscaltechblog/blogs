@@ -42,7 +42,7 @@ of this bread. I happen to really like it, and so I have never bought white
 bread here because the dark one is a lot cheaper and tastier, in my opinion. This
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0105360ca9a6970b.jpg" %}sandwich. Though it is a sandwich, it is eaten with a fork and knife, and is
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0105360ca9a6970b.jpg)sandwich. Though it is a sandwich, it is eaten with a fork and knife, and is
 often served hot. Basically, it is Danish bread with a wide variety of
 toppings. The toppings can include herring, cheese, meat, vegetables, salads,
 and pretty much anything else you can wish for.
@@ -53,7 +53,7 @@ be eaten hot or cold, and it often served topped with mushrooms and bacon. Altho
 this might sound disgusting to some of you, I think it is actually pretty good.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01053614f961970c.jpg" %} dishes, but I know many
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01053614f961970c.jpg) dishes, but I know many
 international students who would disagree with me. I guess it’s just a matter
 of taste. Many of the foods here are similar to Russian food. So, it might just
 be that I acquired the taste for them when I was growing up in Russia. 
@@ -64,7 +64,7 @@ I have not had that much experience with this type Danish food here. These
 typical dishes are mostly eaten on special occasions and holidays. For example,
 during the Christmas season (now) the Danes like to hold many “Christmas
 lunches” – where they prepare and enjoy these typical dishes. I will participate
-in one of these lunches tomorrow along with my hallmates. <span></span>I am actually signed up to prepare some sort
+in one of these lunches tomorrow along with my hallmates. I am actually signed up to prepare some sort
 of Danish sweet potatoes, although I have no idea what I am supposed to do. So,
 I am looking forward to learning more about cooking from the Danish students in
 my hall!

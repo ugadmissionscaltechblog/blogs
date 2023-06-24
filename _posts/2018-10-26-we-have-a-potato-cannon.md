@@ -14,7 +14,7 @@ The way it works is a little beyond me. I haven’t taken the time to learn anyt
 
 More recently, we have had new frosh that are excited to try fruits on our cannon. A pineapple was our most recent idea. However, the pineapple didn’t fit in the canister. So, they just put it on the front of the cannon. It was very amusing. Check out the video to see what happened (and spoilers underneath it)!
 
-<p class="asset-video"><iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="281" src="https://www.youtube.com/embed/9rRFvgHI6wE?feature=oembed" width="500"></iframe>
+[Watch on YouTube](https://www.youtube.com/watch?v=9rRFvgHI6wE)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d022ad375f477200c-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d022ad375f477200c-pi.jpg)

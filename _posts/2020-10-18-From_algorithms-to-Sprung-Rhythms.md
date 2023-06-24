@@ -18,4 +18,4 @@ My post-Caltech plan is to attend graduate school and obtain a Master of Science
 I’m thrilled to join the Caltech Fission team as a new blogger and look forward to sharing with you my experience, both as a Techer as well as an intern at JPL!
 
 
-{% include image.html img="https://ik.imagekit.io/u9ndqdgam20/images/2020/10/Annabel+/2B850710-7F41-4AF6-ACD8-58B7C313A9E2.jpeg" %}
+![](https://ik.imagekit.io/u9ndqdgam20/images/2020/10/Annabel+/2B850710-7F41-4AF6-ACD8-58B7C313A9E2.jpeg)

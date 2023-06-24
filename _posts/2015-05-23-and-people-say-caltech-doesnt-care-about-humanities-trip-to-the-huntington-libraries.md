@@ -25,34 +25,34 @@ After presentations, we talk about the novels (we usually have one due every wee
 
 Dr. Gilmartin has an "in" with the curator of the rare documents at the Huntington Library, and we were able to go (for free!) last Friday to view some of their first editions of Austen's work, as well as other materials that they have, from the same era. I completely GEEKED OUT. I've never really been a museum person, but spending an hour in humidity-controlled room with first editions of novels and plays, letters from Austen's family, contemporary calling cards and guidebooks and fashion plates, was amazing. It was all the more valuable to be able to see all of these artifacts because of the historical presentations we had been giving during the term: we saw a first edition of Mary Wollstonecraft's*A Vindication of the Rights of Women*, a first edition of*Lover's Vows* and*Fordyce's Sermons*, which are both works that Austen writes about in her novels, and which we had thought she had invented (but actually existed during the period, and which all of her original audience would have recognized). I'll stop narrating and just show you some pictures, shall I?
 
-**<span style="font-size: 10pt;">Before we go in, remember: DON'T TOUCH ANYTHING**
+**Before we go in, remember: DON'T TOUCH ANYTHING**
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb082fe64b970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb082fe64b970d.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb082fe655970d.jpg" %}
-**<span style="font-size: 10pt;">The full spread.**
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb082fe655970d.jpg)
+**The full spread.**
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c78bea61970b.jpg" %}
-**<span style="font-size: 10pt;">Letters from Austen's aunts.**
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c78bea61970b.jpg)
+**Letters from Austen's aunts.**
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c78bea6e970b.jpg" %}
-**<span style="font-size: 10pt;">A flip book owned by aristocracy, created by a famous landscape designer, who would draw before and after books for his rich clients.**
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c78bea6e970b.jpg)
+**A flip book owned by aristocracy, created by a famous landscape designer, who would draw before and after books for his rich clients.**
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb082fe679970d.jpg" %}
-**<span style="font-size: 10pt;">First editions!**
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb082fe679970d.jpg)
+**First editions!**
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1157e57970c.jpg" %}
-**<span style="font-size: 10pt;">Calling cards left on social visits to other aristocratic houses.**
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1157e57970c.jpg)
+**Calling cards left on social visits to other aristocratic houses.**
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c78bea8c970b.jpg" %}
-**<span style="font-size: 10pt;">Strong lady of the day: Mary Wollstonecraft**
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c78bea8c970b.jpg)
+**Strong lady of the day: Mary Wollstonecraft**
 
 I took so many more pictures that I don't know where to put them all. Anyway, I hope this has been a good taste of what English classes at Caltech can be like!
 

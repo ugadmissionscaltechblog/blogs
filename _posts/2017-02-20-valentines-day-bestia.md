@@ -16,5 +16,5 @@ Page House held a Galentine's Day event the night before, featuring cookie decor
 3) With the boyfriend
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2614c6f970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2614c6f970c.jpg)
 

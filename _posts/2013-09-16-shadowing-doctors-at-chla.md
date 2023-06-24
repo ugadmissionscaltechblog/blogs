@@ -12,7 +12,7 @@ Hey all,
 During these next two weeks, I will be shadowing doctors at Children's Hospital Los Angeles (CHLA) through what we call a preceptorship program (essentially a shadowing experience/program) organized by the school. There are about 10 of us premeds participating in this program. The people at CHLA try to arrange our schedules so that we can gain exposure to aspects of medicine we're especially interested in. For example, I told them that my interests were in OB/GYN and pediatric surgery, so for the first week, I am scheduled to shadow plastic surgeons in both the operating rooms (OR) and the surgical clinic. Since most of us premeds have different interests, we probably won't see much of each other while at the hospital for the next two weeks. I am incredibly excited for this experience!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019aff44c19c970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019aff44c19c970c.jpg)
 Orientation at CHLA this past Friday. We got badges that refer to us as "medical students" and everything!
 **Dress code**:
 - No shorts or jeans.

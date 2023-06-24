@@ -15,9 +15,9 @@ We met up with a mother of a tennis alum who is a member of the club where we pl
 Rebs and I won our singles and doubles matches the first day, and sort of as a prize, our coach took us paddle boarding that afternoon! Just a five minutes drive from our hotel, we reached the beach. Neither of us had paddle boarded before, so we started off kneeling on the board (the lower center of gravity made it harder to fall).
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d01a511ba56c6970c-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d01a511ba56c6970c-pi.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dc59ff4970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dc59ff4970d.jpg)
 *Here's the beach! The harbor we explored is to the right of the photo, where you can kind of see the boats.*
 There was a harbor nearby so we decided to check it out.When we paddled into the harbor, I imagine what we saw as the Americanized version of Venice. The water was lined with houses that each had their own mini-pier where their boat/yacht was parked. The water was so still that Rebs saw fish swim by, but I wasn’t paying enough attention to see them. The still water also let us stand up on the boards. The boats were all different colors had their names painted onto their sides. And when the crew boats weren’t nearby (and we weren’t talking), it was so quiet, with only the sound of our paddles hitting the water.
 
@@ -27,19 +27,19 @@ The next day, we didn’t do as well as hoped for, losing in doubles and singles
 From the hotel:
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d01a73dc5a019970d-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d01a73dc5a019970d-pi.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d01a511ba56e4970c-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d01a511ba56e4970c-pi.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511ba558e970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511ba558e970c.jpg)
 *Team photo!*
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd0ab524970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd0ab524970b.jpg)
 *Bird tracks from the beach. We think they're sea gulls, but I don't actually know.*
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d01a73dc5a04a970d-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d01a73dc5a04a970d-pi.jpg)
 *And lastly palm trees I took while on the road.*
 Till next time,
   Monica

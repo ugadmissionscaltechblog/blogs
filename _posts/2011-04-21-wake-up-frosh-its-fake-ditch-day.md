@@ -16,12 +16,12 @@ Today was a campus-wide fake Ditch Day, where seniors from all eight houses plan
 
 Here are some pictures from Fleming's Stacks:
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e87f65532970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e87f65532970d.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01538e02e874970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01538e02e874970b.jpg)
 Whack-a-Monster: The Stack
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e87f658ee970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e87f658ee970d.jpg)
 Monster Pinata
 Eventually you'll get a post from me about actual Ditch Day. But until then... Go to bed (pre)frosh, Ditch Day is Tomorrow!

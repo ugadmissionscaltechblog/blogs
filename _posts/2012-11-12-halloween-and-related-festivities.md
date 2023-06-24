@@ -9,7 +9,7 @@ date: 2012-11-12
 ---
 
 
-<div id="yiv1513723286yui_3_7_2_16_1351893361778_39">As a follow up to a previous blog,I'm sorry to write that we lost our soccer game on Thursday. It was a great game though; high intensity throughout the entire game, SOKA scored in the second to last minute, breaking the tie and ending the game with a 3-2 lead. You can get the full story here:https://www.gocaltech.com/sports/msoc/2012-13/releases/20121101kkkdd1.
+As a follow up to a previous blog,I'm sorry to write that we lost our soccer game on Thursday. It was a great game though; high intensity throughout the entire game, SOKA scored in the second to last minute, breaking the tie and ending the game with a 3-2 lead. You can get the full story here:https://www.gocaltech.com/sports/msoc/2012-13/releases/20121101kkkdd1.
 
 Halloween was more of a win. Dabney House hosted a pumpkin drop where they dipped pumpkins in liquid nitrogen and rolled them off the top of our nine-story Millikan Library starting at midnight. The show was even choreographed with music that was fitting for Halloween. The pumpkins made a loud noise when they hit the ground because they had been frozen. Some had lights duct taped to them to make it more interesting. I tried to get some photos of the pumpkins falling but they were too fast. Try and picture a small dot accelerating then smashing into the ground from the top of this:
 
@@ -22,13 +22,13 @@ Page had their Interhouse this Friday; every year each house hosts a party for t
 The Social Team organized a pumpkin carving contest with dinner in honor of Halloween and midterms. We aren't served meals on the weekends with board, so geting food on campus was nice. The whole event was pretty mellow and destressed people from taking midterms. We now also have some elaborately carved pumpkins in our courtyard!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3337b65d970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3337b65d970b.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3337b818970b.jpg" %}One was also made to resemble a certain someone which turned out hilariously.
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3337b818970b.jpg)One was also made to resemble a certain someone which turned out hilariously.
 
 The first Sunday of every month, a flea market is held at PCC, the nearby community college. We walked over and saw the entertaining items people had to sell. Also, I bought a plant! I have a weirdly high interest in plants, sometimes stopping to look at them walking back from class.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d3d663d82970c.jpg" %}Right now the orchid is living under my bunked bed on the shoe shelf. It's supposed to grow best in the shade, and hopefully I can keep it alive for a while.
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d3d663d82970c.jpg)Right now the orchid is living under my bunked bed on the shoe shelf. It's supposed to grow best in the shade, and hopefully I can keep it alive for a while.
 

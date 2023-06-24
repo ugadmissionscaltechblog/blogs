@@ -22,6 +22,6 @@ https://www.youtube.com/watch?v=KjyqMYdLdys (Mvt 2)
 The funny thing was, at our first rehearsal with Martin Chalifour, he hadn't even heard of the piece before! And yet he still managed to leave us with something inspiring even at that first rehearsal. An inspiring musician, man, and teacher Mr. Chalifour is! Needless to say we improved dramatically ever since that first time. Here is a picture of our quartet and our coachafter our last rehearsal last week :')
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1e827fb970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1e827fb970c.jpg)
 For now, though, homework calls. If you're still here, thanks for reading! Till next time,
 Anita

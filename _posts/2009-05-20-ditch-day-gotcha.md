@@ -21,12 +21,12 @@ DK pied poor Jackie :(
 Next, they decided that we should have Doraemon equipment. In other words wear the little caps with the fan on top. 
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011570913d70970b.jpg" %}Yea. Imagine running around all morning with these. (Say hi to Luke if you ever see him).
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011570913d70970b.jpg)Yea. Imagine running around all morning with these. (Say hi to Luke if you ever see him).
 
 Next we ran around looking for Doraemon figurines all over campus, collecting the little guys to form a secret message:
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01156fa2675e970c.jpg" %}There's a tiny doreamon action figure on the statue in front. Millikan pond is also freezing in the morning...
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01156fa2675e970c.jpg)There's a tiny doreamon action figure on the statue in front. Millikan pond is also freezing in the morning...
 
 The secret message said we should go to Watson lab, and arriving there, we found a homemade flamethrower (lighter with dust-cleaner aerosol can) and a large bag in the tree. We were supposed to burn down the string holding the bag with our flamethrower, but we accidentally pulled the whole thing down...
 
@@ -35,8 +35,8 @@ In any case, they led us through a few more sidequests and then finally we got a
 And set the whole thing on fire.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157097b21e970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157097b21e970b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157097b2cd970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157097b2cd970b.jpg)
 Yup. That's it. Apparently the message was "Go to sleep frosh! Ditch Day is Tomorrow!"
 

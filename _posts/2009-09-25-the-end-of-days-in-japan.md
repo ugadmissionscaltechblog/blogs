@@ -12,11 +12,11 @@ date: 2009-09-25
 
 Well, this was my last day in Japan, and so the teachers took us to a remote village in the hills of Aichi to relax and just wander around. There were large forests, a big river, and small hills to climb. Overall, a great place to end my trip to Japan. It was also refreshing to get the crisp mountain air along with the ambiance of the river at the same time. In the autumn, this place is really popular to come see the changing colors of the trees. I hope that someday in the future I’ll be able to return here in the autumn. In addition to just relaxing and walking around, we were able to create coasters made out of hand-shaved bamboo. These were pretty cool and very fun to make as well. 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5e72c41970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5e72c41970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a590a40f970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a590a40f970b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a590a570970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a590a570970b.jpg)
 
 **Conclusions and Observations**
 

@@ -18,9 +18,9 @@ The next day was a sort of slow day. It was an errand day. I made crepes for bre
 Sunday was more exciting. We got up at 7 in the morning and went to the train station, taking a train down to my parents, who met us with a truck. They had also loaded this truck with a small barbecue, matches, and towels. We (me, JD, and my roommates Laura and Chet) drove down to the Santa Cruz Beach Boardwalk.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7b1b202970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7b1b202970b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0855c33b970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0855c33b970d.jpg)
 I love my beaches! We actually went on a house beach trip last term. I'm glad we got to do this while I'm here.
 
 Anyway, until next time,

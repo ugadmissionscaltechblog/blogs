@@ -30,15 +30,20 @@ The day before we left for the backpack (two days before eclipse day), I read An
 
   Experiencing the total eclipse was one of the most interesting events I've been through. In 2024, when the eclipse comes through America again, I will make sure to be there. I want to see the world stand still again.
 
-<div class="photo-wrap photo-xid-6a01b8d28f2955970c01bb09bfc6d2970d photo-full " id="photo-xid-6a01b8d28f2955970c01bb09bfc6d2970d" style="float: left; margin: 0px 5px 5px 0px;">
-<div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09bfc6d2970d" id="caption-xid-6a01b8d28f2955970c01bb09bfc6d2970d">The sun is in its "Pac Man" stage.
+The sun is in its "Pac Man" stage.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09bfc76a970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09bfc76a970d" id="caption-xid-6a01b8d28f2955970c01bb09bfc76a970d">The sun looks like the moon here!
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09bfc76a970d-pi.jpg)
+
+The sun looks like the moon here!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b7c91c8d3e970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b7c91c8d3e970b" id="caption-xid-6a01b8d28f2955970c01b7c91c8d3e970b">Totality! Sorry for the poor quality, but this is all that my iPhone could produce!
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b7c91c8d3e970b-pi.jpg)
+
+Totality! Sorry for the poor quality, but this is all that my iPhone could produce!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09bfc7d6970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09bfc7d6970d" id="caption-xid-6a01b8d28f2955970c01bb09bfc7d6970d">The slightly sepia mountain after the eclipse.
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09bfc7d6970d-pi.jpg)
+
+The slightly sepia mountain after the eclipse.
 

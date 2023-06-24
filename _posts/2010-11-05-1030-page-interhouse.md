@@ -12,4 +12,4 @@ Tonight was our Halloween party this year. More specifically, tongight was Page'
 
 As this was the night before Halloween, everyone came in their costumes. I saw plenty of great costumes. Nearly all of the freshmen in Ricketts House dressed as another freshman nicknamed Genesis. There were people dressed as bananas, angels, Dorothy from the Wizard of Oz, and all kinds of other costumes. In this picture, I'm dressed as a Spartan from 300 and Timi is dressed as Medusa. And that is a real snake around her neck and in her hair. That's called dedication!
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013488b7fbf6970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013488b7fbf6970c.jpg)

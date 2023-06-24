@@ -19,7 +19,7 @@ Zingerman's also has a little chocolate and coffee shop nearby. Their menu would
 
 My aunt and cousins were invited to a wedding which gave free ice cream to its guests, so after Zingerman's, we headed towards Blank Slate Creamery, Michigan's version of Afters or Fosselman's, Pasadena's local, more up-scale ice cream shops (on a side note, one perk about being here over the summer is Tom Mannion, our director of student activities and programs, gets us Fosselman's ice cream every Wednesday). I got some sort of banana peanut butter chocolate concoction (three of my favorite foods!), and loved each lick! I definitely recommend going to Blank Slate if ever in Ann Arbor.
 
-<div class="photo-caption caption-xid-6a01b8d28f2955970c01b7c9148ee5970b" id="caption-xid-6a01b8d28f2955970c01b7c9148ee5970b">Here's the exterior of Zingerman's. Image from Zingermanscommunity.com.
+Here's the exterior of Zingerman's. Image from Zingermanscommunity.com.
 
 This day was definitely a great way to kick off my trip to Michigan! Stay tuned for more adventures in my next blog post!
 

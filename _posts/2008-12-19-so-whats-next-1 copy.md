@@ -8,7 +8,7 @@ date: 2008-12-19
 ---
 
 
- </span>
+ 
  Of course, if you don't have a Facebook or just don't want to join, you're not at any real loss here. Like Facebook itself, it's just another nice tool for connecting with others. 
  Talking about getting ready for Prefrosh Weekend makes me think it might be a nice time for me to share my PFW experiences with you. It is, after all, the next thing to think about once you've been admitted. Since there's a lot to talk about, and a lot of time to write this holiday (I can only be a TV junkie so many hours of the day), I think I'll split it into a couple of parts. First, I just want to talk about what it was like getting there, and once you hear the story, I think you'll understand why that merits its own entry.
 

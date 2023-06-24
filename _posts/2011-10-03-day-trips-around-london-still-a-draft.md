@@ -12,12 +12,12 @@ Classes at UCL begin in earnest on Monday. Before then my fellow study abroad st
 The day trip we took to Oxford was so enjoyable we've made plans to repeat the trip! I was impressed by the age and beauty of London, but that's because I hadn't yet seen Oxford.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015435cec229970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015435cec229970c.jpg)
 I couldn't resist snapping a photo of a school class posing with the castle guard. While we toured the castle we were able to see the armor of King Henry VIII, entire rooms covered in pistols, swords, and muskets, and even the bullet that killed Admiral Nelson at the Battle of Trafalgar!
 Eton College is a well respected, all boys prep school just a short walk from the castle. It's a notable institution for having educated Prince William, Prince Henry, and 19 -- yes, 19! -- British Prime Ministers! The courtyard below was made famous in the movie Chariots of Fire:
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015435cec924970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015435cec924970c.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015391fb4e3e970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015391fb4e3e970b.jpg)

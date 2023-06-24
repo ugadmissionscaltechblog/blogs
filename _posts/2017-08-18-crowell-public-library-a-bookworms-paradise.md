@@ -17,5 +17,5 @@ My boyfriend and I go every few weeks or so to the Book Shoppe, a used bookstore
 
 We also decided to peek in to the actual library itself to see whether they had any books in Japanese, a language that we are both learning. Though they had a complete Chinese section (I think there were at least 20 bookcases filled with books written in Chinese, so if you plan on studying that language, this is definitely the place to go), they only had a few language-learning books in Japanese. We did come across a book written about how to read hieroglyphics, which looked super interesting. Though I have my hands full with Japanese this summer, maybe I can take that book out over winter break... Well, I have something to look forward to!
 
-<div class="photo-caption caption-xid-6a01b8d28f2955970c01b8d299125e970c" id="caption-xid-6a01b8d28f2955970c01b8d299125e970c">The front of the library. Image taken from crowellpubliclibrary.org
+The front of the library. Image taken from crowellpubliclibrary.org
 

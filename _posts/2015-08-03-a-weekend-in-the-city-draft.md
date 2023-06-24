@@ -22,15 +22,15 @@ I took JD to see Inside Out after dinner. I liked it so much I reallllly really 
 On Sunday we rolled out to La Taqueria, San Francisco's Best Burrito according to Everybody. Did not disappoint. It was packed, though.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7b51644970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7b51644970b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08592637970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08592637970d.jpg)
 After that, we walked around the Mission. We got ice cream at Cream, which I'd heard was really fabulous. I thought it wasn't great. Maybe just their pistachio flavor isn't awesome, or maybe they're better at cookies (their whole thing is ice cream sandwiches). I've been spoiled by Coolhaus, which has a location in Pasadena and serves balsamic fig ice cream on a mascarpone base which is DELICIOUS and I always get that. One time, when I was really stressed out by school work, JD biked to Coolhaus and brought me back ice cream. Totally made my day.
 
 After Cream, we didn't really know what to do, so we just walked around until we found this cool vintage/antiques shop that was really funky and well-curated. JD found a uranium glass shot glass there for $5, which he's really excited about. It actually fluoresces under UV light. And is radioactive, but only a little bit. I almost got this cool attache for a friend of mine, but she decided she didn't need it.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d13e8761970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d13e8761970c.jpg)
 Today (Monday) I was kind of out of it. I got my own morning coffee wrong - twice - and worked pretty slowly. That's OK though. Tomorrow I'll do better. I did get to try out cardio weightlifting which... ow... but I feel pretty good now!
 Anyway, until next time,
 Suzy

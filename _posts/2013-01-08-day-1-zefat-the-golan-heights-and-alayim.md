@@ -16,17 +16,17 @@ Then we left for Zefat, a city in the North of Israel known for its artwork and 
 The Torah ark at one of the synogogues in Zefat
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee6bd3b7f970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee6bd3b7f970d.jpg)
 This is a handmade candle in the store at Zefat. It's a giant Noah's ark!
 
 Also, now would be a good time to introduce my (particularly photogenic) Caltech companions:
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee6bd24c6970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee6bd24c6970d.jpg)
 That's Jeff and Eric, both of whom live in Venerable House with me
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3519c26b970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3519c26b970b.jpg)
 And that's Ben, Alex, and Liana (also Rudds!)
 
 We also visited the Golan Heights and learned about the history and strategic importance of the region for the Israeli military. We even got to go into an old Syrian bunker. 

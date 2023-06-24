@@ -23,7 +23,7 @@ Or the lack thereof.
 
  To be frank, half the time I sleep late it's because I have an internet connection and an entire web filled with videos to explore. Like this:
 
-<iframe frameborder="0" height="281" src="https://www.youtube.com/embed/4qsWFFuYZYI?fs=1&amp;feature=oembed" width="500"></iframe>
+[Watch on YouTube](https://www.youtube.com/watch?v=4qsWFFuYZYI)
 
  Yeah, I'm up right now because of legos. I'm not sure if that's a horrible or very good reason to be up.
 

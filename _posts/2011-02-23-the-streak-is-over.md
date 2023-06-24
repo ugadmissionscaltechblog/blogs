@@ -14,4 +14,4 @@ It was awfully intense the entire time, with only a one or two difference for mu
 
 It was over. The students (and fans) stormed the courts! Everyone was there cheering for the longest time, giving chest pumps and hugs. Everyone, especially the coach and the team, looked so happy. After we came back, my facebook home page was covered with status updates on the win. Even now, people are outside my room screaming in excitement. It may seem rather silly to you that so many people are that excited over a single win. But really. There was even a documentary called Quantum Hoops made in 2007 about how Caltech hasn't won a single conference game since 1985.
 
-You can read more about the game on the Caltech Athletics website <a href="https://gocaltech.com/sports/mbkb/2010-11/releases/20110223mscsko" target="_self">here</a>.**
+You can read more about the game on the Caltech Athletics website [here](https://gocaltech.com/sports/mbkb/2010-11/releases/20110223mscsko).**

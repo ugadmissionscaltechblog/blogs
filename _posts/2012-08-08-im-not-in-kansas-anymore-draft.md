@@ -13,7 +13,7 @@ Hello again loyal readers and not so loyal readers. Today on the Chad Scribbles 
 
 So if you haven't already, go see the Dark Knight Rises! It was an epic movie and honestly could not have ended any better. I don't know if someone might be afraid to go because of the shootings but I think that they have police officers stationed at the cinemas now so it should be safe. Nolan did a great job here. The movie really built upon the last two movies and created a truly seamless plot line. Nolan's reboot of Superman, called "The Man of Steel", also looks incredible. Here's a the trailer.
 
-<iframe frameborder="0" height="281" src="https://www.youtube.com/embed/6jKWJZsjm5U?fs=1&amp;feature=oembed" width="500"></iframe>
+[Watch on YouTube](https://www.youtube.com/watch?v=6jKWJZsjm5U)
 
 On to something less movie related... Harvard!
 As you should know from the previous blog post, I'm at Harvard University this summer for their summer program. I decided to enroll because I think that it's a good opportunity to experience life outside of Caltech a bit and because there are management classes here that unfortunately aren't offered at Tech, namely Marketing Management and Strategic Management. For those of you that don't know, I'm an ACM/BEM double major (that's Applied and Computational Mathematics and Business, Economics and Management). Incidently, I have zero business experience haha. So before I get into business at Tech, I decided to use the opportunity to get a grounding in the field by taking Strategic management, which touches a bit on all areas of business.

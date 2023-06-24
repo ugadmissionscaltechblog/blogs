@@ -15,7 +15,7 @@ As an apology, please accept a picture of our cacti, the fuzzy minions:
 
 And another from Lloyd Intarrrrrhouse that was difficult to take during the evening of:
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511a8cbd4970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511a8cbd4970c.jpg)
 --
 
 April 11. The day we had to declare our options.
@@ -26,9 +26,9 @@ To celebrate my decision for these next four years, I decided to tackle my own c
 
 I'd always been told that they were difficult, but despite my years of worrying about setting the house on fire, nothing too terrible ever happened. Following the recipes usually got me where I wanted to go. With that mindset, I tackled the infamous macaron.
 
-Here's the recipe I used, borrowed from <a href="?%20Boots or sturdy shoes. Seriously. ? Clothes able to keep you comfortable from very hot (35 ?C? Maybe) to very cold (0 ?C? Maybe). But pack light. This is most easily accomplished with layers (short sleeve shirt, long sleeve shirt, sweater, windbreaker). ? Hat, sunglasses, sunscreen (People burn easily at high altitude). ? I'll provide a field notebook for you to work in, you provide enough writing utensils. Colors may be useful. ? A blanket or sleeping bag (camp provides sheets and towels and perhaps a blanket, but you may want extra warmth). ? Toiletries to keep you clean and refreshed (yes, there are showers). ? Handlens/magnifier, scale object, camera or good camera-phone. (We'll bring some rock hammers). ? A daypack (We won't be walking more than about 1 km from bus, or for more than 1 hour at a time, but still handy to have a place for your stuff)." style="color: #00bfbf;" target="_blank" title="Always cite your sources!">this lovely website</a>.
+Here's the recipe I used, borrowed from [this lovely website](?%20Boots or sturdy shoes. Seriously. ? Clothes able to keep you comfortable from very hot (35 ?C? Maybe) to very cold (0 ?C? Maybe). But pack light. This is most easily accomplished with layers (short sleeve shirt, long sleeve shirt, sweater, windbreaker). ? Hat, sunglasses, sunscreen (People burn easily at high altitude). ? I'll provide a field notebook for you to work in, you provide enough writing utensils. Colors may be useful. ? A blanket or sleeping bag (camp provides sheets and towels and perhaps a blanket, but you may want extra warmth). ? Toiletries to keep you clean and refreshed (yes, there are showers). ? Handlens/magnifier, scale object, camera or good camera-phone. (We'll bring some rock hammers). ? A daypack (We won't be walking more than about 1 km from bus, or for more than 1 hour at a time, but still handy to have a place for your stuff).).
 
-<strong style="font-size: 14px;">INGREDIENTS**
+INGREDIENTS
 
 2/3 cup almond meal or ground almonds (Yay, Trader Joe's!)1 1/2 cups powdered sugar3 large egg whites, room temperature and preferably aged up to 3 days (I only aged them overnight, and that worked out, anyway.)5 tablespoons granulated sugar1 teaspoon vanilla extract3 tablespoons of cocoa powder (Honestly, I just eyeballed it.)
 
@@ -70,10 +70,10 @@ Try this at home, kids.
 Here's what I got:
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcf9208c970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcf9208c970b.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73db3e3ab970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73db3e3ab970d.jpg)
 What do you think? Please comment with advice!
 
 Your kitchen chemist,

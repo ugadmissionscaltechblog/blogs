@@ -21,7 +21,7 @@ I spent three weeks to draft the design, choose the paint colors, and draw &amp;
 
 Here's what the neurons on the wings looked like:
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01a73d896223970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01a73d896223970d.jpg)
 Hidehiko left for Washington D.C. last week, so lab is a bit more empty and less enjoyable now. But now that I've finished his painting, I'm searching for a new project for Tuesday night.
 
 Best,

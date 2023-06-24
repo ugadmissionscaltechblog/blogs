@@ -22,24 +22,24 @@ It was here indeed that I booked my audioguide, and while I'm still not the bigg
 Two hours later an art Luddite left the museum reinvigorated and better educated. I then headed to the Basilica of Santa Croce, the Temple of Italian Glories. Oh boy that was great; outside of the usual Michelangelo, Da Vinci, Galileo that lie there I also ran into Enrico Fermi the physicist and Cristofori the inventor of a key mechanism in pianos. This latter I was very proud of finding, as he was in a very out of way, very faded grave, yet my insistence on reading every sizable gravestone of this short alley brought me to this hidden gem.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6fd63ea970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6fd63ea970b.jpg)
 I then made my way to the Duomo, supposedly the biggest attraction in Florence. While the exterior was indeed stunning, the interior lacked significantly. Perhaps I have been simply inundated with the grandeur of reknowned Basilicas; see for yourself
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6fd640b970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6fd640b970b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07a29ba2970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07a29ba2970d.jpg)
 I then found my way to the Medici chapel where the Medicis are buried in a splendid dome designed by Michelangelo, and to the Galleria containing Michelangelo's masterpiece David.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d08766fd970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d08766fd970c.jpg)
 Finally, I tried to rush back to the Piazza le Michelangelo for the sunset, but missed it by a mere six minutes.I stayed behind for a bit and got a great nighttime shot of Florence still; much prettier than Rome
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6fd645a970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6fd645a970b.jpg)
 The next day I started by going to Pisa, after a four euro buffet breakfast that quickly became brunch for me. The tickets were flexible time by default, so I could leave whenever I woke up and come back whenever I was done! Great news for a very sleepy and tired Yubo, who after much laziness and eating eft the hostel at 10.
 
 I left for Pisa on a train that arrived at 1150. My original plan was to beeline to the Tower and come back to Florence by 2 to do everything I wanted to, but I ran into a lovely American family also going around Italy and tagged along for the trip. While it meant we could discuss the sites (and trade pictures, and I got to learn a bit more about the sites than I deserved since they had a booklet and prior knowledge), it also meant that I went much slower than my solo pace. As a result, I only got back to Florence at 3, a full hour less than expected, meaning I had to make some crucial choices about what to visit.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6fd646d970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6fd646d970b.jpg)

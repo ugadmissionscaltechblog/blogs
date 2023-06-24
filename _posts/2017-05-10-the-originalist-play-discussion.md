@@ -14,14 +14,14 @@ This event counts a little as an on-campus and off-campus adventure. The Pasaden
 So, everyone in my class signed up to get tickets from the CCD and saw the show. The Playhouse is beautiful (I'd never been there before this show), and we hung around outside a little bit before and after the show. The play itself was interesting. It explored Scalia's ideology by giving him a fictional liberal clerk who challenged him in chambers and worked on his opinions. The play didn't delve much into her (the clerk's) ideology, but it was a good method of teasing out Scalia's ideas without preaching directly to the audience.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8f36123970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8f36123970b.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8f36129970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8f36129970b.jpg)
 
 It also so happened that that day was "Give a Shirt Day" on campus. The CCD organizes free tshirts and tank tops every April to celebrate "Gaypril," and we all wear the shirts on the same day to show support for the Caltech LGBTQ+ community.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09966b40970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09966b40970d.jpg)
 
 It was a somewhat ironic show of support at a play about Justice Scalia, but whatever!

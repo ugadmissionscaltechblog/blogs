@@ -21,7 +21,7 @@ When we went, Wholly Guacamole was having a promotional event with a free guac b
 
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c910a6d4970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c910a6d4970b.jpg)
 
 One thing I learned from being a serial shopper is to shop online unless shipping is too expensive. I found an Anthropologie store at Americana that was having a sale and it made my day. My friend sat around while I tried on tons of dresses and tops. I ended up with only a pair of joggers since everything there is quite pricey. We had to return to Caltech since we had commitments for later this evening, but I will be back soon.
 

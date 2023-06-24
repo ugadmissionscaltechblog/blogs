@@ -14,11 +14,15 @@ I have some big news! About a month ago, I adopted a kitty named Clementine as a
 
   Well, back to Clementine. She's a great cat to be around. She rarely meows (even when I took her on a 6 hour plane ride from LAX to JFK in NY), her best friend is my boyfriend's cat from home, Chester, and she loves food more than most everything else (except maybe chasing birds). Normally the animal policy at Caltech prohibits cats from living anywhere other than the cat allies (hallways) within the houses. However, because Clementine is my ESA, the Deans and housing helped me sort out a living arrangement for myself in one of the off-campus Caltech-owned apartments. Though I had to move in the middle of term, Caltech did everything they possibly could to make sure the move was smooth. I can't thank them enough; living with Clementine really helps me deal with my mental disorders! Because Caltech allows me to have her, I feel like I can do better in my classes and manage my stress. It's just another one of the perks of going to such an inclusive, caring school.
 
-<div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09e36607970d" id="caption-xid-6a01b8d28f2955970c01bb09e36607970d">Lounging around!
+Lounging around!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d2caa31b970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01b8d2caa31b970c" id="caption-xid-6a01b8d28f2955970c01b8d2caa31b970c">Watching movies for my humanities class in film together! Clementine loves to watch movies with me.
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d2caa31b970c-pi.jpg)
+
+Watching movies for my humanities class in film together! Clementine loves to watch movies with me.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09e3660e970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09e3660e970d" id="caption-xid-6a01b8d28f2955970c01bb09e3660e970d">Clementine in New York, posing with snow!
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09e3660e970d-pi.jpg)
+
+Clementine in New York, posing with snow!
 

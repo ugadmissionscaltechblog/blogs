@@ -32,7 +32,7 @@ The octopus feeding was also pretty cool. It was less of an educational experien
 We also saw the bird from the short at the beginning of Finding Dory.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2095af5970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2095af5970c.jpg)
 Well, obviously not *the* bird, because it was a cartoon. Still.You can only kinda see it in the middle of this picture. It's super cute.
 
 After we were done at the aquarium, we went to Amarin Thai in Mountain View for a very tasty dinner. We all went back to my apartment for ice cream and fudge and then called it a night.

@@ -14,19 +14,19 @@ This weekend has been pretty eventful. I made a decent amount of progress on wor
 I highly recommend taking the ferries across Lac Leman if you are ever in the area and have the time. They aren't necessarily the most efficient means of travel depending on the time of day but it's like a two for one deal on an attraction and transport. Here's Cedric with Nyon in the background as we head out to Yvoire.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019104205361970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019104205361970c.jpg)
 Yvoire was what one would call a charming little village. It was pretty touristy but cute. There really is not that much there other than the harbour and the chateau. The main reason we went was to walk through the Jardin des Cinq Sens (Garden of the Five Senses). It was pretty cool since they built a labyrinthe around the chateau with different gardens with plants specified to each of the five senses, though they cheat a little with sound since they just use running water.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901e2a2cb5970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901e2a2cb5970b.jpg)
 This is one of the additional gardens that is of medicinal plants. When going through we were instructed what to do since for different gardens you were supposed to touch and smell the plants. Turns out most of these plants are toxic but the landscaping was nice just the same.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192abe96824970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192abe96824970d.jpg)
 I really just liked the additional characters that they added on the plant tags, I think the magic wand makes a nice touch.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192abe9675c970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192abe9675c970d.jpg)
 Overall the gardens were pretty fun. We spent a decent amount of time in the garden of touch since many of the plants were just so soft. We just had to compete with the bees that were swarming around.
 
 After Yvoire we primarily just wanted to go to Evian-les-bains to get water from the spring. Even though the town is really close to Yvoire there isn't a train in Yvoire so we ended up taking the ferry to Lausanne and then another ferry to Evian. The ferry to Lausanne took about an hour and a half to get all the way to the other end of the lake. It was a beautiful day though so I just basically sat for a cruise along the lake with my book on the deck of the boat. Getting water from Evian was pretty much the last part of the day, turns out we spent about four hours on the ferry that day just to see a garden and get water, but it was well worth it. There's nothing like getting water straight from the glacial stream.

@@ -28,9 +28,9 @@ Fuel-efficient kiln for brick-making, Shoe design. After the presentations, we h
 poster session, and then a celebration dinner at Hamburger Hamlet!
 Here are pictures taken from the poster session.....
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0128762f4f46970c.jpg" %}
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0128762f4fc3970c.jpg" %}
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0128762f4fe1970c.jpg" %}
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a72c6289970b.jpg" %}<div style="text-align: left;">
-<div style="text-align: left;">
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0128762f4f46970c.jpg)
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0128762f4fc3970c.jpg)
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0128762f4fe1970c.jpg)
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a72c6289970b.jpg)
+
 

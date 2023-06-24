@@ -24,4 +24,4 @@ We did live out this stereotype from time to time...but one night we splurged on
 Annie enjoying her crepe:
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015436c5a03c970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015436c5a03c970c.jpg)

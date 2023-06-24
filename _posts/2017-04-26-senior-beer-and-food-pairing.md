@@ -15,20 +15,30 @@ Tom Mannion is the Director of Student Affairs at Caltech. Part of his job inclu
 
 Each year, each class gets a "tasting" event at Tom's house. For example, as a freshman I went to a chocolate tasting event. The juniors this year had a tea and food pairing event. Seniors in the past had a wine and food pairing event. This time, Tom wanted to try out a beer and food pairing for the seniors. It was so much fun and the food was amazing! I'm not a huge beer fan, but it was definitely cool to see and try so many different types.
 
-<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8ef063f970b" id="caption-xid-6a01bb08213082970d01b7c8ef063f970b">Different types of beers available for tasting
+Different types of beers available for tasting
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8ef064c970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8ef064c970b" id="caption-xid-6a01bb08213082970d01b7c8ef064c970b">Cheese and charcuterie
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8ef064c970b-pi.jpg)
+
+Cheese and charcuterie
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8ef0655970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8ef0655970b" id="caption-xid-6a01bb08213082970d01b7c8ef0655970b">Potstickers, crab, and pretzels
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8ef0655970b-pi.jpg)
+
+Potstickers, crab, and pretzels
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8ef065f970b-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b7c8ef065f970b" id="caption-xid-6a01bb08213082970d01b7c8ef065f970b">Poached salmon, caprese salad, and potato salad
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8ef065f970b-pi.jpg)
+
+Poached salmon, caprese salad, and potato salad
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d2796395970c-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01b8d2796395970c" id="caption-xid-6a01bb08213082970d01b8d2796395970c">Different types of sausages
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d2796395970c-pi.jpg)
+
+Different types of sausages
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb09922797970d-pi.jpg" %}<div class="photo-caption caption-xid-6a01bb08213082970d01bb09922797970d" id="caption-xid-6a01bb08213082970d01bb09922797970d">Tiramisu, strawberry cheesecake, baklava, chocolates, and cinnamon sugar bread
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb09922797970d-pi.jpg)
+
+Tiramisu, strawberry cheesecake, baklava, chocolates, and cinnamon sugar bread
 

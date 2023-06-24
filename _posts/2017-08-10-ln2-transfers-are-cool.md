@@ -17,9 +17,9 @@ We then began the transfer. About five or six of us took the liquid helium dewar
 
 At the end, we all went out to the Ath to celebrate finishing the transfer, my PI's birthday, and of course, Bastille Day.
 
-<span style="font-size: 8pt;">The biggest liquid helium dewar.
+The biggest liquid helium dewar.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d297854e970c-800wi.jpg" %}
-<span style="font-size: 8pt;">Ominous "smoke" from the liquid helium surrounding the magnotometer set up.
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d297854e970c-800wi.jpg)
+Ominous "smoke" from the liquid helium surrounding the magnotometer set up.
 

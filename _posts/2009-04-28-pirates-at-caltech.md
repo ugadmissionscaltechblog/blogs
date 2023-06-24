@@ -33,14 +33,14 @@ Then, we topped it off with a couple of
 - And finally, they pulled out a miniature model of a pirate boat (4 feet long, 3 feet tall...at least). This was a 21 layer cake of vanilla and chocolate, covered in icing to resemble Jack Sparrow's on ship from Pirates of the Caribbean. 
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01156f50aaa4970c.jpg" %}But that's enough about the food. They even got us all pirate hats and beachballs!
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01156f50aaa4970c.jpg)But that's enough about the food. They even got us all pirate hats and beachballs!
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157046b7fa970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157046b7fa970b.jpg)
 There were only about...100 of these. A spontaneous dodgeball fight ensued shortly after dinner....no casualties though!
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157046b85c970b.jpg" %}Oh, here's our Senior Student Body President for next year. No worries, she didn't eat that all by herself...I think.
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157046b85c970b.jpg)Oh, here's our Senior Student Body President for next year. No worries, she didn't eat that all by herself...I think.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157046b909970b.jpg" %}Did I mention the hats? A lucky few got captain versions too...
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157046b909970b.jpg)Did I mention the hats? A lucky few got captain versions too...
 
 But yeah, definitely one of the many perks about Caltech. See ya around, mate!

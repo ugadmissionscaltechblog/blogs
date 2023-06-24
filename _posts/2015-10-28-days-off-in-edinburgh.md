@@ -21,11 +21,11 @@ I wasn't allowed to take pictures inside of the exhibit, but I can tell you that
 Walking home from the museum, we stopped in one of my favorite coffeeshops, Lovecrumbs. Their coffee is great but their decor and cake flavors (Fig and Rose, Pumpkin and Peanut Butter, Fennel, Orange, and Plum?) are incredible.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7d47195970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7d47195970b.jpg)
 
 On Saturday, the Royal Bank of Scotland sponsored the Varsity Rugby Match between Edinburgh and St. Andrews Universities. My first rugby match ever, and it was free! It was also two matches: we got to watch the Edinburgh women's rugby team smash St. Andrews, and then the men's game was on. This one was a bit closer. My flatmates and I left early, to catch buses before the crowds, but it was a really exciting game. Rugby is fairly similar to American Football but it moves much faster.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7d471d2970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7d471d2970b.jpg)
 
 So this has been a short recap of my abilities to juggle sightseeing and school work (classes started this week!) Do you have any questions about how to balance exploring Los Angeles, and handling Caltech courses? Hit me up in the comments!

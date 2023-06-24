@@ -19,7 +19,7 @@ We then checked out all of the other booths. An ancient coin caught my eye. Back
 
 Finally, we found my Mecca! A succulent selling booth with exotic cacti. As someone from the east coast, I love everything desert; it's so exotic to me (see my post from my Grand Canyon road trip). I could hardly hold back! I ended up getting four different species of cactus. Unlike in New York, or any humid state, it's super easy to keep succulents here because of the dry environment, so I think they were a good investment.
 
-<div class="photo-caption caption-xid-6a01b8d28f2955970c01bb09b6720b970d" id="caption-xid-6a01b8d28f2955970c01bb09b6720b970d">Here are my four new plants! The one on the top right reminds me of a mini-flattened Seguaro cactus. The one of the top left reminds me of the giant Seguaro I saw near the Grand Canyon.
+Here are my four new plants! The one on the top right reminds me of a mini-flattened Seguaro cactus. The one of the top left reminds me of the giant Seguaro I saw near the Grand Canyon.
 
 By 11, it was fairly hot and I felt like I was getting a sunburn, so we decided to leave. The flea market was a great chance to have a cheap shopping spree. I will definitely make an effort to come back next month!
 

@@ -19,14 +19,14 @@ And now to the grading woes. I improved greatly from my first lab report to my s
 
 And then I was talking about why my yield was less than 100% (far, far less…), but apparently human error should not be included in the lab report:
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d10dda6b970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d10dda6b970c.jpg)
 This grader made me laugh a lot. They wrote “ARE YOU KIDDING ME? HOW COULD YOU MISS THIS?” on my friend’s IR spectra, which had a mislabeled peak, and other amusing capslock-on-cruise-control comments.
 
 This term, I’m taking Math 1c, which so far has been lots of partial derivatives. A couple of weeks ago, I went to pick up my homework, only to be greeted by ALL CAPS GRADING:
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7845031970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7845031970b.jpg)
 My last name might be Ha. Two homework later, it seems I disappointed the same grader:
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d10dda98970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d10dda98970c.jpg)
 I should probably be more careful about my double-checking my work in the future. For the sake of grades, let’s hope my grading woes in the future are of the 20/20 variety!
 

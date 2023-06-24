@@ -15,17 +15,17 @@ I have no regrets---I got to put all the things I wanted in my stack and was so 
 Anyway...Andrew said he would blog about all the stuff that happened on Ditch Day...while I wanted to post pictures from some of the preparation I made during the week leading up to it :)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ee6c6acd970b.jpg" %}Setting up the said boxes into the puzzle in Dabney Courtyard
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ee6c6acd970b.jpg)Setting up the said boxes into the puzzle in Dabney Courtyard
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ee6c6c81970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ee6c6c81970b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ee6c6d64970b.jpg" %}More Painting..
-
-
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ee6c6eb1970b.jpg" %}And Balloon Tying--ps: you can get major blisters from this!
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ee6c6d64970b.jpg)More Painting..
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ee6c6fbe970b.jpg" %}Those are a few pics from our side...be sure to watch out for Andrew's post on the actual Ditch Day :)
-By the way.. pranking the admissions office was put on the Caltech website again with an updated <a href="https://today.caltech.edu/today/story-display.tcl?story_id=44707">article</a> and a <a href="https://images.caltech.edu:16080/weblab/Fake_Ditch_Day/">video</a>! Check it out to see how the Admissions staff went about doing their fake stack.
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ee6c6eb1970b.jpg)And Balloon Tying--ps: you can get major blisters from this!
+
+
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ee6c6fbe970b.jpg)Those are a few pics from our side...be sure to watch out for Andrew's post on the actual Ditch Day :)
+By the way.. pranking the admissions office was put on the Caltech website again with an updated [article](https://today.caltech.edu/today/story-display.tcl?story_id=44707) and a [video](https://images.caltech.edu:16080/weblab/Fake_Ditch_Day/)! Check it out to see how the Admissions staff went about doing their fake stack.
 

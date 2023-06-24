@@ -15,9 +15,9 @@ My group at work held a welcome party for me after my first week here and took m
 Somehow, we managed to avoid that. We all tried pretty hard to keep some kind of conversation going, even with my coworkers' varied levels of English and my mangled Japanese sentences, and somehow I spent the next three hours learning about their backgrounds, getting advice on where to travel, and just listening to all sorts of personal anecdotes. At one point I mentioned that I used to do a lot of origami in high school and it turned out that one of the guys in my group also really likes origami, so the next work day he brought in an origami book to lend me, and a dragon that's sitting on my desk now.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a511d0e278970c01a3fd2f14c9970b-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a511d0e278970c01a3fd2f14c9970b-pi.jpg)
 It's been a few weeks since that welcome party and I'm slowly starting to realize that although my Japanese is still nowhere nearfluent, I do have a *little* to show for several years of study. Many of my coworkers are more comfortable speaking in simple Japanese to me than in English, which I'm usually fine with as long as they don't mind repeating themselves... and occasionally a third time... and maybe rephrased a little. My mentor even tries to discuss my project with me in Japanese, which sometimes works out. (Other times he just emails me in English instead, hehe.)
 I will admit, sometimes it's hard for me to force myself to take the more uncomfortable route and talk to people here in Japanese--simple English is a lot easier than simple Japanese for me. But hey, when in Japan, do as the Japanese do, right?
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a511d0e278970c01a3fd2f14a7970b-pi.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a511d0e278970c01a3fd2f14a7970b-pi.jpg)

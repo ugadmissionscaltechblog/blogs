@@ -21,12 +21,12 @@ The day starts off pretty regular except that everyone is actually awake for a c
 
 Our first objective was to get to the map room, located in the building that the Gene pool is in front of. Unfortunately when we got there, the map room had been tampered with! *Dramatic drum roll* As a result the seniors had to direct us to where the activities were. The first event for blue team was to navigate the slippery cave (aka slip and slide). The next challenge was to use rope swings to jump across the bottom less pit and then we had to tip toe across a thin ledge to get to a magnetically sealed box containing the first of 4 totems that was our goal to collect.
 
-<iframe frameborder="0" height="344" src="https://www.youtube.com/embed/h7vdcdYHj3k?fs=1&amp;feature=oembed" width="459"></iframe>
+[Watch on YouTube](https://www.youtube.com/watch?v=h7vdcdYHj3k)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01774376f344970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01774376f344970d.jpg)
 Our next challenge was to dig through mud banks to locate the clue, which was a series of transparent flash cards each with a small piece of a drawing on it. Combined the pieces formed a picture that we were to use to determine the location of the next totem. This part definitely took a while. We were wondering around for quite some time and also trying to get help from the other teams on this. As it turned out we had to get to an elevated position for our view finder to help (thanks Green team for telling us). We got the totem and were off to the pool!
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01761690f231970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01761690f231970c.jpg)
 We just kinda chilled at the pool to be honest. There was nothing for us there although we were able to watch one of the other house’s stacks: they were on floating mattresses in the pool and beating each other with noodles. It was quite a show. This is the point where I petered off and went to bed… But when I woke up I heard legendary tales of water fights and candy.
 
 So that’s basically my experience with Ditch Day. I would have liked to been awake for the rest of it but when you get a chance to nap… it’s hard to say no.

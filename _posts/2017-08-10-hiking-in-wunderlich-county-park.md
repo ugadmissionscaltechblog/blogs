@@ -13,4 +13,4 @@ We hiked 5 miles through wooded areas, although the trail was not always shaded.
 
 Even though it was really hot outside, I still enjoyed hiking with everyone. I would definitely do it again - but hopefully we would choose a cooler day!
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d296bc8e970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d296bc8e970c.jpg)

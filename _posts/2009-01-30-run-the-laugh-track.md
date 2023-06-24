@@ -61,7 +61,7 @@ getting experience in your field as soon as possible. Of course, the process
 doesn’t end here. Once you decide on a project, you have to write up a proposal
 and send it for approval. Not all SURFs get approved, but it seems to me that
 so long as you are clear about what you want to do, rejection is not much of a
-concern. Proposals are due, I believe, the 23<sup>rd</sup> of February. Pssht…that’s
+concern. Proposals are due, I believe, the 23rd of February. Pssht…that’s
 three weeks away. I’ll worry about that after I finish the Chem 1b set that’s due
 tomorrow.
 
@@ -101,16 +101,16 @@ frosh having fun (read: banging their heads against the wall) down in the
 Student Workshop doing Ph8 labs. 
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536fa5d51970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536fa5d51970b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536fa5d6b970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536fa5d6b970b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536fa5d89970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536fa5d89970b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0105370362d8970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0105370362d8970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0105370362f2970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0105370362f2970c.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536fa5eaa970b.jpg" %} 
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536fa5eaa970b.jpg) 
  
 

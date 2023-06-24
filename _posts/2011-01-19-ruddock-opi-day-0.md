@@ -13,17 +13,9 @@ Mighty readers of this awesome blog post, it is the second week of school! In ot
 
 In this week's blog post, I'll be talking a lot about Venerable OPI, a little bit about my Physics computational lab, and a little bit about TEDxCaltech [sadly, I wasn't able to go as I had a lab that day... but I'll provide links and awesome insight about it].
 
-In chronological order, I'll start with my lab. This week's lab was to generate the Mandelbrot set using the equation Z(n+1) = Z(n)^2 + Z(0) where the 'escape count' of a point Z(0) is the number of iterations before Z(n+1) had a magnitude larger than 2 [ |Z(n+1)|&gt;2]. Mathematically, it's a pretty sound concept, not too hard to program in C++. The next part was to generate a matrix of numbers for which I would compute the escape counts of - using this matrix, I could loop through and create a matrix of escape counts. From this matrix of escape counts, I would assign a color value depending on how large the escape count is. Then, I would use an opensource plotting program [g2; https://g2.sourceforge.net/g2_ref/index.html] to generate a plot from the matrix of colors. The final part of the script was to have a variable resolution so I could make the plot bigger or smaller. To this part, I tried to compute a 100,000 pixel by 100,000 pixel resolution image of the Mandelbrot set - the video below is the result:
-<object data="https://www.youtube.com/v/eCmU_9s-7ZM" height="400" type="application/x-shockwave-flash" width="500">
-<param name="data" value="https://www.youtube.com/v/eCmU_9s-7ZM" />
-<param name="quality" value="high" />
-<param name="wmode" value="transparent" />
-<param name="allowscriptaccess" value="never" />
-<param name="allowFullScreen" value="true" />
-<param name="src" value="https://www.youtube.com/v/eCmU_9s-7ZM" />
-<param name="allowfullscreen" value="true" />
-</object>
-As you notice in the video, I was only able to drag it left or right, if I had clicked anywhere else in the image, I would have executed a series of event listeners programmed to change the center of the image to where you clicked it or to zoom in/out. Finally, to finish this lab up, we simply had to calculate the area of the Mandelbrot set using the Pixel Counting method. This accounts to basically determining the number of pixels that don't escape (the black area in the image) and comparing it to the number of pixels that escaped (the colorful area of the image). Using some small images (300px by 300px up to 1000px by 1000px), I determined the area to be 1.607 +- 0.1. The best estimation is around 1.5, so I wasn't too far off. [More details on the pixel counting method can be found here: https://mrob.com/pub/muency/pixelcounting.html]. If you're interested in how it works with C++, you can post a comment and ask whatever questions you want.
+In chronological order, I'll start with my lab. This week's lab was to generate the Mandelbrot set using the equation Z(n+1) = Z(n)^2 + Z(0) where the 'escape count' of a point Z(0) is the number of iterations before Z(n+1) had a magnitude larger than 2 [ |Z(n+1)|&gt;2]. Mathematically, it's a pretty sound concept, not too hard to program in C++. The next part was to generate a matrix of numbers for which I would compute the escape counts of - using this matrix, I could loop through and create a matrix of escape counts. From this matrix of escape counts, I would assign a color value depending on how large the escape count is. Then, I would use an opensource plotting program [g2; https://g2.sourceforge.net/g2_ref/index.html] to generate a plot from the matrix of colors. The final part of the script was to have a variable resolution so I could make the plot bigger or smaller. To this part, I tried to compute a 100,000 pixel by 100,000 pixel resolution image of the Mandelbrot set.
+
+I was only able to drag it left or right, if I had clicked anywhere else in the image, I would have executed a series of event listeners programmed to change the center of the image to where you clicked it or to zoom in/out. Finally, to finish this lab up, we simply had to calculate the area of the Mandelbrot set using the Pixel Counting method. This accounts to basically determining the number of pixels that don't escape (the black area in the image) and comparing it to the number of pixels that escaped (the colorful area of the image). Using some small images (300px by 300px up to 1000px by 1000px), I determined the area to be 1.607 +- 0.1. The best estimation is around 1.5, so I wasn't too far off. [More details on the pixel counting method can be found here: https://mrob.com/pub/muency/pixelcounting.html]. If you're interested in how it works with C++, you can post a comment and ask whatever questions you want.
 
 TEDxCaltech!
 
@@ -36,58 +28,46 @@ The next/last big event of the week is Venerable OPI: Day 0. (the computer scien
 This year's theme is Jurassic Park - we'll be taking ideas and situations from Jurassic Park 1,2, and 3. But first, have a look see at our plans...
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7ba5c7f970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7ba5c7f970c.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7ba5d15970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7ba5d15970c.jpg)
 This is a 3D view from the North-West corner of the party. As you can see, there is a series of elevated platforms around the party with a ramp connecting the bottom dance floor to the top. The gate is prominent in the top-right, a jeep on the right (the big light-green building is the wood shed, we keep all of our wood in there). On top of this wood shed, Andrew Gong (a Rudd) mounted a camera to take pictures constantly to create a timelapse video - more on this later. Finally you can see the electric fence that we plan to build (don't worry, it's a fake one! Caltech would never let us build a real one....)
 
 We have some surprises planned in store that you can't see from these images. For example, we're planning on getting plexiglass so we can create a waterfall from the roof over the elevated platform so you can walk under a waterfall at the party! We're also building a couple of dinosaurs, including a T-Rex which will have broken through the fake electric fence and perhaps a fake bathroom stall (like in Jurassic Park 1). Most of these details are still in the mix and will be further solidifed and agreed upon as we get closer to the date of the party.
 
 So "what's a timelapse?" you might ask. Well, I'm glad you asked! It's a series of pictures taken at fixed intervals for the duration of an event and then put together to create a still-picture movie. Last year's Steampunk OPI was also 'timelapsed' by Andrew as well:
-<object data="https://www.youtube.com/v/auqcq5nZEvw?fs=1" height="344" type="application/x-shockwave-flash" width="425">
-<param name="data" value="https://www.youtube.com/v/auqcq5nZEvw?fs=1" />
-<param name="allowFullScreen" value="true" />
-<param name="allowscriptaccess" value="always" />
-<param name="src" value="https://www.youtube.com/v/auqcq5nZEvw?fs=1" />
-<param name="allowfullscreen" value="true" />
-</object>
+
+[Watch on YouTube](https://www.youtube.com/v/auqcq5nZEvw?fs=1)
+
 Over the course of 9 weeks, this whole party was built - you can also observe how fast clouds move, how rain .. rains, and how things seem to just 'pop-up' out of nowhere if accelerated fast enough. So without further ado (or many more words), here's a photo montage of the first two days of construction!
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b13905970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b13905970b.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7ba7558970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7ba7558970c.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b13ebc970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b13ebc970b.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7ba7a96970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7ba7a96970c.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b14200970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b14200970b.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b1444b970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b1444b970b.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b14e97970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b14e97970b.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b156c4970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b156c4970b.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b15bef970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b15bef970b.jpg)
 
-<object data="https://www.youtube.com/v/umvn6Ta8xwY" height="400" type="application/x-shockwave-flash" width="500">
-<param name="data" value="https://www.youtube.com/v/umvn6Ta8xwY" />
-<param name="quality" value="high" />
-<param name="wmode" value="transparent" />
-<param name="allowscriptaccess" value="never" />
-<param name="allowFullScreen" value="true" />
-<param name="src" value="https://www.youtube.com/v/umvn6Ta8xwY" />
-<param name="allowfullscreen" value="true" />
-</object>
+
 Join me next time when I'll talk about all things related to Stephen Hawking, including singing him 'Happy Birthday' in person! Meanwhile, Construction will still be going on - I'll update you about that, and we'll have more events at Caltech to blog about in the meantime. As always, if you have any questions or you want me to talk about something within the blog, just post a comment!
 

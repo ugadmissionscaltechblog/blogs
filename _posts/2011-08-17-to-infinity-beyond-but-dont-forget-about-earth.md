@@ -15,25 +15,25 @@ The PRL facility is where a lot of the prototypes are generated for missions lik
 
 Right now, JPLers are using FIDO to test prototypes of the Mars Sample Return Mission. We had one of our “Thursday Talks” on this mission (which will be launched pretty far in the future) and the technology being developed for it, so it was cool to see some of that technology right in front of me!
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015390ae5a0a970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015390ae5a0a970b.jpg)
 ^ FIDO's drill and the rock that it drilled into!
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015390ae5ae6970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015390ae5ae6970b.jpg)
 I also found out about this cool project that JPL worked on a while ago (more acronyms!): TRESSA (Teamed Robots for Exploration and Science in Steep Areas). It’s so cool! They’ve tested it not only in the JPL Arroyo Seco area, but also in Norway. The purpose of this project was again to develop technology that would be used on future Martian (and Lunar!) rovers. In this case, the technology would allow the rovers to maneuver on different types of terrain – especially steep terrain, if you couldn’t tell by the name. xD
 
 After checking out the PRL, I got to see the Atmospheric Kinetics Lab. This is a lab in which JPLers study chemistry, notably how ozone depletion happens and if there's anything we can do (besides just stopping the use of refrigerators/air conditioners...) to prevent it.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01543481d4dd970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01543481d4dd970c.jpg)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01543481d6b7970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01543481d6b7970c.jpg)
 So this lab was pretty sweet too, even though chemistry isn’t really my thing. It was nice to hear that JPL not only works with deep space science, but also with (seemingly) plain old Earth Science! I think it’s important that we learn as much as we can about our own planet *while* we explore the vastness of outer space.
 
 It was also cool to see this in the lab:
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e8aa1b0e7970d.jpg" %}
-I did<a href="https://www.usfirst.org/roboticsprograms/frc/default.aspx?id=966" target="_blank">FIRST Robotics</a>in high schooland for my junior and senior years, I was the lead programmer. Those were the years during which FIRST made the HUGE switch to the “cRIO” control system and LabView as a programming language. It was cool to work with such a graphical language, though I didn’t like it at first. FIRST told us that it was making the switch because the cRIO and LabView had become industry standards. I didn’t quite believe them until I saw this awesome stuff at JPL! :) I was excited and the JPLer was a little surprised when I asked to take a picture of their control system. xD
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e8aa1b0e7970d.jpg)
+I did[FIRST Robotics](https://www.usfirst.org/roboticsprograms/frc/default.aspx?id=966)in high schooland for my junior and senior years, I was the lead programmer. Those were the years during which FIRST made the HUGE switch to the “cRIO” control system and LabView as a programming language. It was cool to work with such a graphical language, though I didn’t like it at first. FIRST told us that it was making the switch because the cRIO and LabView had become industry standards. I didn’t quite believe them until I saw this awesome stuff at JPL! :) I was excited and the JPLer was a little surprised when I asked to take a picture of their control system. xD
 
 Anyways, those two tours were awesome. And I learned a lot! (Well, that's really nothing new...I'm at JPL!)
 

@@ -19,9 +19,9 @@ Saturday morning I went to the Caltech Summer Preview event and acted as a panel
 
 Later that day I met up with my friend at Chinatown for a "Chinatown Summer Experience" or something like that. I watched him lose a spicy-dumpling eating contest (in his defense, he went first and so had no idea how fast to go and missed the time cut), then we ordered dinner (I was mostly in charge since I had the best chinese, and his friends really liked my choice of dishes =D), and then we finally took a walk around Chinatown. It was a really cool experience, pictures below (of Chinatown event and the dumplings he had to eat; they evidently aren't very spicy as you may have guessed):
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73decbc66970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73decbc66970d.jpg)
 Finally, Sunday I went on surfing (real surf, not Summer Undergraduate Research Fellowship, mind you) lessons, my first ever! I would more accurately describe them as falling-off-surfboard lessons, but it was all in good fun; it's a lot more fun falling off surfboards when you're doing it with friends :) We got to spend 2.5 hrs for just $45, including rental/instructor, so that was really good deal too! Below is a photo of the instructor with some students:
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73decbcf1970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73decbcf1970d.jpg)
 That really wraps up my weekend in terms of the interesting things. Next weekend I kinda want to go back to the Academy movie theatre; it's such a cheap yet convenient attraction. We'll see if there are any good movies/good friends...
 

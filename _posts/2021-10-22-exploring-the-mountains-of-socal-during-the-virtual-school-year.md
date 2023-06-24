@@ -8,7 +8,7 @@ categories:
 date: 2021-10-22 16:00:00 +0000
 
 ---
-Hi y’all -- this is my first post on the blog, and I’m glad to be here! This is actually a continuation of my friend and fellow blogger Tyler Colenbrander’s previous post about our experience living together over the past three virtual terms at Caltech. You can see his post at this [link](https://caltechadmissions.blog/living-in-the-virtual-school-year/ "link").
+Hi y’all -- this is my first post on the blog, and I’m glad to be here! This is actually a continuation of my friend and fellow blogger Tyler Colenbrander’s previous post about our experience living together over the past three virtual terms at Caltech. You can see his post at this [link](https://caltechadmissions.blog/living-in-the-virtual-school-year/).
 
 I’m going to be talking more specifically about one of the ways we passed the time in each of the places we lived -- exploring the outdoors. During the pandemic, spending time outside was one of the safest ways to get out of the house and away from our sets when we could. It was an unexpected plus of three terms of virtual school, and it opened my eyes to the amazing hiking all around Southern California.
 

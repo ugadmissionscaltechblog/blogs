@@ -15,11 +15,11 @@ Every term, we have Midnight Madness, a break from studying and finals while mun
 
 We're all mad here. That's the best way to describe it.We grin because we like it here.
 
-<img alt="" src="https://mrwgifs.com/wp-content/uploads/2013/06/The-Mad-Hatter-Smiles-In-Alice-In-Wonderland-Gif.gif" />
+![](https://mrwgifs.com/wp-content/uploads/2013/06/The-Mad-Hatter-Smiles-In-Alice-In-Wonderland-Gif.gif)
 
 It's dark because we only really need to focus on one thing at a time.
 
-<img alt="" height="365" src="https://media.giphy.com/media/1d1aR5MshLzbO/giphy.gif" width="365" />
+![](https://media.giphy.com/media/1d1aR5MshLzbO/giphy.gif)
 
 And this is kind of usually true:
 

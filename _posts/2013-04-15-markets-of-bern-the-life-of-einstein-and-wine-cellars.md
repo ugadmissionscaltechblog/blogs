@@ -15,17 +15,17 @@ bread. Needless to say, both were was super delicious and made for a hearty brea
 Next, we went to the Bern Historical Museum, which contains the Einstein Museum. The first floor had a very interesting Egyptian exhibit with mummy coffins. The paintings on the coffins were very intricate and detailed. In addition, there were really awesome showcases of ancient weapons from the Middle East. The swords had gilded and detailed handles made from precious metals and the daggers had curved blades. Even the sheaths were well made and the attention to detail of the maker was amazing!
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c387deb2d970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c387deb2d970b.jpg)
 
 *Authentic Egyptian mummy coffins on exhibit in the Bern Historical Museum.*
 The second floor of the Bern Historical Museum was the Einstein Museum. The entrance was really trippy because there were two flights of stairs with mirrors at different angles on all the sides and next to the steps. Thus, there were multiple infinite mirror effects created. In addition, there were portraits of Einstein hanging from the ceiling, paying homage to the genius. Even though Carly and I were simply walking up the stairs, we become dizzy as we saw the infinite reflections of ourselves all around the staircase.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017eea213201970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017eea213201970d.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c387dec77970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c387dec77970b.jpg)
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017eea2132a2970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017eea2132a2970d.jpg)
 *Infinite reflecting images created by the surrounding mirrors in the staircase leading the the Albert Einstein Museum.*
 The Einstein Museum interwove the history of the Jewish in Europe with that of Albert Einstein's life, from his early childhood eduction to early adulthood to late adulthood. Even though Einstein had been born in Germany, his family moved to Milan when his father's electrical company was bought due to bankruptcy. Einstein received his school leaving certificate and attended college at the Polytechnic Institute in Zurich. Contrary to popular belief, he was not that poor of a student since one of his report cards on display showed that even though he had failed physics, he aced experimental physics. Einstein married a fellow scientist and became a worker at the patent office in Switzerland. When he was laid off, he had trouble finding work. However, when his theories were backed up by evidence, he became more renowned. 
 Even though it was
@@ -43,7 +43,7 @@ maybe a foot tall at most. The tour books we had read really played it up an ord
 magnitude of the dance. However, the mechanics to pull of such a performance of the pieces are impressive in the context that the clock is pretty old.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c387dedd0970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c387dedd0970b.jpg)
 *Bern Clocktower where the figurines perform hourly.*
  We spent the rest of the day
 exploring Bern. We went to the Parliment but found out that officials were sitting so no guided tours were going on for the day. We found yet another street market. This one had tons of
@@ -51,7 +51,7 @@ brightly colored fruits and vegetables. We wandered through the capital
 building and admired the huge fountain out front.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d42acfd0d970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d42acfd0d970c.jpg)
 
 *View of Bern from atop a hill.*
 Even though it was raining after dinner, we decided to go out and meet some locals. We first went to the Kornhaus Keller, which is a bar and restaurant in a former wine cellar. Many of the patrons were dressed in fancy formal attire. We took a train out to near the Bern University in the hopes of finding some
@@ -60,5 +60,5 @@ where we tried some coffee. The barista/bartender was nice. He explained to us
 that coffee drinks are usually sold with a small shot of water. Many of the students spoke fluent German but also could speak some English.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c387def8e970b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c387def8e970b.jpg)
 *KornhausKeller, which is a bar and restaurant in a wine cellar.*

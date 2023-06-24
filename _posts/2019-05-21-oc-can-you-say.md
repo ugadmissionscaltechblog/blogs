@@ -17,11 +17,11 @@ The thing that shocked me the most? It was huge! Tons of people. Couples, elders
 We started out the evening with some takoyaki – doughy balls filled with octopus and love. These were the gooiest, hottest takoyaki that I’ve ever had, and it was a wonderful experience. Eric also had some noodles which were pretty normal but very filling. Next up: bulgogi fries. Just like the bulgogi tater tots I had in Oxnard, but with fries, and a delicious cole slaw that complemented the flavor of the fries perfectly. Then: the ramen burger. The most beautiful piece of meat on top of buns made from ramen noodles. Topped with cheddar, a gorgeous sauce, a perfect piece of greens, and dang. That was one of the best things that I’ve eaten throughout this school year (and that’s saying a lot). We ended the night with something not very Asian: churros. But we had to, the Churro Boss truck was there (consistently rated some of the best churros in L.A.) and I’d been tracking it down for months. So of course this wouldn’t be the opportunity I let slip by.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0240a4ad31d0200b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0240a4ad31d0200b.jpg)
 And the funniest part? We were there at the same time as not one, not two, not three, but FOUR other Caltech students. And they say we never make it off campus…
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0240a4ad31d6200b.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0240a4ad31d6200b.jpg)
 Let’s be real though, I need to stop driving extremely large distances for Asian fusion food,
 (But a ramen burger is always worth it),
 -- Chandrew

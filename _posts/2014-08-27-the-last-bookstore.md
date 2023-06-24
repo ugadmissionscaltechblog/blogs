@@ -17,11 +17,11 @@ However, now that they are all closing down, it may well actually be the last bo
 Like what even. Just the definition of hipster.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dfd4b8e970d.jpg" %}
-<span style="color: #111111;">
-<span style="color: #111111;">Even more hipster. So much hipster.
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dfd4b8e970d.jpg)
 
-<span style="color: #111111;">She bought like 50 bajillion books, and I didn't buy any. So now I get to read hers without spending money. Which is excellent.
+Even more hipster. So much hipster.
+
+She bought like 50 bajillion books, and I didn't buy any. So now I get to read hers without spending money. Which is excellent.
 
 I went some time afterwards with another friend to a cute little tea shop later in the day.
 

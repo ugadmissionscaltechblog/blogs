@@ -25,7 +25,7 @@ crayons I borrowed from a friend. (They are really good for color manipulation
 and I recommend this to anyone who is a kid, or at least partially a kid, on the inside.)
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b005b748c970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b005b748c970d.jpg)
 
 We had Zombie Night tonight, during which Venerable House dresses up as zombies
 and tries to break into Dabney. Of course, we did a house tour first of all the houses minus Avery, and banged
@@ -35,17 +35,17 @@ extended all the way to the wall on the other side. Eventually we broke in
 successfully and ate pizza together.
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b005b756a970d.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b005b756a970d.jpg)
 
 Now, for me, it’s back to math instead of going to the Hollyween party.
 
 Call me a spoilsport...but midterms are calling first! (Terrible pun, I know.) I guess that’s why we have
-the party and celebrations on the 26<sup>th</sup> rather than the 31<sup>st</sup>
+the party and celebrations on the 26th rather than the 31st
 because midterms fall right along then. It's good that Caltech keeps us entertained, though. Otherwise we frosh would have a much harder time adjusting to the workload than we already did. 
 The consequences of not being able to play in the orchestra due to night classes are already showing up in my math homework:
 
 
-{% include image.html img="https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b005b0f28970c.jpg" %}
+![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b005b0f28970c.jpg)
 
 Thanks for reading! Till next time--
 Anita 
