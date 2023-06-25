@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901e5e7265970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01901e5e7265970b.jpg
 title: Heisenberg the cat [FINAL]
 categories: [research]
 status: Publish
@@ -16,14 +16,14 @@ From what upperclassmen have said, Heisenberg (the cat) is at least 19 years old
 Since I'm usually in my room for most of the day when everyone else is at JPL or in lab, Heisenberg likes to come into my room and clean herself or fall asleep. Once inside, she rarely wants to leave, and it's actually quite difficult to get her out of my room since she doesn't like to be picked up. Nudging her usually makes her fall over and start licking herself again. Eventually, I decided to put up a piece of cardboard outside my door called a "Heisey-barrier" (Heisenberg has a lot of nicknames, including "Heisey", "Heisen-cat", and "kitty") when I wanted her to stay out.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac1dc5e6970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac1dc5e6970d.jpg)
 
 Heisenberg likes coming into my room.
 
 Although Heisenberg can climb stairs, she almost never leaves Alley 7 except to go to the vet. From other people, I've only heard of her leaving Alley 7 by herself once during a vacation/break when barely anyone was around (she climbed down all the stairs to the rest of Dabney before someone put her back). Even though Heisenberg often pretends to ignore us, she actually tends to get lonely during the summer and vacation when less people are around. Sometimes she'll just sit and let us pet her, and it's always nice to have Heisenberg's company and see her wandering around Alley 7 all day.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0192ab4811e9970d01910458367c970c-320wi.jpg)
+![](/old_images/6a0192ab4811e9970d01910458367c970c-320wi.jpg)
 
 Heisenberg surveying her domain
 

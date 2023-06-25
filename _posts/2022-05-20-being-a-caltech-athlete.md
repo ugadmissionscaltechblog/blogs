@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/jen/team_photo.jpeg
+image: /images/2022/jen/team_photo.jpeg
 tags: []
 title: Being a Caltech Athlete
 author: Jen Yu

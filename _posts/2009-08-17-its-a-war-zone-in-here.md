@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5532803970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0120a5532803970c.jpg
 title: It's a war zone in here!
 categories: [local]
 status: Publish

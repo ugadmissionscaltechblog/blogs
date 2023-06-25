@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Monica Li
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d01901cafe142970b-800wi.jpg
+image: /old_images/6a0177449c8a5f970d01901cafe142970b-800wi.jpg
 title: Alumni Weekend - a trip into the past
 categories: [global]
 status: Publish
@@ -20,9 +20,9 @@ But back to the dinner, the current undergrads got a taste of what it was like i
 Apparently when the women starting coming here, the men got a lot more polite; I imagine it as practically chaos before then. More pictures from the dinner:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019102a5caf7970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b019102a5caf7970c.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d01901cafe316970b-800wi.jpg)
+![](/old_images/6a0177449c8a5f970d01901cafe316970b-800wi.jpg)
 I really enjoyed talking to the alums and hearing their stories. I wonder what I'll remember from my experience here years from now. The house traditions we have now were present half a century ago, which I was quite impressed with. A lot of alums were even older than my parents! I wonder where I'll be when I'm that age, but I definitely plan on coming back to visit.
 

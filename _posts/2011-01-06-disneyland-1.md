@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Melody Morris
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1398b31970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0147e1398b31970b.jpg
 title: Disneyland!! 
 categories: [research]
 status: Publish
@@ -18,4 +18,4 @@ We arrived in LA early in the morning and quickly drove to Caltech so I could dr
 However, going over winter break is a mixed blessing. Disney put together some really cool attractions that were holiday themed. For example, typically, I really cannot stand the ride "It's a Small World". The ride is basically a boat that takes you around a bunch of animatronics who are singing the song "It's a Small World" at you for about 5 minutes. The first time you ever go on it, it's okay, but after that, it's just annoying. For the winter season, Disney intermixes "Small World" with "Jingle Bells" and changes it to a holiday theme. They also decorate the building beautifully!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1398cef970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1398cef970b.jpg)

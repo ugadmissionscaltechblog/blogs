@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sakthi Vetrivel
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b7c80685b6970b01bb090aae45970d-pi.jpg
+image: /old_images/6a01b7c80685b6970b01bb090aae45970d-pi.jpg
 title: Alumni Dinner 
 categories: [culture]
 status: Publish

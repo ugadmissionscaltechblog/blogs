@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://ik.imagekit.io/u9ndqdgam20/images/2022/annabel/Optimized-Caltech_flag.jpg
+image: /images/2022/annabel/Optimized-Caltech_flag.jpg
 tags: []
 title: 'Admissions Decision Retrovision  '
 author: argomez

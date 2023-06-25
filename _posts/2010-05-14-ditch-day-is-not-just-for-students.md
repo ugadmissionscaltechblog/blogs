@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda154f0970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0133eda154f0970b.jpg
 title: Ditch Day.... "is not just for students"
 categories: [culture]
 status: Publish
@@ -19,49 +19,49 @@ Here are a few pictures taken from my camera and also taken by Jenny from online
 The unsuspecting admissions office...we ditch day-d them at around 1pm right after their lunch
 Setting up the clues and tasks around the perimeter of the house...we had to be sneaky and unsuspecting
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda18982970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda18982970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda1981d970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda1981d970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda1a3c4970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda1a3c4970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013480d4b54d970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b013480d4b54d970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013480d4c3b5970c.jpg)Hanging some stuff in a tree...
-
-
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda1d383970b.jpg)
-
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda1db03970b.jpg)Planting a clue...
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b013480d4c3b5970c.jpg)Hanging some stuff in a tree...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda20180970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda1d383970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013480d50660970c.jpg)
-
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013480d63271970c.jpg) "WAKE UP ADMISSIONS OFFICE! IT'S DITCH DAY!!!!" ---cue the banging on pots and pans
-
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda22f7b970b.jpg)The admissions staff were very surprised to say the least...
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda1db03970b.jpg)Planting a clue...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013480d54898970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda20180970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda27a8a970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b013480d50660970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda2809c970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b013480d63271970c.jpg) "WAKE UP ADMISSIONS OFFICE! IT'S DITCH DAY!!!!" ---cue the banging on pots and pans
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013480d565d5970c.jpg)We watched from afar...
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda22f7b970b.jpg)The admissions staff were very surprised to say the least...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda2d433970b.jpg) 
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b013480d54898970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda2ea1c970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda27a8a970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013480d5d342970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda2809c970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda32e88970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b013480d565d5970c.jpg)We watched from afar...
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013480d6145d970c.jpg) We waited patiently in the kitchen where we had their bribe waiting for them: donuts!
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda357f0970b.jpg) We had so much fun putting together this stack for the admissions office...we really felt like they enjoyed and had a great time :) Being so close with all the admissions staff...it was so nice to have surprised them.
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda2d433970b.jpg) 
+
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda2ea1c970b.jpg)
+
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b013480d5d342970c.jpg)
+
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda32e88970b.jpg)
+
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b013480d6145d970c.jpg) We waited patiently in the kitchen where we had their bribe waiting for them: donuts!
+
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133eda357f0970b.jpg) We had so much fun putting together this stack for the admissions office...we really felt like they enjoyed and had a great time :) Being so close with all the admissions staff...it was so nice to have surprised them.
 

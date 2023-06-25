@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c022ad3799fd6200c-pi.jpg
+image: /old_images/6a01b8d28f2857970c022ad3799fd6200c-pi.jpg
 title: Part Time Dog Walking
 categories: [culture]
 status: Publish
@@ -13,8 +13,8 @@ Over the past year, I've been regularly dog-sitting for this cute maltese-poodle
 I first got started walking dogs 2 years ago, when I signed up to do this part-time on an app called Rover. I started since I really wanted a dog, but Caltech's housing policy doesn't allow students to have dogs in the houses. I live off campus now, but my landlord also doesn't allow pets in this apartment, unfortunately.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c022ad39fc5a8200d-pi.jpg)
+![](/old_images/6a01b8d28f2857970c022ad39fc5a8200d-pi.jpg)
 Dog walking is also a nice way to make some money while visiting cute dogs :) I don't charge a lot, so I get $10 every time I go, but it's a good way of de-stressing.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c022ad3799feb200c-pi.jpg)
+![](/old_images/6a01b8d28f2857970c022ad3799feb200c-pi.jpg)

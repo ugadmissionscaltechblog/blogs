@@ -3,7 +3,7 @@ layout: post
 title: "It's Rant Night!!!!!" 
 categories: [culture]
 author: andy
-image: https://ik.imagekit.io/u9ndqdgam20/images/2021/04/Dining+Hall.jpg
+image: /images/2021/04/Dining+Hall.jpg
 ---
 
 
@@ -11,12 +11,12 @@ image: https://ik.imagekit.io/u9ndqdgam20/images/2021/04/Dining+Hall.jpg
 
 Moving on, Thursdays are my favorite day of the week at Caltech. Most people get through the week dreaming of Fridays, but they are wrong. Thursday is far superior for two main reasons: Grill Night and Rant Night.
 
-![ grill ](https://ik.imagekit.io/u9ndqdgam20/images/2021/04/burgers.jpg)
+![ grill ](/images/2021/04/burgers.jpg)
 
 ## Grill Night
 
 Grill Night is exactly what it sounds like. For dinner, student waiters grill a ton of food in the courtyard. Depending on the week, this includes steaks, salmon, chicken breasts, burgers, hot dogs, or sausages as well as veggie burgers, mushrooms, peppers, onions, and a ton of other veggies for people who don’t eat meat. I helped grill for Lloyd and, obviously, our grill team is the best. In addition to the best food of the week, grilling is another great way to destress and relax. Plus you get paid to do it!
-![ meat ](https://ik.imagekit.io/u9ndqdgam20/images/2021/04/grill.jpg)
+![ meat ](/images/2021/04/grill.jpg)
 
 ## Time to Rant
 
@@ -36,4 +36,4 @@ The other great part about Thursdays is in Lloyd House is Rant Night! This is a 
 * Career Fair – How it's not fair if you don’t study C$
 * Everyone ranting about C$ majors
 It’s a ton of noise, banging, and laughter making it a really cathartic weekly event. I’m mentioning this now because we have recently brought it back online! We combined it with a chance to teach people some knitting, so it had been rebranded Stitch and B***h. Here’s a photo of us below!
-![ virtual ](https://ik.imagekit.io/u9ndqdgam20/images/2021/04/rant.png)
+![ virtual ](/images/2021/04/rant.png)

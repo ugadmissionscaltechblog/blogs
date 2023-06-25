@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jonathan Liu
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73ddbce6b970d01a511d70ee8970c-pi.jpg
+image: /old_images/6a01a73ddbce6b970d01a511d70ee8970c-pi.jpg
 title: Travel Shenanigans 
 categories: [research]
 status: Publish
@@ -30,7 +30,7 @@ Munich airport customs. The line was as long as it looks.
 My first impression of Munich interntional airport:*wow, this place is really clean*. The well-run, almost sterile feeling was eliminated as soon as I entered customs, naturally. Taking my place at the end of the line, I waited some 30 odd minutes as a horde of Americans on vacation/Germans back from vacation slowly passed the border. Following that, the institute sent me a taxi driver to drop me off at my new place, and we exchanged some laboured conversation, with him peppering his heavily accented English with German and me struggling to understand both. It was a 30 minute drive from the airport to Garching, the town where I'm living - a drive tripled in duration due to the sudden failing of the driver's GPS, but at this point I was so tired that it really didn't matter anymore. The route was quite scenic, though.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73ddbce6b970d01a511d70f18970c-pi.jpg)
+![](/old_images/6a01a73ddbce6b970d01a511d70f18970c-pi.jpg)
 
 It was really fun reading signs in kilometers and failing at unit conversions.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Lori Dajose
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e9b6249a970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0168e9b6249a970c.jpg
 title: SURFing in Sunny California!! 
 categories: [research]
 status: Publish
@@ -18,7 +18,7 @@ Big happy ExoLab family at work! My mentor is Jon Swift (a postdoc), the guy on 
 ﻿﻿In addition to learning everything there is to know about potentially habitable planets, I get to dig into historical literature background of exoplanets and find parallels to things we're doing now. What's crazy is that, there's actually a lot of controversy as to who discovered the first planet outside our solar system. I get to interview these guys who wrote the papers announcing they what they discovered, and find out their side of the story. Talk about science journalism dream!!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0163039b1745970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0163039b1745970d.jpg)
 
 This picture is one that's super significant and inspiring in studying exoplanets. Famously dubbed the "Pale Blue Dot," this is a view of Earth from Voyager 1: 3.7 BILLION MILES AWAY. Look how tiny and lonely we are! Carl Sagan made an excellent speech on this photo. Here's an excerpt that's particularly meaningful to me:
 

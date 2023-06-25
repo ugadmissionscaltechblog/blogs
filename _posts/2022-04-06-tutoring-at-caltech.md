@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/leah/2nd.jpg
+image: /images/2022/leah/2nd.jpg
 tags: []
 title: Tutoring at Caltech
 author: Leah Griffith
@@ -16,11 +16,11 @@ The RISE tutoring program has been around since the 70s under the Caltech Y, a c
 
 70s:
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/leah/2nd.jpg)
+![](/images/2022/leah/2nd.jpg)
 
 Past years:
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/leah/2021-10-21_16-37-00_727.jpg)
+![](/images/2022/leah/2021-10-21_16-37-00_727.jpg)
 
 All that’s to say, RISE is definitely legit and proven to help high students academically and improve college students’ morale. Personally, I’ve seen this first-hand over the past year.
 
@@ -28,6 +28,6 @@ When I first joined, I was so nervous! I had been assigned to help two girls in 
 
 I’ve connected with the students on many different topics like the newest songs or pop culture news - they keep me young! But we’ve also spoken about the college application process, what studying science is like in university, and some of their academic fears. Some of the math we work on together is below! Creating these bonds as a mentor has been incredibly meaningful to me, and I feel so lucky to have been involved in this process. I hope that if you come to Caltech or if you’re a local Pasadena high schooler, you look into RISE tutoring!
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/leah/IMG_0151.jpg)
+![](/images/2022/leah/IMG_0151.jpg)
 
 Photo Credits: [https://www.caltechy.org/rise-tutor](https://www.caltechy.org/rise-tutor)

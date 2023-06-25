@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Teo Wilkening
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01675ffee4a5970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01675ffee4a5970b.jpg
 title: Fall Semester Reflection
 categories: [culture]
 status: Publish
@@ -21,12 +21,12 @@ Other than sports though, Caltech has so far been amazing. I’m not even talkin
 Unfortunately if I talked any more about the first semester I’d have to talk about it all and then I’d just be rambling. A few interesting things that happened however were: Page Interhouse (Alice in Wonderland themed), Thanksgiving with my house, zombie night, getting a multi-colored Mohawk (see below), and an awesome oat-meal inspired food fight.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01675ffee68b970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01675ffee68b970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff09fc3d970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff09fc3d970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff09fd10970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff09fd10970d.jpg)
 
 But don't worry! I am back to normal now!
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01675ffeec9c970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01675ffeec9c970b.jpg)

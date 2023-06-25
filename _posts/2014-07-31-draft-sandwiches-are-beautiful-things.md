@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ariel O'Neill
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c3671e245970b01a511e7051c970c-pi.jpg
+image: /old_images/6a017c3671e245970b01a511e7051c970c-pi.jpg
 title: Sandwiches are beautiful things
 categories: [local]
 status: Publish
@@ -15,7 +15,7 @@ From Google Maps
 Getting to Which Which is easy!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c3671e245970b01a3fd3757d3970b-pi.jpg)
+![](/old_images/6a017c3671e245970b01a3fd3757d3970b-pi.jpg)
 
 From https://www.whichwich.com/
 

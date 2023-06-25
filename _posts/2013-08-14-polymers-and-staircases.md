@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kiara
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac79564c970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0192ac79564c970d.jpg
 title: Polymers... and Staircases?
 categories: [research]
 status: Publish
@@ -32,7 +32,7 @@ As someone who has managed to completely avoid lab sections that start at 8 AM d
 
 At work, we wear uniforms, so when people arrive, they go to the locker room to change first before heading off to the workplace. One particular staircase is closest to the locker rooms, and having climbed it multiple times, I couldn't help but take note of the things that are written on it. The things written are what you'd expect, such as "Hold on to the railing" (another staircase that doesn't have things written on it has a radio attached to the wall telling you the same thing when you pass it), but there was one that really caught my attention:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901eba2788970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01901eba2788970b.jpg)
 
 I'm referring to the top one.
 

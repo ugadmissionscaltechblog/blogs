@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Joanne Li
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a511d0e278970c01a511e38f78970c-pi.jpg
+image: /old_images/6a01a511d0e278970c01a511e38f78970c-pi.jpg
 title: Water, Water, Everywhere
 categories: [global]
 status: Publish
@@ -17,5 +17,5 @@ In reality, the rain turned out to be not as bad as I'd expected, though I guess
 Imagine my surprise when I woke up to probably the sunniest, clearest days I've experienced here since day 1. When I arrived at the office, soemone led me to the window and pointed out Mount Fuji in the distance, about 100 km (60 miles) away. That's how much the weather had improved overnight.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a511d0e278970c01a511e38d8b970c-pi.jpg)
+![](/old_images/6a01a511d0e278970c01a511e38d8b970c-pi.jpg)
 In addition to preparing me poorly for the rain, life in SoCal has also taught me little about dealing with humidity. The humidity is around 85% at night and much higher in the daytime. My first attempt at laundry here (hang-drying, as is the norm in many Asian countries) was a bit of a failure since I didn't have enough hangers, nor a laundry pole. It also turns out that waiting two days for your laundry to dry is slightly more annoying than waiting an hour for the North Houses' dryers to free up. Oh well, it was a good lesson in patience. Additionally, I should stop taking for granted the comparatively excellent weather we have at Caltech. :)

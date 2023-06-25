@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad353f178200c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b022ad353f178200c.jpg
 title: Ditch Day
 categories: [culture]
 status: Publish

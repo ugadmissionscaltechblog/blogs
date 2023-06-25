@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d2961013970c-pi.jpg
+image: /old_images/6a01b8d28f2955970c01b8d2961013970c-pi.jpg
 title: Summer Eats
 categories: [culture]
 status: Publish
@@ -18,12 +18,12 @@ I decided to make a red, white, and blue blueberry and strawberry pie to get mys
 This is one of my all-time favorite foods. What could possibly be better than pasta made out of cheese topped with a tangy marinara sauce and more cheese!? It also appears to be a super complex dish, but only takes around an hour to make, including the time it takes to make homemade sauce. My friends make fun of me because, as a girl with Italian heritage, I always make sure I buy real parmesan cheese, not the pre-grated kind. While some may not notice the difference, the real stuff is much more flavorful and key to making the pasta taste great.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b7c90bbcf9970b-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01b7c90bbcf9970b-pi.jpg)
 
 The gnocchi with freshly-grated parmesan cheese.****
 **Key Lime Pie-Easy as Pie:**
 Another one of my all-time favorites. As I mentioned in my last post, I grabbed some key limes on the way back from the Grand Canyon. They were on sale for a dollar a pound and I went for it. It turns out that making key lime pie is super easy. All you have to do is combine condensed milk, sour cream, key lime juice, and zest, put it in a graham cracker crust, bake for 5-8 minutes, and chill for at least an hour. It tasted amazing. I still have enough key lime juice to make another pie, which is most definitely what I will be doing this weekend!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c90bbcb4970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c90bbcb4970b.jpg)
 Key lime pie!

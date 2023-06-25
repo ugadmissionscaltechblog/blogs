@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Lekha Viswanadham
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e9094fcb970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0168e9094fcb970c.jpg
 title: Food, glorious food! 
 categories: [research]
 status: Publish
@@ -20,43 +20,43 @@ On the weekdays during the quarter Caltech has four main ways of distributing fo
 During finals week we have “Snake Kits”, where, from 8 to 10 PM on two days of the week, the North Kitchen has yummy snacks for students to power through finals.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b016764089d86970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b016764089d86970b.jpg)
 *Food! I ate the cheese and cookie while taking my 4-hour chemistry final, and the rest (except for the potstickers, which were really greasy and therefore disposed of) I saved for breakfast (we have a small fridge in our room). I’ll explain the instant-noodle box soon.*
 
 There is also “Midnight Breakfast” (yes, the breakfast always advertised by Caltech), where, at midnight, students have breakfast because of studying for finals. After all, breakfast is the most important meal of the day!
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e909533c970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0168e909533c970c.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01630313dfd5970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01630313dfd5970d.jpg)
 However, the next day (or that same day?) was Pi Day, which means Tom Mannion provides, on 3-14 at 1:59 AM, 26 pies of 5 varieties on the Olive Walk. I was too tired and knew I had to take my chemistry final the next day and was too full from midnight breakfast, so I missed out on eating pie on Pi Day.
 
 I forgot another source of food: the lovely members of the Avery community. Averites have a love for baking/cooking/culinary arts (and we live really close to Del Mar, so we have easy access to off-campus). People will always be baking cookies, keeping cakes/food from Tom Mannion’s cooking class, celebrating birthdays, and the likes. The RAs and AC of Avery also bake cookies and have snack carts during finals and midterms week. Anyways, March 14th also happened to be White Day (kind of like friendship day in Japan). I had mentioned that the Avery guys had made cookies and cards for Valentine’s Day, so the Avery girls did something special for the guys. We made Twix cheesecakes with Oreo crusts and, using the leftover Italian soda bottles from Interhouse, created notes for the guys.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01676408b0bf970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01676408b0bf970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01676408b800970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01676408b800970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e909702a970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0168e909702a970c.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01630313f512970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01630313f512970d.jpg)
 And here comes my (and a lot of people’s) “first world problem” at Caltech (you can play the world’s smallest violin out of sorrow if you must).
 
 I am fortunate for the presence of so much food, but I really don’t know the capacity of any person’s stomach. I had a free lunch or two every week in some shape or form (pizza class+SFL+FWL+Caltech SWE), I stay in Avery because of the distance to the coffeehouse and the presence of food in Avery through open kitchen and culinary flair and because I have a small fridge in my room with food to defrost over the weekend for dietary needs and conveniences (and with yogurt from Trader Joe’s because the yogurt in the C-Store has gelatin); I lose appetite whenever I cook, and because I am vegetarian, whatever I buy tends to cost less. Yes, quite a lotto-show sentence.
 
 I had a huge dilemma at the end of term: I had about $130 in dbal to spend in about a week because dbal ends at noon on the Saturday after finals. I knew what I had to do: raid the C-Store for non-perishables. The problem lies in this: I can’t buy much in the C-Store that is healthy, non-perishable, and worth my effort. I would buy instant noodles and cans of soup if they were vegetarian, granola bars and crackers if they didn’t have flax seed (which is not good for asthmatics), fruit juices if they didn’t have grapes and pineapple (allergies), and soda if I had the ability to finish at least one cup (unless I am sick, but I had enough soda the week before). Therefore, what to do but buy out the C-Store’s stash of Dasani 1-liter water bottles and Powerade (and a couple of smoothies and packs of dark chocolate M&amp;Ms to finish the change)?
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e909726f970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0168e909726f970c.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01676408c39f970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01676408c39f970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e9097c07970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0168e9097c07970c.jpg)
 Why did I spend it specifically on water and Powerade? Staying in Pasadena for the spring and summer means living through the heat, and dehydration can be a serious problem in California (dryness+heat=summer ovens). I would have bought food for the food drive that occurs every quarter, but I already help out the hungry every year, so I decided to spend the dbal for myself. Looking at next quarter, I shouldn’t be in the same quagmire because I have no pizza classes, and I am ready to declare my major when I come back from spring break.
 
 I wonder, though. Where will I put all those bottles? Hmm...I’ll figure it out.

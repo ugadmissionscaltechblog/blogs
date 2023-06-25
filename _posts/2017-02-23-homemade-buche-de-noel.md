@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anita
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d7eb33970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d7eb33970b.jpg
 title: Homemade Buche de Noel
 categories: [culture]
 status: Publish
@@ -22,31 +22,31 @@ The first part of creating the Buch de Noel involved making the ganache to go on
 The ganache must be made first because it takes four hours to cool (with occasional stirring). The recipe warned against putting it in the refrigerator, which would make it hard to spread on the cake later.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb097b169e970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb097b169e970d.jpg)
 The second step was making the batter. The cake is flourless, and substitutes eggs and chocolate for the texture instead. Luckily, my family buys those 48-packs at Costco, so I could justify using 7 egg whites just on dessert in one go. The egg whites were beaten until stiff. In the meantime, bittersweet chocolate was melted in the saucepan and set aside.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d7eb57970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d7eb57970b.jpg)
 Then heavy cream was brought to a boil.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d7eb5e970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d7eb5e970b.jpg)
 The egg whites were carefully folded into the cream and chocolate mixture....
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d262482c970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d262482c970c.jpg)
 ...resulting in a decadent, foamy batter...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2624844970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2624844970c.jpg)
 ...then set in the oven to bake. Pro-tip: Do not forgetto butter the parchment paper before pouring in the batter, because when I forgot to do that, it led to later problems.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb097b16cb970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb097b16cb970d.jpg)
 Part 3: the filling in the cake. This involved the last of the semi-sweet chocolate, which was melted in the saucepan and set aside. Then, I had to boil sugar syrup to the soft-ball stage. I had read about the different stages of boiling candy in my mother's confectionary book, but this was the first time I had ever tried it.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d7eb6e970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d7eb6e970b.jpg)
 The soft-ball stage means that when dropped into a bowl of cold water, the syrup forms into a malleable ball (if the spoonful was big enough) or, in my case, a malleable lump. So excited was I to document the success of my soft-ball boil on Snapchat video that I accidentally over-boiled it to hard-ball, and the syrup came away in sticky spikes. Oh well... I tried really hard to mash it well after mixing it with the melted chocolate and pouring it into beaten egg yolks.
 
 Part 4: putting it all together. I spread the filling, replete with a few rogue spikes of sugar syrup, evenly over the cake. Then I attempted to peel the egg white cake off the parchment paper and mostly succeeded without shattering it. It came in a fragile, 3/4-inch thick layer. Rolling it was less successful. By the end, I had a smushed-looking log, the result of gingerly folding the cake into 3 layers...
@@ -54,23 +54,23 @@ Part 4: putting it all together. I spread the filling, replete with a few rogue 
 By now, the ganache I had made 3.5 hours ago (because time really flew by) was pretty much cooled. The recipe said to remelt a quarter of it, which I did, resulting in a shiny, beautiful dark glaze over the cake.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2624858970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2624858970c.jpg)
 Then came time to spread the cooled ganache on it. I knew immediately why the recipe had asked for the coating of melted ganache--the cooled ganache was super sticky, and the cake was way too fragile. If it had been in direct contact with the cooled ganache, I would have shredded it to bits. As it was, small parts of the cake came off, but the ganache created a really pretty bark-like effect.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d7eb81970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d7eb81970b.jpg)
 Once the confectioner's sugar was added, the whole thing came together quite nicely!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d262486a970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d262486a970c.jpg)
 Here's a picture of a cross-section of the cake.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d7eb95970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d7eb95970b.jpg)
 As with most things in life, my log cake didn't turn out 100% how I expected--but it was pretty great all the same. Even my parents, whose eyes had widened at the amount of chocolate that was going into the thing, had a good remark to say about the mild sweetness level. And even my brother, who considers 76% chocolate to be milk chocolate, was impressed with the flavor. We ateit with hot cocoa from our espresso milk frother, a nice supplement to the Christmas feast my mother had prepared, shown below.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d7ebd9970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d7ebd9970b.jpg)
 Here is the link to the recipe I used if anyone is interested in trying it out:
 [https://www.saveur.com/article/Recipes/Buche-de-Noel-Recipe](https://www.saveur.com/article/Recipes/Buche-de-Noel-Recipe)
 Thanks for reading! Till next time,

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d2bbb8e5970c-pi.jpg
+image: /old_images/6a01b8d28f2955970c01b8d2bbb8e5970c-pi.jpg
 title: Board of Trustee Meeting
 categories: [research]
 status: Publish
@@ -22,12 +22,12 @@ Hi all! Sorry for the radio silence, but my term has been super busy! One of the
 I feel so official! Here's my seat at the meeting!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d2bbb8f1970c-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01b8d2bbb8f1970c-pi.jpg)
 
 Here we all are presenting with Dean Gilmartin!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09d47e9d970d-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01bb09d47e9d970d-pi.jpg)
 
 The beautiful flora of Santa Barbara
 

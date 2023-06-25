@@ -1,0 +1,372 @@
+- bio: I'm a senior from Denver, Colorado (the land of Patagonia jackets and unpredictable
+    weather). At Caltech I'm on the fencing team foil squad captain and SAAC representative,
+    a member of chemistry club and ultimate frisbee team, and the Fleming House food
+    committee representative. In my free time, I like to hike, write poetry, shoot
+    photos, and explore LA for trendy food.
+  class: 2021
+  house: Fleming
+  image: Andrew Chan.jpg
+  option: Geophysics + English
+  title: Andrew Chan
+- bio: Life of a Lloydie - Andy. Hello! I'm a senior physics major with a minor in
+    aerospace engineering from from Bethesda, Maryland. I'm a member of Lloyd House
+    (and was the president last year), help out as a dean's tutor, wait house dinners,
+    and swim. Outside of the more structured activities, I'm always on the hunt for
+    the best KBBQ restaurant or really any ayce place.
+  class: 2021
+  house: Lloyd
+  image: Andy Rothstein.jpg
+  option: Physics
+  title: Andy Rothstein
+- bio: Hello, my name is Annabel Reyna Gomez! I am a junior from the San Francisco
+    Bay Area (home of the Silicon Valley) pursuing a major in Mechanical Engineering.
+    On campus, I am a member of Venerable House, Club Latino, Women Mentoring Women,
+    a Caltech Y Rise Tutor, the Mechanical Lead of the AIAA LIGO Innovation Team,
+    and an Admissions Ambassador. Off campus, I intern at NASA’s Jet Propulsion Laboratory
+    (JPL) and work on force estimations of the InSight Mars Lander robotic arm. During
+    my free time, I enjoy 3D printing, watching movies with my friends, painting,
+    and silk screening.
+  class: '2023'
+  house: Venerable
+  image: Annabel Reyna Gomez.jpg
+  option: Mechanical Engineering
+  title: Annabel Reyna Gomez
+- bio: Hi! I’m Arielle, a Junior in Page house from Bethesda, Maryland. I’m majoring
+    in Computation and Neural Systems (CNS), and I’m also pre-MD/PhD (fingers crossed).
+    Outside of classes, you can find me organizing for environmental justice in the
+    L.A. area, serving as the Treasurer for Caltech’s theater club (TACIT), and helping
+    address diversity, equity, and inclusion issues on campus. I love weightlifting,
+    dogs, and watching baseball (Go Nats!) and hockey (Go Caps!).
+  class: 2023
+  house: Page
+  image: Arielle Tycko.jpg
+  option: Computation & Neural Systems
+  title: Arielle Tycko
+- bio: Hi! I am a junior from Buffalo Grove, Illinois. At Caltech I am a member of
+    the varsity women's tennis team, and I do research with the Daraio Lab. I am also
+    a full member and peer advocate for Fleming House and a social member of Lloyd
+    House. In my free time I enjoy working out, reading, and just about anything creative!
+  class: '2024'
+  house: Fleming
+  image: Athena Kolli.jpg
+  option: Mechanical Engineering
+  pronouns: she/her
+  title: Athena Kolli
+- bio: Hi! My name is Bea, and I am a rising junior from Houston, Tx majoring in CS
+    with an IDS minor. I am Questbridge Scholar and President of the Questbridge Club
+    on campus! I am also part of the Women's Tennis Team, a PA (peer advocate) and
+    a member of Lloyd house! In my free time I love to hang out with my friends, explore
+    LA, and learn new things.
+  class: '2024'
+  house: Lloyd
+  image: Bea.jpg
+  option: Computer Science and IDS minor
+  pronouns: she/her
+  title: Bea
+- bio: I'm a sophomore in Blacker House originally from the Rio Grande Valley in South
+    Texas (almost Mexico, but not quite). I'm the Jam Room manager for the undergraduate
+    residences at Caltech, a member of the Radio club, bassist and rhythm guitarist
+    for the band Aether, Caltech Admissions ambassador, PARSEC member, Surf and Windsurf
+    club member, and FSRI alum. I'm a big nerd when it come to aerospace (especially
+    fighter jets), and an avid guitar player whenever I can get the chance, and always
+    down to play basketball. I like to think of myself as a simple guy who's main
+    motivation is to have fun, continue getting better, and help others when I can.
+  class: '2025'
+  house: Blacker
+  image: Benjamin R. Lugo.jpg
+  option: Mechanical Engineer with a minor in Aerospace
+  pronouns: he/him
+  title: Benjamin R. Lugo
+- bio: My name is Camila, I’m a senior from Atlanta studying Engineering and Applied
+    Sciences with a minor in Environmental Science. I’m a part of Page house, clubs
+    like Engineers without Borders and club Latino, and external activism groups like
+    Extinction Rebellion. I’m passionate about climate justice, exploring the outdoors
+    through hiking, and hugging as many trees as possible!
+  class: 2022
+  house: Page
+  image: Camila Buitrago.jpg
+  option: Engineering and Applied Science
+  title: Camila Buitrago
+- bio: Hi, my name is Chase Blanchette, and I'm a junior from Ellicott City, MD studying
+    electrical engineering. I'm the vice president of Venerable House, member of the
+    EE subteam of Caltech Robotics Team (which builds a submersible robot), and I
+    play Quizbowl and ultimate frisbee as well. In my spare time, you can catch me
+    biking, hiking (I love the mountains!), reading, solving crossword puzzles, and
+    building Rube Goldberg machines (complicated chain reactions made of everyday
+    objects that accomplish a simple task) for my YouTube channel. Above all, I love
+    meeting people and making puns!
+  class: 2023
+  house: Venerable
+  image: Chase Blanchette.jpg
+  option: Electrical Engineering
+  title: Chase Blanchette
+- bio: Hi, I’m Emily Du (they/them)! I’m a senior from sunny San Diego and I’m a double
+    major Chemistry + History, with a minor in Biology. On campus, I’m a member of
+    Lloyd House, the president of Chemistry Club, treasurer for APIDA+, and involved
+    with the Title IX Office and Board of Control. In my free time, I love playing
+    board games with friends, exploring the Pasadena and LA food scene, going hiking
+    or climbing, and volunteering with local organizations.
+  class: 2023
+  house: Lloyd
+  image: Emily Du.jpg
+  option: Chemistry + History
+  title: Emily Du
+- bio: I'm a sophomore from Vancouver, Canada majoring in Astrophysics with a minor
+    in Computer Science. On campus, I throw for the track and field team and play
+    percussion for the wind orchestra. In my free time, I enjoy biking, dancing, and
+    climbing.
+  class: '2025'
+  house: Lloyd
+  image: Emily Hu.jpg
+  option: Astrophysics
+  pronouns: she/her
+  title: Emily Hu
+- bio: Hi! I'm a sophomore from San Jose, CA (bae area) in Lloyd House. I major in
+    CS and have research interests in computational sustainability, from computer
+    vision for wildlife conservation to power grid optimization. I am also part of
+    the ultimate frisbee team, student investment fund, and debate society. In my
+    free time I like to lift, eat, and explore the LA area.
+  class: '2025'
+  house: Lloyd
+  image: Enoch Luk.jpg
+  option: CS
+  pronouns: he/him
+  title: Enoch Luk
+- bio: Hi, I'm Hannah! I'm a Mechanical Engineering major in the class of 2024, and
+    I'm from Portland, Oregon.
+  class: '2024'
+  house: Venerable
+  image: Hannah Fisher.jpg
+  option: Mechanical Engineering
+  pronouns: ''
+  title: Hannah Fisher
+- bio: Hello! I’m Hannah, a Junior studying Electrical Engineering from the Chicagoland
+    area. I am a member of Page House, where I served as the Vice President. I am
+    a tutor for the Caltech Y Rise Program and serve as a peer advocate and a title
+    IX advocate. Beyond STEM, I enjoy playing tennis and any water related sport such
+    as windsurfing and kayaking.
+  class: 2023
+  house: Page
+  image: Hannah Grauer.jpg
+  option: Electrical Engineering
+  title: Hannah Grauer
+- bio: I'm a senior in Page house, born and raised in the Pasadena area. On campus
+    I am an admissions ambassador, undergraduate researcher in the Stoltz Lab (synthetic/organic
+    chemistry), Deans Tutor, and TA for various chemistry courses. In my free time
+    I perform as a company member with a local ballet company and explore other dance
+    classes in the area. I also like to host Bachelor/Bachelorette viewing parties
+    and explore the area and food scene with my friends!
+  class: '2023'
+  house: Page
+  image: Isabel de la Torre Roehl.jpg
+  option: Chemistry
+  pronouns: I'm a senior in Page house, born and raised in the Pasadena area. On campus
+    I am an admissions ambassador, undergraduate researcher in the Stoltz Lab (synthetic/organic
+    chemistry), Deans Tutor, and TA for various chemistry courses. In my free time
+    I perform as a company member with a local ballet company and explore other dance
+    classes in the area. I also like to host Bachelor/Bachelorette viewing parties
+    and explore the area and food scene with my friends!
+  title: Isabel de la Torre Roehl
+- bio: Hi! I’m Isha Chakraborty, a junior from Chandler, Arizona and Cupertino, California
+    studying Computer Science. On campus, I am a member of Page House, the Society
+    of Women Engineers, Caltech Ballroom, the Sexual Assault and Gender Equity Council,
+    a trained Title IX advocate, a Dean’s Tutor, a Teaching Assistant for a few Computer
+    Science classes, and an Admissions Ambassador. I am really interested in the applications
+    of Computer Science and have been working as a Statistical Genetics and Computational
+    Biology researcher for the Pachter Lab. In my spare time, I love drawing, making
+    my way through the New York Times bestseller list, and binging TV shows with my
+    friends!
+  class: 2023
+  house: Page
+  image: Isha Chakraborty.jpg
+  option: Computer Science
+  title: Isha Chakraborty
+- bio: Hi, I’m Jen! I am a native of New York City and currently a senior at Caltech
+    majoring in Computer Science with a minor in Biology. I’m a co-captain of Caltech’s
+    tennis team and a member of Fleming House. On campus, I’m involved with the Caltech
+    Y, the Student-Athlete Advisory Committee and Chemistry Club. I love exploring
+    both the urban and natural parts of Los Angeles by going out to restaurants or
+    hiking on weekends.
+  class: 2023
+  house: Fleming
+  image: Jen Yu.jpg
+  option: Computer Science
+  title: Jen Yu
+- bio: Hi! My name is Julian and I'm a sophomore in Blacker Hovse at Caltech. My interests
+    and hobbies are music, music, music. I love music discourse and you can always
+    catch me looking into recent releases. I also am really into weightlifting and
+    I go to the gym roughly six days a week. When I'm not doing either of those things,
+    I'm probably sleeping, working, or out with friends.
+  class: '2025'
+  house: Blacker
+  image: Julian Millan.jpg
+  option: Mechanical Engineering
+  pronouns: he/she/ze
+  title: Julian Millan
+- bio: Hi I’m Juni, a sophomore from Baltimore, MD. I am majoring in bioengineering
+    and minoring in English. I play on the women's soccer team and run on the track
+    team. In my free time, I like to read, play guitar, and paint.
+  class: '2025'
+  house: Venerable
+  image: Juni Polansky.jpg
+  option: Bioengineering
+  pronouns: she/her
+  title: Juni Polansky
+- bio: Hi, my name is Katelyn, and I'm a senior from New York City majoring in Bioengineering!
+    As a member of Lloyd house, I served as President and Social Director. You can
+    also find me singing with the acapella group, Fluid Dynamics, tutoring in the
+    Caltech Y RISE program, or developing open-source bioinstruments with the Pachter
+    lab. I am an avid runner and museum-goer, and I love to read, tinker, and do crosswords.
+  class: '2023'
+  house: Lloyd
+  image: Katelyn Lee.jpg
+  option: Bioengineering
+  title: Katelyn Lee
+- bio: Hey, y’all! I’m Leah Griffith, a junior from Austin, Texas studying Computer
+    Science and Business, Economics, & Management (BEM). As an active member of Fleming
+    House, a Peer Advocate, an Admissions Ambassador, and a Rise Tutor, I’m pretty
+    busy during the year! Over the summers, I’ve built a machine learning algorithm
+    to classify supernovae with two Caltech professors and explored industry in the
+    Bay Area working for the cybersecurity company Rapid7. On campus, you can find
+    me in study groups or Red Door Cafe nerding out with my friends about computer
+    science or Star Wars. Off campus, I’ll be at the beach or finding good eats in
+    Pasadena.
+  class: 2023
+  house: Fleming
+  image: Leah Griffith.jpg
+  option: CS + BEM
+  title: Leah Griffith
+- bio: Hi, I'm a sophomore from Kailua, Hawai'i. I'm majoring in Mechanical Engineering
+    with hopes of being an aerospace engineer at NASA/JPL. I'm a member of both Lloyd
+    House and Blacker House. I am part of Caltech's PARSEC Rocketry Club and a former
+    member of the Cross Country and Track teams. When I'm not doing schoolwork, I
+    like to hang out with friends, run, play the ukulele/violin, read, and play League
+    of Legends and Valorant.
+  class: '2025'
+  house: Blacker
+  image: Makoa Inciong.jpg
+  option: MechE
+  pronouns: he/him
+  title: Makoa Inciong
+- bio: Hi!
+  class: '2025'
+  house: Dabney + Ricketts
+  image: Michael Gutierrez.jpg
+  option: Mechanical Engineering
+  pronouns: he/him
+  title: Michael Gutierrez
+- bio: Hi! I'm Mila, a sophomore from Palo Alto, California. I'm on the Caltech Swim
+    Team as well as a part of the Women Mentoring Women program. I love singing and
+    Kpop.
+  class: '2025'
+  house: Avery
+  image: Mila Hong.jpg
+  option: Computer Science & BEM
+  pronouns: She/her/hers
+  title: Mila Hong
+- bio: ''
+  class: '2025'
+  house: Fleming
+  image: Rachael Kim.jpg
+  option: CS/BEM
+  pronouns: she/hers
+  title: Rachael Kim
+- bio: Hi! My name is Rahul Chawlani and I am a Junior studying Electrical Engineering
+    from the Houston area. I am a member of Page, where I am the Social Director,
+    and I'm also on the Caltech swim team! I do research in the Marandi Lab and outside
+    of STEM I love the write, play the piano, and watch football and basketball in
+    the Page Lounge.
+  class: '2024'
+  house: Page
+  image: Rahul Chawlani .jpg
+  option: Electrical Engineering
+  pronouns: ''
+  title: 'Rahul Chawlani '
+- bio: Hi! I’m Rashi, a California girl who grew up in Pasadena, practically next
+    door to campus. I’m a junior majoring in Bioengineering and would typically be
+    spending my days at Caltech messing with the genome of E. coli in lab. On campus,
+    I do synthetic bio research, have dabbled in a bit of electrical engineering with
+    the Racing team, am part of the Bollywood dance team Caltech Dhamaka, and like
+    to spend time exploring the area with friends.
+  class: 2022
+  house: Page, Venerable
+  image: Rashi Jeeda.jpg
+  option: Bioengineering
+  title: Rashi Jeeda
+- bio: I'm a junior from Bakersfield, California (southernmost point in the Central
+    Valley about 2 hours north of Pasadena). At Caltech, I am a Peer Advocate and
+    Title IX Advocate for Page House, a member of the electrical team at Caltech FSAE,
+    research at Netlab under Dr. Steven Low, and a member of Page House's grill team.
+    In my spare time, I enjoy both playing and watching sports (especially basketball,
+    and F1 in Page Lounge!) and just generally vibing and having a good time with
+    my housemates.
+  class: '2024'
+  house: Page
+  image: Rik Bose.jpg
+  option: Electrical Engineering
+  pronouns: he/him/his
+  title: Rik Bose
+- bio: ''
+  class: '2025'
+  house: Fleming
+  image: Roy Jiang.jpg
+  option: CS + BEM
+  pronouns: He/Him/His
+  title: Roy Jiang
+- bio: Hi, I'm a sophomore from Livermore, California (a city that claims to be part
+    of the "bay area," though there seems to be much discourse regarding that statement).
+    At Caltech I'm a member of PARSEC (the rocketry club), one of the Blacker house
+    historians, and a Mechanical Engineering major. In my free time, I like to read,
+    crochet, watch anime, and sometimes go hiking.
+  class: '2025'
+  house: Blacker
+  image: Sarah Bass.jpg
+  option: Mechanical Engineering
+  pronouns: she/her
+  title: Sarah Bass
+- bio: Hi there! My name is Shri Deshmukh and I am a senior at Caltech studying Mechanical
+    Engineering with a minor in Environmental Science and Engineering. On campus I
+    run Track & Field and am the leader of Caltech Dance Team as well as Caltech TBP.
+    Off campus, I have interned at Princeton University and JPL (NASA's Jet Propulsion
+    Laboratory) where I've pursued my passion in robotics. In my free time I enjoy
+    hiking/biking in nature, listening to music, and overall just having a good time
+    with friends and family.
+  class: 2022
+  house: Page
+  image: Shri Deshmukh.jpg
+  option: Mechanical Engineering
+  title: Shri Deshmukh
+- bio: Hello! I’m Sydney, a Junior from the Sacramento area studying Mechanical Engineering.
+    I play on Caltech’s volleyball team and I‘m a member of Fleming house. I participate
+    in clubs such as the Caltech Latino Association, the Society of Women Engineers,
+    and FSAE (we build a racecar)! Alongside meeting and talking to new people, I
+    love art, the ocean, pupusas (the national dish of El Salvador), and of course
+    STEM!
+  class: 2022
+  house: Fleming
+  image: Sydney Richardson.jpg
+  option: Mechanical Engineering
+  title: Sydney Richardson
+- bio: Hi! I’m Tyler and I’m a junior in Venerable House studying Electrical Engineering,
+    originally from Novato, CA. I’m on the Caltech Ultimate Frisbee Team, I am a Peer
+    Advocate (PA) for my house, and I am a Teaching Assistant (TA). I am really interested
+    in solar energy research, and I currently work part-time at NASA’s Jet Propulsion
+    Laboratory (JPL) researching solar cells for deep space missions. In my free time,
+    I enjoy 3D printing, playing Pokemon Go, Star Wars, Rubik’s cubes, Hamilton, Lego,
+    and airplanes!
+  class: '2023'
+  house: Venerable
+  image: Tyler Colenbrander.jpg
+  option: Electrical Engineering
+  title: Tyler Colenbrander
+- bio: Hi! I am Vanessa, a Junior Chem major and pre-med student. I am originally
+    from Shanghai, China but I've been living in sunny Southern California for the
+    past 7 years. I am the Vice President of Page House, a Health Advocate, and a
+    member of the Clemons lab. I love dancing, singing (poorly), goofing off with
+    my friends, playing poker, and watching the same shows on Netflix for the 15th
+    time.
+  class: 2022
+  house: Page
+  image: Vanessa Mechem.jpg
+  option: Chemistry
+  title: Vanessa Mechem

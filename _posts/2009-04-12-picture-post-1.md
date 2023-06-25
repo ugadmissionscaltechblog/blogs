@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Tyler Hannasch
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01156f1e0d7d970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01156f1e0d7d970c.jpg
 title: Picture Post 1
 categories: [culture]
 status: Publish
@@ -15,8 +15,8 @@ Pictures from Caltech:
 Pre-Frosh Weekend:
 Here is Tencia dealing at Casio Night
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157014df69970b.jpg)Some pickup vollyball
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01157014df69970b.jpg)Some pickup vollyball
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157014df96970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01157014df96970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01156f1e0f4e970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01156f1e0f4e970c.jpg)

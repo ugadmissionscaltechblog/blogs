@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad37805c6200d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b022ad37805c6200d.jpg
 title: Ge 136c Field Trip
 categories: [global]
 status: Publish

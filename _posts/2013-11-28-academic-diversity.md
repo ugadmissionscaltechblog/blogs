@@ -1,7 +1,7 @@
 ---
 layout: post
 author: MB3K
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b01aa733c970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b019b01aa733c970d.jpg
 title: Academic Diversity 
 categories: [culture]
 status: Publish

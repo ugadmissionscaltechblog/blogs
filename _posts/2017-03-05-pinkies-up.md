@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d262b29b970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b8d262b29b970c.jpg
 title: Pinkies Up
 categories: [culture]
 status: Publish

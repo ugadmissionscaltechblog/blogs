@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd1351ca970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd1351ca970b.jpg
 title: My Brother's Keeper
 categories: [research]
 status: Publish
@@ -21,7 +21,7 @@ It was absolutely delicious, and I highly recommend going if you're ever in the 
 Afterwards, we hit [Half and Half](https://www.yelp.com/biz/half-and-half-tea-house-san-gabriel)for boba because my brother hasn't had SoCal boba yet and that is an absolute must for anyone coming out here. (;
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dce1a80970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dce1a80970d.jpg)
 I just kind of really like boba. 6:
 Maybe we overdid it, but after boba, I just had to take him to [Fosselman's](https://fosselmans.com/)for ice cream. It's this local, family-owned place and has hands-down [the best milkshakes in the world](https://www.theguardian.com/lifeandstyle/2009/sep/13/best-foods-in-the-world). Naturally we just had to go...
 

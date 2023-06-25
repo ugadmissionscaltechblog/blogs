@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Stephany L
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f5ac81f1970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0133f5ac81f1970b.jpg
 title: A Day in Glasgow 
 categories: [global]
 status: Publish
@@ -13,9 +13,9 @@ Last weekend, completely unrelated to the Halloween festivities, I decided to go
 Buchanan Galleries! Actually, most malls in the UK I've been to so far are much smaller than malls in the US. This one was almost as big as a normal US mall though. Almost. The weirdest thing though, was walking around and then suddenly coming across one of these:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013488cc9a09970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b013488cc9a09970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013488cca17b970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b013488cca17b970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013488ccb5e7970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b013488ccb5e7970c.jpg)
 

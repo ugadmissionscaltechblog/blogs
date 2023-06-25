@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Teo Wilkening
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e844cbee970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0168e844cbee970c.jpg
 title: Build ALL the Things 
 categories: [culture]
 status: Publish
@@ -16,33 +16,33 @@ And now:
 The dance floor is completed! It was harder than it looks to put down- the platforms underneath aren’t necessarily level with each other.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0163024ed591970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0163024ed591970d.jpg)
 The plane:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b016763434000970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b016763434000970b.jpg)
 It’ll have propellers at some point (see below). It may not look like much right now, but once art gets finished with it, you’ll believe it’s an actual plane. Plus... it'll have wing tip lights! Haha, I didn't expect us to do more than paper mache and paint, but apparently we make it real here in Ruddock.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e844ea8d970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0168e844ea8d970c.jpg)
 Talking about lights, an upperclassman is setting up the wiring for the volcano. We will have a smoke machine and possibly more lights underneath the volcano fabric to create the effect.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0167634341d4970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0167634341d4970b.jpg)
 The top of the volcano currently..
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0163024ed26f970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0163024ed26f970d.jpg)
 We also have a raised platform in front of the volcano.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e844eb66970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0168e844eb66970c.jpg)
 The Ruddock crest will go in front of the platform, mimicking flowing lava of course (see below). A few other wall boards are resting beside it,waiting for positioning later.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e844ec7c970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0168e844ec7c970c.jpg)
 And don’t forget the hut! It’s an awesome piece of construction, and we’re going to reinforce the hut later on and keep it in our lower courtyard for years to come. It will be cool to have a piece of my first OPI (that’s what we in Ruddock call our interhouse party) last through my four years here.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0167634344bf970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0167634344bf970b.jpg)
 

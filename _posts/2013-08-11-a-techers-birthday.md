@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Michelle
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01910475e7c2970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01910475e7c2970c.jpg
 title: A Techer's Birthday 
 categories: [local]
 status: Publish
@@ -14,7 +14,7 @@ We continued Cat's birthday celebration into Friday evening, during which a grou
 The group at Cleo.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01910475e800970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01910475e800970c.jpg)
 We were a bit displeased with the lack of food in front of us...
 
 Cat's birthday celebration ended with a "Cat Bash" that night in the courtyard of Fleming...people from all over campus came by to hang out, socialize, and wish Cat a happy birthday. It was definitely a great birthday for Cat and a fun and relaxing weekend for the rest of us! Might I add that I got around to submitting about 8 medical school applications this weekend as well :) Working hard playing hard at its finest!

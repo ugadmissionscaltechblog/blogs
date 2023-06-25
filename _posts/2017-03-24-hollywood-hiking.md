@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Noelle
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0985c662970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb0985c662970d.jpg
 title: Hollywood Hiking
 categories: [culture]
 status: Publish
@@ -18,19 +18,19 @@ However, we almost didn’t go. That day, instead of sunshine, moody California 
 We liked it so much that we decided to come back with more friends and have a picnic. A week later, ten of us woke before 8 a.m. (no small feat on any day, much less a weekend), piled into cars, attended the morning church service, and then drove to Griffith.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01bb098344c1970d-800wi.jpg)
+![](/old_images/6a0105349b8251970b01bb098344c1970d-800wi.jpg)
 *Looking out in awe of the majestic mountains. Or is that just the sun in his eyes…*
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01bb098344b9970d-800wi.jpg)
+![](/old_images/6a0105349b8251970b01bb098344b9970d-800wi.jpg)
 *Dramatic flag at the top of the mountain *
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01bb098344c5970d-800wi.jpg)
+![](/old_images/6a0105349b8251970b01bb098344c5970d-800wi.jpg)
 *A big fluffy cloud casts a shadow on a hundred blocks of LA.*
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01bb098344bd970d-800wi.jpg)
+![](/old_images/6a0105349b8251970b01bb098344bd970d-800wi.jpg)
 *Munching on our lunch of PB &amp; honey sandwiches. Yum…*
 In sum, things Iwant to do more often are
 

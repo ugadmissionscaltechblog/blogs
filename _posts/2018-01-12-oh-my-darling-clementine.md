@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09e36607970d-pi.jpg
+image: /old_images/6a01b8d28f2955970c01bb09e36607970d-pi.jpg
 title: Oh My Darling, Clementine!
 categories: [local]
 status: Publish
@@ -17,12 +17,12 @@ I have some big news! About a month ago, I adopted a kitty named Clementine as a
 Lounging around!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d2caa31b970c-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01b8d2caa31b970c-pi.jpg)
 
 Watching movies for my humanities class in film together! Clementine loves to watch movies with me.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09e3660e970d-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01bb09e3660e970d-pi.jpg)
 
 Clementine in New York, posing with snow!
 

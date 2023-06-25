@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dong Woo Shin
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c38398caf970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017c38398caf970b.jpg
 title: ASB-Yosemite
 categories: [clubs]
 status: Publish
@@ -14,20 +14,20 @@ Yosemite was simply breathtaking. I do think I will definitely come back sometim
 *View of the base of the upper Yosemite falls*
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d4268b0fa970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017d4268b0fa970c.jpg)
 *Oooh...I think I understand why it's called the Mirror Lake!*
 *
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c38398fd2970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c38398fd2970b.jpg)
 *Great view, I must say. *
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d4268b386970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017d4268b386970c.jpg)
 
 *SQUIRREL!!!!!!!!!!!!!!!!!!!!!!!!!!!! *^.^**
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c38399191970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c38399191970b.jpg)
 
 *Sorry for the terrible quality, but we were driving when we came across a...coyote!! So cute &gt;w&lt;*
 Until next time, -Dong Woo

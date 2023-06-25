@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Caltech Blogs
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01630410ba0b970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01630410ba0b970d.jpg
 title: Adventures Galore!
 categories: [culture]
 status: Publish

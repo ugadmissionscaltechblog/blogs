@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jordan Theriot
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01053689cba8970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01053689cba8970c.jpg
 title: So What's Next?
 categories: [culture]
 status: Publish

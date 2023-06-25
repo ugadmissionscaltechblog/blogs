@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://ik.imagekit.io/u9ndqdgam20/images/2022/jen/cannon.jpeg
+image: /images/2022/jen/cannon.jpeg
 tags: []
 title: "The Residential Experience (Caltech RA's)\t"
 author: Jen Yu

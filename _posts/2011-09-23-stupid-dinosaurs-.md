@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Account Deleted
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015435963642970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b015435963642970c.jpg
 title: Stupid Dinosaurs!  
 categories: [research]
 status: Publish
@@ -25,6 +25,6 @@ Now, why are dinosaurs stupid? I told you Prof Eiler was a good speaker - he sta
 And just as we were done being shown pictures of all the "good people to know" -- PRANK TIME! The Blacker flag appeared in front of the monitor, and black / white confetti began to fall over the frosh. Now this didn't happen my year! (apparently, the tradition got stopped just before :( ). I was pretty glad that ushers just have to go pick up the programs, and not the confetti! (though a loyal group of moles = members of blacker promptly came to clean up after themselves :)).
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e8bb6d0bd970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b014e8bb6d0bd970d.jpg)
 *Blacker lion*
 So... Welcome to Caltech froshies!

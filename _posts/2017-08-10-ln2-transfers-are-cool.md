@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d2978512970c-pi.jpg
+image: /old_images/6a01b8d28f2955970c01b8d2978512970c-pi.jpg
 title: Helium Transfers are "Cool"
 categories: [research]
 status: Publish
@@ -20,6 +20,6 @@ At the end, we all went out to the Ath to celebrate finishing the transfer, my P
 The biggest liquid helium dewar.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d297854e970c-800wi.jpg)
+![](/old_images/6a01b8d28f2955970c01b8d297854e970c-800wi.jpg)
 Ominous "smoke" from the liquid helium surrounding the magnotometer set up.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anita
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb099a860e970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb099a860e970d.jpg
 title: Aquarium Cookies
 categories: [academics]
 status: Publish
@@ -20,27 +20,27 @@ The first step was to make the sugar cookie dough and chill it for at least 30 m
 We painstakingly cut out rings of the dough and baked them for approximately 10 minutes, according to instructions. Then came the part I was most excited about: making the glass windows of the aquarium out of melted jolly rancher. We placed the candies in the center of each ring and put them back in the oven for about 4 more minutes.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a019b0005f8ce970d01b8d281b3ec970c-pi.jpg)
+![](/old_images/6a019b0005f8ce970d01b8d281b3ec970c-pi.jpg)
 They bubbled when we first took them out, but the bubbles subsided quickly.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a019b0005f8ce970d01b8d281b4f6970c-pi.jpg)
+![](/old_images/6a019b0005f8ce970d01b8d281b4f6970c-pi.jpg)
 For the sake of organization, we paired the cookies according color (it also looked quite lovely).
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8f76903970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8f76903970b.jpg)
 To replicate the fish swimming around in a real aquarium, we added colored granulated sugar and star-shaped sprinkles to one of the cookies in each pair.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8f7690b970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8f7690b970b.jpg)
 We melted a bowl of white chocolate chips and cemented each pair together.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d281b40d970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d281b40d970c.jpg)
 The verdict on taste? Better than expected. The expectation was a sugar-bomb, but in reality the shortbread-sugar cookie flavor paired well with the white chocolate and the candy, which tasted like jam. I almost felt like I was eating one of my favorite jam-centered, cream-filled cookie sandwiches from the supermarket.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a019b0005f8ce970d01b8d281b426970c-pi.jpg)
+![](/old_images/6a019b0005f8ce970d01b8d281b426970c-pi.jpg)
 Took us at least 4 hours in total to make, so would not recommend unless you have time. Still, I think one of the advantages of living in this modern era is all of these great Tasty and Buzzfeed videos coming up with super aesthetic foods, and being able to replicate them at home if one wishes to do so.
 
 Till next time!

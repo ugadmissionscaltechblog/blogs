@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Gloria
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0d6427e970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0d6427e970c.jpg
 title: Bread and Bean Bags
 categories: [research]
 status: Publish
@@ -14,12 +14,12 @@ My most recent deliveries were not from Amazon, but they still brought me immens
 We had a couple of bigger deliveries this week as well. Two weeks ago, Chloe and I were researching bean bags to diversify the seating options in our room. We had a chair that we got for free from the warehouse, but I might have broken it, so we had no seating for guests other than our (very clean, no shoes allowed) carpet. There were some very cushy-looking bean bag chairs on Amazon, but there were none with stunning reviews. When searching for a lime green bean bag, I happened across some cheap ones on the Walmart website, so we went for those. Chloe got the bean bag, and I got the bean bag shaped like a chair. Hers came first:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07f09703970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07f09703970d.jpg)
 It was huge! It was also not exactly how we imagined it. It’s not at all a cushy sort of thing, but it’s sturdy, which was one concern we had about the cushy bean bags, and it beats sitting in a chair. It also kept getting bigger every time we looked at it. Mine came the next day. One passerby commented that our setup looked like a “jank couch”:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07f0970a970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07f0970a970d.jpg)
 That it may be, but it’s a fun jank couch, and it allows us to work side-by-side! Yay for roomie bonding:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c74ce4d7970b.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c74ce4d7970b.png)

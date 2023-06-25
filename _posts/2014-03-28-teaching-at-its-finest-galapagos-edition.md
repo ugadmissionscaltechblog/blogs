@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ketaki Panse
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcdc6396970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcdc6396970b.jpg
 title: Designing a Smartphone Application 
 categories: [research]
 status: Publish

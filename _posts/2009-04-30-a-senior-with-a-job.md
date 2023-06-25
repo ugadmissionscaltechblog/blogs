@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Alex Krikorian
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157060f4ff970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01157060f4ff970b.jpg
 title: A Senior with a job!
 categories: [culture]
 status: Publish

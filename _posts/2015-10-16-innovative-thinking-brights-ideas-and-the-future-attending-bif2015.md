@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Phillip
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb084574dd970d01b8d15b0932970c-pi.jpg
+image: /old_images/6a01bb084574dd970d01b8d15b0932970c-pi.jpg
 title: Innovative thinking, Brights Ideas, and the Future
 categories: [research]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Katie Brennan
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015436c59a21970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b015436c59a21970c.jpg
 title: Fall Break in Paris! 
 categories: [clubs]
 status: Publish
@@ -24,4 +24,4 @@ We did live out this stereotype from time to time...but one night we splurged on
 Annie enjoying her crepe:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015436c5a03c970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b015436c5a03c970c.jpg)

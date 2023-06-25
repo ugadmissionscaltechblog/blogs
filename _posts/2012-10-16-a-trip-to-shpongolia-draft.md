@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Connor Rosen
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d3ca74201970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017d3ca74201970c.jpg
 title: A Trip to Shpongolia 
 categories: [clubs]
 status: Publish

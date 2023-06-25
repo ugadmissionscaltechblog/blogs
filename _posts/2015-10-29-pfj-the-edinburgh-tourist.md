@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7e2a9c4970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7e2a9c4970b.jpg
 title: Postcards from Jenny
 categories: [global]
 status: Publish
@@ -22,11 +22,11 @@ The castle is a giant walled fortress on a hill, constructed for defense. Today,
 Arthur's Seat
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0886ea3a970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0886ea3a970d.jpg)
  Arthur's Seat is an extinct basalt volcano in the heart of the city. It's a short trek with different paths that suit hikers of any expertise. The view from the top (as well as the hike up) is breath-taking: Princes Street is fun to identify, as well as each of the spiraling towers of various monuments. To the northeast is the massive blue ocean. I've climbed twice to catch the sunset, but naturally Edinburgh's autumn brings clouds at just the most inconvenient moments. If you make the trek, make sure to bring a hat to stay warm, but watch out for the wind! During my more recent attempt with some friends, the wind whipped at us really strongly. Fortunately, it was blowing us into the mountain rather than plucking us off!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c7e31cca970b-500wi.jpg)
+![](/old_images/6a0105349b8251970b01b7c7e31cca970b-500wi.jpg)
 Ghost tours
 Auld Reekie and Mercat both offer great ghost tours of the vaults. There are also several stands along the Royal Mile. The tour guides are talented storytellers, and their stories sent waves of chills dancing down my spine.
 

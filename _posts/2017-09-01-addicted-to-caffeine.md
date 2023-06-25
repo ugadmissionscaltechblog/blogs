@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d29fff6c970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b8d29fff6c970c.jpg
 title: Addicted to Caffeine
 categories: [local]
 status: Publish

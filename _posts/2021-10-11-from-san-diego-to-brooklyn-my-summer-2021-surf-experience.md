@@ -5,12 +5,12 @@ author: Arielle Tycko
 categories:
 - research
 date: 2021-10-11T21:00:00.000+00:00
-image: https://ik.imagekit.io/u9ndqdgam20/images/2021/10/brooklyn view.jpg
+image: /images/2021/10/brooklyn view.jpg
 
 ---
 This summer, from the confines of my Brooklyn apartment, you could find me typing away on a tiny 13-inch laptop screen. At times I was looking for answers on countless Stack Exchange pages, editing a Jupyter notebook, or making blood flow measurements on a software called Arterys. This was my 2021 Summer Undergraduate Research Experience (SURF) experience.
 
-![](https://ik.imagekit.io/u9ndqdgam20/images/2021/10/arterys.jpg)
+![](/images/2021/10/arterys.jpg)
 
 _This image shows how we label vessels using the Arterys software. The measurement shown is the blood flow through this particular vessel, which is the aorta._
 

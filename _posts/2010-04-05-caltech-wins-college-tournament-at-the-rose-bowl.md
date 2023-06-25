@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ec792f00970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0133ec792f00970b.jpg
 title: CALTECH WINS COLLEGE TOURNAMENT AT THE ROSE BOWL!
 categories: [clubs]
 status: Publish
@@ -16,22 +16,22 @@ The event I was responsible for was the Uniform Challenge, though I participated
 I have a ton of pictures that I took...I think it'll give you a better understanding of what went down.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01347fa92565970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01347fa92565970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ec793643970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133ec793643970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ec7937b9970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133ec7937b9970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01347fa92850970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01347fa92850970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ec793a8b970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133ec793a8b970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ec793ba8970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133ec793ba8970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ec7940b5970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133ec7940b5970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01347fa930d5970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01347fa930d5970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ec7947de970b.jpg)It was awesome! We all had such a great time..and i was so proud to have been a part of the team that brought home the win! Sorry for lack of action shots....I was too busy to snap pictures. HOWEVER...check out [https://gallery.me.com/bobpaz#101166](https://gallery.me.com/bobpaz#101166) for a TON more team and event pictures taken by photographer Bob Paz.
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133ec7947de970b.jpg)It was awesome! We all had such a great time..and i was so proud to have been a part of the team that brought home the win! Sorry for lack of action shots....I was too busy to snap pictures. HOWEVER...check out [https://gallery.me.com/bobpaz#101166](https://gallery.me.com/bobpaz#101166) for a TON more team and event pictures taken by photographer Bob Paz.
 
 GO BEAVERS!

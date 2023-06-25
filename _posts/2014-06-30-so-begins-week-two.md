@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Nikita Sirohi
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511d761c6970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01a511d761c6970c.jpg
 title: So Begins Week Two
 categories: [research]
 status: Publish
@@ -22,7 +22,7 @@ Thought, to be honest, Caltech food is really not that bad. For a dorm, it's not
 We spent some time going about Balboa park and looking at the museums. We went to the free ones, and to the Museum of Man. Just walking around the park was really pretty:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73de2c3bf970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73de2c3bf970d.jpg)
 
 The Museum of Man attempted to talk about human civilization in around five exhibits--a bit of an undertaking, in my opinion. Nevertheless, they had some interesting exhibits. There was an exhibit on beer which was actually very interesting (apparently beer was more like fermented oatmeal in Egypt, and people were paid in beer or something????)
 

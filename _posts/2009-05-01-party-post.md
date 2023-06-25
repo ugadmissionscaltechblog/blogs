@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Tyler Hannasch
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0115706475e2970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0115706475e2970b.jpg
 title: Party Post!
 categories: [culture]
 status: Publish

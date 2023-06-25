@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Wen Min
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a510d03801970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01a510d03801970c.jpg
 title: My favorite things about the Y
 categories: [culture]
 status: Publish
@@ -18,5 +18,5 @@ Planning the Fair was pretty awesome. My favorite part was ordering the boba; we
 **
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a510d0419e970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a510d0419e970c.jpg)
 *A view of the Fair. We held it during lunch time so people could learn about the organizations on their way to lunch.*

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jessica Yeung
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee4417a61970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017ee4417a61970d.jpg
 title: In-N-Out...in London??
 categories: [clubs]
 status: Publish
@@ -22,7 +22,7 @@ bummed out (he’s English). I wonder if they will open a pop up café again
 sometime.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d3ccc2745970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017d3ccc2745970c.jpg)
 
 Last night, a few of us went to see the [London Philharmonic Orchestra](https://issuu.com/londonphilharmonic/docs/17oct12_lpoprognotes?mode=window&amp;viewMode=singlePage)play at the Royal Festival Hall. Tickets were only £4, and included a
 free drink afterwards (the legal drinking age here is 18). We listened to:
@@ -34,10 +34,10 @@ how accessible and inexpensive it was to go hear the orchestra play. I think
 I’ll be going to another performance later on if I can. 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d3ccc28ea970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017d3ccc28ea970c.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c329d9dfa970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c329d9dfa970b.jpg)
 
 I’ll be heading to Dublin this weekend with Kalpana and
 Conway, along with several other American friends we’ve met here. :D I’m really

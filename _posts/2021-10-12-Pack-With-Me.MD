@@ -3,7 +3,7 @@ layout: post
 title: "Pack With Me!" 
 author: Isha Chakraborty
 categories: [ Student Life ]
-image: https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/images/2021/isha/JamieAlexRoom.jpeg
+image: /images/2021/isha/JamieAlexRoom.jpeg
 ---
 
 Thinking about being back as a Junior at Caltech this year was nothing short of terrifying. It felt like it was just yesterday that I was a frosh getting lost in Linde trying to find the recitation for Ma1a: Calculus of One and Several Variables and Linear Algebra.  Now, I was responsible for being a source of support to the new frosh and sophomores. 
@@ -12,7 +12,7 @@ Nevertheless, I am very much excited to be back on campus. A lot of things have 
 
 This combination of items below are from my own packing list along with some honorable mentions from the wonderful people in my alley. Let’s go through every item together!
 
-![](https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/images/2021/isha/ItemsNumbered.jpg)  
+![](/images/2021/isha/ItemsNumbered.jpg)  
 
 1. *Headphones* - An essential for doing sets in the Sherman Fairchild Library if you’re going to be sitting and working for a long time. Usually, I listen to a combination of R&B and new playlists made by friends. 
 

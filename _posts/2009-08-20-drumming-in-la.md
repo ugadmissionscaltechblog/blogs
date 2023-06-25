@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dan Obenshain
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a55e6720970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0120a55e6720970c.jpg
 title: Drumming in LA
 categories: [culture]
 status: Publish
@@ -15,12 +15,12 @@ It was at the Cat Club, which is a nightclub on the [Hollywood strip](https://en
 When we first got there, another band was midway through their set. I'd never heard of them before, but they sounded okay. I liked one song of theirs, called "Science." I couldn't understand all the lyrics, but the gist of it seemed to be that the only thing he understood about science was how it could lower his GPA, but yet he still kept coming back to it. It made me laugh.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5078aba970b.jpg)After that band was done, the band we came to see was up. They had pretty good music. One really cool thing about them was that they used a [Theramin](https://en.wikipedia.org/wiki/Theremin) in one of their songs. It's a really geeky instrument, where you control the pitch and volume by waving your hands at the antennae on a box. If you ever [hear one played](https://www.youtube.com/watch?v=AjUhWY3FbDk), you'll probably recognize it from old spooky movies, since they use Theramins to make the "ooooOOOOOoooo" sound that UFOs make.
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5078aba970b.jpg)After that band was done, the band we came to see was up. They had pretty good music. One really cool thing about them was that they used a [Theramin](https://en.wikipedia.org/wiki/Theremin) in one of their songs. It's a really geeky instrument, where you control the pitch and volume by waving your hands at the antennae on a box. If you ever [hear one played](https://www.youtube.com/watch?v=AjUhWY3FbDk), you'll probably recognize it from old spooky movies, since they use Theramins to make the "ooooOOOOOoooo" sound that UFOs make.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a55ea117970c.jpg)Mike, my friend, is the drummer, but I was surprised to find out that the lead singer, Mongo, is a Caltech grad student in Bio.Mike manages the jam room at Caltech and Mongo talked to him because he needed space for his band to practice. When their other drummer left the band, Mike joined in!
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a55ea117970c.jpg)Mike, my friend, is the drummer, but I was surprised to find out that the lead singer, Mongo, is a Caltech grad student in Bio.Mike manages the jam room at Caltech and Mongo talked to him because he needed space for his band to practice. When their other drummer left the band, Mike joined in!
 The jam room at Caltech is pretty cool. It's a medium-sized basement room under Winnett. There's adrum set down there, some amps, a pretty good speaker system, and lots and lots of cables. At night, it's far enough away from everything else that you can make as much noise as you want. Plus, if you need extra cables or amps for a party, you just have to talk to the jam room managers about it.
 
 After the set, we caught Mike outside to tell him what a good job he did. He's practically a professional rock star, now!
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5079d35970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5079d35970b.jpg)

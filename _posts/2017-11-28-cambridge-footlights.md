@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01bb09d62d64970d-pi.jpg
+image: /old_images/6a01b8d28f2857970c01bb09d62d64970d-pi.jpg
 title: Cambridge Footlights
 categories: [global]
 status: Publish

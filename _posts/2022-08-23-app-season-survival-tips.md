@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-08-23 08:43:34 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/bea/tech_friends.jpg
+image: /images/2022/bea/tech_friends.jpg
 tags: []
 title: App season survival tips
 author: bea

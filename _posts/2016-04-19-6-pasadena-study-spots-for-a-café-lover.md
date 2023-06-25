@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1c5858b970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1c5858b970c.jpg
 title: 5 Pasadena Study Spots for a Café Lover
 categories: [culture]
 status: Publish
@@ -25,16 +25,16 @@ On [Yelp](https://www.yelp.com/biz/omoto-cafe-pasadena). A short walk (two block
 I didn't look into it much before going and was surprised by the intense motorcycle theme. Never thought I could have a three-hour conversation with a good friend surrounded by a motorcycle, TVs playing motorcycle races, and stands selling motorcycle products. There wasn't a lot of traffic on a Friday morning, and that was just perfect. Also, their apple pie in a cup (pictured) was quite unique.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73d94d1a8970d01bb08df6896970d-pi.jpg)
+![](/old_images/6a01a73d94d1a8970d01bb08df6896970d-pi.jpg)
 **[Home Brewed Bar](https://www.homebrewedbar.com/)**
 On [Yelp](https://www.yelp.com/biz/home-brewed-bar-pasadena). A 10 minbus ride, maybe. Not a lot of food optionsand no bathroom.
 
 I enjoyed the environment. It's a small place tucked up a short walk from Colorado. If you're lucky, the tables might be empty, and you could easily spend an afternoon there working. The coffee wasn't super fancy, but was simply tasty.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73d94d1a8970d01bb08df69a3970d-pi.jpg)
+![](/old_images/6a01a73d94d1a8970d01bb08df69a3970d-pi.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c83b5d47970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c83b5d47970b.jpg)
 **[Intelligentsia](https://www.intelligentsiacoffee.com/)**
 On [Yelp](https://www.yelp.com/biz/intelligentsia-coffee-pasadena). A 7 min bus ride. A good study spot... but not for working on your laptop (no outlets).
 

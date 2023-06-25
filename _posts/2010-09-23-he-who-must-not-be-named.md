@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Stephany L
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0134879a7942970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0134879a7942970c.jpg
 title: He Who Must Not Be Named 
 categories: [global]
 status: Publish
@@ -15,4 +15,4 @@ tadaaa! :D
  
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f47a37dc970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133f47a37dc970b.jpg)

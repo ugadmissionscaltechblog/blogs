@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b7c934bf01970b-pi.jpg
+image: /old_images/6a01b8d28f2955970c01b7c934bf01970b-pi.jpg
 title: Sew Much Fun!
 categories: [research]
 status: Publish

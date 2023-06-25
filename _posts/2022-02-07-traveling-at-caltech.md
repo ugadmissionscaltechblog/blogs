@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://ik.imagekit.io/u9ndqdgam20/images/2022/jen/jet-prop.jpeg
+image: /images/2022/jen/jet-prop.jpeg
 tags: []
 title: Traveling at Caltech
 author: Jen Yu
@@ -10,7 +10,7 @@ date: 2022-02-07 08:00:00 +0000
 ---
 Maybe you’ve hopped on a plane to LAX and now you’re trying to get to campus. Or you found some free time in between the 5 sets due next week and the sport you’re playing to take a trip out to LA. Whatever your reasons are, I hope this post offers some useful resources on how to get on/off campus. While Pasadena is a beautiful neighborhood, it’s not located in the most convenient areas of Los Angeles, an urban sprawl in and of itself. Please note this article is updated as of 2/3/2022. 
 
-![](https://ik.imagekit.io/u9ndqdgam20/images/2022/jen/lax.jpeg)
+![](/images/2022/jen/lax.jpeg)
 
 ### Flying
 
@@ -30,7 +30,7 @@ For returning to Caltech, this same route but backwards works. Just make sure th
 
 ### Trains and Buses
 
-![](https://ik.imagekit.io/u9ndqdgam20/images/2022/jen/lacma.jpeg)
+![](/images/2022/jen/lacma.jpeg)
 
 As mentioned earlier, Caltech students get access to free Metro rides. Google Maps gives good directions for where you want to go, and below are a few relevant stations and commonly frequented attractions that are just a short metro ride away.
 
@@ -48,7 +48,7 @@ Frequented Locations
   * [The Getty Museum](https://artsandculture.google.com/partner/the-j-paul-getty-museum) - Pretty far, but a beautiful place for a weekend day trip.
 * Universal Studios
 
-![](https://ik.imagekit.io/u9ndqdgam20/images/2022/jen/holliston.png)
+![](/images/2022/jen/holliston.png)
 
 ### Cars
 

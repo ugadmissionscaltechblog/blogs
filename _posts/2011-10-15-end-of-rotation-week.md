@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sadaf Amouzegar
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e8bf3bb29970d.gif
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b014e8bf3bb29970d.gif
 title: End of Rotation 
 categories: [culture]
 status: Publish

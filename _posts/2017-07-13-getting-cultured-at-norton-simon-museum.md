@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09abb148970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb09abb148970d.jpg
 title: Getting Cultured at Norton Simon Museum
 categories: [culture]
 status: Publish
@@ -19,7 +19,7 @@ I went this afternoon with a group of Lloydies and summer students. Some people 
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d292c32b970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d292c32b970c.jpg)
 
 I was thoroughly impressed by the Picasso, Degas, Monet, Renault and Cézanne. I tried my best to read the descriptions of the paintings, but I was still the first to breeze through the exhibits. I probably spent more time in the gift shop than in any exhibit hall.
 
@@ -28,23 +28,23 @@ One thing I noticed was that the Renaissance and Contemporary paintings all had 
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09abb10e970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09abb10e970d.jpg)
 #CanvasEatsFirst (#cameraeatsfirst)
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09abb118970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09abb118970d.jpg)
 Before Mirror Selfies Were Cool
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9088214970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9088214970b.jpg)
 Size 00000 (or Legs For Days)
 
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09abb120970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09abb120970d.jpg)
 Those Squats Killed My Glutes
 
 Apart from goofing around, I learned quite a lot. Degas was going blind, so he sculpted models out of clay to feel as a reference for his paintings. Monet's struggle with depression made his boat paintings too dark and abstract to sell. Representation of Buddhist gods were fairly similar across ancient Nepalese, Cambodian, Thai, and Indian populations.
@@ -52,7 +52,7 @@ Apart from goofing around, I learned quite a lot. Degas was going blind, so he s
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d292c344970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d292c344970c.jpg)
 
 I'm not sure if I am any more cultured now.
 

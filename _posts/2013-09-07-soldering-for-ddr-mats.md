@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019aff1e3320970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b019aff1e3320970d.jpg
 title: Soldering for DDR Mats 
 categories: [global]
 status: Publish
@@ -28,7 +28,7 @@ The steps I followed are basically:
 8. Connect the wires to the DDR mat. In this case, that meant soldering to a male D-sub connector (HD15, same as a VGA cable), since our DDR mat wires are soldered neatly to a female D-sub connector.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019aff1db351970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b019aff1db351970b.jpg)
 
 Wires from circuit board soldered to a D-sub connector
 

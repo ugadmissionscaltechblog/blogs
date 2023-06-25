@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0223c84e5f91200c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0223c84e5f91200c.jpg
 title: At the Faire
 categories: [culture]
 status: Publish
@@ -15,6 +15,6 @@ While there were a ton of things to do there (especially shopping), we focused o
 Another cool show that we watched was put on by the Bankside School of Defense. They showed to the audience an Italian Renaissance style of fighting - with many different varieties. While the actors fought, they explained the difference between rapiers, broadswords and greatswords. We also got to see a larger variety of fights, as the actors fought not only with swords, but with sword and dagger, sword and buckler, sword and shield - even a little bit of unarmed. The fights were definitely very impressive, as most were unchoreographed; the actors actually showed the sort of practice they would do themselves.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0224df3616fb200b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0224df3616fb200b.jpg)
 In all, I really enjoyed my trip to the faire. It was a great first experience, and I would definitely want to go back in the future.
 

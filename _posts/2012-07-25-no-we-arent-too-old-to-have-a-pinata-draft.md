@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Slwright13
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0176170df9d5970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0176170df9d5970c.jpg
 title: No we aren't too old to have a pinata
 categories: [culture]
 status: Publish
@@ -16,23 +16,23 @@ Here are some pictures from the night!
 Nadia with her cake :)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0176170dfd9e970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0176170dfd9e970c.jpg)
 and her parents
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b016769191a43970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b016769191a43970b.jpg)
 Nadia and Amy
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b016769191122970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b016769191122970b.jpg)
 Erick, Nadia's younger brother, beating up on the Batman pinata
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0176170dee4b970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0176170dee4b970c.jpg)
 Adorable Jacky the Beagle, the family puppy
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017743f43f7f970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017743f43f7f970d.jpg)
 Sadly, I didn't get a picture of the Mexican Train Dominoes. But trust me - it's a fun game. If you get a chance to play, I'd recommend it!
 
 All in all, a very fun night :)

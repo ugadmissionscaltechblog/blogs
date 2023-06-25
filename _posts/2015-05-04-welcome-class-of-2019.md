@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Gloria
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c78459c1970b.png
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c78459c1970b.png
 title: Welcome, Class of 2019!
 categories: [clubs]
 status: Publish

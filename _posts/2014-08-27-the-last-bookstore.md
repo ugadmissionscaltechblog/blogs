@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Nikita Sirohi
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd4252f5970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd4252f5970b.jpg
 title: The Last Bookstore/ Tea 
 categories: [culture]
 status: Publish
@@ -17,7 +17,7 @@ However, now that they are all closing down, it may well actually be the last bo
 Like what even. Just the definition of hipster.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dfd4b8e970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dfd4b8e970d.jpg)
 
 Even more hipster. So much hipster.
 

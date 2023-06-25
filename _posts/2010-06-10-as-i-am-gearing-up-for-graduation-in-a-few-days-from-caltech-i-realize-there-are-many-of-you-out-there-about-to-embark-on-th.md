@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013483b49084970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b013483b49084970c.jpg
 title: Advice to Incoming College Freshman
 categories: [research]
 status: Publish

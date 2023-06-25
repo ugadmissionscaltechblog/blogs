@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sakthi Vetrivel
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c90e5099970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c90e5099970b.jpg
 title: microsoft.signature_event();
 categories: [clubs]
 status: Publish
@@ -19,6 +19,6 @@ When the clock hit 0, Daya walked out on stage, singing “Sit Still, Look Prett
 A pretty worthwhile experience. Thanks, Microsoft.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c90e50aa970b.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c90e50aa970b.png)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2989c47970c.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2989c47970c.png)

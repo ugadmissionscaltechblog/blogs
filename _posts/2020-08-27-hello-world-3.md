@@ -3,7 +3,7 @@ layout: post
 title: "Hello World"
 categories: [local]
 author: Andrew
-image: https://ik.imagekit.io/u9ndqdgam20/images/2020/08/20200809-IMG_3832.jpg
+image: /images/2020/08/20200809-IMG_3832.jpg
 ---
 
 It is currently 1:21 in the morning and I am thrilled to be writing the first post of our new admissions blog, Caltech Fission. For those of you who didn’t follow the old blog, it’s nice to meet you. My name is Andrew and I’m a senior at Caltech studying geophysics and English literature. 
@@ -19,7 +19,7 @@ And so be warned: our new blog is more than just a stylistic change. We have new
 So, stay tuned for some old updates, some new faces, and some good vibes! 
 I’ll end with a quote from Raymond Carver: “I could hear my heart beating. I could hear everyone's heart. I could hear the human noise we sat there making, not one of us moving, not even when the room went dark.” The rest will be left as an exercise for the reader.
 
-![dark room](https://ik.imagekit.io/u9ndqdgam20/images/2020/08/20200725-DSC_0479(1).jpg)
+![dark room](/images/2020/08/20200725-DSC_0479(1).jpg)
 
 Andrew Chan
 Editor-in-chief, Caltech Fission

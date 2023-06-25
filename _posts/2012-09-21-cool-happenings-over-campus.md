@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Caltech Blogs
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d3c38291a970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017d3c38291a970c.jpg
 title: Cool Happenings Over Campus
 categories: [research]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Nina Budaeva
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348338582d970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01348338582d970c.jpg
 title: Last Day of Classes!
 categories: [research]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-08-10 07:39:26 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/rachael/67805427606__6698DD07-9F48-4850-AA78-0B68CCD2CF72.png
+image: /images/2022/rachael/67805427606__6698DD07-9F48-4850-AA78-0B68CCD2CF72.png
 tags: []
 title: 'Tips for International Students, Part 1: Employment'
 author: subinkim
@@ -43,7 +43,7 @@ A lot of Caltech students choose to take on-campus jobs while school is in sessi
 There are plenty of opportunities on campus that students can take advantage of, and international students are mostly eligible for a lot of these programs (just make sure to check the citizenship requirement section before you apply). This for most of the time allows you to earn a bit of pocket money that you can spend on shopping, eating out with friends, or paying various fees that may be incurred.
 
 Personally, I am doing SURF research this summer and working for admissions this summer. My admissions job gives me a great break from work and also provides me enough money to spend while hanging out with my friends.  
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/rachael/67805427606__6698DD07-9F48-4850-AA78-0B68CCD2CF72.png)
+![](/images/2022/rachael/67805427606__6698DD07-9F48-4850-AA78-0B68CCD2CF72.png)
 
 ### 1-3 Getting Social Security Number (SSN)
 
@@ -53,7 +53,7 @@ First, you need to fill out an I-9 form, which is a form to check your eligibili
 
 Then you need to visit your local social security administration to apply for an SSN. The Pasadena social security administration didn’t take any appointments, so you can just walk in. You bring all of the documents listed above to the officer, and they will inform you that you will be issued a social security card in a week or so, which will be mailed to your address.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/rachael/Screenshot 2022-08-10 at 12.41.03 AM.png)
+![](/images/2022/rachael/Screenshot 2022-08-10 at 12.41.03 AM.png)
 
 Location of Pasadena Social Security Administration (104 N Mentor Ave, Pasadena, CA 91106)
 

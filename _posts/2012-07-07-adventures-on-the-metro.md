@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Spiszkiewicz
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017616123b64970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017616123b64970c.jpg
 title: Adventures on the Metro 
 categories: [culture]
 status: Publish
@@ -18,19 +18,19 @@ date: 2012-07-07
 2:02pm - Boarded the train. It's a nice train with colorful seats.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017742f836a8970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017742f836a8970d.jpg)
 2:30pm - Arrived at Union Station.
 
 2:35pm - Figured out where they moved the ticket machines to since the last time I was at Union Station and bought my ticket. ($9.25)
 2:40 - Now, I was originally planning on taking the 2:25 train to Irvine, but then I took me longer than I anticipated to walk from campus to the metro. The next train going through Orange County was at 3:20, so I had some time to kill. I was starving, so I got a pepperoni twist and a frozen lemonade from Wetzel's Pretzels. Pepperoni pizza on a pretzel. Genius. The frozen lemonade was meh, but the pizza pretzel! So good! Anyway, then I wandered around the station and took pictures for you all.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0167681d458e970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0167681d458e970b.jpg)
 If you ever walk into the waiting area of Union Station, you'll very quickly realize that you've seen it in dozens of tv shows and movies, which is pretty cool. The first time I saw it my immediate reaction was something like "Wait. I was told this place was in Washington D.C.?"
 3:10pm - Boarded the second train. I found a nice comfy spot on the second floor of the quiet car where I took out my ipod and headphones and found my zen.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0176161256e3970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0176161256e3970c.jpg)
 3:20pm - The train departed for Oceanside.
 
 4:33pm - The train stopped in Irvine, where my parents picked me up and drove me the rest of the way home.

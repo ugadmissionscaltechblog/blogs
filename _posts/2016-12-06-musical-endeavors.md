@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8b3f076970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8b3f076970b.jpg
 title: Supercalifragilisticexpialidocious Musical Endeavors
 categories: [academics]
 status: Publish
@@ -16,7 +16,7 @@ Happy Thanksgiving (: I have super duper exciting news to share:[T](https://fb.m
 In addition to acapella, there are lots of other opportunities for music. The few weeks between midterms and finals hosts several fine concerts. In the past two weekends, I've attended the concert band and then the symphony orchestra concert to support my friends who were performing. The band and orchestra are each composed (heh, composed, get it?) of undergraduate and graduate students from Caltech, students from Occidental College, alumni, and members of the community. It's a fun way to meet new people who aren't Caltech undergraduates. It's also great for getting to know other undergrads one might not have gotten to know otherwise (other house, other major, other year, etc.).
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8b3f07f970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8b3f07f970b.jpg)
 I've been playing the cello in my chamber group; we're playing [Bach's Brandenburg Concerto](https://www.youtube.com/watch?v=_V7oujd9djk). Our concert will be late January, which is sooner than we think since we don't have much of fall term left... I was too worried for my own cello (her name is Sparrow) to fly her out to California from my home in Texas, so for the first two years, I didn't have a cello to play and didn't want to spend the moeny renting one. Two years ago, I bought my cello from a graduating seniorwho had rescued it from a pawn shop. I've since named the celloChief, and we debuted in a chamber group last year. He's a really bright fellow cello--especially his A string--which sometimes stands out... but we've learned to work together better. I enjoy that time of the week when I meet with my chamber group and we practice some really old music and travel back to the time of harpsichords. Here's to a great, musical year!
 
 keep lookin' up,

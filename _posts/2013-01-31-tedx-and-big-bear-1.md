@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura Santoso
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee7e7a27c970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017ee7e7a27c970d.jpg
 title: Tedx and Big Bear 
 categories: [global]
 status: Publish
@@ -13,8 +13,8 @@ Last Friday we had TEDx at Caltech (x = independently organized event). TEDx is 
 Right after TEDx I left for Big Bear for my house's annual ski trip. I LOVE ski trip because it entails almost everything fun I love. Relaxing by a fire, time with all your friends, being outside in the fresh air, and an adventure sport. I just picked up snowboarding on my first Caltech ski trip, and I have to say I'm hooked. It's pretty cool how much fun you can have with a piece of wood strapped to your feet. It's also really beautiful up there. Big Bear mountain is right by a lake, and all the mountains were snowcapped. Star gazing is way better away from the city lights, although I didn't get to do as much of that on this particular ski trip. All the houses have ski trip and their subsidized pretty nicely so people can afford to go. It cost me $45 to stay for 3 nights. I know it's not cheap because I pay a hefty tuition... but I might as well take advantage of these opportunities, right?
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee7e7a5d6970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017ee7e7a5d6970d.jpg)
 *Playing with some ducks by the frozen lake.*
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d40736693970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017d40736693970c.jpg)

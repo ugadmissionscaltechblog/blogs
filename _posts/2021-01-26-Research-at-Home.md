@@ -4,7 +4,7 @@ title: Forging Ahead with Research while Sheltering in Place
 categories:
 - research
 author: argomez
-image: https://ik.imagekit.io/u9ndqdgam20/images/2020/12/5F5C8D29-8ADD-48C0-A0C6-FEEDF09F40ED.jpeg
+image: /images/2020/12/5F5C8D29-8ADD-48C0-A0C6-FEEDF09F40ED.jpeg
 
 ---
 The transition period to remote learning was a very uncertain time, especially for research and the Caltech Summer Undergraduate Research Fellowships (SURF) program. Many hands-on projects had to pivot at the last minute to facilitate off-campus contributions. However, many Techers were able to take advantage of the research opportunities offered at Caltech and JPL to make the best out of remote learning and research. To paint a picture, I’ve interviewed a few talented Techers for some insight on what researching from home looks like for them. 
@@ -23,7 +23,7 @@ The transition period to remote learning was a very uncertain time, especially f
 
 **Anna Li, ‘23, Chemistry:** “Well it just looks like me dinking around on my computer in one of Caltech's clusters”. 
 
-![Interviewees](https://ik.imagekit.io/u9ndqdgam20/images/2020/12/4th+post.PNG)
+![Interviewees](/images/2020/12/4th+post.PNG)
 
 ### Q: How do you stay connected? What programs facilitate your online research?
 **Tyrone McNichols, ‘23, CS/Math:** “JPL has a slack for employees, and another one specifically for interns which helps a lot. I'm also a part of some employee groups at JPL”. 

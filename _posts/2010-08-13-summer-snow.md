@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura Conwill
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f30d13e8970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0133f30d13e8970b.jpg
 title: Summer Snow
 categories: [research]
 status: Publish
@@ -23,7 +23,7 @@ elevation gain, at 11. Every so often we would run into other hikers on the
 trail, but there weren’t as many as I would have expected for a weekend.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f30d06e2970b.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133f30d06e2970b.png)
 San Gorgonio Mountain has been the site of a
 few tragic plane crashes over the years. A couple of hours into our hike, we
 came across the remnants of the Douglas C-47 Dakota that crashed into the side
@@ -31,7 +31,7 @@ of the mountain in 1953. Most of the plane is still there, as you can see from
 the picture above, which is part of a wing. Below is one of the propellers.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f30d07a8970b.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133f30d07a8970b.png)
 We hit several
 large patches of snow along the trail, as you can see in the picture at the top
 of the page. I was fascinated that the snow wasn’t melted, because the sun seemed
@@ -47,7 +47,7 @@ they seem so high from the ground, it was crazy to have to look down to see
 them.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348630811b970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01348630811b970c.jpg)
 
 It was 5 pm when we
 reached the summit and 11 pm before we arrived back at our car. Despite losing

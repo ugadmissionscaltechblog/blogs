@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d299125e970c-pi.jpg
+image: /old_images/6a01b8d28f2955970c01b8d299125e970c-pi.jpg
 title: Crowell Public Library
 categories: [global]
 status: Publish

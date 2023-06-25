@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Michelle
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901f085911970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01901f085911970b.jpg
 title: My First Free Summer Weekend 
 categories: [research]
 status: Publish
@@ -18,7 +18,7 @@ Apart from lazing around and enjoying my lack of immediate things to do (which w
 The view from the top.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192acc750cd970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0192acc750cd970d.jpg)
 Us at the top!
 
 Once at the top, we wanted to go back down on a different trail--one with waterfalls and such that we had read about online. Turned out to be a terrible idea! The starting location of the trail was really unclear online so we attempted several different "trails" down the mountain...needless to say, we had to backtrack each time. Backtracking was certainly a good idea because we later learned that had we kept up with one of the (incredibly steep) trails we attempted, we would have eventually had to somehow rappel down the side of a cliff/waterfall in order to get down. Given that we had none of the proper equipment to do so...no thanks! We eventually just came back down the same way we went up, but the overall hike was quite the workout and adventure!
@@ -26,11 +26,11 @@ Once at the top, we wanted to go back down on a different trail--one with waterf
 The Sunday after, I attended an LA Prefrosh Summer Send-Off event with some other current students over at the Palos Verdes Estates as ASCIT representation. I got to meet a few of the class of 2017 prefrosh who live in the LA area, answer the questions they have about campus life, and share with them some words of wisdom as a rising senior and social director. It was a great opportunity for the prefrosh to get to know each other and some of the upperclassmen prior to arriving at Caltech.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901f0859a0970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01901f0859a0970b.jpg)
 LA Send-Off.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192acc7514c970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0192acc7514c970d.jpg)
 A group of us at the event.
 
 I'm now finishing up my last week of research at City of Hope. I'll go back home to Temecula for a week afterwards and then back to school for my CHLA preceptorship!

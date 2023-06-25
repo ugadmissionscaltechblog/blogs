@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Katie Fisher
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901b62f318970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01901b62f318970b.jpg
 title: I just got to take a photo with Stephen Hawking.
 
 categories: [culture]

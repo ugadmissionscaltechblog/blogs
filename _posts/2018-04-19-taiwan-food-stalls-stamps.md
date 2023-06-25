@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01bb0a022bdf970d-500wi.jpg
+image: /old_images/6a0105349b8251970b01bb0a022bdf970d-500wi.jpg
 title: Taiwan
 categories: [global]
 status: Publish
@@ -12,14 +12,14 @@ Blogging on my travel before and after study abroad is long overdue -- at the st
 Taiwan isn't Taiwan without its variety of food -- shops on the side of the street, food carts, proper restaurants, and more. On our first day, we got delicious boba tea from this super aesthetic shop.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b7c95f0bf3970b-pi.jpg)
+![](/old_images/6a01b8d28f2857970c01b7c95f0bf3970b-pi.jpg)
 On another day, we stopped by a street cart to buy green onion pancakes :) We've actually come to this cart for years, and she's always here!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01bb0a022c32970d-pi.jpg)
+![](/old_images/6a01b8d28f2857970c01bb0a022c32970d-pi.jpg)
 We also passed by this street for lunch -- it's a whole street of food stalls, famous for their pork!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b7c95f0c07970b-pi.jpg)
+![](/old_images/6a01b8d28f2857970c01b7c95f0c07970b-pi.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0a022bcb970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0a022bcb970d.jpg)

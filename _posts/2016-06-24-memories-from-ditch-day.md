@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1f91d51970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1f91d51970c.jpg
 title: Memories from Ditch Day
 categories: [research]
 status: Publish
@@ -18,15 +18,15 @@ According to Caltech tradition, seniors become "ghosts" at 5pm at the end of Dit
 So now that I'm a senior, one of the things I've been thinking about a lot nowadaysis what I'll do for Ditch Day. Here are some photos from this past one. I joined a stack about the XKCD comics, but there were four others in the house: Finding Dory, Legend of Zelda, Wicked, and Rick and Morty. They were allfantastic stacks and will be nearly impossible to outdo, in my opinion.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1f91e33970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1f91e33970c.jpg)
 (Another tradition is to duct-tape seniors on Ditch Day if we see them on campus. They're usually too fast for us and too strong for our duct tape, but we managed to catch [Yubo](https://caltech.typepad.com/caltech_as_it_happens/three-languages-two-majors-one-heck-of-a-time/)!)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c86f523c970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c86f523c970b.jpg)
 These are some of the seniors that planned the amazing stacks this year. (:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c86f524d970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c86f524d970b.jpg)
 I have some ideas in the works, but we'll see how they go! I can't share too much here in case the frosh read this, you see, but look forward to posts about our fakes. Sometimes we fake them out before the real ditch day because frosh should learn to Go to Bed, Frosh; Ditch Day Is Tomorrow! (GTBF;DDIT - another traditional saying. It's weird, I know.)
 keep lookin' up,
 Jenny.

@@ -2,7 +2,7 @@
 layout: post
 author: Paul Z.
 
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0191024d78de970c.png
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0191024d78de970c.png
 title: CAS, Musings, and Titans
 categories: [academics]
 status: Publish
@@ -26,20 +26,20 @@ Somehow, In 100 years of safety behind walls, human civilization has come to the
 Close up on that hand/face both of which are too large to occupy the same screen-time.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901c577301970b.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01901c577301970b.png)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901c5775f2970b.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01901c5775f2970b.png)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0191024d7e1b970c.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0191024d7e1b970c.png)
 Note: that's the titan lifting its leg preparing to kick down the wall's gate.
 
 And after that gate gets totaled, a flood of smaller titans spew in through the gate to feed on helpless humanity. None of which are any less gruesome than the next.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192aa15e633970d.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0192aa15e633970d.png)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0191024d848d970c.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0191024d848d970c.png)
 That makes their metabolism (50/100)/((6.2-5.3)[ft--&gt;meters]/(1.3e6)) = 2369495 times faster than ours.Sorry to anyone who just winced. I know, that was some crude number flinging.Well, point is, their ability to regenerate is explainable by their metabolism. Perhaps the steam as well, though deciding the temperature, on the inside, of a dinosaur is a open problem, so I certainly don't know how heat is distributed across a titan.
 
 Anyway, back to work now. Paul Zhang

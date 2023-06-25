@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ariel O'Neill
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c3671e245970b01a3fd241050970b-pi.jpg
+image: /old_images/6a017c3671e245970b01a3fd241050970b-pi.jpg
 title:  Nice to meet you!
 categories: [research]
 status: Publish
@@ -30,21 +30,21 @@ Now, we can end with some eye candy.
 This is a purple sea urchin alongside a glamorous close-up.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c3671e245970b01a511d394e9970c-pi.jpg)
+![](/old_images/6a017c3671e245970b01a511d394e9970c-pi.jpg)
 
 From https://phenomena.nationalgeographic.com/files/2012/12/Sea_urchin.jpg
 
 This is a sea urchin being eaten by a snapper.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c3671e245970b01a511d38bc9970c-pi.jpg)
+![](/old_images/6a017c3671e245970b01a511d38bc9970c-pi.jpg)
 
 From https://images.nationalgeographic.com/wpf/media-live/photos/000/179/cache/sea-urchins03-sea-urchin-snapper_17930_600x450.jpg
 
 I do not eat sea urchins, but some people do.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c3671e245970b01a3fd2409a5970b-pi.jpg)
+![](/old_images/6a017c3671e245970b01a3fd2409a5970b-pi.jpg)
 
 From https://www.belly.net.au/wp-content/uploads/2011/12/dave03.jpg
 

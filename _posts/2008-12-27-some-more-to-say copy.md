@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jordan Theriot
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0105369a7580970c-320wi.jpg
+image: /old_images/6a0105349b8251970b0105369a7580970c-320wi.jpg
 title: Some More to Say
 status: Publish
 date: 2008-12-27

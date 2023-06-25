@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/jen/dabney.jpeg
+image: /images/2022/jen/dabney.jpeg
 tags: []
 title: Humanities at Caltech
 author: Jen Yu

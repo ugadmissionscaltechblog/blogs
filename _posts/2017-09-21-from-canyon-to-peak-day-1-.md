@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09c1914f970d-pi.jpg
+image: /old_images/6a01b8d28f2955970c01bb09c1914f970d-pi.jpg
 title: From Canyon to Peak
 categories: [research]
 status: Publish
@@ -22,17 +22,17 @@ Here I am with my full pack by Phelps Lake! It was a beautiful, sunny day!
   We ventured on through Death Canyon, walking through a good amount of forest. Finally, we reached the middle of the Canyon, which was almost treeless, but filled with a sea of beautiful wildflowers. There were blues and reds and pinks and yellows all nesting in every shade of green imaginable.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b7c91e5abc970b-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01b7c91e5abc970b-pi.jpg)
 
 The path through the valley. Look at all of the wildflowers!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b7c91e5aa1970b-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01b7c91e5aa1970b-pi.jpg)
 
 A cool looking mushroom I saw along the way. From later research, I believe it's an Amanita muscaria, better known as a fly agaric.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d2a8c2dc970c-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01b8d2a8c2dc970c-pi.jpg)
 
 You can see the snow covered peaks in the background! We headed up there on our second day.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901eda2cf0970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01901eda2cf0970b.jpg
 title: Dabney boat! 
 categories: [culture]
 status: Publish
@@ -15,13 +15,13 @@ The boat itself is a piece of plywood with six plastic storage containers on the
 Kevin and Sven sailing around Millikan Pond. The boat barely doesn't touch the bottom.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019104d027b6970c.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b019104d027b6970c.png)
 
 Sven steering and me standing
 
 We used a PVC pipe to steer and push off of the buttom of the pond. Since we were also filming a few clips about the "Dabney navy" for the house rotation video, the person who isn't steering has a Nerf gun. We got more Nerf guns for an amphibious assault later:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac998c0f970d.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac998c0f970d.png)
 We did get a few strange looks from some visitors just walking around the campus, but mostly people were just surprised that it floated. While we were at the Millikan Pond, Sven rescued a turtle that somehow was trapped in the pond. Caltech has a turtle pond right next to Millikan Pond, so Sven returned the turtle to its friends in the turtle pond.
 

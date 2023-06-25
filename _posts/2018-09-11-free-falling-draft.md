@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c022ad3956b3f200d-pi.jpg
+image: /old_images/6a01b8d28f2955970c022ad3956b3f200d-pi.jpg
 title: Free Falling!
 categories: [culture]
 status: Publish
@@ -21,7 +21,7 @@ My guide counted to three, and we jumped. I couldn't back out then. As I fell th
 All of a sudden, it stopped. The parachute was engaged and we began floating through the air slowly. I felt like a bird. The guide gave me a chance to even control where we were going! It was a little dizzying, but so much fun! Soon, the microbe-people became ant-people who became human-people as I floated my way closer to the ground. When I landed, I slid across a grassy field.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c022ad3956b45200d-pi.jpg)
+![](/old_images/6a01b8d28f2955970c022ad3956b45200d-pi.jpg)
 
 The plane!
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb088ff354970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb088ff354970d.jpg
 title: Postcards from Jenny
 categories: [research]
 status: Publish
@@ -27,7 +27,7 @@ tl;dr - it was fantastic and you should see it live at least once if you've read
 
 [British Museum](https://www.britishmuseum.org/)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1759778970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1759778970c.jpg)
 Sunday was spent roaming the British Museum and stumbling upon tall rooms after rooms of mummies, Assyrian reliefs, walls of hieroglyphs, and the Rosetta Stone. It was smaller than some of us expected. the handwriting is so neat and the letters are in really straight rows. i wonder what it was like to find this slab. Surely it wasn't as clean and legible as it is right now. An image on the information panel said it was broken and that there used to be a top section that made it a much taller tablet-sort of thing.
 
 It's funny to think about the people who once used these things that now live in our museums. i don't suppose too many of our things will end up in museums--we keep pretty good records now. i saw an old toy in the National Museum of Scotland the other day, and it seemed a representative of an artifact of which we still have plenty. when do our things start feeling like real museum artifacts?
@@ -37,18 +37,18 @@ This museum and the Surgeons' Hall Museum had lots of mummified bodies or skelet
 Oh and on that note, there also happened to be a Day of the Dead exhibit and performance.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1759811970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1759811970c.jpg)
 [221B Baker Street: Sherlock Museum](https://www.sherlock-holmes.co.uk/)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73d94d1a8970d01bb088ff51f970d-pi.jpg)
+![](/old_images/6a01a73d94d1a8970d01bb088ff51f970d-pi.jpg)
 The lighting was pretty tricky, so i don't have many decent pictures from the Sherlock Holmes museum. The gift shop is full of fun Sherlocky things, so drop by if you're a fan!
 
 [University College London (](https://www.ucl.ac.uk/)[UCL)](https://www.ucl.ac.uk/)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb088ff536970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb088ff536970d.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1759861970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1759861970c.jpg)
 Caltech also offers an exchange program with University College London (UCL). i got to see some of UCL during my stay. The campus isn't super big and there are some campus buildings throughout the city. UCL is also right next to other university neighbors. The students, families, and tourists all contribute to the diverse culture that is characteristic of London.
 
 __

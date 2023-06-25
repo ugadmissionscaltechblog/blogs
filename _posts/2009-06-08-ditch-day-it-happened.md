@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Wesley Chen
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01156fd12d3c970c-320wi.jpg
+image: /old_images/6a0105349b8251970b01156fd12d3c970c-320wi.jpg
 title: Ditch Day! It happened!!
 categories: [culture]
 status: Publish
@@ -27,15 +27,15 @@ At this time, we learned some people had some pretty shady skills. One of the gu
 Then...that's when we found out we weren't pirates of a ship, but of a SPACE SHIP!. (What the heck. So confused. I still don't get this). We were led to an underground room filled with LEDs. There were white ones, red ones and a single blue one. We also happened to have a custom-built master control of the entire set up. You know the game where you click on a button, and then it turns off the one you clicked, but turns on the ones around it? We had that game. Except with over 100 LEDs. And they turned off in random groups. (Seniors are cruel...)
 But after about an hour of messing around with it, we turned off all the RED LEDs, and the single blue LED lit up. But what now? After a couple of seconds, another set of lights turned on, but they spelled a message (took us an hour to figure out it was a message in the lights...) leading us to our next location. 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01156fd12b29970c.jpg)LEDs make some pretty cool effects with the right camera settings :P
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01156fd12b29970c.jpg)LEDs make some pretty cool effects with the right camera settings :P
 Where we created our FLAG! Our pirate ship was sorely lacking in decor, so with some spraypaint, black fabric, and a couple of poles, we got ourselves a nice looking war banner. 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b011570c60dd4970b-320wi.jpg)To wrap it up, after getting our flag, eating a quick meal (exotic fruits!)
+![](/old_images/6a0105349b8251970b011570c60dd4970b-320wi.jpg)To wrap it up, after getting our flag, eating a quick meal (exotic fruits!)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01156fd12bae970c-320wi.jpg)(Jackfruits, durian, coconuts, kiwis, pineapples, papaya, guava, you name it!),
+![](/old_images/6a0105349b8251970b01156fd12bae970c-320wi.jpg)(Jackfruits, durian, coconuts, kiwis, pineapples, papaya, guava, you name it!),
 we set out for the lake. Across the park, there were "shipwrecks," where we had to salvage pieces of wood to create three pirate ships, arm it with a cannon, and make our own cannonballs (water balloons). We were pitted against another stack who also managed to "find" three ships, and attempted a full out battle on the lake. But...the lifeguards wouldn't let us board our ships...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01156fd12adc970c.jpg)So we had a water balloon fight. 
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01156fd12adc970c.jpg)So we had a water balloon fight. 
 All in all, not too bad, eh? The picnic afterward was pretty good, but the park closed down while we were BBQing. We ended up being chased out by park security. 
 Can't wait for next year!

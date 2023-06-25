@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anne
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08899cf6970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb08899cf6970d.jpg
 title: Avery Pumpkin Carving 
 categories: [academics]
 status: Publish
@@ -17,16 +17,16 @@ My alley, Alley 1, carved a Charlie Brown pumpkin and Joker pumpkin. Both of the
 
 And here's some pictures of the incredibly creative designs everyone else had!
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7e5c403970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7e5c403970b.jpg)
 *Kitty, Pac-Man, and the Morton Salt girl.*
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d16f9228970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d16f9228970c.jpg)
 *Minion, Homura (an anime character), and Kitty, again.*
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d16f9248970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d16f9248970c.jpg)
 *Jesus, Tim (a kid in Avery), and doge.*
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08899d7f970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08899d7f970d.jpg)
 *The winner: two wolves howling. (Sorry for bad picture!)*
 
 Pumpkin carving was definitely a welcome break from midterms. I can't wait to see what everyone thinks of next year!

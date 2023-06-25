@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/
+image: /
 tags: []
 title: Grad School Visits
 author: Emily Du
@@ -19,4 +19,4 @@ In-person visits are much more insightful. They have let me get an impression of
 
 While the advice “go with your gut feeling” has been one of the phrases I’ve heard the most frequently in these visits, I would recommend asking a lot of questions for information to accompany the possible gut feeling that one experiences. This is where meeting up with Caltech alumni that are in your graduate program of interest, or simply meeting lots of current students can be really helpful. In the end, the decision will be a very personal one, but it’s always good to go into it with as much perspective as possible, especially if you end up indecisive between options!
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/emily/library.png)
+![](/images/2022/emily/library.png)

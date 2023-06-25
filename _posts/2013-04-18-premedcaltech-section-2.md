@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yang Hu
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b017d42e7c2a3970c.png
+image: /old_images/6a0105349b8251970b017d42e7c2a3970c.png
 title: Premed@Caltech, Section 2
 categories: [global]
 status: Publish

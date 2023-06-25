@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Gloria
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c795dd2b970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c795dd2b970b.jpg
 title: Thai Food and Greenhouse Gases
 categories: [research]
 status: Publish
@@ -17,7 +17,7 @@ Metabolism was pretty confusing, and still is, but I've really enjoyed seeing th
 
 And*Cosmos*!
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c795dd32970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c795dd32970b.jpg)
 The episode started with a bleak overview of Venus past and present, from waters to wasteland. Then it went into our own planet. We saw the white cliffs of Dover, which were also explained in Bi1 lecture as deposits of coccolithophores, ancient phytoplankton that made calcium carbonate minerals, spanning over 85 million years from top to bottom. We learned of the staggering figures related to carbon dioxide emissions (4 billion tons per year, I believe), and the crushing effects of climate change in everyone's lives. We saw the melting permafrost from lecture, and the early prospects of alternative energy conflicting with economic demand. Now we're at a point where we know about climate change and its severity, and combatting it is necessary. 
 
 It was a pretty dramatic episode, but it definitely got the point across in an visually engaging manner. A Saturday evening well spent! 

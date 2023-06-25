@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Wesley Chen
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0115708b9411970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0115708b9411970b.jpg
 title: Hawaii Here We...Come?
 categories: [global]
 status: Publish
@@ -25,6 +25,6 @@ Then we had some nice Kern's juices, sodas and water for drinks.
 Oh, and don't forget all the decorations!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01156f958672970c-120wi.jpg)Finally, here are some more pictures of the landscape. They really tried to set the mood with palm-tree umbrellas and island-ish music (although some were from the Caribbean instead of the pacific..hmm..)
+![](/old_images/6a0105349b8251970b01156f958672970c-120wi.jpg)Finally, here are some more pictures of the landscape. They really tried to set the mood with palm-tree umbrellas and island-ish music (although some were from the Caribbean instead of the pacific..hmm..)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01156f958773970c.jpg)I also managed to sneak a couple of leftover pineapples and coconuts away...see you next year at the Luau!  
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01156f958773970c.jpg)I also managed to sneak a couple of leftover pineapples and coconuts away...see you next year at the Luau!  

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb09885484970d-pi.jpg
+image: /old_images/6a01bb08213082970d01bb09885484970d-pi.jpg
 title: Budapest - Spring Break Pt. 1
 categories: [global]
 status: Publish
@@ -17,9 +17,9 @@ Budapest was very fun and lively. It also has so much interesting history. Altho
 Overlooking the Danube River
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d26f7e19970c-pi.jpg)
+![](/old_images/6a01bb08213082970d01b8d26f7e19970c-pi.jpg)
 
 Hungarian chimney cake
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09885474970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09885474970d.jpg)

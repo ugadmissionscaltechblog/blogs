@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5080aa9970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0120a5080aa9970b.jpg
 title: First post from Guatemala!
 categories: [global]
 status: Publish
@@ -19,8 +19,8 @@ So far, we have visited a Ixchal textile museum, visited the University, had man
 I gotta go!---So here are a few pictures until I have more time to blog.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a55f1ba7970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a55f1ba7970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a55f1de1970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a55f1de1970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a55f1fa5970c.jpg)All right guys, I´m off to Antigua..we´ll post again soon!
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a55f1fa5970c.jpg)All right guys, I´m off to Antigua..we´ll post again soon!

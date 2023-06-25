@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Suzy
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0874f32c970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb0874f32c970d.jpg
 title: Minnesota Nice 
 categories: [culture]
 status: Publish
@@ -24,11 +24,11 @@ We went shopping after brunch. I bought hiking boots and regular boots. We as a 
 For dinner, we went to an Irish pub in Nicollet Mall. It was actually really good food, but a Paddy Pub Crawl came through toward the end of dinner with their own bagpiper.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0874f3f6970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0874f3f6970d.jpg)
 Dessert was likewise spectacular. It was Guinness chocolate mousse that came in a teeny tiny pint-glass cup.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d15a9a37970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d15a9a37970c.jpg)
 My family and the family of the bride came in as we were eating, and we joined them for drinks. They'd all been at the rehearsal dinner. Obviously my younger sister and I were just drinking water. I got really hydrated because I took a sip of water every time the conversation got uncomfortable and I needed something else to do. Uncomfortable topics included, "You know, Suzy, we were just a year older than you are now when we got married" and "Haha, you're the next oldest cousin, you must be next!". I kid. I'm twenty, nobody wants me to get married anytime soon.
 
 We left the pub around 10:30 and got to bed as fast as we could.
@@ -36,13 +36,13 @@ We left the pub around 10:30 and got to bed as fast as we could.
 The next morning we got up at 7 (5 California time!) to go to Al's Breakfast. We love Al's Breakfast. It's this tiny little hole-in-the-wall breakfast place in Dinkytown (University of Minnesota Twin Cities' college town).
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7d0b624970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7d0b624970b.jpg)
 Al's makes the best pancakes. No qualifiers. The best pancakes. If you're ever in Minneapolis and you can wait twenty minutes for your food, go to Al's. If you're watching your weight, don't go to Al's. All is butter. Butter is all.
 
 After breakfast we got coffee. We hadn't slept a ton and there was a wedding to attend! Plus, I wanted to know if Minnesota had hipsters. It does.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7d0b7f1970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7d0b7f1970b.jpg)
 We did more shopping later that day. My aunt and cousin were getting all done up for the wedding so we tagged along and helped with their shopping.
 
 We got lunch, went home, and walked around the lakes a bit. It was pretty rainy, but we enjoyed it. We got ready for the wedding and went to the wedding.
@@ -52,7 +52,7 @@ I'm not going to talk very much about the actual wedding. It was mostly family, 
 This morning, I convinced Dad to take me to Al's again. More pancakes. Delicious pancakes. We watched a bit of a Minnesota Wild practice (open to the public today) and dropped me off at the airport. I'm in Phoenix now.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7d0ba02970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7d0ba02970b.jpg)
 Until next time,
 Suzy
 

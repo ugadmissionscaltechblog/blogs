@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://ik.imagekit.io/u9ndqdgam20/images/2022/jen/7694DB55-0FAA-4216-BC1D-0894E70D1B16_1_201_a.jpeg
+image: /images/2022/jen/7694DB55-0FAA-4216-BC1D-0894E70D1B16_1_201_a.jpeg
 tags: []
 title: Admissions Reflections
 author: Jen Yu

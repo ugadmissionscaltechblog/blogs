@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ketaki Panse
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73d9a26a6970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01a73d9a26a6970d.jpg
 title: Building Bookcases out of Boredom 
 categories: [research]
 status: Publish
@@ -17,14 +17,14 @@ My parents are remodeling our house right now, so my siblings and I have the opt
 
 Much to my surprise, my father and our handy carpenter had already built the base of my bookcase by the time spring break rolled around. Armed with a bucket of white paint, I finished off the bookcase and promptly began filling it with my favorite books and my not-so-favorite class textbooks. Here's what the finished bookcase looks like:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcdf4dc8970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcdf4dc8970b.jpg)
 
 And here's one of the fiction shelves:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73d9a26f4970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73d9a26f4970d.jpg)
 My bookcase project allowed me to pass the time while my family was off doing important things last week,and I actually got some time to relax and bum around after an intense term. But, I'm pretty ecstatic to report that I'm actually writing this blog post from Quito, Ecuador and am about to board the flight to Baltra Island!
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73d9a27db970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73d9a27db970d.jpg)
 Since I won't have internet for the next 9 days, I'll be updating Galapagos travel blogposts after the trip.
 
 Until then,

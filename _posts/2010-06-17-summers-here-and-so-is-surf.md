@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mario Zubia
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f15d490f970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0133f15d490f970b.jpg
 title: Summer's here! and so is SURF!
 categories: [research]
 status: Publish
@@ -25,7 +25,7 @@ Wednesday was orientation day. There was a check-in, an orientation, and a dinne
 Right after our group photo. (I was late! so I didn't actually get to take one of the entire group..but trust me..there were tons of people!)
 Dinner. Once again, lots of people.
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f15d489b970b.jpg)Before coming to Caltech, I had never hadMediterraneanfood. But, after eating Greek food at that dinner, I had raised my Mediterranean food count to 4 or 5! Om nom nom.This now brings me to my next topic. Food. It had to be covered sooner or later...I'll make it short, but sweet. There are tons of places near Caltech that are within walking distance.There's a Subway, Chipotle, Corner Bakery, Rubios, Panda Express, Carl's Jr., Jack in the Box, McDonalds, and tons of other places. And if you're willing to walk a little more, or know someone who can drive, your options are basically limitless.
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133f15d489b970b.jpg)Before coming to Caltech, I had never hadMediterraneanfood. But, after eating Greek food at that dinner, I had raised my Mediterranean food count to 4 or 5! Om nom nom.This now brings me to my next topic. Food. It had to be covered sooner or later...I'll make it short, but sweet. There are tons of places near Caltech that are within walking distance.There's a Subway, Chipotle, Corner Bakery, Rubios, Panda Express, Carl's Jr., Jack in the Box, McDonalds, and tons of other places. And if you're willing to walk a little more, or know someone who can drive, your options are basically limitless.
 
 On aside note, here at Tech, I've also been able to eat lots and lots of Asian food. So, here's the deal. I'm Mexican. And basically the only food I ever ate back home was arroz, frijoles, and carne asada. (Well, obviously I ate other stuff...but my mom made this stuff pretty often). Now that I've come to Tech, I've been able to eat lots of non-Mexican stuff. I've had authentic Chinese, Japanese, Thai, and Vietnamese food.As you might have guessed, I've also perfected my chopstick using abilities! I've even asked for some of my friends for very own pair of chopsticks for my birthday. :)
 Okay, I think that about does it. But, next time I definitely need to tell you guys about what happened on my first day in lab...let's just say falling asleep during my first lab meeting and killing some flies isn't the best way to make a first impression!

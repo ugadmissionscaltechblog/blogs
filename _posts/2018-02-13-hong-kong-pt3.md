@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c94de8ea970b.jpg
+image: /old_images/6a0105349b8251970b01b7c94de8ea970b.jpg
 title: Hong Kong pt3
 categories: [global]
 status: Publish
@@ -12,19 +12,19 @@ Hong Kong is a really pretty city. It doesn’t feel very different from many ot
 
 Instead, we went to Victoria Peak and Ocean Park, two places from which one can get a great view of Hong Kong, including its surrounding islands. While Victoria Peak is a large and well known tourist attraction, Ocean Park is actually a zoo, an aquarium, and an amusement park all in one. They have many animals and quite a few rides for visitors. They also have pandas, which my family spent quite a bit of time looking at. They are cute, lazy creatures, really amusing. The most interesting part of the park is that all of the rides are actually on top of a mountain in Aberdeen (which is a city on the other side of Hong Kong Island).
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d01b8d2d853b6970c-pi.jpg)
+![](/old_images/6a01bb09a3c88f970d01b8d2d853b6970c-pi.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d01b8d2d853bc970c-pi.jpg)
+![](/old_images/6a01bb09a3c88f970d01b8d2d853bc970c-pi.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c94de8e6970b.jpg)
+![](/old_images/6a0105349b8251970b01b7c94de8e6970b.jpg)
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d2d853cd970c.jpg)
+![](/old_images/6a0105349b8251970b01b8d2d853cd970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d2d853c5970c.jpg)
+![](/old_images/6a0105349b8251970b01b8d2d853c5970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d2d853c9970c.jpg)
+![](/old_images/6a0105349b8251970b01b8d2d853c9970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d2d853c1970c.jpg)
+![](/old_images/6a0105349b8251970b01b8d2d853c1970c.jpg)
 

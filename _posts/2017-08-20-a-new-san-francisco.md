@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c90efeaf970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c90efeaf970b.jpg
 title: A New San Francisco
 categories: [global]
 status: Publish
@@ -17,4 +17,4 @@ I actually spent most of my day walking around a pretty small area - but a diffe
 I had a lot of fun listening to Taiko drumming from cute kids and a Taiko group called Jiten Daiko at the festival. I have only seen Taiko performances a couple of times but I love the fact that it is an art form that requires musical sense and a flair for the exhibition.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09b2394a970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09b2394a970d.jpg)

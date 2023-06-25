@@ -3,7 +3,7 @@ layout: post
 author: Andrew
 title: "From Cold into Colder"
 categories: [global]
-image: https://ik.imagekit.io/u9ndqdgam20/images/2019/12/6a0105349b8251970b0240a4f3b0ea200b-800wi.jpg
+image: /images/2019/12/6a0105349b8251970b0240a4f3b0ea200b-800wi.jpg
 date: 2019-12-06
 ---
 
@@ -14,7 +14,7 @@ Unfortunately, though, the same doesn’t exactly hold for Edinburgh. IT seems t
 Only… the next round was about 4 hours away from when I got back, and it came in the form of a train to Largs. Now, where’s Largs you ask? Good question! A lot of British people wouldn’t know the answer either. Largs is a tiny town 2 hours west of Glasgow. I’ll grant you that it’s quite scenic. We saw a beautiful sunrise. But also, to see that, our train was beyond early (and actually, I missed the earliest train). Largs is also the site of the Scottish national training facility. A bit like the Olympic training center in Colorado, only Scottish and much smaller. The day of fencing was actually quite atrocious for me, but we found a lovely little ice cream shop. And we ended the evening with curry cheese chips, as any good fencing evening should.
 
 
-![](https://ik.imagekit.io/u9ndqdgam20/images/2019/12/6a0105349b8251970b0240a4a5e7e6200c-800wi.jpg)
+![](/images/2019/12/6a0105349b8251970b0240a4a5e7e6200c-800wi.jpg)
 Largs was also my last really obscure UK city trip that I’m taking for fencing this year. So, it’s a bit bittersweet. As my college fencing career will come to an end when I’m back at Caltech, this really was my last ride and it’s a bit sad. But I couldn’t have asked for anyone else to spend this season with.
 
 Largs, Largs, Pants on Fargs?

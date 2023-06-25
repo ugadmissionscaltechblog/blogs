@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Gloria
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c76daa32970b.png
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c76daa32970b.png
 title: The Pipettes
 categories: [research]
 status: Publish
@@ -23,7 +23,7 @@ We had no idea what we were doing then, and we have only a slightly better idea 
 
 And of course, I know that every member of the Pipettes is integral to the group. Once you’re in a house, it’s harder to hang out with people from other houses. But we have 6 of the 8 houses represented in our group, so we automatically get to spend time with a pretty “diverse” group of people for 4 hours a week. Sometimes more than that, because we chat and eat at the student coffeehouse after night rehearsals, and have girls nights and food excursions. This was our junk food pile at girls night:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0f74a14970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0f74a14970c.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c76daafa970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c76daafa970b.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d0224e03557e1200d-pi.jpg
+image: /old_images/6a01bb09a3c88f970d0224e03557e1200d-pi.jpg
 title: Room Escape LA
 categories: [clubs]
 status: Publish

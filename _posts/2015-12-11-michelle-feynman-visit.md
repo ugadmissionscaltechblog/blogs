@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yubo
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73dbab781970d01b7c7f589ee970b-pi.jpg
+image: /old_images/6a01a73dbab781970d01b7c7f589ee970b-pi.jpg
 title: Michelle Feynman Visit! 
 categories: [culture]
 status: Publish
@@ -17,6 +17,6 @@ It was his daughter that visited Caltech in promotion of her latest book,*The Qu
 In all honesty, I think the talk started a bit flat, as she just read a few quotes from her book aloud at us, without any particular ordering/motivation. However, the professor who organized this event played the role (whether intentionally or unintentionally) of being excited to meet a childhood hero, and came at Ms. Feynman with question after question that seemed to loosen her up and bring her into anecdote land instead of reading land. And it was here that the talk really came to life: understanding the mythical man from within the family, how he could never remember where everyone kept the spoons, was the sort of unique experience a book reading would never be. I don't really know whether his enthusiasm was calculated or genuine, but he played the role inimitably and I think everybody had a better experience for it. (Note: This would be Professor Antonio Rangel.)
 The talk closed with a short Feynman trivia session. Since there were only about 20 people, and 10 to-be-autographed copies of*The Quotable Feynman*, and rules dictated that nobody could win more than one copy, the odds were quite in our favor. I happened to answer his graduate school correctly (Princeton) since it resonated with me as my original first choice of undergraduate institution (long since eclipsed of course), and I also got an autographed copy!
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73dbab781970d01b7c7f58055970b-pi.jpg)
+![](/old_images/6a01a73dbab781970d01b7c7f58055970b-pi.jpg)
 I really hope I run across more of these events in the future. Some talks are just so unique and restricted to an environment like Caltech that I really wish I'd realized the value of these opportunities earlier rather than burying myself in whatever priority I deemed most pressing for my first three years here. There are opportunities one will leave Caltech never forgetting, and there are many tests/sets that one will leave Caltech desperately wishing to forget. Choose wisely!
 

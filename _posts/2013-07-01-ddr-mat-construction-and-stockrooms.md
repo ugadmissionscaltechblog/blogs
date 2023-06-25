@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901df5e6dd970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01901df5e6dd970b.jpg
 title: DDR Mat Construction and Stockrooms 
 categories: [research]
 status: Publish
@@ -16,7 +16,7 @@ In the last few years, I've built two simpler DDR mats, but the sheet metal cont
 Bottom half of an arrow - the folded paper around the edges separates the bottom layer of sheet metal from the top
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019103ebd97b970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b019103ebd97b970c.jpg)
 
 Simpler DDR mat I built during winter term
 
@@ -24,7 +24,7 @@ So this time, we'll be using a different sensor design. Unlike the commercial DD
 Since finding someone with a flatbed truck is difficult, we had some trouble figuring out how to transport plywood for the DDR mats from Home Depot. But, I recently learned that the Carpenter shop on campus has plywood, so some friends and I went over there and bought the plywood we needed. It's now sitting in the dorm lounge, and hopefully we'll be able to cut it on a table saw soon.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901dfe4839970b.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01901dfe4839970b.png)
 
 CAD model of the DDR mats we plan to build
 

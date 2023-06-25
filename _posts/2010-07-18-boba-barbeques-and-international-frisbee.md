@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura Conwill
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f260a3ca970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0133f260a3ca970b.jpg
 title: Boba, Barbeques, and International Frisbee
 categories: [research]
 status: Publish
@@ -45,14 +45,14 @@ borrowed from somewhere…(that’s the Olive Walk they’re driving on, and
 beautiful Lloyd House in the background).
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f260a564970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133f260a564970b.jpg)
 
 And, turning 180
 degrees, we see SURFers having an amazing time at the barbecue in front of the
 Fleming cannon.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348585f8ec970c.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01348585f8ec970c.png)
 
 I met a bunch of
 students visiting for the summer from Cambridge University (including a few
@@ -70,7 +70,7 @@ It was too dark to take pictures, so you're going to have to just imagine us pla
 Ultimate on the grass below.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013485867de7970c.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b013485867de7970c.png)
 
 Until next time…
 --Laura

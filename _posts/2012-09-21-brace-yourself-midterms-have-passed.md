@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Brad Chattergoon
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d3c0c74ff970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017d3c0c74ff970c.jpg
 title: Brace yourself... midterms... have passed? 
 categories: [academics]
 status: Publish
@@ -26,7 +26,7 @@ I was running through the neighborhood south of Caltech (I think it's San Marino
 And here's your campus picture!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b017c31de29e4970b-800wi.jpg)
+![](/old_images/6a0105349b8251970b017c31de29e4970b-800wi.jpg)
 [](https://caltech.typepad.com/.a/6a0105349b8251970b0167663b3af4970b-popup)
 
 Talk to you guys again soon.

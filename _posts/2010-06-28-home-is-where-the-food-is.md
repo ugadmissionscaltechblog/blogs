@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mario Zubia
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f1e06b39970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0133f1e06b39970b.jpg
 title: Home is where the heart (and food!) is
 categories: [culture]
 status: Publish
@@ -12,20 +12,20 @@ Hey guys,So, I'm lucky enough to live relatively close to Tech--home for me is a
 
 After letting the meat heat up a bit, we added in the chili sauce. According to my mom, this was the "cheating" way because we didn't make it ourselves. Pshh, it was perfectly fine with me. I'm a college student. Time is money and the less time it takes to make the food, the better!
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f1e06cda970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133f1e06cda970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f1e06e10970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133f1e06e10970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348505f865970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01348505f865970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348505f9bf970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01348505f9bf970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348505fe29970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01348505fe29970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f1e07fed970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133f1e07fed970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f1e0868f970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133f1e0868f970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f1e5d0c8970b.jpg)For now, have a good week and talk to you all later.
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133f1e5d0c8970b.jpg)For now, have a good week and talk to you all later.
 
 Mario

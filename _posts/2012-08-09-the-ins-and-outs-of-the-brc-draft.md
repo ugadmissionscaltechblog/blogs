@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Slwright13
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0176170e2b98970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0176170e2b98970c.jpg
 title: The Ins and Outs of the BRC
 categories: [research]
 status: Publish
@@ -16,16 +16,16 @@ Here are some different views!
 Looking up from the ground...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0167691948f5970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0167691948f5970b.jpg)
 ...looking out from the 6th floor at downtown with the Medical Centers on the right (can you spot that molecule again?)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0176170e2c77970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0176170e2c77970c.jpg)
 View from the office
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b016769194ba4970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b016769194ba4970b.jpg)
 Typical lab stuff :)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b016769194ac8970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b016769194ac8970b.jpg)
 It's a really nice building and reminds me of the new buildings at Tech. Thanks to the Honor Code, we can get access to a lot of buildings after hours using our ID card or a key. That means I can use empty classrooms and lounge areas in fancy new buildings to study and take exams - an environment I find preferable to a crowded library during exam weeks. There have been quite a few buildings partially or completely renovated in the last 5-6 years - they all look really cool with lots of glass and a modern feel. I especially like the ones that have kept the classic architecture on the outside but look nice and new inside.
 
 Hope your summers are going well!

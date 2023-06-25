@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jordan Theriot
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536a86f05970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b010536a86f05970c.jpg
 title: This Term
 status: Publish
 date: 2009-01-02
@@ -55,7 +55,7 @@ seen back home!), I saw my first Jamba Juice (very California, IMHO), nearly
 crashed a wedding taking place near Pasadena town hall, and snapped a picture
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536a86f3f970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b010536a86f3f970c.jpg)
 After consulting the map, we found that
 there is also a Newton Ave. and a Eureka Ave. in Pasadena, but after all that,
 we were ready to head back to campus. I mentioned a lot about visiting classes,

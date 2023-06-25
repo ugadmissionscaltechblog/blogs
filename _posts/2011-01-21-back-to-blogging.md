@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Nina Budaeva
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7cce47d970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0148c7cce47d970c.jpg
 title: Back to Blogging!
 categories: [research]
 status: Publish
@@ -12,10 +12,10 @@ date: 2011-01-21
 Hello! First, let me reintroduce myself. I am Nina Budaeva, a Caltech Sophomore majoring in Physics and a Page House member. I am from Berkeley, California but was born in St. Petersburg, Russia. I started blogging a year ago and went through summer up to this school year. Now I'm very happy to be back for occasional blogs about various things that pop up in my life at Caltech! I hope you enjoy following me throughout all the countless adventures that Caltech has to offer.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1c3d3aa970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1c3d3aa970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7ccef2a970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7ccef2a970c.jpg)
 These pictures are made out of post-its and the man is supposed to be their professor. For the entire first week we would see new pictures with every lecture but on the second week we found a message explaining that this "saga" is countinuing in a new lecture hall because this student switched classes. Oh well. My course is still quite interesting even without new post-it designs bedind the chalk boards.
 
 What else is there to expect from this Term? It is almost time to start finalizing plans for summer. In other words, it is almost time to apply for SURFs (Summer Undergraduate Research Fellowship - more about this in a later most). I've been in contact with my lab and I hope to soon finalize what I will work on. I may even start working during the year, well before summer starts! Please wich me luck!

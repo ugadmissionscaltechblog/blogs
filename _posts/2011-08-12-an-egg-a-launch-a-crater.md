@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Garima Gupta
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e8a89a10c970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b014e8a89a10c970d.jpg
 title: An Egg, A Crater & A Launch
 categories: [research]
 status: Publish
@@ -22,11 +22,11 @@ Guess what! During this meeting, the team even named a crater! Well, they joked 
 So on Friday, they named the dimple “Jolbe” …at least that’s what I heard over the not-so-clear telecon speaker. I tried searching for it on google, but couldn’t find anything. So if you’ve heard of a famous ship of exploration that sounds like “Jolbe,” comment on this post! :) Afterwards, we actually got to see the operations center, from where commands are sent to the rover.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b015390967365970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b015390967365970b.jpg)
 Oh! Remember Juno? Well, the MER team was just as anxious as the rest of JPL to know whether it launched or not. So before the meeting, they turned on NASATV on one of the screens and muted it. When it launched not only were there cheers in our room, but also on the speakers! Apparently *everyone* tuning in to the meeting was watching the launch. It was awesome. Everyone sort of watched the screen in awe until the Chair of the meeting reluctantly broke the wonder-filled silence by getting the group back on task.
 
 After the MERSOWG Meeting, I went back to my office only to find out that a lab tour I had signed up for was canceled. :( But I had signed up for another lab tour, that didn’t get canceled: the Atmospheric Kinetics Lab. I’m not a huge fan of chemistry, but this was cool! This post is getting a little long, so I’ll tell you about that in my next post. I’ll also tell you how my final presentation goes (it’s tomorrow!). *fingers crossed that it goes well*
 
 In the meantime, here's a funny sign I found at JPL:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01543469fb4c970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01543469fb4c970c.jpg)

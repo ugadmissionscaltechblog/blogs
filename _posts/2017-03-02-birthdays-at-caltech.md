@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anita
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2625ea5970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2625ea5970c.jpg
 title: Birthdays at Caltech
 categories: [research]
 status: Publish
@@ -17,31 +17,31 @@ In the picture below, some of the freshmen decided to experiment with chocolate 
 
 My friend Vasant is quite public about his fondness for sharks, so we made him a shark cake for his birthday this year. The cake and frosting are vanilla, with artwork done in colored sugar sprinkled on top:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2625eac970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2625eac970c.jpg)
 Below is a piece of the birthday cake that my roommate Sandra made for my 22nd birthday this year. It is a chocolate and peanut butter masterpiece drizzled in two flavors of frosting.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2625ebd970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2625ebd970c.jpg)
 The roommate and I made a pumpkin cheesecake tiramisu for our friend Jimmy's birthday, improvising butter and milk for whipped cream (mixed in a blender because we didn't have cream or an egg beater), Nilla Wafers dipped in espresso (in place of lady fingers), pumpkin cream cheese and frosting beaten together as a replacement for the mascarpone cheese filling, and homemade freckled chocolate (shavings and blocks of chocolate bars courtesy of using a grater). It was delicious.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d7fecf970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d7fecf970b.jpg)
 My friend Ramya even had a cake ordered for her by her friends:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb097b2e05970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb097b2e05970d.jpg)
 And for two of my friends whose shared birthday fell on our House's ski trip this year, I made them a Taiwanese-style fruit-and-cream-filled chiffon sponge cake, complete with an apple swan on the top.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb097b2e09970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb097b2e09970d.jpg)
 Finally, my friend Melissa, who is a geochemistry major, got a gorgeous chocolate dirt-and-rock cake for her birthday! It was baked with love and studded with chocolate rocks and rock candy crystal specimens from our friend Zoey's neighborhood store back home.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb097b2ed2970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb097b2ed2970d.jpg)
 The birthday celebration generally proceeds thus: We blindfold the person and lead them to our common areawhere the cake is sneakily waiting. The blindfold comes off after the candles are lit, before the singing commences...
 
 This is a collage of different birthday kids in the early mornings of their special days:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2625f64970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2625f64970c.jpg)
 From the top left, going clockwise: Ramya and Rupesh with their respective bakery-delivered and chocolate wineglass cakes and blindfolded as their candles are lit; Jimmy and his pumpkin cheesecake tiramisu; Melissa and her rock cake; and Jagriti and Mugdha with their fruit and cream chiffon cake. Everyone looks so happy, like they can't stop themselves from smiling. Thatis my favorite part.
 
 What my House refers to as "1.5 birthdays" (because they happen between two hallways called Alley 1 and Alley 2) are a nice midnight break for anyone working hard on a problem set. It's always enjoyable to see what kinds of inside jokes surface during the cake-making. In a place like Tech that can be stressful and is away from home, it can be a comforting and just *nice* feeling to celebrate one's birthday with a group of your Housemates who feel like family.

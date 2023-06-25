@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Nikita Sirohi
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08485d26970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb08485d26970d.jpg
 title: The Second Week is...Over! 
 categories: [research]
 status: Publish
@@ -19,17 +19,17 @@ I'm working with the research team. So far, I've been learning about basic strat
 
 The trader at the desk next to mine keeps an animal on top of his computer which he can pull inside-out to turn from a bull to a bear depending on how he predicts the market is going to go. I think it is absolutely adorable!
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d132b412970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d132b412970c.jpg)
 Some more pictures:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7a942c0970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7a942c0970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d132b428970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d132b428970c.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d132b43d970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d132b43d970c.jpg)
 As for other random musings...
 
 ...I've been using python a lot at work, and must admit I've gained a new respect for the language. I had kind of forgotten that it existed, But, it is an incredibly useful, versatile language, at least for the stuff I've been doing.

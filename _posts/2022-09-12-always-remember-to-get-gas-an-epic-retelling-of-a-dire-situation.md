@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-09-12 21:31:25 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/Sarah/get_gas_blog/IMG_1613.JPG
+image: /images/2022/Sarah/get_gas_blog/IMG_1613.JPG
 tags: []
 title: 'Always Remember to Get Gas: An Epic Retelling of a Dire Situation'
 author: sbass
@@ -21,7 +21,7 @@ It was pitch black outside and I could barely see anything save for the illumina
 
 Finally, we arrived in Mammoth and pulled up to the first gas station we saw. No gas. Ok…so we tried another one. No gas. Yet again, with hope in our eyes, we went to the last gas station near us. And would you look at that? There’s….still no gas.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/Sarah/get_gas_blog/IMG_5610.jpg)
+![](/images/2022/Sarah/get_gas_blog/IMG_5610.jpg)
 
 From left to right: Andrea, Sylvia, me, Makoa, and Juan in front of a chevron that was closed! Look at all that hope in our eyes, no idea how much pain and suffering was to come (from finals, not from a sleepless night with no gas obviously...).
 
@@ -33,22 +33,22 @@ We arrived in Bishop. It’s nearly 4am, the town is silent in the night and the
 
 After arriving and setting up at the campsite we were just in time for the sunrise. It was beautiful, all the chaos of the night was worth it to see the sunrise.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/Sarah/get_gas_blog/IMG_1613.JPG)
+![](/images/2022/Sarah/get_gas_blog/IMG_1613.JPG)
 
 With no sleep (not a problem for us since we already had terrible sleep schedules) we went on a small hike and I got some really pretty pictures so I hope you enjoy them.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/Sarah/get_gas_blog/IMG_1632.JPG)
+![](/images/2022/Sarah/get_gas_blog/IMG_1632.JPG)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/Sarah/get_gas_blog/IMG_1639.JPG)
+![](/images/2022/Sarah/get_gas_blog/IMG_1639.JPG)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/Sarah/get_gas_blog/IMG_1643.JPG)
+![](/images/2022/Sarah/get_gas_blog/IMG_1643.JPG)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/Sarah/get_gas_blog/IMG_1646.JPG)
+![](/images/2022/Sarah/get_gas_blog/IMG_1646.JPG)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/Sarah/get_gas_blog/IMG_1665.JPG)
+![](/images/2022/Sarah/get_gas_blog/IMG_1665.JPG)
 
 Then, after returning to the campsite and having a brief respite where we all passed out in the tent, we went to Erick Schat’s Bakery (a must see if you’re in or near Bishop) and then I drove 4 out of the 5 hours back while hyped up on caffeine because Sylvia had been up driving all night (another piece of advice, don’t go on a trip with only two people who have their driver's license). Overall, despite staying up all night, almost getting stranded, and feeling like I was dead for at least a day after, it was a worthwhile trip away from campus with beautiful mountains and fresh air.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/Sarah/get_gas_blog/IMG_1669.JPG)
+![](/images/2022/Sarah/get_gas_blog/IMG_1669.JPG)
 
 Always remember to get gas.

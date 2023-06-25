@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jessica Yeung
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b010078a7970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b019b010078a7970b.jpg
 title: Baking = Chemistry + Food!
 categories: [culture]
 status: Publish
@@ -15,26 +15,26 @@ Jessica
 first meal! honey glazed chicken, onions and red peppers, tomatoes and eggs,brown rice, broccoli
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b01007aa0970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b019b01007aa0970b.jpg)
 ok...i didn't make this, but i really like trader joe's greek yogurt and nature path's pumpkin flax granola :)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b01007d5d970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b019b01007d5d970b.jpg)
 
 banana walnut muffins!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b01007ea4970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b019b01007ea4970b.jpg)
 fresh white bread :)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b0100c65f970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b019b0100c65f970d.jpg)
 brown rice, cha siu pork, veggies
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b0100803f970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b019b0100803f970b.jpg)
 Grant's 22nd Birthday Cake! Black forest cake with cherry filling, whipped cream, and lots of chocolate! #portal #buckyballs
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b0100824b970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b019b0100824b970b.jpg)
 Iced Pumpkin Cookies! :D Yay it's fall :)

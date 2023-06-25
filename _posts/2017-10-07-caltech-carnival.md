@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c925665d970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c925665d970b.jpg
 title: Caltech Carnival
 categories: [culture]
 status: Publish
@@ -15,7 +15,7 @@ One of the best parts of the carnival happens when it gets dark. That’s when t
 The show this year was also spectacular, as all of the fireworks set off were synchronized to music. With a showing of Guardians of the Galaxy 2 afterwards, I give [Sakthi](https://caltech.typepad.com/caltech_as_it_happens/blogger-sakthivetrivel/), the ASCIT president, all the props she deserves for organizing such a fun carnival!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d01bb09c87bf0970d-pi.jpg)
+![](/old_images/6a01bb09a3c88f970d01bb09c87bf0970d-pi.jpg)
 
 Sorry the fireworks are so blurry :P
 

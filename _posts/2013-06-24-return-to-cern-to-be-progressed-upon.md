@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Valère Lambert
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901daeda6b970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01901daeda6b970b.jpg
 title: Return to CERN 
 categories: [research]
 status: Publish

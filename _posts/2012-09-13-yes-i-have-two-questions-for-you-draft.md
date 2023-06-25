@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Slwright13
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c31b2bd09970b.png
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017c31b2bd09970b.png
 title: "Yes, I have two questions for you..." 
 categories: [research]
 status: Publish
@@ -20,14 +20,14 @@ My favorite part was probably the[Advances in Tissue Engineering](https://caltec
 This is kind of cheesy, but here are some of my slides! It's a really bite-sized overview of my research (without all my other commentary).
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c31b2bce3970b.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c31b2bce3970b.png)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017744907dbc970d.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017744907dbc970d.png)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c31b2bc89970b.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c31b2bc89970b.png)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c31b2bc4f970b.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c31b2bc4f970b.png)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d3be155a0970c.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017d3be155a0970c.png)
 Sarah
 

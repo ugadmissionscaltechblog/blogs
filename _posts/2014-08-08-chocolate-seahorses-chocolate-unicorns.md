@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ariel O'Neill
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c3671e245970b01a511f0b852970c-pi.jpg
+image: /old_images/6a017c3671e245970b01a511f0b852970c-pi.jpg
 title: Chocolate Seahorses, Chocolate Unicorns
 categories: [research]
 status: Publish
@@ -18,7 +18,7 @@ From https://www.amazon.com/Guylian-Belgium-Chocolates-Artisanal-Signature/dp/B0
 Somebody brought in a box of slightly melted and resolidified chocolates (BELGIAN chocolates) for the coffee room in lab today. I usually leave sweets for the evenings, but I feared they would be long gone by the afternoon. I am a chocolate enthusiast. I like chocolate milk, chocolate bars, and chocolate unicorns.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c3671e245970b01a73dfbec06970d-pi.jpg)
+![](/old_images/6a017c3671e245970b01a73dfbec06970d-pi.jpg)
 
 From https://www.squishable.com/pc/mini_squish_chocolate_unicorn_7/fp_mini_squishables/Mini+Squishable+Chocolate+Unicorn
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d01b7c9616379970b-pi.jpg
+image: /old_images/6a01bb09a3c88f970d01b7c9616379970b-pi.jpg
 title: Avery's Coco Interhouse
 categories: [culture]
 status: Publish

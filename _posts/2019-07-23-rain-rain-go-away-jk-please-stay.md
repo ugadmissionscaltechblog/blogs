@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0240a4be3326200b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0240a4be3326200b.jpg
 title: Rain, rain, go away... jk please stay
 categories: [global]
 status: Publish

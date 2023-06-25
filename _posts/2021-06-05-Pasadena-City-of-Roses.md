@@ -6,7 +6,7 @@ categories:
 - culture
 author: rashi
 tags: []
-image: https://ik.imagekit.io/u9ndqdgam20/images/2021/06/pasadena_cover.jpeg
+image: /images/2021/06/pasadena_cover.jpeg
 
 ---
 Even if you’ve heard of Caltech before, you might never have heard of Pasadena, the quaint Los Angeles suburb it’s tucked into. 
@@ -17,12 +17,12 @@ While Pasadena is certainly a bit calmer than much of flashy LA, it’s nonethel
 
 One of the biggest perks of living in California is the year-round sunshine, and Pasadena has no shortage of outdoor spaces to help you take advantage of it. Perhaps the most famous is the *Huntington Library and Gardens*. I haven’t yet visited, but this place is near the top of my senior year bucket list. They have a special “College Card” deal that grants students a one-year membership for just $36! There is a nine-acre Japanese garden, complete with a bonsai collection and zen court, accompanied by more than 15 other types of gardens, a library, and art collection. Pasadena is also home to the *Norton Simon Museum*, which houses pieces by Renoir, Picasso, and Van Gogh in addition to a garden. If flower gardens are especially your thing, you can also visit *Descano Gardens* in nearby La Canada Flintridge (which is also where JPL is located). 
 If you are in town for New Year’s, you can watch the *Rose Parade* go down Colorado Boulevard. The Rose Parade is an event Pasadena is nationally known for and features a series of intricate floats made only out of flowers and plants, in addition to marching bands and skywriting planes!
-![ RoseParade ](https://ik.imagekit.io/u9ndqdgam20/images/2021/06/rose_parade.jpeg)
+![ RoseParade ](/images/2021/06/rose_parade.jpeg)
 An example Rose Parade float – every flower is placed by hand by volunteers!
 
 Arcadia, about 3 miles east of Pasadena, is home to the *L.A. Arboretum*. This was one of my absolute favorite places to go as a kid. On any given day, you can explore the gardens, visit houses and a railroad station preserved from the 1800’s, or chase after peacocks (sometimes, they even make it all the way to Caltech campus!). There are also lots of great hikes around Pasadena, many of which you could explore as part of the hiking P.E. class offered at Caltech. Most recently, I hiked the *Altadena Crest Trail* and *Eaton Canyon*, which are just minutes from campus and feature a huge waterfall and creek. 
 
-![ Hike ](https://ik.imagekit.io/u9ndqdgam20/images/2021/06/pasadena_hike.jpg)
+![ Hike ](/images/2021/06/pasadena_hike.jpg)
 The view from the Altadena Crest Trail
 ## Shops and sights
 
@@ -32,7 +32,7 @@ The view from the Altadena Crest Trail
 
 Finally, though Pasadena may not be at the center of Hollywood, it is still home to lots of movie and TV sets you can visit! *Pasadena City Hall* is featured as Pawnee City Hall on the NBC show Parks and Rec and is completely open for the public to explore. You are also free to drive over the *Colorado Street Bridge*, which was used as a set in the movie La La Land! If you come to Caltech, you will surely step into Elle Woods’ pink heels yourself—  the intro scene to Legally Blonde was filmed right in front of our library. You might even see actors in the flesh in your time here! HBO’s Silicon Valley and ABC’s Modern Family were both filmed on campus within the past few years. I even got to see Ty Burrell (Phil from Modern Family) on my way to Chem lab one morning freshman year! Though, later that day, I unfortunately got kicked out of our humanities building for trying to spy on production through the windows...
 
-![ ModernFamily ](https://ik.imagekit.io/u9ndqdgam20/images/2021/06/modern_family.jpg)
+![ ModernFamily ](/images/2021/06/modern_family.jpg)
 The cast of Modern Family on Caltech campus!
 
 Lastly, *Pasadena Convention Center* is where the LA auditions for America’s Got Talent are taped every year. Students can get tickets online for free to watch live tapings – I got to go to a live taping my freshman year and see Simon Cowell tear apart performers in real time. With LA so close by, going to concerts and bigger events is also quite easy. One of my favorite LA memories is seeing an improv show put on by the cast of The Good Place at the Ace Hotel.

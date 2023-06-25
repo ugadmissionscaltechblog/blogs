@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-08-19T21:03:35.000+00:00
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/juni/cake2.png
+image: /images/2022/juni/cake2.png
 tags: []
 title: 'Venerable Birthday Tradition '
 author: jpolansk
@@ -19,11 +19,11 @@ The first job for celebrating a birthday is secretly baking a cake. Luckily, I w
 
 For two of the birthday girls it would be their 21st birthday, so we decided to theme the cake decorations around reaching the legal drinking age. However, due to soccer’s “dry-season” policy, my soccer teammate was not allowed to drink. Thus, for her decoration, we had to both celebrate reaching legality, while simultaneously making sure to _discourage_ drinking_._ The final products are shown below (we made a plain cake for my roommate unrelated to 21).
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/juni/cake.png)
+![](/images/2022/juni/cake.png)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/juni/cake2.png)
+![](/images/2022/juni/cake2.png)
 
 The second part of the birthday tradition is kidnapping. At midnight on the day of the person’s birthday, the house librarian must run around the house screaming “Birthday in 1.5! Birthday in 1.5!” For reference, 1.5 is a hangout spot between alleys one and two in the house. At that cue, I was supposed to “kidnap” my roommate and soccer teammate and bring them to 1.5 for the celebration. To “kidnap” I threw a blanket over both of their heads, spun them in a few circles to add some extra confusion, and dragged the birthday girls to the meeting spot. There, everyone in the house sang happy birthday, candles were blown out, and the cake was eaten.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/juni/glasses.png)  
+![](/images/2022/juni/glasses.png)  
 So, if you are worried about having to celebrate your birthday away from home, just know that there is a family here to support you and make sure that you will not be alone.

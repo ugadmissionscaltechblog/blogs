@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Lekha Viswanadham
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511ecf8ba970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01a511ecf8ba970c.jpg
 title: (46) Guest Blog
 categories: [research]
 status: Publish
@@ -18,20 +18,20 @@ Disclaimer time: I did not decide to work at Brattle *just* to complete the acad
 With that being said, let me tell you (or better yet show you) what I have been doing this summer in my free time. During the school year, I keep a (roughly) [weekly personal blog](https://youngcasualchic.blogspot.com/) documenting my style and interests in fashion mainly through pictures. Therefore, I think the best way to fully capture my experience is through good-quality photos. So with the help of my [Canon EOS Rebel T3i DSLR Camera](https://www.amazon.com/Canon-Digital-18-55mm-3-5-5-6-DISCONTINUED/dp/B004J3V90Y) and the occasional iPhone snap, let me share with you some of my experiences so far.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd3d318f970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd3d318f970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73df83510970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73df83510970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd3d31b8970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd3d31b8970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73df83518970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73df83518970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd3d31c5970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd3d31c5970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd3d31d6970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd3d31d6970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73df83556970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73df83556970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511ecf9b2970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a511ecf9b2970c.jpg)
 So there you have it! I have a couple of weeks left before I go home for a month. Then it’s back to Caltech and my senior year. It seems like not long ago that I was entering my senior year of high school. I have stayed really close with my high school girlfriends, and it is so crazy to think that almost four years have passed since those defining moments of our young lives. Even as we entered different colleges, made new friends, and encountered new adventures, we always found our way back to each other. One thing that helps me through the moments in life when I am scared or nervous is my support system. I am the first to admit that I am not a social butterfly— I hate small talk (even when necessary) and acting interested in people’s lives (a.k.a. faking it). And I realize that it might come off as cold and unfriendly to some. What I do treasure are the people that have stood the test of time— the ones that are still there for me after seeing me at my angriest, saddest, most selfish, giddiest and most triumphant moments. Those are my true friends. And I am so blessed to have the ones that I do. Thus, I try to adhere to the following rule (as should you): avoid negative energy and focus your energy on the people that make your days brighter. So, yes, I am ready to take on my final year of college and the unknown that lies ahead— not because I am a strong person, but because I have people to share my experiences with and people who support me no matter what. And they don’t just go away after one chapter of my life. 
 

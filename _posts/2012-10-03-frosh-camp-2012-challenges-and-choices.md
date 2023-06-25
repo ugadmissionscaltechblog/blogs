@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Connor Rosen
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee3d7dd73970d.png
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017ee3d7dd73970d.png
 title: Frosh Camp 2012 - Challenges and Choices 
 categories: [research]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d01b8d29470c7970c-pi.jpg
+image: /old_images/6a01bb09a3c88f970d01b8d29470c7970c-pi.jpg
 title: Interns on the Boardwalk
 categories: [research]
 status: Publish
@@ -14,11 +14,11 @@ We were all hungry, so all the interns swarmed the food lines. With snack of pop
 Much of the day was spent walking around the boardwalk, examining the food, the stores, the games and the rides. We decided on only the best: the Giant Dipper and Ghostbusters before playing all sorts of games, from ring toss to roller ball games (two different types as well!), ladder climb, and more. To round off the trip, we shared a giant funnel cake and crowded into a photo booth for commemorative photos of the day, before heading back and eating at Koja Kitchen. I was new to this dinner place, but it has definitely won me over. It's like a burger or a sandwich between two patties made of white rice instead of bread. The patties stayed together impressively well, and I am partial to rice in any case.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d01bb09ad6037970d-pi.jpg)
+![](/old_images/6a01bb09a3c88f970d01bb09ad6037970d-pi.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d01b7c90a2817970b-pi.jpg)
+![](/old_images/6a01bb09a3c88f970d01b7c90a2817970b-pi.jpg)
 Altogether, it was a really fun day filled with things to do and eat. I had a great time with my friends, and I'm very glad I had a chance to take this trip with them.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d294717b970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d294717b970c.jpg)

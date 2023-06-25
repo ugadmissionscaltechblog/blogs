@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Catherine Xie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff43d6e5970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0162ff43d6e5970d.jpg
 title: Tournament of Roses
 categories: [research]
 status: Publish
@@ -18,24 +18,24 @@ We all waited in anticipation for the parade to begin. There were at total of 44
 The marching bands added an air of excitement as they played peppy tunes and contributed to the high energy and spirits of the spectators. I loved the different colors and uniformity within the bands and also the color guard team performed fun dance routines as well. Not only were there marching bands from the USA, but there were also international bands from Sweden, Japan, and Puerto Rico.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff43fdc2970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff43fdc2970d.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff4400d9970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff4400d9970d.jpg)
 All of the intricate floats were quite impressive as each had a distinctive theme and displayed elaborate creativity. Extensive preparation has gone into each as most had hundred of thousands of fresh flowers that must have taken hours of toiling!
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff43ff65970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff43ff65970d.jpg)
 In addition, each team competing later in the day at the Rose Bowl prepared a float.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01676038ec9e970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01676038ec9e970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e539cd7e970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0168e539cd7e970c.jpg)
 Moreover, riders on horses trekked down the street as well.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff441bf5970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff441bf5970d.jpg)
 Under the sunny and perennial 75 degree weather, the atmosphere was full of cheer as spectators gathered to welcome in the new year. Football fans all wore their team's gear to show support and were in the stands cheering for their respective teams. What a great kick-off to the year!
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff441f0c970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0162ff441f0c970d.jpg)

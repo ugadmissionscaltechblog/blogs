@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d27963f2970c-pi.jpg
+image: /old_images/6a01bb08213082970d01b8d27963f2970c-pi.jpg
 title: Art Gallery + Art of Science Exhibit
 categories: [culture]
 status: Publish
@@ -13,27 +13,27 @@ Last night was the grand opening of Caltech's new Art Gallery and Art of Science
 Student choir performance
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb0992283f970d-pi.jpg)
+![](/old_images/6a01bb08213082970d01bb0992283f970d-pi.jpg)
 
 Artistic dessert table
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d2796406970c-pi.jpg)
+![](/old_images/6a01bb08213082970d01b8d2796406970c-pi.jpg)
 
 Art of Science samples
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8ef06fa970b-pi.jpg)
+![](/old_images/6a01bb08213082970d01b7c8ef06fa970b-pi.jpg)
 
 Free cheese and fruit
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d2796414970c-pi.jpg)
+![](/old_images/6a01bb08213082970d01b8d2796414970c-pi.jpg)
 
 Caltech community art walk
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8ef0710970b-pi.jpg)
+![](/old_images/6a01bb08213082970d01b7c8ef0710970b-pi.jpg)
 
 Attendees contributed to art in the making
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Connor Rosen
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c322ed670970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017c322ed670970b.jpg
 title: UCC Training 
 categories: [global]
 status: Publish

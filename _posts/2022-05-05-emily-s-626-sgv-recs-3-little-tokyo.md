@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/emily/somisomi.png
+image: /images/2022/emily/somisomi.png
 tags: []
 title: 'Emily''s 626/SGV Recs #3: Little Tokyo'
 author: Emily Du
@@ -22,11 +22,11 @@ On my friends’ and my most recent trip, we stopped by Kouraku for lunch. I wou
 
 Afterwards, we went to Somi Somi, an ice cream shop for dessert. There’s many Somi Somi locations around 626/SGV by now, including at Glendale and Koreatown, so I wouldn’t say it’s a must-try food in Little Tokyo. That said, it’s consistently good, and the rotating flavors keep it interesting. The flavors when we went were milk tea, strawberry, milk, and ube.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/emily/somisomi.png)
+![](/images/2022/emily/somisomi.png)
 
 We also stopped by Kinokuniya to browse. The bookstore offers manga, both in English and Japanese; novels, also in both languages; and plenty of stationery. Even when I don’t plan to buy anything, it’s always fun to browse around. For anyone who likes calligraphy: Kino has a lot of nice pens, and carries fountain pens and ink as well.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/emily/ink.png)
+![](/images/2022/emily/ink.png)
 
 Before ending the day, we made a final stop at Marukai Market. Both Nijiya and Marukai sell onigiri, so we decided to taste test the onigiri to compare against each other. However, the test reached inconclusive results. The onigiri was too good, and we didn’t end up focusing on comparing them, but rather just enjoying the taste.
 

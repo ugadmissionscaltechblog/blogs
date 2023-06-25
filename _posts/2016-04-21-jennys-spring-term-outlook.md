@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73d94d1a8970d01bb08e3a135970d-pi.jpg
+image: /old_images/6a01a73d94d1a8970d01bb08e3a135970d-pi.jpg
 title: Jenny's Spring Term Outlook
 categories: [research]
 status: Publish
@@ -35,7 +35,7 @@ Art history class has been really great, too. My favorite painter of all time is
 
 And this next one is just one I really like, called [The Fighting Temeraire tugged to her last berth to be broken up, 1838](https://en.wikipedia.org/wiki/The_Fighting_Temeraire):
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73d94d1a8970d01b7c83fae89970b-pi.jpg)
+![](/old_images/6a01a73d94d1a8970d01b7c83fae89970b-pi.jpg)
 And then there'sbio-organic chemistry lab, where we've prepared L-nitrophenylalanine amino acid from a racemic mixture using stereoselective hydrolysis by the protease*Subtilisin Carlesberg*. We then protected it with Fmoc. Thisweek and the next, we plan to incorporate it into a pentapeptide (a peptide string of five amino acids) by using solid-phase synthesis. I'm usually a klutz in lab, so I hope I'll make it to five... we'll see!
 
 As for medical school apps, I've been working on a personal statement, some way to express just why I really want to be a physician. The hardest part is to step back and think about what*my* story is. It's a little tough to step aside when I've been in the thick of it for all this time.

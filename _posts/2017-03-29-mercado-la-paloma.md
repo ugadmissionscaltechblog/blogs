@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb09859ebb970d-pi.jpg
+image: /old_images/6a01bb08213082970d01bb09859ebb970d-pi.jpg
 title: Mercado la Paloma
 categories: [culture]
 status: Publish
@@ -19,12 +19,12 @@ It's finally spring break!! Before I jet off to Budapest, Austria, and Prague (w
 Seafood cocktail and mixed ceviche from Holbox
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8e26986970b-pi.jpg)
+![](/old_images/6a01bb08213082970d01b7c8e26986970b-pi.jpg)
 
 Lobster and fish tacos from Holbox
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8e269b5970b-pi.jpg)
+![](/old_images/6a01bb08213082970d01b7c8e269b5970b-pi.jpg)
 
 Injera, beet salad, curried vegetables, and mild tofu from Azla
 

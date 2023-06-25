@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Monica Li
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d017ee6eef35c970d-800wi.jpg
+image: /old_images/6a0177449c8a5f970d017ee6eef35c970d-800wi.jpg
 title: Reflections on first term
 categories: [research]
 status: Publish

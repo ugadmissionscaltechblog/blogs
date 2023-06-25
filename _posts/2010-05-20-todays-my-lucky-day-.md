@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ee088b83970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0133ee088b83970b.jpg
 title: Today's my lucky day :)
 categories: [culture]
 status: Publish
@@ -15,5 +15,5 @@ After considering that it could possibly be a joke being played on me and callin
 To be honest, I have not even played with one at the Apple Store...I checked out the ones on display, and it was my first time holding one.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348139a4dc970c.jpg)Contrary to what I normally would have done...I have yet to OPEN IT!! I know, I know..I feel retarded for saying that...but seriously....Ditch Day is TOMORROW and I've been focusing on finishing all of the last minute touches on our stack :)..yep...more exciting than the iPad!
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01348139a4dc970c.jpg)Contrary to what I normally would have done...I have yet to OPEN IT!! I know, I know..I feel retarded for saying that...but seriously....Ditch Day is TOMORROW and I've been focusing on finishing all of the last minute touches on our stack :)..yep...more exciting than the iPad!
 Can't wait to play with it though!

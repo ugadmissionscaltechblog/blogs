@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb09834676970d-pi.jpg
+image: /old_images/6a01bb08213082970d01bb09834676970d-pi.jpg
 title: A Morning in the Arts District
 categories: [local]
 status: Publish
@@ -13,22 +13,22 @@ The Arts District is an artsy, up-and-coming area in DTLA. It's about a 20 minut
 Cornmeal pancakes and polenta with mushrooms!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb098346ae970d-pi.jpg)
+![](/old_images/6a01bb08213082970d01bb098346ae970d-pi.jpg)
 
 Redneck Platter - deviled eggs, ham, pimento cheese, biscuits, and pickled vegetables
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d26a7618970c-pi.jpg)
+![](/old_images/6a01bb08213082970d01b8d26a7618970c-pi.jpg)
 
 Chickens!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb098346d9970d-pi.jpg)
+![](/old_images/6a01bb08213082970d01bb098346d9970d-pi.jpg)
 
 Courtyard art next to Manuela
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8e00f99970b-pi.jpg)
+![](/old_images/6a01bb08213082970d01b7c8e00f99970b-pi.jpg)
 
 Read more about this specific art exhibit [here](https://www.hauserwirthlosangeles.com/exhibitions/jason-rhoades-installations-1994-2006-20170219)
 

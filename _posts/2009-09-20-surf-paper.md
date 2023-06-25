@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dan Obenshain
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a56b6352970b.png
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0120a56b6352970b.png
 title: SURF Paper
 categories: [research]
 status: Publish

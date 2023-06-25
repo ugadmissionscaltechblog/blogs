@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8ce349e970b.png
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8ce349e970b.png
 title: Reading and Writing on Break and on Campus
 categories: [global]
 status: Publish

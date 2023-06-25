@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b8d29d6a8d970c-pi.jpg
+image: /old_images/6a01b8d28f2857970c01b8d29d6a8d970c-pi.jpg
 title: $2 Ice Cream Sandwiches
 categories: [clubs]
 status: Publish

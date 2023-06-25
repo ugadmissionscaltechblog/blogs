@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d296bbdb970c.jpg
+image: /old_images/6a0105349b8251970b01b8d296bbdb970c.jpg
 title: Triple Decker Brownies
 categories: [global]
 status: Publish

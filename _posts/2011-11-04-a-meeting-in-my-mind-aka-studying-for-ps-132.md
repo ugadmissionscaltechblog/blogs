@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Nerissa Hoglen
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0162fc19fb10970d-320wi.jpg
+image: /old_images/6a0105349b8251970b0162fc19fb10970d-320wi.jpg
 title: A Meeting in My Mind or
 categories: [research]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Brad Chattergoon
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c317babe3970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017c317babe3970b.jpg
 title: Here we go again... (And Taylor Swift) 
 categories: [research]
 status: Publish

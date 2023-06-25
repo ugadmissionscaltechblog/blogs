@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Alison Lui
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcfd8c49970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcfd8c49970b.jpg
 title: Caltech On Ice 
 categories: [culture]
 status: Publish
@@ -23,15 +23,15 @@ It was the first time for one guy in our group, but since he was already a prett
 Check these pics.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01a511ad1b1c970c.jpg)
+![](/old_images/6a0105349b8251970b01a511ad1b1c970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511ad1a8c970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a511ad1a8c970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73db83d29970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73db83d29970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcfd75c8970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcfd75c8970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73db83e62970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73db83e62970d.jpg)
 
 Until next time,
 Stay cool.

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Monica Li
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d3c5e467b970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017d3c5e467b970c.jpg
 title: Welcome Class of 2016!
 categories: [research]
 status: Publish
@@ -16,10 +16,10 @@ Sunday was an exciting day for everyone on campus because all the frosh have arr
 I guess convocation wasn't far from what I expected either in the sense that the presentation was very official. Though unlike your typical college convocation, we were fortunate enough to have Professor Grotzinger speak to us; his rover has already started gathering data on Mars. You can learn more about him here: https://www.gps.caltech.edu/grotz/Research/Mars.html.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c32301580970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c32301580970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d3c5e46d0970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017d3c5e46d0970c.jpg)
 
 We met too many new people to remember all the names. Even a small school can seem to have an overwhelming amount of people sometimes. When returning students are back on campus, there will be even more new faces. I can't wait to get to know more people; everyone here is so interesting in one way or another, and small talk isn't ever really small talk. After asking where someone is from, conversations go straight into physics, proofs, or something of the sort.
 

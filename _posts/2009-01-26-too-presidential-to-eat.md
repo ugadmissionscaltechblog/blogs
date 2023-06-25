@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jordan Theriot
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536e914f1970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b010536e914f1970b.jpg
 title: Too Presidential to Eat?
 categories: [research]
 status: Publish
@@ -66,10 +66,10 @@ himself. Which I did. Unfortunately, it came out terribly blurry, so instead
 enjoy these (clearer) ones my friend took during the show.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536e9153d970b.jpg)  
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b010536e9153d970b.jpg)  
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536e91554970b.jpg)Now, it’s my understanding that this is likely my last blog before
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b010536e91554970b.jpg)Now, it’s my understanding that this is likely my last blog before
 a new blogger takes over The Frosh Experience, so let me say goodbye. Blogging
 has been such an excellent experience: Taking time to stop and reflect on my Frosh Experience has made me realize how
 unique my freshman year has been, how many cool opportunities I’ve had, and all

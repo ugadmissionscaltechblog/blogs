@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Valère Lambert
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192abfbf76d970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0192abfbf76d970d.jpg
 title: CMS Week 
 categories: [research]
 status: Publish

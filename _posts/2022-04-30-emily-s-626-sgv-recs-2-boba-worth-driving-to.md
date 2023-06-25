@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/emily/opbobatier.png
+image: /images/2022/emily/opbobatier.png
 tags: []
 title: 'Emily''s 626/SGV Recs #2: Boba Worth Driving To'
 author: Emily Du
@@ -12,7 +12,7 @@ date: 2022-04-30 07:00:00 +0000
 ---
 A few days ago, I wrote a blog post for recommendations of boba around Caltech. This follow up includes a far more comprehensive list of boba shops in the 626/SGV area. Now, I’ll admit that I have a rather extensive spreadsheet of boba stores and drinks that I’ve tried and enjoyed or disliked. However, I’d rather not bore everyone with a full spreadsheet, especially when it reveals just how much boba I’ve had each year. However, if I attempted to write about all of the shops I’ve tried, this post would get too long, so it’s instead compressed into a much more easily digestible format: a Tiermaker list. Obviously, this is the most sophisticated possible presentation of this information and 100% objective. Definitely tested via the scientific method and not subject to personal bias whatsoever.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/emily/opbobatier.png)
+![](/images/2022/emily/opbobatier.png)
 
 Figure 1. A tier list of almost all the boba stores in SGV/626 that I’ve tried. (In the unlikely event that any of the owners of these stores read this post, I’m just a very picky college student. I’m trying to be helpful, not trying to step on any toes.) Missing from this list: Panda Tea Bar, Tea Spots, Milkcow
 
@@ -20,11 +20,11 @@ A quick breakdown of the tiers S through B. These places are rated for both tea 
 
 S tier consists of one boba store only, Half and Half Tea Express. Specifically, the location off Huntington Drive, near the B Man’s and Trader Joe’s. Nowhere in 626/SGV have I ever had such good boba. The store’s claim to fame is that they were the first to put hot boba in drinks. Whether this is true, I’ve never confirmed, but that said, if you haven’t tried their boba, you should. It’s very flavorful, the texture of the boba is good, and the range of teas are too. Also, while many boba shops’ sugar levels might all taste the same, there’s a distinct difference between 0%, 25%, 50%, 75%, and 100% sugar here.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/emily/half-and-half.png)
+![](/images/2022/emily/half-and-half.png)
 
 A tier is the stuff that does things pretty well. Jin, in Old Pasadena, is a bit on the pricey side but they do a pretty good passion fruit, oolong, and chrysanthemum tea. I can recommend these three drinks pretty readily. Wushiland drinks are cheap(er), large, and pretty solid classics. The roasted oolong milk tea has been a favorite among friends since freshman year, and usually, people go for either pearls and grass jelly for the toppings.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/emily/wushi.png)
+![](/images/2022/emily/wushi.png)
 
 B tier boba is generally okay to decent. This tier is also where I tend to put drinks that are good, but on the more expensive side. Sometimes, I just want to get a massive cup of tea and not have to pay upwards of $6 for it. (When I was a frosh, boba averaged $5!!! These prices are outrageous these days, smh)
 

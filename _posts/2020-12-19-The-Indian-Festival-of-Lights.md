@@ -4,7 +4,7 @@ title: "The Indian Festival of Lights"
 categories: [culture]
 date: 2020-12-19
 author: rashi
-image: https://ik.imagekit.io/u9ndqdgam20/images/2020/12/diwali_candles.jpg
+image: /images/2020/12/diwali_candles.jpg
 youtubeId: FeR7GkrP-0Y
 ---
 
@@ -15,10 +15,10 @@ The festivity (and Bollywood music) also makes me miss Dhamaka, the Bollywood da
 
 [Watch on YouTube](https://www.youtube.com/watch?v=FeR7GkrP-0Y)
 
-![ Dhamaka ](https://ik.imagekit.io/u9ndqdgam20/images/2020/12/dhamaka_promo.JPG)
+![ Dhamaka ](/images/2020/12/dhamaka_promo.JPG)
 
 Earlier this year, Dhamaka also paired with OASIS (Organization of the Associated Students of the Indian Subcontinent), a grad student-led cultural club on campus, to put on a Holi event! Holi is another festival celebrated in India, during which people welcome the season of spring with lots of color. I celebrated Holi with family and friends every year without fail before coming to Caltech, so it was rewarding to be able to share the experience with my college friends for the first time.
 
-![ Holi ](https://ik.imagekit.io/u9ndqdgam20/images/2020/12/holi_group.JPG)
+![ Holi ](/images/2020/12/holi_group.JPG)
 
 I also performed at this event with Dhamaka right before everyone had to leave campus in March. I suppose it was sort of our last hurrah for the year, but I’m looking forward to continuing all these traditions and events next year and am glad to be part of a community that is full of culture!

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b8d293adb4970c-pi.jpg
+image: /old_images/6a01b8d28f2857970c01b8d293adb4970c-pi.jpg
 title: Happy 4th of July!
 categories: [clubs]
 status: Publish
@@ -13,12 +13,12 @@ Happy 4th of July everyone! This morning, I went to the San Jose Rose Garden to 
 San Jose Municipal Rose Garden
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b7c90967e9970b-pi.jpg)
+![](/old_images/6a01b8d28f2857970c01b7c90967e9970b-pi.jpg)
 
 There were all sorts of different roses!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b8d293757e970c-pi.jpg)
+![](/old_images/6a01b8d28f2857970c01b8d293757e970c-pi.jpg)
 
 A beautiful rose 🌹
 
@@ -27,8 +27,8 @@ For lunch we went to a Cambodian restaurant called Chez Sovan in San Jose. It wa
 When waiting for the fireworks, we had a picnic with sandwiches, hummus (!!), and lots of chips and popcorn. People were playing music, sports, and just hanging out while waiting.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b8d29374f2970c-pi.jpg)
+![](/old_images/6a01b8d28f2857970c01b8d29374f2970c-pi.jpg)
 Finally, at 9:30pm, the fireworks show started! It lasted for about 10 minutes, with special fireworks like hearts and smiley faces decorating the show. I especially love the golden fizzy fireworks. Happy Birthday America! 🎉
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b7c9092dba970b-pi.jpg)
+![](/old_images/6a01b8d28f2857970c01b7c9092dba970b-pi.jpg)

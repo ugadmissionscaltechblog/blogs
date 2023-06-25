@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Monica Li
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d017c380f7df8970b-800wi.jpg
+image: /old_images/6a0177449c8a5f970d017c380f7df8970b-800wi.jpg
 title: Hello Again! 
 categories: [research]
 status: Publish
@@ -36,7 +36,7 @@ looks like!
 And here's the back.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d423ea714970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017d423ea714970c.jpg)
 Our final was a no collaboration lab. The task was to build
 a circuit that converted AC to DC power to light up an LED, plus capacitors and
 other things. 

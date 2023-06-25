@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b7c90cc7b3970b-pi.jpg
+image: /old_images/6a01b8d28f2857970c01b7c90cc7b3970b-pi.jpg
 title: A Day at the Boardwalk
 categories: [global]
 status: Publish
@@ -19,12 +19,12 @@ I also loved the drop tower because of the great views at the top. The ride shot
 After lunch, we got airbrushed tattoos, which last anywhere from a few days to a week. I got a phoenix on my side and a feather on my ankle. Along the Boardwalk, there are also caricatures, face painting, and lots of snacks to buy including fried oreos and crepes.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b8d2971255970c-pi.jpg)
+![](/old_images/6a01b8d28f2857970c01b8d2971255970c-pi.jpg)
 
 Watching our friends who didn't want to go on the drop tower ride the pirate ship :P
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01bb09affff2970d-pi.jpg)
+![](/old_images/6a01b8d28f2857970c01bb09affff2970d-pi.jpg)
 
 Alice getting an airbrushed tattoo.
 
@@ -33,19 +33,19 @@ The arcade had laser tag, fruit ninja, and flappy bird in addition to more class
 I was also extremely lucky here. First, I won the regular jackpot at one machine, and then I won the monster jackpot at another machine! The first jackpot was about 200+ tickets, and the second jackpot was 1700+ tickets. With my winnings, I got myself a stuffed animal otter, and then pooled earnings with two friends to help them get a nemo and a tsum tsum.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b7c90cc6a9970b-pi.jpg)
+![](/old_images/6a01b8d28f2857970c01b7c90cc6a9970b-pi.jpg)
 
 In this game, you press a button to drop a ball down a tube in the back, which is aligned to one of the outer holes. The regular jackpot is in this outer ring. To get the monster jackpot, the ball has to bounce into the elevated center hole.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b8d2971338970c-pi.jpg)
+![](/old_images/6a01b8d28f2857970c01b8d2971338970c-pi.jpg)
 
 Me and my prize otter!
 
 The Boardwalk was really fun and I would definitely go again! One last recommendation is riding the carousel. It's pretty unique in that each time you go around, you can grab a small brass ring and try to throw it into a giant clown's mouth. If you succeed, a horn sounds and the clown's eyes light up. It's a very fun twist on a childhood ride :)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b8d29713b2970c-pi.jpg)
+![](/old_images/6a01b8d28f2857970c01b8d29713b2970c-pi.jpg)
 
 All in all, it was a great day!
 

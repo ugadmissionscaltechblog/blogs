@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kt Brennan
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013486050802970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b013486050802970c.jpg
 title: Lift off
 categories: [research]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-08-24 21:00:36 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/filmclub1/two-schools-cover.png
+image: /images/2022/guutz/filmclub1/two-schools-cover.png
 tags: []
 title: 'Film Club #1: A Tale of Two Schools'
 author: magutier
@@ -40,17 +40,17 @@ Up next: the brain-melting fears of inadequacy continue to come true. We immedia
 
 First, let’s look at this scene removed from context. Apart from the odd name, what we’ve seen of the college so far has been lovely! The banners display cheerful rainbows and warm colors -- you really do get the vibe that truly everyone is welcome here. This is a place where collaboration and fundamental respect for life are valued above all else. The new students in the room all look genuinely happy to be there. They’ve come not so that their community can serve their talents, _but so their talents can serve their community_. I don’t know about y’all, but I’d come here over the soulless, number-oriented, insipid reality of West Coast Tech _any day_.
 
-Now, add the context back in. The tone immediately shifts, doesn’t it? Gravity Falls doesn’t pull any punches here: the very first frame hits you straight in the gut. Since Stan is “not West Coast Tech material,” he’s clearly had to settle for the better-than-nothing option. _The backup school._ The college that the writers want you to know was created for all the people who just weren’t good enough. Backupsmore. To add insult to injury, they’re trying to sugarcoat it with peace symbols and sunshine! The whole joint and everyone in it reeks of -- well, [President Business](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/filmclub1/business.mp4) (Film Club #2 sneakpeek??) said it best:
+Now, add the context back in. The tone immediately shifts, doesn’t it? Gravity Falls doesn’t pull any punches here: the very first frame hits you straight in the gut. Since Stan is “not West Coast Tech material,” he’s clearly had to settle for the better-than-nothing option. _The backup school._ The college that the writers want you to know was created for all the people who just weren’t good enough. Backupsmore. To add insult to injury, they’re trying to sugarcoat it with peace symbols and sunshine! The whole joint and everyone in it reeks of -- well, [President Business](/images/2022/guutz/filmclub1/business.mp4) (Film Club #2 sneakpeek??) said it best:
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/filmclub1/baloney.gif)
+![](/images/2022/guutz/filmclub1/baloney.gif)
 
-I won’t even [feed the fed horse](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/filmclub1/peta.mp4) (a humorous alternative phrase to "beat the dead horse" suggested in a controversial press release from PETA)  by breaking down the provost’s welcome speech. It only says what we’re all already thinking. Although, I will add that “mostly-bug-free dorms” are actually a huge plus. A lot of undergraduate dorm buildings won’t even _try_ to keep the bugs out.
+I won’t even [feed the fed horse](/images/2022/guutz/filmclub1/peta.mp4) (a humorous alternative phrase to "beat the dead horse" suggested in a controversial press release from PETA)  by breaking down the provost’s welcome speech. It only says what we’re all already thinking. Although, I will add that “mostly-bug-free dorms” are actually a huge plus. A lot of undergraduate dorm buildings won’t even _try_ to keep the bugs out.
 
 ***
 
 OK, wow. That was a little overboard, even for me. Let me catch my breath.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/filmclub1/square-breathing.gif)
+![](/images/2022/guutz/filmclub1/square-breathing.gif)
 
 Right. Now let’s pull everything back together. Including the tether to reality that the story managed to coax from us. I mean, full props to the writers -- they did their job, and they did it well. But do you see what I mean by “a toxic perception of college apps”? (Seeing it is, after all, the first step.)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Monica Li
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d019b03f4c633970d-pi.jpg
+image: /old_images/6a0177449c8a5f970d019b03f4c633970d-pi.jpg
 title: Wallpaper. at Caltech! 
 categories: [culture]
 status: Publish
@@ -15,10 +15,10 @@ Over the summer I saw their set at Warped Tour in Ventura, and it was a complete
 *Here's my friend Anna and I with the drummers - I'm pretending to sing, though everyone in my house knows I can't.*
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d01a3fb684460970b-pi.jpg)
+![](/old_images/6a0177449c8a5f970d01a3fb684460970b-pi.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d019b03f4c834970d-pi.jpg)
+![](/old_images/6a0177449c8a5f970d019b03f4c834970d-pi.jpg)
 *A couple photos from their performance: from the back and then up close.*
 ASCIT (a student run organization on campus) had planned a wrath event for afterwards. The wrath is what we call the underground floor of the Athenaeum that’s less formal than the rest of it. There are often weddings held at the Ath, but at the wrath they serve free popcorn and it’s a much more casual setting. They also serve other food and drinks.
 

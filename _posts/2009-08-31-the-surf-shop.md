@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dan Obenshain
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a50056c8970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0120a50056c8970b.jpg
 title: The Surf Shop
 categories: [research]
 status: Publish
@@ -22,10 +22,10 @@ It's really nice that clubs like the Surfing and Windsurfing Club can offer serv
 
 The surf shop, with all of its surfboards:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5005705970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5005705970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5577d30970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5577d30970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5005728970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5005728970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5005740970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5005740970b.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anita
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73df9c4f5970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01a73df9c4f5970d.jpg
 title: San Diego
 categories: [culture]
 status: Publish
@@ -15,24 +15,24 @@ Anyhow, my cousin the software engineer has an obsession with Legos, leading my 
 Now Legoland has a resort right next to it. I think it's more fun to not live right next to a small theme park (at least Disneyland has two parks now), but that's just my personal opinion. The screaming kids going in and out seemed to be having the time of their lives, however.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511ee8b6d970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a511ee8b6d970c.jpg)
 
 Legoland plans its topiary quite well. The buffalo are a clever mix of shrub and Legos--just the right balance between maintenance costs and lifeless plastic.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73df9c618970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73df9c618970d.jpg)
 Next is a picture of a Lego beaver swimming in the stream. Caltech pride.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73df9c6c0970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73df9c6c0970d.jpg)
 An ice cream Lego set? ...to teach children about computation and permutation when they make sundaes and ice cream cones for their friends, of course.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd3eb8c0970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd3eb8c0970b.jpg)
 They also give kids practice for climbing banana trees. I mean, "banana trees." The tree is clearly fake. How like a monkey is a human, squirreling up that plastic, the stationary watcher observes.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd3eb931970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd3eb931970b.jpg)
 As for what there is actually to see at Legoland, what is meant by park officials to be seen by the visiting public, this is a portion of the mini Lego world. On the top, the new Star Wars exhibit that wasn't here in my time (Episode II, Attack of the Clones, Battle in the Arena); and on the bottom, mini Las Vegas (the Luxor Hotel, with its nice pyramid and sphinx).
 
 We went on this extremely slow, tomb-raider themed shooting ride; a spinning ride that at Disneyland is shaped like teacups and at Legoland is shaped like Bionicle building blocks; and the Technicoaster, the one legitimate roller coaster the park presents. My childhood favorite, the Dragon roller coaster, had a pretty long line, so we did not attempt a second roller coaster ride.

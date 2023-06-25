@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yubo
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dee8905970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01a73dee8905970d.jpg
 title: Listened to an Opportunity meeting! And to Morgan Freeman! 
 categories: [research]
 status: Publish
@@ -17,7 +17,7 @@ This is certainly one of the coolest things (and most important things) to keep 
 
 But now it is Friday, and what happened today pales in comparison to a simple opportunity meeting. Today JPL was paid a special visit by none other than Morgan Freeman, God himself. I just decided to go straight to the auditorium upon arriving, because I knew there would be a huge line that would make getting a seat difficult. It turned out that they started turning people away from the building entirely, even from the overflow auditorium. I managed to get into a seat right in the middle of the main auditorium, though not particularly in the front
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511e47852970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a511e47852970c.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd34c144970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd34c144970b.jpg)

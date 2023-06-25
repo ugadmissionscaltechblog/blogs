@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-08-22T17:28:41.000+00:00
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/rahul/IMG_9887.JPG
+image: /images/2022/rahul/IMG_9887.JPG
 tags: []
 title: The DEFINITIVE Caltech Study Spots Ranking
 author: rchawlani
@@ -21,7 +21,7 @@ Moore Courtyard, Bechtel Study Rooms, Avery Conference Room, Page Lounge
 
 5\. Outside Red Door
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/rahul/IMG_9983.JPG)
+![](/images/2022/rahul/IMG_9983.JPG)
 
 Environment: 8
 
@@ -35,7 +35,7 @@ Simply put, the classic outdoor study space at Caltech. The environment is great
 
 4\. Moore Subbasement
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/rahul/IMG_9887.JPG)
+![](/images/2022/rahul/IMG_9887.JPG)
 
 Environment: 7
 
@@ -49,7 +49,7 @@ As an Electrical Engineering major, my love and hate for the Moore Subbasement b
 
 3\. Broad Cafe
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/rahul/IMG_9979.JPG)
+![](/images/2022/rahul/IMG_9979.JPG)
 
 Environment: 8
 
@@ -75,7 +75,7 @@ The SAC, or Student Activities Center, is located directly under the South House
 
 1. Top Floor of Caltech Hall
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/rahul/IMG_9980.JPG)
+![](/images/2022/rahul/IMG_9980.JPG)
 
 Environment: 9
 

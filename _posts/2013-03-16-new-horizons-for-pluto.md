@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ariel O'Neill
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d41b2ec97970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017d41b2ec97970c.jpg
 title: New Horizons for Pluto
 categories: [research]
 status: Publish

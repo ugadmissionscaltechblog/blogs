@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/images/2022/arielle/B9013C46-2357-434E-8D3E-D3E57B248520.jpeg
+image: /images/2022/arielle/B9013C46-2357-434E-8D3E-D3E57B248520.jpeg
 tags: []
 title: Admissions Reflections
 author: Arielle Tycko

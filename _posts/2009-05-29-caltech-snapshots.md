@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Tyler Hannasch
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01156facb31d970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01156facb31d970c.jpg
 title: Caltech Snapshots
 categories: [culture]
 status: Publish

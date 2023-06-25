@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d2ca296b970c-pi.jpg
+image: /old_images/6a01b8d28f2955970c01b8d2ca296b970c-pi.jpg
 title: Happy Holidays!
 categories: [research]
 status: Publish
@@ -19,12 +19,12 @@ I am looking forward to ringing in the new year with friends and family next wee
 My kitty, Clementine, celebrating her first (White!!) Christmas.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09e2ebd3970d-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01bb09e2ebd3970d-pi.jpg)
 
 Chanukah/ birthday flowers!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d2ca297f970c-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01b8d2ca297f970c-pi.jpg)
 
 My dog enjoying his two new toys: the pickle I got him, and a reindeer my parents got him.
 

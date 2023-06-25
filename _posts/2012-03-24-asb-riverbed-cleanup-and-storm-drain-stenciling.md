@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Catherine Xie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168e918632c970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0168e918632c970c.jpg
 title: ASB Day 3
 categories: [local]
 status: Publish
@@ -17,14 +17,14 @@ Monica pointed out many of the native and non-native plants. For instance, some 
 In the afternoon after lunch, we drove to the offices of "I love a Clean San Diego" and picked up our painting kits in order to stencil local storm drains in order to prevent sotmr water pollution. We used paint to stencil a message on the curb of a storm drain that says "NO DUMPING GOES TO OCEAN/ NO TIRAR BASURA LLEGA AL MAR."
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01630322caf8970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01630322caf8970d.jpg)
 Storm drain stenciling is effective in educating the public about the connection between local waterways and the ocean. Apparently, about 80% of litter and pollutatst in the ocean originates from inland areas and not from beach-goers and is washed down to the ocean through storm drains and waterways. Even though the water from homes goes through sewer treatment to be treated, the trash, runoff, and debris along streets and outdoor areas that enters the storm drain system travels untreated to waterways beaches and the ocean. Ocean polluntants threatens and endangers wildlife, threatens human health and quality of life.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01630322cc6c970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01630322cc6c970d.jpg)
 Thus, we walked around downtown San Diego stenciling the signs on the curbs next to storm drains using our painting kits. In the beginning we actually used too much paint onto the stencil but we learned that we had to dab for the letters to come out more clearly.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01630322cd26970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01630322cd26970d.jpg)
   Today, we gained perspective of how the environment provides invaluable resources for us. Therefore, it is our duty to not only be conscious of the impact of our own actions and protect the environment, but also make other people aware in preventing detrimental effects to our natural world.
 

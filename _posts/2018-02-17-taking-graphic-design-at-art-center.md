@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2d8d745970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2d8d745970c.jpg
 title: Taking Graphic Design at Art Center
 categories: [research]
 status: Publish
@@ -19,4 +19,4 @@ On the first day, we talked about different types and usages of graphic design. 
 
 We were also introduced to our next project, a typography project! The goal is to find hidden letters in our everyday world, correspond those letters to actual fonts, and form a four letter word with them. I'll talk about it more in a following post, once I've completed the project :)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09f1d6f6970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09f1d6f6970d.jpg)

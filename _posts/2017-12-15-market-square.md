@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2c1cb0a970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2c1cb0a970c.jpg
 title: Market Square
 categories: [global]
 status: Publish

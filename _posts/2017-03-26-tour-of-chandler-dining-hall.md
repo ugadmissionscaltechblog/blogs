@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8e010bb970b-pi.jpg
+image: /old_images/6a01bb08213082970d01b7c8e010bb970b-pi.jpg
 title: Tour of Chandler Dining Hall
 categories: [culture]
 status: Publish
@@ -13,32 +13,32 @@ Learn about all the different dining options at Chandler Dining Hall! Chandler i
 Vegetarian station
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8e010d8970b-pi.jpg)
+![](/old_images/6a01bb08213082970d01b7c8e010d8970b-pi.jpg)
 
 Comfort food and sides (right) and latin bar (near the top left)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb098348b5970d-pi.jpg)
+![](/old_images/6a01bb08213082970d01bb098348b5970d-pi.jpg)
 
 Salad bar
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb098348c3970d-pi.jpg)
+![](/old_images/6a01bb08213082970d01bb098348c3970d-pi.jpg)
 
 Sushi station (my favorite!)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb098348d8970d-pi.jpg)
+![](/old_images/6a01bb08213082970d01bb098348d8970d-pi.jpg)
 
 Sandwich and salad deli (left) and daily specials (right)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb098348f8970d-pi.jpg)
+![](/old_images/6a01bb08213082970d01bb098348f8970d-pi.jpg)
 
 Mongolian BBQ station - make your own bowl, choose your own meat, and they cook your meal in front of you!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8e01175970b-pi.jpg)
+![](/old_images/6a01bb08213082970d01b7c8e01175970b-pi.jpg)
 
 Grill station (hamburgers, hot dogs, fish and chips, etc.)
 

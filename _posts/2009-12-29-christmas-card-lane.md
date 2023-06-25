@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01287689c82a970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01287689c82a970c.jpg
 title: Christmas Card Lane
 categories: [culture]
 status: Publish
@@ -14,4 +14,4 @@ Christmas Card Lane is a holiday light display that snakes through a bunch of re
 So if you're ever in SD during the holiday season...definitely see it---it's up usually right after Thanksgiving until New Year's!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01287689cadd970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01287689cadd970c.jpg)

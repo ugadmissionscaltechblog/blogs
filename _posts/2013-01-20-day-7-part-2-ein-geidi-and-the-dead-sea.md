@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Katie Fisher
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3583f7ac970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017c3583f7ac970b.jpg
 title: Day 7, part 2
 categories: [global]
 status: Publish
@@ -40,7 +40,7 @@ You could actually just float around a read a book or something for as
 long as you like.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c34dc0ea8970b017d3fbe31e8970c-800wi.jpg)
+![](/old_images/6a017c34dc0ea8970b017d3fbe31e8970c-800wi.jpg)
 Just floatin'
 Our last
 trip of the day was to Jerusalem for New Year’s Eve. We all went downtown around 10pm and hung out

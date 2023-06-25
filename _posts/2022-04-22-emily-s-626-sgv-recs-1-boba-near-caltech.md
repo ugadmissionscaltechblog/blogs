@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/emily/boba-twinkle.png
+image: /images/2022/emily/boba-twinkle.png
 tags: []
 title: 'Emily''s 626/SGV Recs #1: Boba Near Caltech'
 author: Emily Du
@@ -21,7 +21,7 @@ So, starting with the Lake St. locations:
 **Twinkle Tea**: Probably the best tea shop on Lake, and about a 15-20 minute walk from campus. They offer a student discount if you show your ID, and they have specials, where the drinks are priced at $2.99. It’s on the sweeter side but my go-to when I don’t want to drive for boba. I usually go for chrysanthemum milk tea or osmanthus oolong milk tea, with 50% sugar.
 
   
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/emily/boba-twinkle.png)
+![](/images/2022/emily/boba-twinkle.png)
 
 **Panda Tea Bar**: This is where I used to go when I really wanted milk tea, before Twinkle Tea opened. Its name is actually Panda Express + Tea Bar, and I had never expected it, but they make a pretty classic milk tea.
 

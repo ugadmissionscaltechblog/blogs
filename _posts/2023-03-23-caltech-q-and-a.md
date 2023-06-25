@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-03-23 19:44:26 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/imagesimages/2023/JPolansky/bird.png
+image: /imagesimages/2023/JPolansky/bird.png
 tags: []
 title: caltech q and a
 author: jpolansk
@@ -11,7 +11,7 @@ categories:
 ---
 In order to get a good sense of the Caltech community, there is no better way than to talk to the students themselves. To give a little bit of an inside perspective of Caltech, I asked some students a variety of questions. Questions ranged from conspiracy theories to Caltech-specific takes and other random topics.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2023/JPolansky/bird.png)
+![](/images/2023/JPolansky/bird.png)
 
 **Are birds real?**
 
@@ -25,7 +25,7 @@ In order to get a good sense of the Caltech community, there is no better way th
 8. “No. Duh. In an era of drones and surveillance do you really think that birds exist? No. Birds are government-controlled spy drones.” – DA
 9. “I mean I know where you're going with this but I won’t ask you to define real. Are birds physical objects that we see and exist in some form? Are birds actually animals vs. government drones? That I don't know, probably not. I've eaten enough chicken in my life for that to be unlikely. I’m well aware of the birds aren't real conspiracy. Maybe birds that don't fly are real. In the meta sense, birds are an illusion in the way that everything else we perceive is an illusion. There’s no way to know if we really exist or the world outside your perception exists. If a bird flies away out of your sight, is it still real?” – MG
 
-   ![](https://d24slhcvzhzz82.cloudfront.net/images/2023/JPolansky/scales.png)
+   ![](/images/2023/JPolansky/scales.png)
 
 **Would you rather only eat Red Door Turkey Bacon Avocado sandwiches for the rest of your life or go vegan permanently?**
 
@@ -48,7 +48,7 @@ In order to get a good sense of the Caltech community, there is no better way th
 5. “Green. I like it. It's not my favorite color, which is blue, but I like green stuff.” – VN
 6. “I guess black. You can do a lot with black. I feel that any garments or bodily adornments can work with black. It’s a very neutral color. It doesn't clash with anything. Since you can’t get creative with the colors, you can get creative with the shapes.” – MG
 
-   ![](https://d24slhcvzhzz82.cloudfront.net/images/2023/JPolansky/lizard.png)
+   ![](/images/2023/JPolansky/lizard.png)
 
 **Is Mark Zuckerberg a lizard?**
 
@@ -61,7 +61,7 @@ In order to get a good sense of the Caltech community, there is no better way th
 7. “Yes. He has this blank stare in his eyes. Reptilian.” – VN
 8. “Define is. Ok yes. I mean, it’s like the difference between == and the ‘is’ keyword in Python. Mark Zuckerberg == maybe not, Mark Zuckerberg is, maybe not.” – MG
 
-   ![](https://d24slhcvzhzz82.cloudfront.net/images/2023/JPolansky/DFA74C60-8948-438E-B6E8-36758E9B5C61_4_5005_c.jpeg)
+   ![](/images/2023/JPolansky/DFA74C60-8948-438E-B6E8-36758E9B5C61_4_5005_c.jpeg)
 
 **Do aliens exist?**
 
@@ -87,7 +87,7 @@ In order to get a good sense of the Caltech community, there is no better way th
 4. “I was just thinking about this. I like psi (ψ). I’m in Phys 12b Quantum right now and we deal with a lot of psis.” – MG
 5. “Capital lambda (Λ). I like how symmetric and cleanly shaped the design is.” – VN
 
-   ![](https://d24slhcvzhzz82.cloudfront.net/images/2023/JPolansky/evil.png)
+   ![](/images/2023/JPolansky/evil.png)
 
 **What’s your opinion on the Caltech squirrels?**
 
@@ -108,7 +108,7 @@ In order to get a good sense of the Caltech community, there is no better way th
 5. “I like donuts. Touri are cool. They have interesting properties. Imagine if you had a planet that was taurus-shaped and somehow did not collapse under its own gravity. That’d be a cool place to live.” – MG
 6. “Icosahedron. Cause it's got 20 sides and a bunch of triangles. That's pretty cool. And it's a platonic solid, which is also pretty cool.” – AA
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2023/JPolansky/triangle.png)
+![](/images/2023/JPolansky/triangle.png)
 
 **Is the Bermuda Triangle real?**
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yang Hu
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b014e8b4ea2c5970d-800wi.jpg
+image: /old_images/6a0105349b8251970b014e8b4ea2c5970d-800wi.jpg
 title: Flashback
 categories: [research]
 status: Publish
@@ -28,24 +28,24 @@ UCLA was a very pretty campus (even though it was not as gorgeous as Caltech). H
 There are several museums on the campus with people standing at each display/artifact. That must be a really boring job to have to stand in the same room for the whole day with few if any people touring the facility and no TV or Internet to use.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0154352e5c47970c-800wi.jpg)
+![](/old_images/6a0105349b8251970b0154352e5c47970c-800wi.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b014e8b4ea85e970d-800wi.jpg)
+![](/old_images/6a0105349b8251970b014e8b4ea85e970d-800wi.jpg)
 After touring the campus, we finally got our temporary dorm rooms. Then, we followed up with a few Amgen activities, which included an ice-breaker socializing event, where we found out about the incredible achievements of like-minded students from different universities. Several of the people I talked to had already published several papers as undergrads. One even had 10 published and was first author on two of them. That's really impressive!
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0154352e648b970c-800wi.jpg)
+![](/old_images/6a0105349b8251970b0154352e648b970c-800wi.jpg)
 Next, we got seated in UCLA's largest rooms at tables, where we would have dinner that evening. Before that however, the program sponsors got up and gave a brief introduction. There were several other scientists, who gave talks about research and Amgen's goals as well as the goals of the program. Students were invited to ask questions and each school had a "shout-out" when their names were introduced.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0153915ae20b970b-800wi.jpg)
+![](/old_images/6a0105349b8251970b0153915ae20b970b-800wi.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b014e8b4eb512970d-800wi.jpg)
+![](/old_images/6a0105349b8251970b014e8b4eb512970d-800wi.jpg)
 Here's the podium from which the presenter gave his talks. Here's Jordan again.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0154352e6dc9970c-800wi.jpg)
+![](/old_images/6a0105349b8251970b0154352e6dc9970c-800wi.jpg)
 After dinner and speeches and talk about each student's research at the round tables, the group disbanded momentarily and made preparation for the next activity.
 
 **NEXT UP: Games and FUN and a trip to downtown LA!**

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d290be5f970c-800wi.jpg
+image: /old_images/6a0105349b8251970b01b8d290be5f970c-800wi.jpg
 title: Pool Party? 
 categories: [culture]
 status: Publish

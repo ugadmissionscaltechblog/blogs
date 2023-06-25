@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Giordon Stark
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0147e1b0ffb9970b.png
+image: /old_images/6a0105349b8251970b0147e1b0ffb9970b.png
 title: Dinosaurs, Curiosity, and Mandelbrot 
 categories: [research]
 status: Publish
@@ -28,10 +28,10 @@ The next/last big event of the week is Ruddock OPI: Day 0. (the computer scienti
 This year's theme is Jurassic Park - we'll be taking ideas and situations from Jurassic Park 1,2, and 3. But first, have a look see at our plans...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7ba5c7f970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7ba5c7f970c.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7ba5d15970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7ba5d15970c.jpg)
 This is a 3D view from the North-West corner of the party. As you can see, there is a series of elevated platforms around the party with a ramp connecting the bottom dance floor to the top. The gate is prominent in the top-right, a jeep on the right (the big light-green building is the wood shed, we keep all of our wood in there). On top of this wood shed, Andrew Gong (a Rudd) mounted a camera to take pictures constantly to create a timelapse video - more on this later. Finally you can see the electric fence that we plan to build (don't worry, it's a fake one! Caltech would never let us build a real one....)
 
 We have some surprises planned in store that you can't see from these images. For example, we're planning on getting plexiglass so we can create a waterfall from the roof over the elevated platform so you can walk under a waterfall at the party! We're also building a couple of dinosaurs, including a T-Rex which will have broken through the fake electric fence and perhaps a fake bathroom stall (like in Jurassic Park 1). Most of these details are still in the mix and will be further solidifed and agreed upon as we get closer to the date of the party.
@@ -42,31 +42,31 @@ So "what's a timelapse?" you might ask. Well, I'm glad you asked! It's a series 
 
 Over the course of 9 weeks, this whole party was built - you can also observe how fast clouds move, how rain .. rains, and how things seem to just 'pop-up' out of nowhere if accelerated fast enough. So without further ado (or many more words), here's a photo montage of the first two days of construction!
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b13905970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b13905970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7ba7558970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7ba7558970c.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b13ebc970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b13ebc970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7ba7a96970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0148c7ba7a96970c.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b14200970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b14200970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b1444b970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b1444b970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b14e97970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b14e97970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b156c4970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b156c4970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b15bef970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0147e1b15bef970b.jpg)
 
 
 Join me next time when I'll talk about all things related to Stephen Hawking, including singing him 'Happy Birthday' in person! Meanwhile, Construction will still be going on - I'll update you about that, and we'll have more events at Caltech to blog about in the meantime. As always, if you have any questions or you want me to talk about something within the blog, just post a comment!

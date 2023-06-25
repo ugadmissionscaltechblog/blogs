@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Katie Brennan
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0154364a1f40970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0154364a1f40970c.jpg
 title: Ancient Egypt in London
 categories: [global]
 status: Publish
@@ -16,4 +16,4 @@ This statue is where we meet at the beginning of class:
 Lecture in the Hall of Enlightenment:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162fbcbd91e970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0162fbcbd91e970d.jpg)

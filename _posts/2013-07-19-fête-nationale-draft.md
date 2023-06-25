@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Valère Lambert
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901e43964d970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01901e43964d970b.jpg
 title: Fête Nationale... 
 categories: [research]
 status: Publish
@@ -16,6 +16,6 @@ As for the rest of the weekend, Cedric and I did take advantage of the July sale
 After finishing up at the centre commerciale we headed into the city center where there was a festivale going on by the lake. We decided to walk along the river away from the lake to la Jonction, the point where the Rhône and Arve rivers meet. It's really cool because one is really blue and has this crystal clear look whereas the other is a murky brown. When the two converge you see this blending of the two together and some of the colors swirling in some areas.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac02deb7970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac02deb7970d.jpg)
 So anyways, that's the great adventure that was my weekend. On the plus side it was quite productive so we shall see if this next week will be more tame. It's always nice to see some progress on one's work.
 

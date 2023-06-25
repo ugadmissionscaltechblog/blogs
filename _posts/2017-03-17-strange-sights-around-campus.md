@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anita
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d267f85f970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b8d267f85f970c.jpg
 title: Strange Sights Around Campus
 categories: [research]
 status: Publish
@@ -16,43 +16,43 @@ The filming of the show "Silicon Valley"...
 Fireworks set to music, a la Disneyland...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d268006e970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d268006e970c.jpg)
 Bill Gates giving a talk...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d267ffd4970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d267ffd4970c.jpg)
 Some of the smartest science and engineering students in the world utilizing their technology...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a019b0005f8ce970d01bb0980d6d8970d-pi.jpg)
+![](/old_images/6a019b0005f8ce970d01bb0980d6d8970d-pi.jpg)
 Bajillion-dollar gem collections that should really be put in museums...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a019b0005f8ce970d01b8d267fffc970c-pi.jpg)
+![](/old_images/6a019b0005f8ce970d01b8d267fffc970c-pi.jpg)
 The manifestations of the midnight hunger pangs of a senior physics majorand self-taught chef...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8dda18d970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8dda18d970b.jpg)
 Homemade rope swings...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a019b0005f8ce970d01bb0980d6ed970d-pi.jpg)
+![](/old_images/6a019b0005f8ce970d01bb0980d6ed970d-pi.jpg)
 Students casually making mechanized wheelchairs for their collaboration projects with undergrads at the Pasadena Arts Center...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a019b0005f8ce970d01b8d2680017970c-pi.jpg)
+![](/old_images/6a019b0005f8ce970d01b8d2680017970c-pi.jpg)
 Examples of the truest roommate friendship there could possibly be...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a019b0005f8ce970d01b8d2680025970c-pi.jpg)
+![](/old_images/6a019b0005f8ce970d01b8d2680025970c-pi.jpg)
 A horse-drawn carriage hired for a wedding...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0980d710970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0980d710970d.jpg)
 And really intricate objects printed by our 3D-printing lab...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a019b0005f8ce970d01b8d268003b970c-pi.jpg)
+![](/old_images/6a019b0005f8ce970d01b8d268003b970c-pi.jpg)
 Many different sights to showcase truly impressive collaborations with the outside world, as well as Techers having their silly, everyday fun! I love how college lets us experience both.
 
 I think the biggest life moral I've learned from my time at Caltech is to embrace whatever magic--big or small, personal or worldly, formal or informal, planned or unplanned, practical or just darn cool--comes my way. Growing into adulthood contains a lot of paradoxes and dualities, and it is easy to get bogged down in change or to adapt to change so well that you lose part of yourself. But keeping an eye, always, on the bigger picture and taking the time to appreciate the good parts of both the mundane and the exciting are what, I'm starting to see, keeps life worth living, no matter what age you are.

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09c19e42970d-pi.jpg
+image: /old_images/6a01b8d28f2955970c01bb09c19e42970d-pi.jpg
 title: From Canyon to Peak
 categories: [research]
 status: Publish
@@ -24,32 +24,32 @@ My snowman! His eyes are a little lopsided, but I tried my best!
  That day, we enjoyed two hot meals, one for lunch and one for dinner. Afterwards, we went right to sleep, as we were planning to get up at 4:30 AM.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b7c91e68d0970b-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01b7c91e68d0970b-pi.jpg)
 
 The view of Death Valley below us after we climbed up 700 ft in .8 miles.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d2a8d00e970c-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01b8d2a8d00e970c-pi.jpg)
 
 The horses!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b7c91e68e4970b-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01b7c91e68e4970b-pi.jpg)
 
 Selfie with some snow :)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d2a8d026970c-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01b8d2a8d026970c-pi.jpg)
 
 A little marmot on the snow!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09c19eb5970d-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01bb09c19eb5970d-pi.jpg)
 
 The view from our campsite.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d2a8d075970c-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01b8d2a8d075970c-pi.jpg)
 
 Relaxing on a rock with my feet in the water.
 

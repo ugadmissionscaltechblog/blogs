@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09d65549970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb09d65549970d.jpg
 title: College Formals
 categories: [culture]
 status: Publish

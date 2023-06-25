@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019104c7658e970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b019104c7658e970c.jpg
 title: Applesauce oatmeal chocolate chip cookies 
 categories: [research]
 status: Publish
@@ -17,10 +17,10 @@ tried to take them off the foil. But after letting them cool for a few
 minutes, they held together well and tasted very good.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01901ed177fc970b-320wi.jpg)
+![](/old_images/6a0105349b8251970b01901ed177fc970b-320wi.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901ed1782f970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01901ed1782f970b.jpg)
 I forgot to halve the recipe, so ended up with 3-4 dozen bite-size 
 cookies. It's easy to get rid of cookies, though. Often when people bake
  too many cookies or other sweets, they leave some of them out in the 

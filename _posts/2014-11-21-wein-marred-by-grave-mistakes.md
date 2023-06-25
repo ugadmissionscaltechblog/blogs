@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yubo
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07a8bbed970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb07a8bbed970d.jpg
 title: Wein, marred by grave mistakes 
 categories: [research]
 status: Publish
@@ -31,6 +31,6 @@ The next day was also a lazy start, and here again I made a mistake. I'd realize
 
 I then went to the Hofburg palace, or so I thought. In reality, as I later found out, I missed the bulk of the palace, the actually noteworthy part and the only part I was prepared to pay to enter. Instead I turned back early and headed over to the Beldevere palace, which housed beautiful, FREE gardens. Very important for me.Then, after a brief stint on the Ferris Wheel (one of those "You have to try it and then you'll complain" things) I headed over to the Schonbrunn Palace, what I believe was the summer residence of the Hofsburgs. I also did not go in here, but I got again to see the gardens, which apparently rival Versailles'. See for yourself!
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d08d797f970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d08d797f970c.jpg)
 Basically, my trip to Vienna was heavily marred by the time I wasted at Zentralfriedhof (not that Zentralfriedhof was a waste of time, not even close, but I lost a lot of unnecessary time there). If I could do this again, I'd go to more concerts and spend more time at the palaces, which really reflect what Vienna's role in the Austrian-Hungary empire was.
 

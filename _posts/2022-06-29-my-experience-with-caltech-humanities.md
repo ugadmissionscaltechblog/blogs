@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-06-29T04:36:18.000+00:00
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/julian/fork_in_the_road.jfif
+image: /images/2022/julian/fork_in_the_road.jfif
 tags: []
 title: My Experience with Caltech Humanities
 author: jmillan
@@ -13,11 +13,11 @@ I can still recall the day college admissions results were released in the sprin
 
 Contrary to the typical stereotype of a Caltech student, humanities were a big issue for me in deciding where to go to school. While many of my peers (somewhat understandably) may moan and groan about the humanities requirements here at Caltech, I was looking to take _more_. One of my greatest passions lies in the humanities. In college, I wanted to take as many courses as possible about music and maybe even get a degree in it. The heavy STEM nature of Caltech was off-putting; were there going to be enough classes for me to take in music? For a degree? Would I even be able to learn about it in any capacity? I knew Columbia had the resources. A much bigger school with many departments and a wider focus will tend to have them. I was torn between going all in on my major, mechanical engineering, or branching out and pursuing more opportunities. It felt like I was facing this unforgiving fork in the road, two options that were polar opposites. Picking one would forgo all that the other had to offer. However, things weren’t as dire and simple as that.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/julian/fork_in_the_road.jfif)
+![](/images/2022/julian/fork_in_the_road.jfif)
 
 I talked to a lot of my peers in discord servers for both Caltech and Columbia. I expressed my concerns, namely that I would be lacking humanities at Caltech and engineering at Columbia. I received strong reassurance from both sides. Deep down, I knew I couldn’t go wrong. I mean, I was choosing between Caltech and Columbia University for crying out loud! I soon came to realize that I wouldn’t be missing out completely on something if I chose a school. In the end, both schools have plenty to offer and are fairly well rounded. Well then, how did I come to a decision? Honestly, the decision process for me involved several other factors. In the end, all these factors pushed me to choose Caltech, and I haven’t regretted it since.
 
-!\[\](https://d24slhcvzhzz82.cloudfront.net "https://d24slhcvzhzz82.cloudfront.net"/images/2022/julian/happy_cat.jpg)
+!\[\]( ""/images/2022/julian/happy_cat.jpg)
 
 \--> Me: Happy with my decision.
 

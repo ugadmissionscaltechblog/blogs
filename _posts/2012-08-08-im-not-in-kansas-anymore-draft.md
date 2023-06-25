@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Brad Chattergoon
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b017616b7dc45970c-800wi.jpg
+image: /old_images/6a0105349b8251970b017616b7dc45970c-800wi.jpg
 title: I'm not in Kansas anymore...
 
 categories: [culture]

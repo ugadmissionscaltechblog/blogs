@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-07-16 04:35:58 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/roy/Screen Shot 2022-07-06
+image: /images/2022/roy/Screen Shot 2022-07-06
   at 6.18.25 AM.png
 tags: []
 title: American Units of Measurement (As an International Student)

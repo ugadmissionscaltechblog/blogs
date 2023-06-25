@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d0224df2e02d9200b-pi.jpg
+image: /old_images/6a01bb09a3c88f970d0224df2e02d9200b-pi.jpg
 title: Blacker Pop-Up Restaurant
 categories: [culture]
 status: Publish

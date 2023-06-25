@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Spiszkiewicz
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b016769148b9b970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b016769148b9b970b.jpg
 title: Happy Birthday! 
 categories: [culture]
 status: Publish
@@ -16,18 +16,18 @@ This last week, a group of us went to dinner at[Sakura](https://sakurasteakhouse
 If you weren't paying attention when your chef walked out, you are certainly paying attention after feeling the heat wave from that! The chefs perform all sorts of tricks with your food while they're cooking it, most of which I was unfortunatelyunable to capture in pictures, although I did capture more fire in the form of this onion volcano.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017743efa84f970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017743efa84f970d.jpg)
 If you're at Sakura for your birthday, they also bring out a free slice of cake for you before you leave and let you ring the gong.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01676914908e970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01676914908e970b.jpg)
 When we got back to campus, we had cake provided by Caltech Dining Services. Parents can contact Caltech Dining Services at any time of the year and have them make a cake for their student's birthday or for other special occaisions.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0167691498f7970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0167691498f7970b.jpg)
 And this cake is not a lie.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017743efb129970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017743efb129970d.jpg)
 Happy Birthday Brent!
 Pixie

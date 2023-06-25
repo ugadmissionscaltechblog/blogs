@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Vansh Kumar
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019104d71672970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b019104d71672970c.jpg
 title: Architecture, Science, and Alternative Energy
 categories: [research]
 status: Publish
@@ -20,13 +20,13 @@ Abellon (https://www.abelloncleanenergy.com/) is a company that focuses on provi
 On the way to Abellon's solar panel array and bamboo forest, we had a very interesting discussion with our guide, an Abellon employee. I chose to ride in his car, along with Brian Brophy (Caltech's premier figure in theater) and Ramesh (an IIT student), instead of the bus. We talked about many of the problems that plague India, including electricity, many people not paying taxes, corruption, education, and India's social structure. It was, to some degree, an eye-opening discussion, as I learned some of the hard facts about problems that I have known about for quite some time now. We discussed the best way to solve some of these issues, and though we didn't come to an agreement (of course), it was a wonderful discussion and a great way to spend the about 2 hour drive to the site.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192aca08351970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0192aca08351970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901ee134f6970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01901ee134f6970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901ee13547970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01901ee13547970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019104d71f2a970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b019104d71f2a970c.jpg)
 
 Above are images of the actual Abellon site – the first picture is the solar panel array that the company is still expanding. The second picture shows the actual bamboo forest that Abellon has grown. The point of the bamboo forest is to have a no net emissions source of fuel; they grow the bamboo themselves on the tough soil, sell it to power companies to burn, and therefore the total net emissions is zero. The third picture shows where the "baby" bamboo plants are initially taken care of. It was an interesting concept, and it was definitely nice to see India moving towards renewable energy. The fourth picture shows one of our IIT friends, Durgesh.
 

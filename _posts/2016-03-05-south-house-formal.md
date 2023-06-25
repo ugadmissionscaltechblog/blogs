@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sakthi Vetrivel
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b7c80685b6970b01bb08c0eb66970d-pi.jpg
+image: /old_images/6a01b7c80685b6970b01bb08c0eb66970d-pi.jpg
 title: South House Formal 
 categories: [culture]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Account Deleted
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e6118acdc970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b014e6118acdc970c.jpg
 title: Caltech Y Friend's Dinner
 categories: [global]
 status: Publish
@@ -20,12 +20,12 @@ The talk was really cool! I learned a lot about AIDS. I always thought AIDs was 
 Mr. Kolker showed a world map describing the new cases of HIV/AIDs in each country per year and color-coded to show which had decreasing new cases per year, which had a steady amount of new cases per year, and which had more cases per year. In sub-Saharan Africa, the amount of cases per year was generally going down. In the US, India, the former Soviet Union and other developed countries, the number of cases was remaining steady.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e61033b1d970c.gif)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b014e61033b1d970c.gif)
 Why were the rates in these countries steady? You would think countries like the US, european countries, and India would have the resources to decrease the new amount of HIV infections each year. Mr. Kolker said that it was becase we have stigmatized populations. In the US, for example, many new HIV infections are drug users. If drug users go for treatment, they are looked down upon. There are potential legal consequences. The same goes, in other countries, for men who have sex with men {incidentally, he said that many of the HIV cases studied where men presumably had sex with men as the cause of transmission were by men who also had female partners and were often married}.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01538e048d01970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01538e048d01970b.jpg)
 The talk was really cool, and people asked very interesting questions afterward. On Friday, the day after the talk, Mr. Kolker also had a discussion with a bunch of students (me included :)) about our questions about HIV and what he does. At the end, we started talking about some of the work being done at Caltech against AIDs. One of the students at this talk is in a lab working on making mice with human immune systems. That way, she said, they could track AIDs movement in the mice and then, when they did get a rare human sample, know where to look. I don'tagree with this practice (mice abuse!!) but I understand why it is helpful with AIDs research. There's also other stuff going on, like the TedXCaltech video I put above showed.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e6118aea8970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b014e6118aea8970c.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ketaki Panse
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511c20090970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01a511c20090970c.jpg
 title: Skyping with Elizabeth Kolbert, author of The Sixth Extinction
 categories: [research]
 status: Publish

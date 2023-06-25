@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad35ec33f200c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b022ad35ec33f200c.jpg
 title: Uber Eats Food Festival
 categories: [culture]
 status: Publish
@@ -13,10 +13,10 @@ Uber Eats sponsored a food festival in the South Lake Union district of Seattle 
 We got this aesthetic lemonade in a mason jar :P
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c022ad3a49860200b-pi.jpg)
+![](/old_images/6a01b8d28f2857970c022ad3a49860200b-pi.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c022ad384d326200d-pi.jpg)
+![](/old_images/6a01b8d28f2857970c022ad384d326200d-pi.jpg)
 In addition to food vendors, there were people selling posters, postcards, jewelry, ceramics, and other art pieces. I bought a cute card from this store :)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad35ec343200c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b022ad35ec343200c.jpg)

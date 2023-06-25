@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Suzy
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d16d284e970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b8d16d284e970c.jpg
 title: Weekend at Tech 
 categories: [clubs]
 status: Publish

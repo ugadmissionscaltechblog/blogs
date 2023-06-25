@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-08-09 20:31:42 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/julian/Map_of_Pasadena.jfif
+image: /images/2022/julian/Map_of_Pasadena.jfif
 tags: []
 title: Transportation on Campus and Beyond
 author: jmillan
@@ -13,7 +13,7 @@ Transportation on Campus and Beyond
 
 Getting around Caltech’s roughly 120 acres of campus really isn’t much of a challenge at all. You have the main north side of campus that has all of the housing, most of the classes, and all of the eateries. It’s the bigger side, and traversing this part of campus between opposite ends via walking takes roughly 10 minutes, 15 max. The southern side of campus has some classes, the mailing offices, and all of the athletic facilities. It’s roughly another 10 minutes to traverse this fully. As you can see, it isn’t too bad as it is. However, bikes are allowed and you can store them relatively easily at your place of residence. Biking cuts your max travel time down to a few minutes. However, keep in mind that you’re going to have to keep track of it wherever you go. I prefer skateboarding as the board is easy to manage. It can be just as fast and much less of a hassle. When I bring it to class I can just stick it under my seat, and when not using it, store it in my room. Campus is small enough that things like public transportation and cars are really not needed to get around.
 
-[https://d24slhcvzhzz82.cloudfront.net/images/2022/julian/Map_of_Pasadena.jfif](https://d24slhcvzhzz82.cloudfront.net/images/2022/julian/Map_of_Pasadena.jfif)
+[/images/2022/julian/Map_of_Pasadena.jfif](/images/2022/julian/Map_of_Pasadena.jfif)
 
 _A map of the Pasadena area_
 

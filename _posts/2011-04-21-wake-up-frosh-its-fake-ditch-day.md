@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Theresa
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01538e02e710970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01538e02e710970b.jpg
 title: Wake Up Frosh, It's (Fake) Ditch Day! 
 categories: [culture]
 status: Publish
@@ -16,12 +16,12 @@ Today was a campus-wide fake Ditch Day, where seniors from all eight houses plan
 
 Here are some pictures from Fleming's Stacks:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e87f65532970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b014e87f65532970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01538e02e874970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01538e02e874970b.jpg)
 Whack-a-Monster: The Stack
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e87f658ee970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b014e87f658ee970d.jpg)
 Monster Pinata
 Eventually you'll get a post from me about actual Ditch Day. But until then... Go to bed (pre)frosh, Ditch Day is Tomorrow!

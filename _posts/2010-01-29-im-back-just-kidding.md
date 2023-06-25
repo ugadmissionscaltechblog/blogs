@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Andrew Freddo
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a826322c970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0120a826322c970b.jpg
 title: I'm Back!! ...just kidding
 categories: [research]
 status: Publish
@@ -15,11 +15,11 @@ Fortunately Wednesday was a much more chill day. No class, so I could prepare fo
 But wait? You may be asking why I'm "just kidding" about the being back. Well, because at 4 AM on Thursday I was picked up by the Super Shuttle to go to yet ANOTHER interview! Yup, after two days of school I was in the air again. I'm actually blogging right now from the warmth of my hotel room in COOOOOOLD Minnesota. I'm at the Mayo Clinic in Rochester. It's actually a "warm" winter right now. By warm I mean 30. Crazy, right!? Anyway, the Clinic is beautiful and it's a lot to take in. And everything's connected on the inside, so I didn't have to go outside, but I'll just say it's not the prettiest of days out there.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01287710a163970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01287710a163970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a80d93c9970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a80d93c9970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a80d966c970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a80d966c970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01287710aafd970c.jpg)Well, now I'm back at Tech for OVER THREE WEEKS! What am I going to do with myself? Go to school?! Yeah, I guess I will :P.
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01287710aafd970c.jpg)Well, now I'm back at Tech for OVER THREE WEEKS! What am I going to do with myself? Go to school?! Yeah, I guess I will :P.
 

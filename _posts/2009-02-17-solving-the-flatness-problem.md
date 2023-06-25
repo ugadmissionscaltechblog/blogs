@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kirit Karkare
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011278df23f328a4.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b011278df23f328a4.jpg
 title: Solving the Flatness Problem
 categories: [culture]
 status: Publish
@@ -21,7 +21,7 @@ shape of the courtyard into account when doing all of this. For
 reference, here's what our courtyard looks like with nothing in it:
  
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01116864dcc9970c.jpg)fantastic property of being curved. That's great for drainage, since all
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01116864dcc9970c.jpg)fantastic property of being curved. That's great for drainage, since all
 of the water will go towards the center and disappear pretty quickly, but it
 doesn't make a great dance floor. So we have to correct this by placing
 wooden dance floor platforms everywhere people will be walking, and level them
@@ -37,7 +37,7 @@ platforms that spans most of the courtyard. Afterwards, we cover them
 with OSB (oriented strand board, similar to plywood), paint it, and the dance
 floor is done! 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01116869b7f1970c.jpg) 
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01116869b7f1970c.jpg) 
 
 Well, that's not the whole story. We need to first determine the
 highest point of the courtyard that the dance floor will cover, place a
@@ -56,9 +56,9 @@ long and tedious, because we have to go from one corner of the courtyard to the
 other, cutting wood and hammering it in, over and over again. But once
 it's done, we have a level plane across the whole courtyard, which you see here!
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011278df242b28a4.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b011278df242b28a4.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01116869b853970c.jpg) 
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01116869b853970c.jpg) 
 
 On Saturday we finished up the dance floor, which meant it was time for the
 interesting construction to start. Over the last several weeks, we've put
@@ -72,7 +72,7 @@ complete! Now it's time to make things look good...
 
 Here's a view of everything we've got up so far. 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01116869b898970c.jpg) 
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01116869b898970c.jpg) 
 
 Next post: Construction is only half of OPI. See how much work Art has
 to put in!

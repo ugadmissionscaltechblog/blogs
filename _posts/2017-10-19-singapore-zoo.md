@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09cbe1f0970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb09cbe1f0970d.jpg
 title: Singapore Zoo
 categories: [global]
 status: Publish
@@ -14,18 +14,18 @@ What I liked most about the zoo was that many of the enclosures had the names of
 Inside, I saw a very large, sleepy looking polar bear named Inuka.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09cbe1fa970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09cbe1fa970d.jpg)
 Then, I met a family of otters that wandered into the orangutan enclosure, and then one of the orangutans started to try and scare them! It was pretty funny to watch.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09cbe20a970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09cbe20a970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2b328d2970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2b328d2970c.jpg)
 I also watched animals being fed in the safari area, including african painted dogs, lions, cheetahs, meerkats, giraffes, rhinos, and more.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2b328db970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2b328db970c.jpg)
 And I even stood in line with lots of small kids so that I too, could feed an elephant :)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c928bed9970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c928bed9970b.jpg)

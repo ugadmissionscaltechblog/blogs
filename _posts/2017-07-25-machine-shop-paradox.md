@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c90ad344970b-800wi.jpg
+image: /old_images/6a0105349b8251970b01b7c90ad344970b-800wi.jpg
 title: Machine Shop Paradox
 categories: [clubs]
 status: Publish
@@ -14,9 +14,9 @@ Machining is the biggest time sink. You would think a few cuts and holes would t
 This week for ME13, we learned to use a mill. First, we used a band saw to get a part down to roughly the right size. Then we used an end mill to clean off some faces of the part.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c90ad358970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c90ad358970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c90ad35c970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c90ad35c970b.jpg)
 
 *Mill (top), band saw (bottom)*
 
@@ -26,6 +26,6 @@ I also realized that machining makes me doubt my math abilities. Suddenly, decim
 This simple aluminum part that I milled took 2 hours. I have yet to put holes through it, but my patience has already expired for today.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d29527ac970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d29527ac970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d295279f970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d295279f970c.jpg)

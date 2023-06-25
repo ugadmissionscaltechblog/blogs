@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c92e23bc970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c92e23bc970b.jpg
 title: King's College
 categories: [global]
 status: Publish
@@ -12,17 +12,17 @@ On a beautiful sunny day, I walked through King's College! Luckily for me, I can
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2b89544970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2b89544970c.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b8d2b895d3970c-pi.jpg)
+![](/old_images/6a01b8d28f2857970c01b8d2b895d3970c-pi.jpg)
 
 King's land straddles the river, with a field of grazing cows behind it.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2b89502970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2b89502970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09d14e76970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09d14e76970d.jpg)
 
 Fun fact: it's said that if Corpus can manage to get King's cows back across the river and into Corpus Christi College, the field that they graze on will once again belong to Corpus as it used to.
 

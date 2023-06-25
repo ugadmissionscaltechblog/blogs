@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/hannah/IMG_1804%202.jpeg
+image: /images/2022/hannah/IMG_1804%202.jpeg
 tags: []
 title: Favorite Courses at Caltech
 author: Hannah Grauer
@@ -71,4 +71,4 @@ EE 045 Electronics Systems and Laboratory
 
 My favorite part was the final project were my partner and I made a music tuner! So it would tell you wether or not the sound was a certain frequency.  Below is part of my breadboard design for the project:
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/hannah/IMG_1804%202.jpeg)
+![](/images/2022/hannah/IMG_1804%202.jpeg)

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d7f3a1970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d7f3a1970b.jpg
 title: Food food food!
 categories: [local]
 status: Publish
@@ -16,20 +16,20 @@ On the one sunny day we did get, we headed into Old Pas to checkout out some fur
 After browsing, we stopped at Cool Haus for some ice cream! They are known for their funky flavors (many of which are infused with alcohol). I got a vegan red wine flavored acai sorbet, and he got...chicken and waffles flavored ice cream. Yeah...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d7f3d3970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8d7f3d3970b.jpg)
 I also stopped for an acai bowl (basically a smoothie in a bowl, topped with delicious stuff) at Nektar Juice bar, which is only a couple of blocks from campus.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d262547e970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d262547e970c.jpg)
 I later attempted to duplicate what I'd eaten once we were back on campus...judge for yourself!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d262547e970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d262547e970c.jpg)
 
 We also had the chance to bake a little bit. We made these caramel apple donuts with a new donut pan and a mix I picked up at Williams Sonoma's winter sale. I'm extremely excited to reuse this pan...I see many donuts in my future as a third-term senior taking only three classes.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d26254ba970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d26254ba970c.jpg)
 
 Luckily, we also took some time to eat on campus without any work. I used a free delivery credit on Instacart to get bagels, cream cheese, and lox delivered from Whole Foods (including lactose-free cream cheese, bless you Whole Foods), so we had a little outdoor brunch while it wasn't raining!
 

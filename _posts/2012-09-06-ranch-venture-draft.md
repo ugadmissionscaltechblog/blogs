@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Slwright13
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d3bd1add5970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017d3bd1add5970c.jpg
 title: Ranch-venture! 
 categories: [culture]
 status: Publish
@@ -14,21 +14,21 @@ It was awesome to get to see parts of the Texas country - definitely different t
 Here are some pictures!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c31a30d87970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c31a30d87970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01774480c8a7970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01774480c8a7970d.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01774480c82f970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01774480c82f970d.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01774480c7a2970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01774480c7a2970d.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c31a30b03970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c31a30b03970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01774480c4e3970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01774480c4e3970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01774480c5a0970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01774480c5a0970d.jpg)
 

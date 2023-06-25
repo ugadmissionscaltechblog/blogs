@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09aef400970d-pi.jpg
+image: /old_images/6a01b8d28f2955970c01bb09aef400970d-pi.jpg
 title: Grand Canyon Road Trip
 categories: [local]
 status: Publish
@@ -25,7 +25,7 @@ We finally made it to the top and headed for some dinner with a view. Nearby, I 
 The next day, we headed out, stopping in Flagstaff for a barbeque brunch (I had some of the best potato salad ever) and Phoenix for Whataburger (my friend from Texas missed it…although I am vegetarian, I did enjoy the free drinks). On the way out of Phoenix, we drove by one of my own personal paradise: mountainsides filled with Saguaro cacti! Cacti are one of my favorite types of plants—I even grow two of my own! I just love how different they are from basically any other plant I’ve seen; they’re almost like little desert hedgehogs with their spines. Fun facts about the cactus—it is the Arizona state flour, and in the state it’s a class 4 felony to cut one down. Despite it being nearly 110 degrees and parts of the asphalt on the road were melting, I made everyone stop so we could go up and touch one. It was amazing!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b7c90bbb96970b-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01b7c90bbb96970b-pi.jpg)
 
 Here I am with the Saguaro Cactus! It looks like it's growing its first arm, indicating it is probably over 75 years old!
 Nothing else that eventful happened on the way back to Tech. I did pick up some key limes in a huge, cheap grocery store (see what I did with them in my next post!). When we finally got back to Caltech, I was exhausted. We accomplished so much over those few days, and I had an amazing time doing so.

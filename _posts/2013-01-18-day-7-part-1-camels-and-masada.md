@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Katie Fisher
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c34dc0ea8970b017d3fb2b4a3970c-800wi.jpg
+image: /old_images/6a017c34dc0ea8970b017d3fb2b4a3970c-800wi.jpg
 title: Day 7, part 1
 categories: [culture]
 status: Publish
@@ -31,7 +31,7 @@ We also look pretty flippin' cool on camelback:
 Donkey riding!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3583da1a970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c3583da1a970b.jpg)
 
 Whoohoo, camels!
 After our camel ride, we left for Masada, the ancient
@@ -75,12 +75,12 @@ take a picture in the same place my mother did.
 Here’s the result:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3583df9a970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c3583df9a970b.jpg)
 
 And here's another view from the top:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3583eb10970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c3583eb10970b.jpg)
 
 That's the path we climbed up.
 

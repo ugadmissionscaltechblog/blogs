@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01bb09ff4a96970d-pi.jpg
+image: /old_images/6a01b8d28f2857970c01bb09ff4a96970d-pi.jpg
 title: Caltech Y Decompression
 categories: [global]
 status: Publish
@@ -15,4 +15,4 @@ During lunch, the Caltech Y dog was there to help advertise for the Y :)
 In the afternoon, there were puppies! There was also live music and food, but people were mostly gathered around for the puppies. They were so energetic and cute and so so small.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d2e653fc970c.jpg)
+![](/old_images/6a0105349b8251970b01b8d2e653fc970c.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anita
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b005b21e7970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b019b005b21e7970b.jpg
 title: Pre-Midterm Productivity, i.e. Hanging Out With the House
 categories: [culture]
 status: Publish
@@ -25,7 +25,7 @@ crayons I borrowed from a friend. (They are really good for color manipulation
 and I recommend this to anyone who is a kid, or at least partially a kid, on the inside.)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b005b748c970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b019b005b748c970d.jpg)
 
 We had Zombie Night tonight, during which Ruddock House dresses up as zombies
 and tries to break into Dabney. Of course, we did a house tour first of all the houses minus Avery, and banged
@@ -35,7 +35,7 @@ extended all the way to the wall on the other side. Eventually we broke in
 successfully and ate pizza together.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b005b756a970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b019b005b756a970d.jpg)
 
 Now, for me, it’s back to math instead of going to the Hollyween party.
 
@@ -45,7 +45,7 @@ because midterms fall right along then. It's good that Caltech keeps us entertai
 The consequences of not being able to play in the orchestra due to night classes are already showing up in my math homework:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b005b0f28970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b019b005b0f28970c.jpg)
 
 Thanks for reading! Till next time--
 Anita 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Masha Belyi
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/images/2008/11/14/denmark1_001.jpg
+image: /old_images/caltech_as_it_happens/images/2008/11/14/denmark1_001.jpg
 title: Life in Copenhagen
 categories: [global]
 status: Publish

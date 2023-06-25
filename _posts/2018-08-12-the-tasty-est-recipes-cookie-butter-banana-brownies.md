@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad37fc061200d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b022ad37fc061200d.jpg
 title: The Tasty-est Recipes
 categories: [culture]
 status: Publish

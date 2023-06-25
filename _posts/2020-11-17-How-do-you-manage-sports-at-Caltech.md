@@ -3,12 +3,12 @@ layout: post
 title: How do you manage sports and Caltech?
 categories: [clubs]
 author: sydney
-image: https://ik.imagekit.io/u9ndqdgam20/images/2020/10/Sydney/teampic.PNG
+image: /images/2020/10/Sydney/teampic.PNG
 ---
 
 Usually, while writing this post, I would be at Caltech playing volleyball. I begin school eith preseason, which for those unfamiliar (or are planning on joining women's volleyball, women's soccer, men's soccer, men's waterpolo, or cross country) is a 5 week long period before school begins where the sports teams I listed before practice and compete. My life during preseason is basically volleyball 24/7. Two practices a day (during school only one) and game days three days a week. No school work to worry about, spending time with my teammates all day, a nice refresher before school begins.
 
-![Hitting Picture](https://ik.imagekit.io/u9ndqdgam20/images/2020/10/Sydney/hittingpic.PNG)
+![Hitting Picture](/images/2020/10/Sydney/hittingpic.PNG)
 I write this post dearly missing volleyball, but I am not going to sit here and complain about how I wish I could be on the court. Instead, I am going to answer the most common question I get from protofrosh! How do you balance time between sports and Caltech?
 I'll start off with a fact, the average GPA of Caltech student-athletes is higher than the average GPA of non-student athletes. 
 I hope that makes you potential student-athletes feel a little bit better!

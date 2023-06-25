@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c90912ad970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c90912ad970b.jpg
 title: Happy Fourth!
 categories: [research]
 status: Publish
@@ -26,15 +26,15 @@ I was slightly underwhelmed by the food options there since I don't exactly crav
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09ac4259970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09ac4259970d.jpg)
 My friend, a summer student, had soft serve at Honeymee. While I had a black sesame mochi ice cream from Mikawaya, the inventor of the mochi ice cream. The store front we visited was the original! It's slightly ironic, but there were more happy people in Little Tokyo's Village Plaza than at Grand Park (well fed people = happy people).
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09ac425d970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09ac425d970d.jpg)
 After we fueled up, we went back to campus for a BBQ collaboration between Lloyd and Ruddock. We grilled burgers and hot dogs and chilled out with music all evening. The turnout was way greater than expected, and we ran out of food TWICE. Then people went their separate ways to watch fireworks.
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c90912be970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c90912be970b.jpg)
 

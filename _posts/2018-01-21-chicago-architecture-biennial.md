@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01bb09e965bc970d.jpg
+image: /old_images/6a0105349b8251970b01bb09e965bc970d.jpg
 title: Chicago Architecture Biennial
 categories: [clubs]
 status: Publish
@@ -15,4 +15,4 @@ There were a few inspiring exhibits like one about the re-purposing of hutongs i
 The tour even touched on the Cultural Center itself. It’s a really beautiful building, with a couple of different domes, and many jeweled inlays. There’s a lot of history, as half the building was actually designed for Civil War veterans, and the other half was used as a library. So it’s a large contrast to have such a majestic bejeweled part of the building that was made to be the library (we were told that the inlays were done by Tiffany Co.) while the other part was very dark and somber for the veterans and for the Civil War memorial.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01bb09e965b8970d.jpg)
+![](/old_images/6a0105349b8251970b01bb09e965b8970d.jpg)

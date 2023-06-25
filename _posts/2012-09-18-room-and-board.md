@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Monica Li
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d017744bae563970d-800wi.jpg
+image: /old_images/6a0177449c8a5f970d017744bae563970d-800wi.jpg
 title: Room and Board 
 categories: [culture]
 status: Publish
@@ -17,14 +17,14 @@ Here's a picture of the Dabney courtyard! Most of the other courtyards aren't as
 This picture is carved into the space above the main entrance. Way clever!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017744b7f726970d.jpg)Something that holds true across houses is the critters! We do have a surprising number of crickets here. One that found its way into our room was successfully captured and released, but not before a photo shoot.
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017744b7f726970d.jpg)Something that holds true across houses is the critters! We do have a surprising number of crickets here. One that found its way into our room was successfully captured and released, but not before a photo shoot.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b017d3c088be3970c.jpg)And now onto food! Our main dining hall is Chandler Cafe, which serves breakfast, lunch, and dinner on weekdays. Eating elsewhere is common too; most of us just eat lunch at Chandler. Just a couple streets west of campus, Lake Avenue has grocery stores and restaurants. My personal favorite is Chipotle, and the other places on Lake are good too.
+![](/old_images/6a0105349b8251970b017d3c088be3970c.jpg)And now onto food! Our main dining hall is Chandler Cafe, which serves breakfast, lunch, and dinner on weekdays. Eating elsewhere is common too; most of us just eat lunch at Chandler. Just a couple streets west of campus, Lake Avenue has grocery stores and restaurants. My personal favorite is Chipotle, and the other places on Lake are good too.
 
 
 
 Once or twice a week, Caltech gives us free food. The BBQs
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b017d3c088be3970c.jpg)Best,
+![](/old_images/6a0105349b8251970b017d3c088be3970c.jpg)Best,
 Monica

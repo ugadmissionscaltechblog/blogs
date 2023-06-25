@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Nadia Lara
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e8af0407f970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b014e8af0407f970d.jpg
 title: "Getting the Drift"
 categories: [research]
 status: Publish
@@ -15,10 +15,10 @@ My project is on Laser Induced Mobility Modification (LIMM) – a new form of io
 
 Good? Okay. So that’s all been done before. And it’s a very well studied and understood technique. What we want to do is add a new twist to it by throwing a laser into the mix. You see, there’s certain kinds of molecules that photoisomerize, that is they change shape when you shine a certain light on them. Some good examples of these are the photoreceptor proteins in your eyes. You’ll probably know them as rods and cones. When these are hit by light, they absorb the energy and change shape. The new idea is that as these ions are moving down the drift channel, we can shine a laser on them, causing them to change shape, and that will cause them speed them up or down so we can measure their new drift time. Is that cool or what?
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e8af04260970d.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b014e8af04260970d.png)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e8af0439f970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b014e8af0439f970d.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e8af0439f970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b014e8af0439f970d.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anand
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08980f0d970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb08980f0d970d.jpg
 title: Friendsgiving 
 categories: [global]
 status: Publish
@@ -40,16 +40,16 @@ Also you can read a few reviews by my our friends on the[Yelp page](https://www.
 And forgive me for the bad pictures. I haven't ever really used my phone camera much. Maybe now I'll start! The good pictures are from Anita, fellow blogger here-Thanks!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d17f7c00970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d17f7c00970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0899e143970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0899e143970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7f3f012970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7f3f012970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d17f7c0d970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d17f7c0d970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d17f7c16970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d17f7c16970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0899e153970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0899e153970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d17da850970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d17da850970c.jpg)

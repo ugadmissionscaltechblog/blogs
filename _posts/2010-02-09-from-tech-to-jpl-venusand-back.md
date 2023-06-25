@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a87cd0c7970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0120a87cd0c7970b.jpg
 title: From Tech, to JPL, Venus...and back
 categories: [research]
 status: Publish
@@ -17,6 +17,6 @@ With my weekends being so jam-packed it makes Monday morning even more difficult
 When I get back to Tech..I sometimes may have an hour, or just 20 minutes between lecture!But yesterday, I had time to eat a quick snack and relax a bit in my room beforehand.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0128777f8354970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0128777f8354970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0128777f84fc970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0128777f84fc970c.jpg)

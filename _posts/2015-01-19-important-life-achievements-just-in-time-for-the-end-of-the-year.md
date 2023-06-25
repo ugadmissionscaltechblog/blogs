@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Anita
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07d35062970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb07d35062970d.jpg
 title: Important Life Achievements, Just in Time for the End of the Year
 categories: [local]
 status: Publish
@@ -14,18 +14,18 @@ Here are some very important life goals I managed to achieve as winter break dre
 2. Stuffed my backpack completely to the brim with 13 books, the majority of them hardcover. It now resembles a cube more than a backpack-shaped container. Whoo!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0b8c0c7970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0b8c0c7970c.jpg)
 3. Ate hedgehogs. Not literally. These are traditional Chinese meatballs covered in rice, to be completely honest. Absolutely delicious and very cute!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07d3506d970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07d3506d970d.jpg)
 4. Made only 1 New Year's Resolution: To eat a bit of everything my mom cooked and put on this table. No obsessive list-making for me this year!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0b8c0e1970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0b8c0e1970c.jpg)
 5. Seen snow. In sunny San Diego! Granted, it was 3000-4000 feet up high in the mountains, but *it still counts!*
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0b8c0ec970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0b8c0ec970c.jpg)
 That's all for now. Happy end-of-2014, everyone! Till next time!
 Anita

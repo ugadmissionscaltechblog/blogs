@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8d85959970b-pi.jpg
+image: /old_images/6a01bb08213082970d01b7c8d85959970b-pi.jpg
 title: President's Day Food Adventures
 categories: [local]
 status: Publish
@@ -25,17 +25,17 @@ Finally, for a late night snack, I went to EE convenient store. EE convenient st
 Bea Bea's
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb097b88bc970d-pi.jpg)
+![](/old_images/6a01bb08213082970d01bb097b88bc970d-pi.jpg)
 
 Big Catch Seafood House
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb097b88cd970d-pi.jpg)
+![](/old_images/6a01bb08213082970d01bb097b88cd970d-pi.jpg)
 
 Bon Appetea Cafe
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8d85980970b-pi.jpg)
+![](/old_images/6a01bb08213082970d01b7c8d85980970b-pi.jpg)
 
 EE Convenient Store
 

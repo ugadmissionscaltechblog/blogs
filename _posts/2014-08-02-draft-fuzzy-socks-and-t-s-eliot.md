@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ariel O'Neill
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c3671e245970b01a73df3a08d970d-pi.jpg
+image: /old_images/6a017c3671e245970b01a73df3a08d970d-pi.jpg
 title: Fuzzy Socks and T. S. Eliot
 categories: [research]
 status: Publish
@@ -20,7 +20,7 @@ I'm pretty sure my socks are from here: https://www.amazon.com/Plush-Multi-Color
 I highly recommend the socks.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c3671e245970b01a511e851fb970c-pi.jpg)
+![](/old_images/6a017c3671e245970b01a511e851fb970c-pi.jpg)
 
 My mug is from the Barnes and Noble in my hometown, but it's also available here: https://www.barnesandnoble.com/p/home-gift-jeff-fisher-ts-eliot-quote-mug/23720135
 

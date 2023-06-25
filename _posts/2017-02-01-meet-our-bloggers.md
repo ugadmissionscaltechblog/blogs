@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Caltech Blogs
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01bb0a035cfb970d.jpg
+image: /old_images/6a0105349b8251970b01bb0a035cfb970d.jpg
 title: Meet Our Bloggers
 categories: [research]
 status: Publish
@@ -16,7 +16,7 @@ date: 2017-02-01
 Andrew is freshman from Denver, Colorado (the land of Patagonia jackets and unpredictable weather). At Caltech he is the fencing team foil squad captain and SAAC representative, a member of chemistry club and ultimate frisbee team, and the Fleming House food committee representative. In his free time, he likes to hike, write poetry, shoot photos, and explore LA for trendy food.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d2a88266970c.jpg)
+![](/old_images/6a0105349b8251970b01b8d2a88266970c.jpg)
 **Option:** Chemistry
 
 **House Affiliations:** Fleming and Ruddock
@@ -26,7 +26,7 @@ Ciara hails from the small town of Niceville, FL (which, before you ask, is actu
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01bb09a8020d970d.jpg)
+![](/old_images/6a0105349b8251970b01bb09a8020d970d.jpg)
 **Option:** Computation &amp; Neural Systems
 
 **House Affiliation:** Page
@@ -36,7 +36,7 @@ Madelyn is a sophomore majoring in Computation and Neural Systems (CNS) from Fos
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d28f2911970c.jpg)
+![](/old_images/6a0105349b8251970b01b8d28f2911970c.jpg)
 **Option:** Computer Science
 
 **House Affiliations:**Avery and Blacker
@@ -46,7 +46,7 @@ Mei-Ling is a native Chicagoan (from the city!) and still misses the winter seas
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c904de9f970b.jpg)
+![](/old_images/6a0105349b8251970b01b7c904de9f970b.jpg)
 **Option:** Undeclared
 
 **House Affiliation:** Avery
@@ -56,7 +56,7 @@ Noelle is a Texan who used to love cold weather, but ever since the first month 
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01bb09a80231970d.jpg)
+![](/old_images/6a0105349b8251970b01bb09a80231970d.jpg)
 **Options:** Computer Science and Business, Economics, &amp; Management (BEM)
 
 **House Affiliations:** Fleming and Ruddock
@@ -66,7 +66,7 @@ Hi everyone! I’m Sakthi Vetrivel from Seattle, WA (Let’s go Seahawks!). I’
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d290aecf970c.jpg)
+![](/old_images/6a0105349b8251970b01b8d290aecf970c.jpg)
 **Options:** Computation &amp; Neural Systems and Geobiology
 
 **House Affiliation:** Blacker
@@ -76,7 +76,7 @@ Sarah is a CNS and geobiology major from Westchester, NY. She is the ASCIT Treas
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c904dead970b.jpg)
+![](/old_images/6a0105349b8251970b01b7c904dead970b.jpg)
 **Option:** Electrical Engineering
 
 **House Affiliation:** Lloyd
@@ -86,7 +86,7 @@ Sunny is from Vancouver, BC where it rains over 200 days a year. At Caltech, she
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0224df318f35200b.jpg)
+![](/old_images/6a0105349b8251970b0224df318f35200b.jpg)
 **Option:** Biology
 
 **House Affiliations:** Ruddock and Avery

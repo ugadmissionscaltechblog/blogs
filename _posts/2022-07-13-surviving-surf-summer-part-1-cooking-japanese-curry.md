@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-07-13T01:13:32.000+00:00
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/rachael/67789294668__7442B7F6-DF06-457B-831C-56645ADD6B94.png
+image: /images/2022/rachael/67789294668__7442B7F6-DF06-457B-831C-56645ADD6B94.png
 tags: []
 title: 'Surviving SURF Summer Part 1: Cooking Japanese Curry'
 author: subinkim
@@ -40,7 +40,7 @@ Here’s the first meal that I have cooked: a Japanese style curry. It takes aro
 5. Keep mixing the ingredients well until the surface of the beef is cooked (but still has some red colours here and there). Then put in the onion.
 6. Once the onion starts turning somewhat transparent, pour 2 cups of water into the pot. Keep it at medium heat.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/rachael/67789294668__7442B7F6-DF06-457B-831C-56645ADD6B94.png)
+![](/images/2022/rachael/67789294668__7442B7F6-DF06-457B-831C-56645ADD6B94.png)
 
 (Above) This is how it looks at step 6.
 
@@ -48,6 +48,6 @@ Here’s the first meal that I have cooked: a Japanese style curry. It takes aro
 2. Curry has to be boiled until potato cubes are fully cooked. Add more water to the pot if the curry gets too thick or tastes too strong.
 3. Once potato cubes are all cooked, turn off the heat. You can enjoy this with rice (classic!) or udon noodles.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/rachael/67789324624__633B4F57-AD61-48B1-924E-478FF988217C.png)
+![](/images/2022/rachael/67789324624__633B4F57-AD61-48B1-924E-478FF988217C.png)
 
 (Above) This is how the curry should look! YUM!

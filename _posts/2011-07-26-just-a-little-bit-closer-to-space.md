@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Garima Gupta
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e8a1eb3dd970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b014e8a1eb3dd970d.jpg
 title: Just a Little Bit Closer to Space
 categories: [research]
 status: Publish

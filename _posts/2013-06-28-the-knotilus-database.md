@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019103b6fe3e970c.png
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b019103b6fe3e970c.png
 title: The Knotilus Database 
 categories: [research]
 status: Publish
@@ -21,7 +21,7 @@ Input -&gt; double branched cover of alternating link -&gt; quadratic form (matr
 Shading convention from the paper by Ozsvath and Szabo
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ab7dd495970d.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0192ab7dd495970d.png)
 
 Several links from Knotilus, after downloading and running through my program.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jessica Yeung
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c327a421d970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017c327a421d970b.jpg
 title: “If I be waspish, best beware my sting.”
 categories: [local]
 status: Publish
@@ -49,7 +49,7 @@ have violated some fire safety rule because when I came back from class, it was
 gone. Luckily I got a quick snapshot:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee41e0dd4970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017ee41e0dd4970d.jpg)
 I’ll be going to Les Miserables later tonight-super excited
 for my first musical! I find that being here in London is similar to being in
 Pasadena/LA in the sense that there is so much to do and so much culture. I

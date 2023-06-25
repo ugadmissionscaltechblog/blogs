@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Melody Morris
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e175b369970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0147e175b369970b.jpg
 title: Page Not-ski trip 
 categories: [global]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jessica Yeung
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c364c4fe2970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017c364c4fe2970b.jpg
 title: Hanging out in Avery
 categories: [culture]
 status: Publish
@@ -29,15 +29,15 @@ to visit, Jessica H. decided to cook for lunch. It was nice having homecooked Ch
 make-it was delicious!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c364c5039970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c364c5039970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c364c5073970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c364c5073970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee7efae61970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017ee7efae61970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee7efae80970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017ee7efae80970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee7efaea2970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017ee7efaea2970d.jpg)
 
 I hope you had a lovely MLK weekend!
 

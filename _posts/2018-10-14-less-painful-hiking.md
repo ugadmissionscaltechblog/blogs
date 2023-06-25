@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Andrew
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb0a035d21970d022ad398b26a200d-pi.jpg
+image: /old_images/6a01bb0a035d21970d022ad398b26a200d-pi.jpg
 title: (Less Painful) Hiking!
 categories: [culture]
 status: Publish
@@ -15,7 +15,7 @@ Ok I lied I have no fresh verse. Just a wild day of hiking in the San Gabriel mo
 Like any good Colorado native I led the group up the fun hike. I took Marcel with me, between the two of us we make up 50% of the geophysics majors on campus and so it just made sense. I’ll be honest, it wasn’t an easy hike, but compared to a 14er or Baldy it seemed fairly trivial. Which is funny because it was longer distance wise than those two. The elevation gain really changes the strain of a hike for me. Not sure the freshmen were feeling the same way; a few of them were shooting me death glares by the time we made it to the top of the mountain. These were only intensified when we met an Everest challenge group and I volunteered us to participate in a flash mob. But hey 10/10 worth it.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3729102200c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3729102200c.jpg)
 Also, you couldn’t see anything at the top. Low-hanging clouds at 3,000 feet of elevation aha.
 
 The entire way down was very fun. I led a bit of light trail running downhill which is by far the best part of any steep hike. And we got back half an hour earlier than we needed to and so it was all in all an A+ time.

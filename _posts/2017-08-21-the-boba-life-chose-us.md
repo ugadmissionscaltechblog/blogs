@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09b2895e970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb09b2895e970d.jpg
 title: The Boba Life Chose Us
 categories: [culture]
 status: Publish
@@ -17,7 +17,7 @@ Before coming to SoCal, I've always called the drink bubble tea. The "bubbles" p
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d29995de970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d29995de970c.jpg)
 One reason that boba is so widely loved is that it's a vehicle for customization. It's basically a milkshake with toppings, Asian style. Those more attached to Asian flavors go for add-ins like red bean and grass jelly, and flavors like taro and black sesame. You can never go wrong with the original flavor. Amateur boba drinkers go for fruity flavors like strawberry or mango and ask for jello or pudding as toppings. Either way, there is a combination that works for everyone.
 
 

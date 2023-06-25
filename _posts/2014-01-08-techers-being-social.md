@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Monica Li
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d01a3fbcefde0970b-pi.jpg
+image: /old_images/6a0177449c8a5f970d01a3fbcefde0970b-pi.jpg
 title: Techers being Social? 
 categories: [culture]
 status: Publish
@@ -19,19 +19,19 @@ Life in Color is a concert with multi-colored paint everywhere, and unfortunatel
 Parking would’ve been complicated, so a lot of us ended up taking the Metro instead. I hadn’t ridden it before, so it made the night more of an adventure! Luckily, other people knew where we were going; there were a couple transfers and I definitely would have lost my way.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d01a3fbcf1e16970b-pi.jpg)
+![](/old_images/6a0177449c8a5f970d01a3fbcf1e16970b-pi.jpg)
 *We got these seats far in the back, and sfter a couple songs we figured security wasn't holding us to our assigned seats and went closer to the stage.*
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0177449c8a5f970d019b045b758e970d-pi.jpg)
+![](/old_images/6a0177449c8a5f970d019b045b758e970d-pi.jpg)
 For midterms and finals weekend, it’s tradition to have food be the center of the event. This time around, Pies and Ice Cream for finals was special; the RAs and RLC provided acrylic paints and canvases for us to paint and de-stress. So it was food and painting in one! Maybe the art aspect will become part of the tradition.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a5107edab2970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a5107edab2970c.jpg)
 *Pies in our dining hall!*
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fbcf3f00970b.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fbcf3f00970b.png)
 *At one point I accidentally dipped the brush into my milk...but here's what I painted!*
 And not to forget, the [Caltech prank](https://www.pasadenastarnews.com/general-news/20140106/caltech-pranksters-strike-bcs-title-game-at-the-rose-bowl) lives on!
 Best,

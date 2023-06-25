@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Theresa
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e883acc57970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b014e883acc57970d.jpg
 title: 38 Days Until Graduation 
 categories: [research]
 status: Publish

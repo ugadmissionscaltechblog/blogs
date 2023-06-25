@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7259974970b.gif
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7259974970b.gif
 title: We're All Mad Here
 categories: [academics]
 status: Publish

@@ -4,7 +4,7 @@ title: Applying for a Caltech SURF!
 categories:
 - research
 author: argomez
-image: https://ik.imagekit.io/u9ndqdgam20/images/2020/10/Annabel+/D72F8AC9-6788-42C3-ACB8-82031AFA2C84.jpeg
+image: /images/2020/10/Annabel+/D72F8AC9-6788-42C3-ACB8-82031AFA2C84.jpeg
 
 ---
 The research opportunities, offered to all students at Caltech, are second to none! There are many labs on campus, and I am constantly amazed by the ground-breaking research being conducted by professors, graduates, and undergraduates in each of these labs on a daily basis. The best part is that Caltech undergraduates have the opportunity to apply for and obtain internships in many of these labs. They get to participate and be an integral part of ingenious research. From what I’ve heard, this is not the case in other undergraduate programs. Students elsewhere are usually not given such tremendous opportunities and respect, especially so early in their college career. Instead, they are usually tasked with cleaning beakers or secretarial work; not getting the opportunity to apply what they’ve learned in class to study a discipline they're passionate about, firsthand.
@@ -33,4 +33,4 @@ Much like many SURFs this year, due to the pandemic, I also had to conduct my SU
  
 With 76 Nobel Laureates on its roster, it’s no surprise that Caltech is a breeding ground for exceptional research opportunities! “Being a Caltech student [definitely makes] the SURF process easier since...there is such a culture of learning on campus...excited to help [you grow]!” (Diana). And though the process may seem daunting, there is no need to be “timid when contacting potential mentors. Oftentimes, potential mentors are happy to take on a young student for the summer,” (Ismail). However, like with everything else, there are no guarantees. It’s important to “start early, be clear about what you’re interested in,” and remain focused and determined (Tea).
 
-![Interviewees](https://ik.imagekit.io/u9ndqdgam20/images/2020/10/Annabel+/A4E990EA-F303-490E-A8C6-C9E622DB9EE1.jpeg)
+![Interviewees](/images/2020/10/Annabel+/A4E990EA-F303-490E-A8C6-C9E622DB9EE1.jpeg)

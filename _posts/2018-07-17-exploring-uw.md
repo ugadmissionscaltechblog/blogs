@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad37fa2c2200d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b022ad37fa2c2200d.jpg
 title: Exploring UW
 categories: [culture]
 status: Publish
@@ -15,4 +15,4 @@ From one of the main plazas, at a point I later found out was called Ranier Vist
 When I came back to see UW, I went in from the north end. The campus is so green! It's so different from California, since it's so wet here in Seattle. Walking back towards Ranier Vista, I got another amazing view of the mountain with the full moon :) Now I really want to go hiking at Mt. Ranier! It's 2-3 hours drive away, so I'm hoping that I can go one weekend.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad39f78b5200b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b022ad39f78b5200b.jpg)

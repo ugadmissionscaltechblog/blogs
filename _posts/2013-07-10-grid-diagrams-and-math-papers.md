@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901e32da21970b.png
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01901e32da21970b.png
 title: Grid diagrams and math papers
 categories: [research]
 status: Publish

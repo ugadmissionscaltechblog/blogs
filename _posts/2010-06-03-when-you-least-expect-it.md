@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133efbfbab9970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0133efbfbab9970b.jpg
 title: When you least expect it...
 
 categories: [research]

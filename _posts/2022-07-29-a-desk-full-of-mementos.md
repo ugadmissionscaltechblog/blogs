@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-07-29 19:29:35 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/bea/deskBea.JPG
+image: /images/2022/bea/deskBea.JPG
 tags: []
 title: A Desk Full of Mementos
 author: bea
@@ -13,7 +13,7 @@ Always not quite organized, my desk is a constant, yet subtle reminder of why I 
 
 Without further ado, here is my desk and the breakdown of some of my favorite keepsakes:
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/bea/deskBea.JPG)
+![](/images/2022/bea/deskBea.JPG)
 
 * Kintsugi ring holder: During winter term, Lloyd held a craft night. There were a variety of options to choose from, but my eyes were drawn to the craft where you had to break things! As you can see, the process of putting it back together was not as successful as the breaking it part. But regardless of how successful my craft was (not very) I love causal house events like this. Those that tend to be more low key and spontaneous in between bigger events such as interhouse or ski trip.
 

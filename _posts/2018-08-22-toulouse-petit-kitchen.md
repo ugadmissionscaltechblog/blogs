@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3a3002a200b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b022ad3a3002a200b.jpg
 title: Toulouse Petit Kitchen
 categories: [global]
 status: Publish
@@ -15,4 +15,4 @@ I got a cup of seafood gumbo as an appetizer, and it was delicious. I'd never ha
 For the mains, we got 'The Lucie' and the rockfish. Both were yummy, but for me the star of the meal was the dessert: the Toulouse Bananas Foster. I'd never had something like it before! It had vanilla ice cream on a rum cake, with bruléed bananas and pecans on the side. The bananas were SO good. I usually don't really like bananas, and these bananas were warm, which sounds pretty unappetizing to me, but it was actually super delicious.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3a30022200b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3a30022200b.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b012876e2104c970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b012876e2104c970c.jpg
 title: Absolut and Love Sucks
 categories: [clubs]
 status: Publish
@@ -21,10 +21,10 @@ Luckily for me, we're not close to deciding choreo-- we haven't even chosen what
 
 Here are some more photos of us looking happy:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b012876e211d7970c.jpg)That's my roommate, Sally! She's a chemical engineer/runner/soprano.
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b012876e211d7970c.jpg)That's my roommate, Sally! She's a chemical engineer/runner/soprano.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b012876e21209970c.jpg)Ninj at left, and Yae "Yay!" Lim at right.
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b012876e21209970c.jpg)Ninj at left, and Yae "Yay!" Lim at right.
 
 Time to work through some delicious quantum mechanics at Starbucks, my favorite overpriced coffee store. Enjoy the three-day weekend!
 P.S. More photos at[https://www.flickr.com/photos/fdacappella/](https://www.flickr.com/photos/fdacappella/).

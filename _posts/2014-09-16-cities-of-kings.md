@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yubo
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d066c81b970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b8d066c81b970c.jpg
 title: Cities of Kings 
 categories: [global]
 status: Publish
@@ -13,7 +13,7 @@ This weekend we (myself and my friends also here at Caltech for study abroad) vi
 We walked around inside a bit and caught a sight of some of the royal bedrooms and hallways
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6dcd4a0970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6dcd4a0970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d066c9c5970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d066c9c5970c.jpg)
 

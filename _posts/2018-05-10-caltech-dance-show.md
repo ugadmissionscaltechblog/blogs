@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0224df2d8e9e200b.jpg
+image: /old_images/6a0105349b8251970b0224df2d8e9e200b.jpg
 title: Caltech Dance Show
 categories: [global]
 status: Publish
@@ -14,7 +14,7 @@ Although I’ve seen a lot of ballet in Chicago, I haven’t seen much hip-hop, 
 
 ## Dance Show
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0224df2d8ea2200b.jpg)
+![](/old_images/6a0105349b8251970b0224df2d8ea2200b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0224df2d8ea6200b.jpg)
+![](/old_images/6a0105349b8251970b0224df2d8ea6200b.jpg)
 

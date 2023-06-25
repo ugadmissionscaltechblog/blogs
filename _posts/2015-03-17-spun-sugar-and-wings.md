@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Gloria
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08083502970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb08083502970d.jpg
 title: Spun Sugar and Wings
 categories: [culture]
 status: Publish
@@ -14,22 +14,22 @@ Avery is known for having great food at their Interhouse, and this year was no d
 This is a picture taken early on in the party, before he was covered in spun sugar. In addition to the cotton candy, there were delicious mini cupcakes, tea sandwiches (cucumber and ham varieties), ham/cheese/cracker platters, pink sparkling lemonade, and frosted animal crackers. Here's a picture of the tea sandwiches, which I was rather taken by:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0808353b970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0808353b970d.jpg)
 In the food area, there were also large hanging canvases painted by Avery frosh so we could earn our wings! Some people wore very interesting outfits to the party to show off their unique styles. I went with a lime green beanie:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7642ba9970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7642ba9970b.jpg)
 In the beginning of the party, everyone crowded around the food, leaving the dance floor empty:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7642bca970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7642bca970b.jpg)
 It was a pretty cool dance floor, with a pink runway leading up to it for people to strut their stuff. The lights on the dance floor also pulsated in time with the music. There were glow-in-the-dark sticks, and people stuck them in my hat:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7642bd7970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7642bd7970b.jpg)
 We left the party to attend the alternate Interhouse, where people watched a movie, played board/card games, and best of all, drank boba! Then we came back to a packed dance floor:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08083568970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08083568970d.jpg)
 I wasn't expecting to spend so much time at Avery Interhouse, but I ended up having a great time! I appreciated how both Ruddock OPI and Avery Interhouse had something for everyone to enjoy, from milkshakes to dancing to boba. The two houses had different approaches to their parties, and both were very successful (and beautiful and delicious!).
 

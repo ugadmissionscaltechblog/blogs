@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Lori Dajose
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0168eb195555970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0168eb195555970c.jpg
 title: Difficult Decisions
 categories: [global]
 status: Publish

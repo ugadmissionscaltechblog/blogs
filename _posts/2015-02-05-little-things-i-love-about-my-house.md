@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07e574ec970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb07e574ec970d.jpg
 title: Little Things I Love About My House 
 categories: [culture]
 status: Publish
@@ -13,35 +13,35 @@ I would love to share with you everything I love about my house. The friends I'v
 To begin with, I love that every house throws an Interhouse party each year. Page's party is the first one, and the only one during first term. This year's party was "Cold War" themed. We built the dance floor, walls, bar, and DJ's booth in the weeks before the party, and painted everything the two nights before. We procrastinated a bit, but the wall murals looked incredible!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07e574fa970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07e574fa970d.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07e57505970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07e57505970d.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07e57512970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07e57512970d.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c741aa4b970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c741aa4b970b.jpg)
 This was the beginnings of our rocket launcher centerpiece.
 
 During the party itself, a group of students from another house came by to protest the war:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07e57532970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07e57532970d.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0cb4797970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0cb4797970c.jpg)
 We are currently gearing up for four Interhouse parties this term, so prepare for more photos!
 
 Beyond the creativity of our party building, I'm a really big fan of how everyone in the house supports each other. After ski trip, a group of frosh baked a few dozen cupcakes and surprised Fabio on his birthday!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07e5757c970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07e5757c970d.jpg)
 
 Our head UCC, Megan, adopted a cat this year. His name is Nugget (short for Dinosaur Chicken Nugget), and one of my favorite stress-relieving activities is hanging out with Megan and Nugget. Megan's been a UCC for two years and has a good handle on talking people through struggles (academic, personal, emotional, etc.) and Nugget has been a cat for many years and is very good at being fluffy and soft.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0cb4994970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0cb4994970c.jpg)
 These were just a few updates about house life. We have elections in two weeks for our Executive Committee (President, VP, Secretary, Treasurer, Athletics Manager) and house representatives to various committees (ARC, BoC, CRC, etc.). Also coming up this term are poker night, a possible beach trip, several birthdays, and a ton of Alley events! I'll keep you posted with everything going on in the houses this year, so you can get a good idea of all of the benefits of house life.
 
 Anything you want to know about living in the houses?

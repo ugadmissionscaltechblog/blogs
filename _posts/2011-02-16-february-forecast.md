@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Nina Budaeva
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e5f22060e970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b014e5f22060e970c.jpg
 title: February Forecast
 categories: [research]
 status: Publish
@@ -18,7 +18,7 @@ So, what happened recently besides the start of rehearsals and basketball almost
 Caltech is on the Honor Code. This is something that I believe makes Caltech so special and it exists partially due to the tightness of our community. As a direct consequence of the Honor Code, most of our Exams are take-home with time and resource instructions printed on the front of the Exam. However, just because one gets a five-hour open-book take-home exam, this doesn't mean that the exam is easy. On the contrary, it may mean that the Exam is harder and more open-ended, so you end up using several blue vooks to explain and justify your work. On a lighter note, these types of Exams take off the unneccesary stress of walking into a classroom at a specified time and having an hour to do a test where you know right away if your answer looks right or wrong. I find that while taking Caltech Exams, I'm still learning more and I think some Professors design their Exams on purpose to teach us more. On the other hand, take-home Exams can become extreme when they are unlimited-time. This usually ends up being more of a project that sucks up all of your energy because you think that you can always do it better, since it is unlimited-time.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0147e27e2244970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0147e27e2244970b.jpg)
 Attendance, I thought, was not bad given that many Midterms had already been released and quite a few people have already dived into them.
 
 This weekend is our first Interhouse party of the Term - Avery Interhouse. Every year, each House (eight total) hosts a party in their courtyard for all other Houses. The parties are themed and usually involve organized construction (which must pass a safety inspection). Starting with this week, there will be an Interhouse Party every Saturday until the end of Term. I promise to write about the parties as they happen!

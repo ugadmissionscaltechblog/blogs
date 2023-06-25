@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Alison Lui
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd0688ff970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd0688ff970b.jpg
 title: Just Doing some Good-en 
 categories: [research]
 status: Publish
@@ -18,23 +18,23 @@ Here's a sampling of some very cool projects from the seventh and eight grades. 
 "The Effect of Sugar Substitutes on the Growth of Yeast" (7th grade) - A really good experiment, proving that sugar substitutes like while aspartame and saccharine might taste like real sucrose, they don't have the same chemical / biological effect in nature.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dc16c97970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dc16c97970d.jpg)
 "Milk Rock" (7th grade) - Who knew you could form solids out of milk and vinegar when you put it in the microwave? Magic, you say? Not so!
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dc16cad970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dc16cad970d.jpg)
 "The Chemistry of Clean" (7th grade) - By varying the degree of purification in their soap-making process, these students were able to change the pH of their final soap bar products, proving how important standardization is for soap makers to make non-toxic products!
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dc16cbc970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dc16cbc970d.jpg)
 "Does Electromagnetic Radiation Have a Harmful Effect on the Growth of Green Lentil Plants?" (8th grade) - Super impressive!! Not only was this experiment extremely detailed, with multiple studies, testing for multiple variables, and extensive controls within a single project, it was beautifully presented. This student, like many others, gave an incredibly professional presentation and comfortably handled cross-examination. Kudos to her!
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd068920970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd068920970b.jpg)
 "Which Antacid Works Best For Your Heartburn?" (8th grade) - An experiment with immediate individual implications, this student varied his testing by using red cabbage instead of pH strips or chemical indicator as a detector of acidity/basicity. 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd068928970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd068928970b.jpg)
 "Does Trajectory Really Matter?" (8th grade) - Ahh, memories of Physics 1a (Newtonian Kinematics) come rushing back! This was a classic physics experiment studying angle and distance.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dc16cd9970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dc16cd9970d.jpg)
 A Job well done to all the students!
 
 "SCIENCE!"

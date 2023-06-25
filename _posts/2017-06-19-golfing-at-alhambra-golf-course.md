@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb09a36878970d-pi.jpg
+image: /old_images/6a01bb08213082970d01bb09a36878970d-pi.jpg
 title: Golfing at Alhambra Golf Course
 categories: [clubs]
 status: Publish
@@ -17,7 +17,7 @@ We only played 4 holes due to time constraints, but people usually play either 9
 Some geese chilling on the golf course.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c9005ad6970b-pi.jpg)
+![](/old_images/6a01bb08213082970d01b7c9005ad6970b-pi.jpg)
 
 Sitting in the golf cart!
 

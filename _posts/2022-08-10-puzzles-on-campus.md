@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-08-10 07:50:52 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/rachael/67945004821__2CD55EF9-E45D-4C92-B50A-CA82A7AC7202.JPG
+image: /images/2022/rachael/67945004821__2CD55EF9-E45D-4C92-B50A-CA82A7AC7202.JPG
 tags: []
 title: Puzzles on campus
 author: subinkim
@@ -21,20 +21,20 @@ Ever since then, I have been working on it little by little every time I go to t
 If you happen to be on Caltech campus and you are stressed about something, whether that be academic or non-academic, I greatly recommend trying out some of our puzzles on campus. There are multiple puzzles on the first floor of Sherman Fairchild Library and the third floor of Tianqiao and Chrissy Chen Neuroscience Research building. Here are some of the photos of the puzzles in those locations:
 
   
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/rachael/IMG_8636.JPG)
+![](/images/2022/rachael/IMG_8636.JPG)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/rachael/IMG_8636.JPG)
+![](/images/2022/rachael/IMG_8636.JPG)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/rachael/IMG_8638.JPG)
+![](/images/2022/rachael/IMG_8638.JPG)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/rachael/IMG_8639.JPG)
+![](/images/2022/rachael/IMG_8639.JPG)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/rachael/IMG_8640.JPG)
+![](/images/2022/rachael/IMG_8640.JPG)
 
 These are puzzles in the Sherman Fairchild Library.
 
 And this is the puzzle I’ve been working on in the Chen building.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/rachael/67945004821__2CD55EF9-E45D-4C92-B50A-CA82A7AC7202.JPG)
+![](/images/2022/rachael/67945004821__2CD55EF9-E45D-4C92-B50A-CA82A7AC7202.JPG)
 
 If you are not a huge fan of puzzles, you can take part in a chess game in the Chen. On the second and third floor of Chen, there are chess boards that have games going on that everyone can partake in. Basically, there is a note that indicates whose turn it is (either white or black), and if you happen to walk over to the table and see the board, you can move the chess piece to wherever you want and flip the paper for someone else to play the next turn. I feel like this is a very heartwarming way of being part of the community as well as giving yourself a nice study break.

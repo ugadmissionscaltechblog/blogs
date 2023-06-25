@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-07-15 19:58:44 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/
+image: /
 tags: []
 title: Mentorship
 author: tpierce

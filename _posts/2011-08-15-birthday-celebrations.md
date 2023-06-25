@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Nadia Lara
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0153909b1871970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0153909b1871970b.jpg
 title: Birthday Celebrations!
 categories: [culture]
 status: Publish
@@ -15,22 +15,22 @@ When I was finally told to come up to their room, they surprised me with a choco
 After everyone had enjoyed some cake, we started getting ready for the party. Some of the girls had gone to a costume shop earlier to buy face paint, and we quickly discovered that Sarah was a fantastic face-painting artist. Here’s some of her masterpieces…
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0154346ea3ce970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0154346ea3ce970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0153909b26a5970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0153909b26a5970b.jpg)
 I did my own bit of painting, too! Also, Fiona was determined to tell everyone that it was my birthday, so she painted a 21 on my arm.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0154346eab89970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0154346eab89970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0154346eab89970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0154346eab89970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0153909b2f21970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0153909b2f21970b.jpg)
 Here’s us heading out for a night of dancing, celebrating, hanging out, and meeting new people.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0154346ebd70970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0154346ebd70970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0153909b4726970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0153909b4726970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0153909b4b0f970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0153909b4b0f970b.jpg)

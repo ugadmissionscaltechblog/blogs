@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yubo
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0b86055970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0b86055970c.jpg
 title: Hawai'i or the biggest New Years fireworks ever 
 categories: [global]
 status: Publish
@@ -19,10 +19,10 @@ We were also able to walk through a lava tube which otherwise looked like a cave
 Aside from Kilauea alone, walking along the Kalapana lava flow and black beach really showed a fierce scene of devestation by the old lava flows, contrasting with the happy Hawaiian backdrop. I have but one photo, of my ever-youthful daddy
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07d2f6ca970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07d2f6ca970d.jpg)
 Beaches are still the highlight of Hawaii though; I went snorkeling without contacts once and highly regretted the resulting "fuzzballs" (as Professor Mark Wise would say). Big Island also sports a green beach alongside its black beaches, one which is very picturesque (though I would prefer calling it olivine beach...)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0b86089970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0b86089970c.jpg)
 That's about it in terms of my Hawai'i trip! I really think Big Island is the best family trip location in hindsight, there's a terrific variety of things to do, from food to flora and fauna to floundering around in the water.
 

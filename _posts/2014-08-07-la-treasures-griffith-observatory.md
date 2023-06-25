@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511f23984970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01a511f23984970c.jpg
 title: LA Treasures
 categories: [clubs]
 status: Publish
@@ -13,7 +13,7 @@ Howdy,
 If you're ever in LA and have some time, Griffith Observatory is the place to go. You can get there via Metro on the Red Line or use Uber like we did, but make sure you check the traffic and Greek Theater concerts before you decide to Uber. We got up there right as the sun was starting to set, which was just perfect because we got to see the Hollywood sign and the sprawling metropolis that is LA only a little while before witnessing the little lights dancing both below (the city) and above (the sugpermoon that night).
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd427203970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd427203970b.jpg)
 This was my first Sunday evening back. After church, I sat in my room, wondering what I'd spend the rest of my first weekend back doing. Just the day before, I had given my first nerve-wracking tour as a Caltech tour guide before taking the bus to Old Town with some friends just to catch up and have decent Indian/Himalayan food.
 
 So Sunday evening, my boyfriend messaged me asking if I wanted to go to Griffith Observatory. It's open until pretty late so people can go see the stars or planets through their telescopes. Next thing, we were grabbing some friends and riding up to the observatory. Oh, summer time. Carpe diem, right? Or noctis, in this case.

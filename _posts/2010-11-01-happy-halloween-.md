@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Stephany L
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f57fe775970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0133f57fe775970b.jpg
 title: Happy Hallowe'en! 
 categories: [global]
 status: Publish
@@ -13,5 +13,5 @@ Halloween is my favorite holiday, next to Christmas. I love dressing up and goin
 i can't tell you how sad this made me. :| on the bright side though, I spent Friday night of that weekend hanging out with my flatmates and a couple friends in our kitchen. We didn't go out, but we decided to dress up for fun anyway. Lacking the motivation or will to actually go out and buy a costume... I just went with the resources I had and came up with a totoro costume! (: The resemblence is striking yeah? :P
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f57ffc12970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133f57ffc12970b.jpg)
 Sure, it was technically a bit early to be celebrating Halloween, since it was only the 29th, but in the end we were all too busy catching up with coursework on Sunday to go out and celebrate. I spent most of Friday eating candy and chocolate anyway... so I suppose that makes up for it. :P

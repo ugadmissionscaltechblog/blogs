@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Katie Fisher
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c35694390970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017c35694390970b.jpg
 title: Days 3-4
 categories: [global]
 status: Publish
@@ -23,19 +23,19 @@ Later, we had some time to shop in the *shuk*, or market, and buy some food and 
 Picture time!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d3f980e70970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017d3f980e70970c.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c35692ba7970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c35692ba7970b.jpg)
 
 Sunset over the Mediterranean Sea
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d3f981c45970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017d3f981c45970c.jpg)
 
 Rabin Square, where Israeli Prime Minister Yitzhak Rabin was assassinated in 1995.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee70c8158970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017ee70c8158970d.jpg)
 
 Shuk HaCarmel, the market we visited in Tel Aviv

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-06-12 23:57:22 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/
+image: /
 tags: []
 title: Double Majoring at Caltech
 author: Emily Du

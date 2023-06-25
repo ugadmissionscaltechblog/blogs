@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Chengyi L
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73df28c97970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01a73df28c97970d.jpg
 title: Anime la Expo (Part 3) 
 categories: [global]
 status: Publish
@@ -15,17 +15,17 @@ These posts are so overdue, haha... ha...
 
 Day 3 is the main Kill la Kill cosplay gathering event! The cosplay gathering is at 4pm, so I finally had time to run around the rest of the convention. First stop is the Aniplex booth, to look at Sushio's finished drawing:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01a73df320cd970d.png)
+![](/old_images/6a0105349b8251970b01a73df320cd970d.png)
 Aaaaand it's back in cosplay we go. Because my costume is relatively simple to put on (no tentacle arms), I used the extra time I had to finish assembling another bunny.
 
 With that said, Sanageyama managed to finish his costume after pulling another all-nighter, so we actually have everyone now!! We walked to the convention center with Nonon playing background music from her speakers. It felt pretty epic. Here's a janky photo of all of us, together for the first time:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73df32224970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73df32224970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73df3227e970d.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73df3227e970d.png)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511e7de7c970c.png)Out of the 86,000 people who went to Anime Expo this year, we ran into the exact one who found my bunny!! What are the chances of that happening?! 
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a511e7de7c970c.png)Out of the 86,000 people who went to Anime Expo this year, we ran into the exact one who found my bunny!! What are the chances of that happening?! 
 Afterwards, we abused the fact that Nonon had working speakers on her shoulders to play Caramelldansen. We actually got a pretty good group of cosplayers and random people to join us in dancing! Another Mako showed up and informed us that we're at the wrong spot for the cosplay meet (oops), so we followed her to the gathering. On the way, our group slowly started collecting other Kill la Kill cosplayers...
 
 Anyhow, the gathering was pretty great. There were so many Kill la Kill cosplayers! Some of them had really impressive costumes, too. The workmanship an love put into these clothes are absolutely incredible...!

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Tony Z. Jia
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a52065ad970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0120a52065ad970b.jpg
 title: Introduction and Pre-trip Post
 categories: [global]
 status: Publish
@@ -94,7 +94,7 @@ going to be a lot of fun.
 Anyways, here’s a crude map (Google Earth and Paint).
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5772fe1970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5772fe1970c.jpg)
 I’ll post some more pictures, including pictures from Seoul Incheon and Chubu Centrair airports next time. Expect a post over the weekend or early next week.
 
 --Tony

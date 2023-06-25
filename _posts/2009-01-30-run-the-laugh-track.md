@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jordan Theriot
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010537036252970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b010537036252970c.jpg
 title: Run the Laugh Track!
 categories: [research]
 status: Publish
@@ -101,16 +101,16 @@ frosh having fun (read: banging their heads against the wall) down in the
 Student Workshop doing Ph8 labs. 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536fa5d51970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b010536fa5d51970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536fa5d6b970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b010536fa5d6b970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536fa5d89970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b010536fa5d89970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0105370362d8970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0105370362d8970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0105370362f2970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0105370362f2970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536fa5eaa970b.jpg) 
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b010536fa5eaa970b.jpg) 
  
 

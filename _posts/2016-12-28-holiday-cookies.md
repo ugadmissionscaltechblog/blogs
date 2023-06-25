@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8bb9a0e970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8bb9a0e970b.jpg
 title: Holiday Cookies! 
 categories: [research]
 status: Publish
@@ -19,17 +19,17 @@ Within 24 hours of being at my mother’s house, we baked chocolate peppermint c
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb095e95b8970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb095e95b8970d.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2455959970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2455959970c.jpg)
 
 
 It also helped that The Great American Baking Show (a spin-off of The Great British Bake Off) is currently airing. The only appropriate way to watch baking shows is to watch them while eating freshly baked chocolate peppermint cookies, am I right?
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8bb9a1a970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8bb9a1a970b.jpg)
 
 
 

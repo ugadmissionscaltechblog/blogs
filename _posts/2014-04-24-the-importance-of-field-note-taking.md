@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ketaki Panse
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcf3b3ce970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcf3b3ce970b.jpg
 title: The Importance of Note-taking
 categories: [research]
 status: Publish
@@ -19,22 +19,22 @@ Side note: I practically bought out the bookstore during the sale. By 5:30 pm (w
 Day 1, hike 1, we explored La Playa de Las Bachas, a beach with beautiful white sand and dark, basaltic rock.Immediately, wenoticed the striking red crabs that inhabitedthese rocks, and Ernesto took the opportunity toteach us about the colorful creatures. He swiftlypicked up a crab shell we’d stumbled upon, andbegan his ecological lesson.According to Ernesto, Sally Lightfoot crabs shed their hard shell every year and emerge with a softer shell in order to grow larger in size. To harden the shell, the crabs will intake salts to convert their soft shells. As we examined the crab shell, Ernesto mentioned that we can discern the sex of a crab based on the color of its abdomen (the one we'd found was male). With our first-day enthusiasm, the entire class quickly took detailed notes on the crabs.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dae71da970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dae71da970d.jpg)
 Our first field lesson
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511a362e9970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a511a362e9970c.jpg)
 Opuntia cactus and tortoise nests (If I hadn’t labeled these drawings, I would have had no idea what they were trying to depict..)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcf3b472970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcf3b472970b.jpg)
 Sally Lightfoot crabs and Marine Iguanas
 Fun fact: Marine iguanas inspired the monster Godzilla. If you can't spot the resemblance from my drawing, here's some photographic evidence:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcf3b4e9970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcf3b4e9970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dae778e970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dae778e970d.jpg)
 (That's not to say that I didn't snap 1000+ photographs during the trip).
 
 That's all for now,

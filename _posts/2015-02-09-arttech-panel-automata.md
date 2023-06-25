@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07e976a9970d.png
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb07e976a9970d.png
 title: Art/Tech Panel
 categories: [research]
 status: Publish

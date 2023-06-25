@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b7c90edf9f970b-pi.jpg
+image: /old_images/6a01b8d28f2955970c01b7c90edf9f970b-pi.jpg
 title: Pomona Adventures
 categories: [culture]
 status: Publish

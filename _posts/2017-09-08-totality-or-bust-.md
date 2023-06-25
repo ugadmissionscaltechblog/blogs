@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09bfc6d2970d-800wi.jpg
+image: /old_images/6a01b8d28f2955970c01bb09bfc6d2970d-800wi.jpg
 title: Totality or Bust!
 categories: [global]
 status: Publish
@@ -33,17 +33,17 @@ The day before we left for the backpack (two days before eclipse day), I read An
 The sun is in its "Pac Man" stage.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09bfc76a970d-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01bb09bfc76a970d-pi.jpg)
 
 The sun looks like the moon here!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b7c91c8d3e970b-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01b7c91c8d3e970b-pi.jpg)
 
 Totality! Sorry for the poor quality, but this is all that my iPhone could produce!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09bfc7d6970d-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01bb09bfc7d6970d-pi.jpg)
 
 The slightly sepia mountain after the eclipse.
 

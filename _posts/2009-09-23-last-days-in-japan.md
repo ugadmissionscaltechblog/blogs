@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Tony Z. Jia
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a58b8953970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0120a58b8953970b.jpg
 title: Last Days in Japan
 categories: [global]
 status: Publish
@@ -12,9 +12,9 @@ date: 2009-09-23
 
 Back in elementary school I used to think origami (literally “paper folding”) was pretty cool. Then I didn’t do any of it for like 10 years. And now, here I am origami-ing again. I thought we’d be doing the traditional cranes. Instead, it was something much harder. We made a top and a pretty cool box:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5e223f9970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5e223f9970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5e22438970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5e22438970c.jpg)
 
 For the box, we had to make 12 identical pieces and then fit them together kind of like a puzzle. It was pretty hard, but kind of fun. The origami teacher is a professional origami teacher, and apparently is also a singer with various singles out, though of course they are Japanese. Afterwards, the top was a little simpler, but I think that it’s much cooler. It actually spins fairly well. Now the problem is how to transport these 3-D objects back to America through luggage. Hmm. We’ll see, I’ll think of a way.
 

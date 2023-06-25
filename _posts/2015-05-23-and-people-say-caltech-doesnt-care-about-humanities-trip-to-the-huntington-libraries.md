@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d1157df0970c.jpg
+image: /old_images/6a0105349b8251970b01b8d1157df0970c.jpg
 title: And people say Caltech doesn't care about humanities (trip to the Huntington Libraries!)
 categories: [research]
 status: Publish
@@ -28,30 +28,30 @@ Dr. Gilmartin has an "in" with the curator of the rare documents at the Huntingt
 **Before we go in, remember: DON'T TOUCH ANYTHING**
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb082fe64b970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb082fe64b970d.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb082fe655970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb082fe655970d.jpg)
 **The full spread.**
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c78bea61970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c78bea61970b.jpg)
 **Letters from Austen's aunts.**
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c78bea6e970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c78bea6e970b.jpg)
 **A flip book owned by aristocracy, created by a famous landscape designer, who would draw before and after books for his rich clients.**
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb082fe679970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb082fe679970d.jpg)
 **First editions!**
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1157e57970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1157e57970c.jpg)
 **Calling cards left on social visits to other aristocratic houses.**
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c78bea8c970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c78bea8c970b.jpg)
 **Strong lady of the day: Mary Wollstonecraft**
 
 I took so many more pictures that I don't know where to put them all. Anyway, I hope this has been a good taste of what English classes at Caltech can be like!

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Catherine Xie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3610a920970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017c3610a920970b.jpg
 title: Some Swiss Gruyère cheese? Don't mind if I do! 
 categories: [research]
 status: Publish
@@ -25,14 +25,14 @@ worked in Gruyèresin order to have human interactions. All the visitors to
 Gruyere are tourists, which she likes because they are always cheerful and happy.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b017c3610d844970b.jpg)
+![](/old_images/6a0105349b8251970b017c3610d844970b.jpg)
 *Carly and I are very happy to be in the beautiful Gruyères village with cobblestone streets and breathtaking views of the Fribourg Alps.* 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d403fe3f0970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017d403fe3f0970c.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d403fe3f0970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017d403fe3f0970c.jpg)
 I was initially surprised to hear that Gruyère
 was super touristy, like Disneyland but without rides or admission fees. However, it makes sense since the town is very small and tourist industry must be very big because of its internationally famous cheese. I learned that for cheese to be called SwissGruyère cheese, it must actually be made according to production and regulation rules defined by the Swiss law because of the enforced*appellation d'origine contrôlée*(AOC), which states that certain wines, cheeses and butters must be produced in consistent and traditional manners with ingredients from specifically classified producers in designated geographical areas. The products must further be aged at least partially in the respective designated area. Thus, the AOC such as on SwissGruyère cheese upholds and maintains the authenticity of the product attributed to the famous name.
 
@@ -46,23 +46,23 @@ expect to see that in a tourist village in Switzerland.
 We hiked up to the Gruyère Castle to take a look at the architecture and were rewarded with simply magnificent views of the rural landscape and Fribourg Alps.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b017c3610d844970b.jpg)
+![](/old_images/6a0105349b8251970b017c3610d844970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee7b41728970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017ee7b41728970d.jpg)
 *Admiring the breathtaking views from the fortified walls of medievalGruyère Castle.*
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3610e317970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c3610e317970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3610e317970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c3610e317970b.jpg)
 Then, we visited the town's Roman Catholic church. The original church had been destroyed twice before and the one that stands today is a renovated version.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d403fea40970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017d403fea40970c.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d403fea40970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017d403fea40970c.jpg)
 Before
 we left, we gave in to our sweet tooth's and tourist tendencies by buying a an overpriced meringue ice cream dessert because it came with this special
 super thick fresh Gruyère cream.The ice cream was delicious and refreshing but the meringue was a little too sweet for my taste. We loved the cream because it tasted really, really fresh despite how
@@ -82,13 +82,13 @@ Nestle was American, but I guess not. The line for the tour was long, full of
 tourists, and it wasn’t covered by the Swiss pass, so we decided to leave.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d403ff566970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017d403ff566970c.jpg)
 *The chocolate factory!*
 
 *
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d403ff6d5970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017d403ff6d5970c.jpg)
 *...Owned by Nestle? We recognize that name!*
 
 We went to Geneva for dinner and the evening. I got pizza with an egg on top, which was pretty non-American. Another cultural difference was that instead of having a pizza that was pre-cut, we had to cut/saw the pizza with a fork and knife. It was
@@ -98,7 +98,7 @@ by the time I finished eating. However, it was very delicious since the pizza wa
 When walking around Geneva, I spotted an French-Asian fusion restaurant sign that I thought was pretty funny:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee7b43743970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017ee7b43743970d.jpg)
 *Chinese-French restaurant in Geneva.*
 
 We went to a couple bars in Geneva afterward on

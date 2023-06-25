@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ariel O'Neill
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c3671e245970b01a3fd31ede5970b-pi.jpg
+image: /old_images/6a017c3671e245970b01a3fd31ede5970b-pi.jpg
 title: Bike Lab
 categories: [research]
 status: Publish
@@ -20,12 +20,12 @@ From https://www.rtpcompany.com/wp-content/uploads/2013/09/parktool.jpg
 I'm working with a friend on fixing up a sleek silver single speed. (Pictures later!) The two bike maintenance books I'm working from now are
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c3671e245970b01a73decf758970d-pi.jpg)
+![](/old_images/6a017c3671e245970b01a73decf758970d-pi.jpg)
 
 From https://img2.imagesbn.com/p/9781934030981_p0_v2_s260x420.JPG
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a017c3671e245970b01a3fd31efe3970b-pi.jpg)
+![](/old_images/6a017c3671e245970b01a3fd31efe3970b-pi.jpg)
 
 From https://www.cycling-books.com/images/richards_bicycle_book_cov.jpg
 

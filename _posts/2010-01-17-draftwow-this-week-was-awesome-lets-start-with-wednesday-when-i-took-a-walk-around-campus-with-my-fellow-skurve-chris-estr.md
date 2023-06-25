@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Juan Cardenas
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b012876e334c0970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b012876e334c0970c.jpg
 title: The Art of Exploration
 categories: [research]
 status: Publish

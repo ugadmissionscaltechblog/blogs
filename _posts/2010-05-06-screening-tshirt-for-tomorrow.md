@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348083f9ab970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01348083f9ab970c.jpg
 title: Screening T-shirt for TOMORROW
 categories: [culture]
 status: Publish
@@ -14,17 +14,17 @@ The other night...I headed to the art chateau to get started on silk-screening t
 
 The Art Chateau's T-shirt screening room is used by all Techers to make t-shirts for their clubs and events...its always fun to see the witty designs people have made in the past--they hang up all around the room for all to see! 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ed507723970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133ed507723970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ed5078e3970b.jpg)Gotta put the screens together using wooden frames
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133ed5078e3970b.jpg)Gotta put the screens together using wooden frames
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348083fc67970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01348083fc67970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348083fdca970c.jpg)The screens are put in here to expose it to UV radiation 
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01348083fdca970c.jpg)The screens are put in here to expose it to UV radiation 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ed507c37970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133ed507c37970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348083ff85970c.jpg)These are where the frames go to dry...
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01348083ff85970c.jpg)These are where the frames go to dry...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ed507d83970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133ed507d83970b.jpg)

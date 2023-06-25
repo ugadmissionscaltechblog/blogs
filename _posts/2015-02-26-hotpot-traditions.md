@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Gloria
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07f67aff970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb07f67aff970d.jpg
 title: Hot(pot) Traditions
 categories: [research]
 status: Publish
@@ -15,13 +15,13 @@ Though I didn’t grow up eating hotpot, it has become one of my go-to social ev
 
 To celebrate Lunar New Year, Avery Soc Team organized a hotpot event for the house. We had to sign up ahead of time, and Soc Team bought all the ingredients from a local Asian market (I’m guessing 99 Ranch). Several emails sent out just before the event warned us to BYOR(rice), B(bowls), U(utensils), D(drinks), and S(sauces), so I packed some microwaved microwaveable rice, two bowls, disposable and non-disposable chopsticks, spoons, soy sauce, and oyster sauce. Everything else and more was waiting for us there, including a wide array of unknown solids of marine origins:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07f67b0e970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07f67b0e970d.jpg)
 Tables were set up with burners, water-filled pots, meat, straw mushrooms, and tofu, and a wide array of vegetables was also available:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0dbf614970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0dbf614970c.jpg)
 One of my friends that I gave rice to back in the day finally made use of the stash to feed the riceless:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07f67b16970d.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07f67b16970d.png)
 We flavored the water with oyster sauce, and started putting things in:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c752b185970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c752b185970b.jpg)

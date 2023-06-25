@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jessica Yeung
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee4f928ee970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017ee4f928ee970d.jpg
 title: Traveling North
 categories: [academics]
 status: Publish
@@ -27,9 +27,9 @@ colder than London, it was really nice seeing the sun again.
 Here are some photos:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d3d83fc68970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017d3d83fc68970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee4f93be3970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017ee4f93be3970d.jpg)
 If you are at tech, Good luck with all your midterms!
 
 Jessica :)

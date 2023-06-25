@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Grace
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6f2529b970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6f2529b970b.jpg
 title: Page House Beach Trip 
 categories: [global]
 status: Publish
@@ -16,29 +16,29 @@ So recently my posts have been deviating from food content, but I wanted to remi
 I was planning on getting a head start on*Wuthering Heights*, a book I have to read for my En126 (Gothic Fiction) class, but I had only managed to read about 50 pages before I ended up checking out the Pier with my friends. We looked around some clothing shops with guidance from the Huntington Beach regular, Caitlin, but eventually settled on snacking on açai bowls.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d07c4ca0970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d07c4ca0970c.jpg)
 
 We got the açai bowls at this place called Banzai Bowls. I think the total for two small bowls came to around $16 and we shared them between the five of us! I preferred the one on the right more because the açai blend was more fruity (the one on the left had chocolate blended into it.) Açai bowls always make me feel super healthy, and they taste good too– a less sweet version of bluberries!
 Afterwards we went to a Hawaiian Poke place next door. I didn't get anything because I had already packed food for the trip, but my friends ended up getting some tacos and sandwiches. I didn't even know what a poke (pronunced po-kee?) was until today... Apparnetly it's just raw tuna chunks.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07977483970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07977483970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d07c4d73970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d07c4d73970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6f253e8970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6f253e8970b.jpg)
 Ker Lee took a snapchat of us running (although it doesn't look like it because it's hard to run on the sand) on the beach!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07977506970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07977506970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d07c4ddd970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d07c4ddd970c.jpg)
 Here are a couple more shots of the beach before it went super dark!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0797753e970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0797753e970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6f25453970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6f25453970b.jpg)
 Best,
 Grace xx
 

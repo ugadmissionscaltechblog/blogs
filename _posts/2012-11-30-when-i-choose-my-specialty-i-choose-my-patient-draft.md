@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura Santoso
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c33dbd063970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017c33dbd063970b.jpg
 title: When I choose my specialty, I choose my patient 
 categories: [culture]
 status: Publish

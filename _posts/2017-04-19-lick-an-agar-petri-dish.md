@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ker Lee
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8ea40ae970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8ea40ae970b.jpg
 title: Lick an Agar Petri Dish
 categories: [research]
 status: Publish
@@ -18,6 +18,6 @@ In another experiment, we were given the option of either spitting or licking a 
 We also practiced proper streaking streaking technique with some bacterial colonies. The dish from which we got small smidges of bacteria from was done with proper streaking. This process thins out the bacteria from the original dab and isolates single bacteria which form their own small colonies in a few days. This was really hard for me because I can't see the bacteria that I was spreading around the plate, so I'd lose track of where my last streak was.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d2749c04970c-320wi.jpg)
+![](/old_images/6a0105349b8251970b01b8d2749c04970c-320wi.jpg)
 We also started a polymerase chain reaction (PCR) process today. PCR is used to make lots of copies of target DNA strands. The double helix of each DNA strand is pulled apart into the single stranded backbones. A mix of smaller enzymes are added to the solution. Each little enzyme will attach to the half strands, in A-C and T-G pairs, to complete it into the original double helix shape. In a way, you can think of this a doubling the number of target DNA strands each PCR cycle. In order to start the reaction, a short strand of DNA first is first attached to one end of the half strands. This short strand is called the primer and is also simply mixed into the solution. We also added a buffer solution that will help the DNA multiply and for the newly formed copies to stay together better. One interesting thing was that these vials need to be kept in ice buckets.
 

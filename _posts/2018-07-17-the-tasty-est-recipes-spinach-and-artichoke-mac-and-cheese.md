@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b022ad399c430200b.jpg
+image: /old_images/6a0105349b8251970b022ad399c430200b.jpg
 title: The Tasty-est Recipes
 categories: [culture]
 status: Publish
@@ -17,5 +17,5 @@ We followed the recipe pretty faithfully (I’ll just link it [here](https://tas
 Instead of using a cast-iron pan, we used a dutch oven as well. However, this meant that a lot of the sides were coated with cheesy milk (or milky cheese) which really cooked on in the high-heat oven. It was a pain to get off. A real pain.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b022ad379e67d200d.jpg)
+![](/old_images/6a0105349b8251970b022ad379e67d200d.jpg)
 

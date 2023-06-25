@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2a47bd9970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2a47bd9970c.jpg
 title: Matcha-do 'bout Nothing
 categories: [culture]
 status: Publish
@@ -26,7 +26,7 @@ Before we left, we had to hit up [Matcha Matcha](https://www.yelp.com/biz/matcha
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2a47c1a970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2a47c1a970c.jpg)
 
 The ride back though was ATROCIOUS. We missed an intersection without realizing it and kept on biking to no end. Around 20 minutes late, biking up hill the entire time, we realized that we had taken a huge detour. Rerouting back to Caltech didn't take too long, but with the sun on our backs, the continuous elevation gain, we were soaked in sweat by the time we got back. My legs feel like soft serve right now and I can do with another serving of that matcha sundae.
 

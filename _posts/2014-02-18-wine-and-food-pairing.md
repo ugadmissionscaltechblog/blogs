@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jessica Yeung
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcbf42e8970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcbf42e8970b.jpg
 title: Wine and Food Pairing
 categories: [academics]
 status: Publish
@@ -16,6 +16,6 @@ Caltech has some really neat “classes” that you can take. The Master of Stud
 My favorite course was the diver scallops with squid ink pasta. The scallops were huge! The strawberries with whipped cream and brown sugar paired with champagne was also delicious. I also had a nice time catching up with some seniors in other houses that I haven’t talked to awhile. I’m glad that Caltech offers these unique opportunities. Moreover, it definitely makes me appreciate the small size of Caltech’s community. This place has been my home for more than three years now and I’ll definitely miss the people here when I graduate. I have a little over a month left here at Caltech since I’ll be graduating a term early, so I’m trying to make the most of it by spending time with my friends here and taking in some of the opportunities Caltech has to offer.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a5116efd4e970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a5116efd4e970c.jpg)
 Jessica
 

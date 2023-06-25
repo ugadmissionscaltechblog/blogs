@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ω
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6d03574970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6d03574970b.jpg
 title: Spartan Workout - Why I Drove 40 Miles in My Undies Part 1
 categories: [clubs]
 status: Publish
@@ -118,7 +118,7 @@ They had us doing burpees, jumping jacks, planks, push ups, and mountain climber
 Can you find me in this picture?
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511faa4ed970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a511faa4ed970c.jpg)
 
 
 Hint: Look for my socks.

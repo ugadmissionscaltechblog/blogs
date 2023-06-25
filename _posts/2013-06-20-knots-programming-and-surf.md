@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901d8b1589970b.png
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01901d8b1589970b.png
 title: Knots, Programming, and SURF 
 categories: [research]
 status: Publish
@@ -29,7 +29,7 @@ A link is what you get when you have multiple knots linked together, like the Bo
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019103813347970c.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b019103813347970c.png)
 
 Borromean rings drawn by Knotilus
 
@@ -50,7 +50,7 @@ then to load the drawing and shade regions (while keeping track of
 them), like in the picture below.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0191038144dd970c.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0191038144dd970c.png)
 
 Link drawn in Plink (left) and shaded regions (right)
 
@@ -58,7 +58,7 @@ Based on the shaded regions and intersections, a graph and quadratic form can be
 
 Since I'm doing a math SURF, I don't have to go to a lab or anywhere specific on campus to work on the project. Although the view from my dorm room is very nice, it can get lonely in the morning since most people are at labs or JPL. So for the first day, I decided to go work in Annenberg (the computer science building), since they have an undergraduate computer lab. 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0191038189d5970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0191038189d5970c.jpg)
 
 View from my summer dorm room (the blurriness is from the window screen)
 

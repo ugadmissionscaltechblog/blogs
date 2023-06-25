@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Shruti Mishra
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011571732f4d970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b011571732f4d970b.jpg
 title: Progress... even in the face of mishaps
 categories: [research]
 status: Publish
@@ -19,10 +19,10 @@ After growing these colonies, we got plates that had many many colonies, each wi
 After this period, we spun the cells down so that the cells and other unwanted stuff was pelleted, and we took the supernatant, that contained the enzymes that we wanted. We added this to new 96-well plates that had our substrate. If you've every pipetted, you know that it can take a while, especially when you have something like 400 total samples. BUT, it doesn't take so long when you have the pipetting robot! (shown below)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157173af45970b.jpg)The pipetting robot is just as cool as it sounds. It can pipette an entire 96-well plate in one shot, therefore making my job much easier :D! I got to use the the robot several times, as after we transferred the enzyme supernatant to the substrate and let them incubate, we had to wash the bound enzymes and substrate to get rid of excess sugars. After several washes, we needed to let the bound enzymes to actually break down the substrate, releasing individual sugars. We then used a sugar reagent assay to determine how much sugar was produced. The products of the four concentrations are shown below.
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01157173af45970b.jpg)The pipetting robot is just as cool as it sounds. It can pipette an entire 96-well plate in one shot, therefore making my job much easier :D! I got to use the the robot several times, as after we transferred the enzyme supernatant to the substrate and let them incubate, we had to wash the bound enzymes and substrate to get rid of excess sugars. After several washes, we needed to let the bound enzymes to actually break down the substrate, releasing individual sugars. We then used a sugar reagent assay to determine how much sugar was produced. The products of the four concentrations are shown below.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0115707e81ca970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0115707e81ca970c.jpg)
 
 ---end---
 As you go left to right on the first row and then left to right on the second row, the plates represent increasing concentrations of manganese chloride. It is evident that the top left has the most "blue" wells and the least number of "yellow" wells. The yellow wells represent not much sugar being produced, or in other words, enzymes that were dysfunctional. The blue wells represent the opposite. The one on the top left has a lot of functional enzymes, but this is probably because the concentration of manganese chloride was the smallest, and so the mutation rate was also the lowest. Consequently, most of the enzymes are probably pretty close to the parent, and so it wouldn't be worth our time to create a mutant library that are basically a bunch of the original enzyme. The one on the bottom right has the most yellow wells, because it had the highest mutation rate. In this case the mutation rate was so high that most of the enzymes are dysfunctional. So, the choice was really between the top right and bottom left concentrations. The former would probably be the more conservative one, with a lower mutation rate, but the latter one, we decided, would probably be a better idea in terms of creating a better enzyme, so that was the one we chose!

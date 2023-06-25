@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/jen/classroom.jpeg
+image: /images/2022/jen/classroom.jpeg
 tags: []
 title: 'Reflections: My Favorite Classes'
 author: Jen Yu

@@ -5,7 +5,7 @@ author: Emily Du
 categories:
 - academics
 date: 2021-10-10T07:00:00.000+00:00
-image: https://ik.imagekit.io/u9ndqdgam20/images/2021/10/where%20did%20october%20go.jpg
+image: /images/2021/10/where%20did%20october%20go.jpg
 
 ---
 Senior year tends to differ widely between different folks. Some have finished nearly all their major requirements, while others will be working through their classes all the way until graduation. My friends and I all fall on different points along this spectrum, but we all have something in common: we’re ready for second and third term.
@@ -14,7 +14,7 @@ When all the seniors in one house gather together and the conversation turns to 
 
 The timeline for applications looks something like this:
 
-![](https://ik.imagekit.io/u9ndqdgam20/images/2021/10/where%20did%20october%20go.jpg)So maybe the timeline to apply to grad school isn’t that different compared to the timeline to apply to college, but at least this time around, you have a much better idea of where you actually want to go, what you actually want to do, and the essays are shorter. Also, it’s honestly much less of a time commitment than it was the previous time around. I would hardly say that my entire life, 24/7, is dedicated to grad school apps. Over the course of my time at Caltech, I’ve realized how important it is to figure out your priorities early on, and stick to them. Take this piece of wisdom from a senior: things like sleep, health, and fun should be high among your priorities. Even when you’re overloaded at 54 units, you can always find time to do what you enjoy, and in the long run, your sleep and health are more important than whether you got an A or a B in a single 9 unit class.
+![](/images/2021/10/where%20did%20october%20go.jpg)So maybe the timeline to apply to grad school isn’t that different compared to the timeline to apply to college, but at least this time around, you have a much better idea of where you actually want to go, what you actually want to do, and the essays are shorter. Also, it’s honestly much less of a time commitment than it was the previous time around. I would hardly say that my entire life, 24/7, is dedicated to grad school apps. Over the course of my time at Caltech, I’ve realized how important it is to figure out your priorities early on, and stick to them. Take this piece of wisdom from a senior: things like sleep, health, and fun should be high among your priorities. Even when you’re overloaded at 54 units, you can always find time to do what you enjoy, and in the long run, your sleep and health are more important than whether you got an A or a B in a single 9 unit class.
 
 This is quickly becoming just an advice column, so I’ll lean into that. As I’ve been writing my grad school applications, I’ve had a lot of opportunities to think over what I learned at Caltech, so here’s what I would take away from the experience:
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Vansh Kumar
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6f24889970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6f24889970b.jpg
 title: Epilogue/Review
 categories: [clubs]
 status: Publish

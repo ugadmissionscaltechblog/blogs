@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b022ad3a2ffab200b-500wi.jpg
+image: /old_images/6a0105349b8251970b022ad3a2ffab200b-500wi.jpg
 title: Hiking Poo Poo Point
 categories: [global]
 status: Publish
@@ -13,8 +13,8 @@ Poo Poo Point is located to the east of Seattle. It's a relatively steep but sho
 The forest around Seattle is so green, and there are so many different varieties of trees. It's quite different from California, which is much more yellow.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c022ad38337c8200d-pi.jpg)
+![](/old_images/6a01b8d28f2857970c022ad38337c8200d-pi.jpg)
 At the top, there's a great view of Lake Sammamish. We also saw some paragliders preparing to jump off the side of the mountain!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad35d25e5200c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b022ad35d25e5200c.jpg)

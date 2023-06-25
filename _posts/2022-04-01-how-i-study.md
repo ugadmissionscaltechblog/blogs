@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://ik.imagekit.io/u9ndqdgam20/images/2022/jen/book.jpeg
+image: /images/2022/jen/book.jpeg
 tags: []
 title: How I Study
 author: Jen Yu

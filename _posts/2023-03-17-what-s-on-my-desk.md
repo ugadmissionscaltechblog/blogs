@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-03-17 05:42:30 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/images/2023/katelyn/on_my_desk.jpg
+image: /images/2023/katelyn/on_my_desk.jpg
 tags:
 - student_life
 title: What's on my desk?
@@ -12,7 +12,7 @@ categories:
 ---
 I'd like to think that I keep a tidy desk, but hey— entropy prevails for everyone. Here's a breakdown of all the items you could find on my desk, circa February 2023.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2023/katelyn/on_my_desk.jpg)
+![](/images/2023/katelyn/on_my_desk.jpg)
 
 1\. **My computer.**
 

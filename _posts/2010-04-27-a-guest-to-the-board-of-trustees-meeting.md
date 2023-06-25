@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ecfae860970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0133ecfae860970b.jpg
 title: A Guest to the Board of Trustees Meeting
 categories: [research]
 status: Publish
@@ -18,8 +18,8 @@ I have never been in this room before---though I've seen it all the time. It's t
 I was super excited to have FINALLY been in the board room---with the fancy chandelier illuminating the room...and also the very elaborate continental breakfast set out for the meeting.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0134802a9d81970c.jpg)The meeting was really interesting---since we talked about outreach efforts of the admissions office, financial aid, retention and graduation of students. There were a lot of data and statistics presented...and of course, a lot of questions, issues, concerns and suggestions from the Trustees.
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0134802a9d81970c.jpg)The meeting was really interesting---since we talked about outreach efforts of the admissions office, financial aid, retention and graduation of students. There were a lot of data and statistics presented...and of course, a lot of questions, issues, concerns and suggestions from the Trustees.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0134802aa120970c.jpg)I spoke in the meeting specifically on my role as a student reader and a tour guide, and also the student experience at Caltech. It was great to speak about the experience I've had with the admissions process on multiple levels to the Board, and got good feedback on the efforts. This experience was very cool---and it was such a great opportunity to see how Caltech is run behind the scenes---or rather "in the hexagonal board room."
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0134802aa120970c.jpg)I spoke in the meeting specifically on my role as a student reader and a tour guide, and also the student experience at Caltech. It was great to speak about the experience I've had with the admissions process on multiple levels to the Board, and got good feedback on the efforts. This experience was very cool---and it was such a great opportunity to see how Caltech is run behind the scenes---or rather "in the hexagonal board room."
 

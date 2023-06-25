@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Nerissa Hoglen
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01543868ddaa970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01543868ddaa970c.jpg
 title: Sewing Lessons 
 categories: [research]
 status: Publish
@@ -20,6 +20,6 @@ After receiving instructions about how to thread the needle on the sewing machin
 I attacked them with pins, hoping to make as much use as possible of the existing seams. Then I tried sewing the first shirt, which is when I started to encounter roadblocks. The machine was skipping stitches, which ruched the fabric in a (mostly) undesirable way. Certainly when I tried to smooth it out, many of them broke, and I was left with unsewn shirts. I talked to the owner, and this seems to be a quirk of the machine. After ripping stitches, fiddling with the machine, and resewing numerous times, I have one side of one shirt mostly sewn in an acceptable manner. Finishing just waits on me having enough time to cope with the machine.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162fdea9ee2970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0162fdea9ee2970d.jpg)
 So as it turns out, it probably would have been faster to just sew them by hand after all.
 

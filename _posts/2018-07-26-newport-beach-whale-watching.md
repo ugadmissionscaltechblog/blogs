@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad37b4c65200d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b022ad37b4c65200d.jpg
 title: Newport Beach Whale Watching
 categories: [local]
 status: Publish
@@ -13,9 +13,9 @@ Just a 2 hour drive away from Caltech is the sleepy town of Newport Beach, where
 I don't have the right camera for this, but you can see a spout of water come out from the ocean in the distance! We saw maybe 3-4 gray whales on this outing. Sometimes people also see dolphins, and different species of whales come around at different times of the year.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c022ad35563a4200c-pi.jpg)
+![](/old_images/6a01b8d28f2857970c022ad35563a4200c-pi.jpg)
 We also saw a bunch of sea lions lounging on a buoy.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad37b4c6b200d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b022ad37b4c6b200d.jpg)
 Newport Beach is really a super nice town. It has such a nice vibe I didn't want to leave :)

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Julianne Gould
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536ff47dc970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b010536ff47dc970b.jpg
 title: I got in a fight with a door...and lost.
 
 categories: [academics]
@@ -16,8 +16,8 @@ So, I have still been going down to the machine shop, I just haven't been able t
 - Joules
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536ff47a8970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b010536ff47a8970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536ff4721970b.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b010536ff4721970b.png)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b010536ff46b6970b.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b010536ff46b6970b.png)

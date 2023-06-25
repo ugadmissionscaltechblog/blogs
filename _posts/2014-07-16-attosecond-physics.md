@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jonathan Liu
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73ddbce6b970d01a3fd306173970b-pi.jpg
+image: /old_images/6a01a73ddbce6b970d01a3fd306173970b-pi.jpg
 title: Attosecond Physics 
 categories: [research]
 status: Publish
@@ -26,12 +26,12 @@ Anyway, I'm contributing a very small portion to the research going on at MPQ, s
 What I'll be working on for the next few weeks is designing the beam profiler in Autodesk Inventor, a 3d modeling software. Basically, I need to figure out how to arrange all the components in a way that fits with the rest of the experiment, and design the enclosure that will comprise the beam profiler. It sort of feels like art; at least for me, a person who can't draw to save his life, this is the closest I'll ever get. Since I'd never used a CAD software before, learning was fun, and I actually have a preliminary profiler ready! Now it's just a matter of taking the design to the mechanic shop in the institute, where the technicians will tell me exactly how impossible and infeasible my design really is.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73ddbce6b970d01a73deb69e8970d-pi.jpg)
+![](/old_images/6a01a73ddbce6b970d01a73deb69e8970d-pi.jpg)
 
 My (preliminary, rough, hesitant, possibly disastrous) profiler design.
 
 And now, some Bavarian culture. At the cafeteria I had this for lunch:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd3063c7970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd3063c7970b.jpg)
 At first glance, I thought I was eating meatballs for lunch. Turns out it's actually a thing called Knödeln! What they are, are dumplings made out of potato or bread and usually served with a sauce. Here, it's served with sauerkraut. According to one of my office mates, this is a very traditional Bavarian dish. It tasted pretty good!
 

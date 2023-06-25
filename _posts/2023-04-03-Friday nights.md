@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-04-03 04:53:45 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/images/2023/katelyn/gingerbread.jpg
+image: /images/2023/katelyn/gingerbread.jpg
 tags: []
 title: My Friday Nights
 author: Katelyn Lee
@@ -11,7 +11,7 @@ categories:
 ---
 It was the Friday night of midterms during my first year at Caltech, and I was alone in the library. That weekend (week five of term, if you're keeping count) also happens to coincide with Halloween. But as a bright-eyed frosh trudging my way through Ma 1a lecture notes, I was just baffled that no one else was studying alongside me. Spoiler alert: not all Caltech students spend Friday night—or every night—studying or grinding sets, _even_ during midterms. And especially on Halloween weekend.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2023/katelyn/gingerbread.jpg "you, too, can make stale gingerbread houses in Lloyd")
+![](/images/2023/katelyn/gingerbread.jpg "you, too, can make stale gingerbread houses in Lloyd")
 
 Disclaimer: I can't speak for everyone at Caltech. Sometimes even I'll be working late on Friday to catch up on work or trying to get ahead on the upcoming set due the next week. But more often than not, I'll find myself goofing off with my friends because hey, all work and no play makes Katelyn a dull girl.
 

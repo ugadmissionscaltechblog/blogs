@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Alex Krikorian
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011570b0a060970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b011570b0a060970b.jpg
 title: Ditch Day Successful!!
 categories: [culture]
 status: Publish

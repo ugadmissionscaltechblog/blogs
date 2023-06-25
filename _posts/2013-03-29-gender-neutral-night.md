@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Rainbow Beaver
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d424a3496970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017d424a3496970c.jpg
 title: Gender Neutral Night
 categories: [research]
 status: Publish
@@ -19,13 +19,13 @@ A picture of the movie starting to
 play in the Dabney Lounge.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c381b0c41970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c381b0c41970b.jpg)
 
 Instead of cereal and milk and cookies, this time we had tea, hot chocolate, cider and cranberry juice. It’s always important to stay well-hydrated if you’re planning on singing along to a musical, right? (I think I also ought to make some sort of pun about genderfluid, but I’m not really sure how to go about it.)
 
 We also had coloring and drawing as well. Among other things, we found an adorable gender neutral coloring book, “Sometimes a Spoon Runs Away with Another Spoon”, that has a lot of gay or lesbian themed pictures to color in, as well as a lot of pictures that are gender-nonconforming, genderqueer, or otherwise LGBTQIA. What’s more adorable than subverting the heteronormative cis-centric paradigm than with coloring books?
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c381b0cfe970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c381b0cfe970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d424a3683970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017d424a3683970c.jpg)

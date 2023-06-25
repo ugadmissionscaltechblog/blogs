@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2b371e2970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2b371e2970c.jpg
 title: Arriving in Singapore
 categories: [global]
 status: Publish
@@ -13,18 +13,18 @@ Before heading to study abroad in Cambridge, I travelled to Singapore, Taiwan, a
 When I arrived, I was greeted with great peking duck (thanks so much!!):
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2b29523970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2b29523970c.jpg)
 Then, I went to the Singapore Botanic Gardens. Fun fact: it is the only tropical garden to be named a UNESCO World Heritage Site. It's very large, with different sections including an orchid garden, an area featuring plants used for medicine, an educational dinosaur-themed area, and an open park for picnics.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2b295a2970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2b295a2970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09cb4ed8970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09cb4ed8970d.jpg)
 There were a lot of interesting ferns and tropical plants around.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b7c9285ffd970b-pi.jpg)
+![](/old_images/6a01b8d28f2857970c01b7c9285ffd970b-pi.jpg)
 I didn't get to go to the orchid garden section this time since it was near closing, but I got to eat great Hainan chicken rice instead. It was actually the best chicken rice I've ever had. Guess you can't find this in LA :P
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c92860a1970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c92860a1970b.jpg)

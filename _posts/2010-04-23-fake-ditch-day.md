@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mythili
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348016bcd3970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01348016bcd3970c.jpg
 title: Fake Ditch Day
 categories: [research]
 status: Publish
@@ -39,23 +39,23 @@ We signed up as various characters. I was Dory...I think...
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348016be0d970c.jpg)Our first clue was accompanied by a highly detailed map.
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01348016be0d970c.jpg)Our first clue was accompanied by a highly detailed map.
 
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348016bec0970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01348016bec0970c.jpg)
 
 Which led to our second clue...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348016cecf970c.jpg)And first obstacle.
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01348016cecf970c.jpg)And first obstacle.
 
 Getting five goldfish over the jellyfish-filled abyss into the plastic cup. Needless to say, many poor fish were sacrificed in our pursuit of our goal.                                              
 Then we were led to our next stop...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348016c745970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01348016c745970c.jpg)
 
 So, in conclusion...
 

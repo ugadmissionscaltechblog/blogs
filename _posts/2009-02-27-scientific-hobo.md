@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Julianne Gould
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0112791272da28a4.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0112791272da28a4.jpg
 title: Scientific Hobo
 categories: [academics]
 status: Publish
@@ -25,14 +25,14 @@ We made Hungry's floaties twice as long, programmed and attached a flap for the 
   Hungry with the gate up
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0111689de409970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0111689de409970c.jpg)
 Close up of Hungry's gate down
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0111689de4a9970c.jpg) Close up of the gate up
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0111689de4a9970c.jpg) Close up of the gate up
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0111689de617970c.jpg) Hungry in the Kiddie Pool
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0111689de617970c.jpg) Hungry in the Kiddie Pool
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01127912748c28a4.jpg) Hungry eating :)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01127912748c28a4.jpg) Hungry eating :)

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Alison Lui
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a73dbac631970d-pi.jpg
+image: /old_images/6a01a73da10b05970d01a73dbac631970d-pi.jpg
 title: Behind the Scenes of Lloyd Interhouse
 categories: [culture]
 status: Publish
@@ -30,51 +30,51 @@ Enjoy the pictures below!
 Val and Christina chillin on the boat ^
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511af8ced970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a511af8ced970c.jpg)
 Setting up stairs - team effort! ^
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a511af925b970c-pi.jpg)
+![](/old_images/6a01a73da10b05970d01a511af925b970c-pi.jpg)
 Master Artist: Irene, hard at work on the Green Flash Mural ^
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a3fcffecb1970b-pi.jpg)
+![](/old_images/6a01a73da10b05970d01a3fcffecb1970b-pi.jpg)
 Green Flash at work ^
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a73dbac66d970d-pi.jpg)
+![](/old_images/6a01a73da10b05970d01a73dbac66d970d-pi.jpg)
 Looking good! ^
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a511af92b6970c-pi.jpg)
+![](/old_images/6a01a73da10b05970d01a511af92b6970c-pi.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511af8d5a970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a511af8d5a970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a3fcffecf1970b-pi.jpg)
+![](/old_images/6a01a73da10b05970d01a3fcffecf1970b-pi.jpg)
 Everybody's working hard! ^
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a511af92c3970c-pi.jpg)
+![](/old_images/6a01a73da10b05970d01a511af92c3970c-pi.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a511af92cb970c-pi.jpg)
+![](/old_images/6a01a73da10b05970d01a511af92cb970c-pi.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a3fcffed15970b-pi.jpg)
+![](/old_images/6a01a73da10b05970d01a3fcffed15970b-pi.jpg)
 O, Captain! My Captain! ^
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511af8d8e970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a511af8d8e970c.jpg)
 Dat smile looks like we did it! ^
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dbac189970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dbac189970d.jpg)
 Mimi, expert painter! ^
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a511af92f6970c-pi.jpg)
+![](/old_images/6a01a73da10b05970d01a511af92f6970c-pi.jpg)
 Such engineering ^
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a73dbac6d4970d-pi.jpg)
+![](/old_images/6a01a73da10b05970d01a73dbac6d4970d-pi.jpg)
 Get ready to PARTY! ^
 
 Yaaaargh!

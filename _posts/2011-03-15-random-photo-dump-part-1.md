@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny Yung
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b014e86b3bb14970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b014e86b3bb14970d.jpg
 title: Random // Photo Dump [Part 1] 
 categories: [culture]
 status: Publish

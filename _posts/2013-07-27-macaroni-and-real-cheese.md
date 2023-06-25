@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Chengyi L
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0191046ddcfd970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0191046ddcfd970c.jpg
 title: Macaroni and Real Cheese
 categories: [culture]
 status: Publish
@@ -18,5 +18,5 @@ We baked it for quite a while until we decided that we wanted to eat food alread
 The finished product: 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0191046ddd6b970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0191046ddd6b970c.jpg)
 **Final verdict: peppercorns/10**

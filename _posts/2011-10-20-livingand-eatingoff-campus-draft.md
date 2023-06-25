@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Nerissa Hoglen
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0153929b96b4970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0153929b96b4970b.jpg
 title: Living—and Eating—Off-Campus 
 categories: [culture]
 status: Publish
@@ -19,10 +19,10 @@ This is why it is important to be good at making things efficiently. This does n
 The idea behind the calzones is much like buying frozen food from the grocery store, only much healthier and custom-fitted to my tastes. I used fresh pizza dough from Fresh and Easy (a grocery store very convenient to campus) and a combination of frozen and fresh vegetables and cheese for the filling. I cooked frozen bell peppers and onions, fresh tomatoes, and kalamata olives then mixed them with ricotta, mozzarella, parmesan, and a little bit of goat cheese. Then I wrapped the filling with pizza dough into little semi-circular shapes. I froze three of them and baked the fourth for dinner that night. It was delicious.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162fbf108eb970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0162fbf108eb970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0153929b9b50970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0153929b9b50970b.jpg)
 The calzones are convenient not only because I now have to do a bare minimum of cooking to acquire a filling meal's worth of tasty hot food, they're also pretty portable. As much as I'm glad to be out of a dorm, it's still important to socialize. I must admit I'm not a big fan of eating alone. The calzones are the perfect thing to bring to campus. I can cook them in the oven right before house dinner starts then eat with the rest of my friends.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0153929b9e61970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0153929b9e61970b.jpg)

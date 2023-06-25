@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019103fe144d970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b019103fe144d970c.jpg
 title: Cookies and Table Saws 
 categories: [research]
 status: Publish
@@ -14,19 +14,19 @@ Since it's summer, we don't have to do any homework sets or work on the weekends
 Oatmeal chocolate chip cookies (one is missing...)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019103fe15b2970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b019103fe15b2970c.jpg)
 We didn't exactly follow all the instructions, but they turned out pretty tasty! After making (and eating) cookies, I started to work on cutting the plywood for DDR (Dance Dance Revolution) pads (see my [previous blog post](https://caltech.typepad.com/caltech_as_it_happens/2013/07/ddr-mat-construction-and-stockrooms.html)). One of the dorms has a table saw, so I went over there and got help from an upperclassman to cut the plywood.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192abc74926970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0192abc74926970d.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019103fe1b5d970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b019103fe1b5d970c.jpg)
 
 Table saw
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192abc74a83970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0192abc74a83970d.jpg)
 
 Plywood laid out in the shape of a DDR mat (still some cutting to do)
 

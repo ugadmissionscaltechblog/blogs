@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb09819393970d-pi.jpg
+image: /old_images/6a01bb08213082970d01bb09819393970d-pi.jpg
 title: KazuNori, Midori Matcha Cafe, and The Counter
 categories: [local]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0128770f2e0d970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0128770f2e0d970c.jpg
 title: My Ballet Class
 categories: [research]
 status: Publish
@@ -13,10 +13,10 @@ The week went pretty well for me...I was pretty productive and was able to start
 As always, I had my ballet class on Sunday morning. We have just started learning choreography for the piece we are doing for the show in April---a piece taken from the ballet, Carmen. So FUN! We are using fans as props since the story of the ballet is set in Spain. I will say, it is pretty darn difficult to be aware of a prop in your hand while dancing...I'm not too experienced with handling a fan either. But it is exactly why we're learning now....
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a80c3123970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a80c3123970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a80c39ee970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a80c39ee970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a80c3b3f970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a80c3b3f970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a80c3d85970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a80c3d85970b.jpg)

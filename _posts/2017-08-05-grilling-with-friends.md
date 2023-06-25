@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b8d298b734970c-pi.jpg
+image: /old_images/6a01b8d28f2857970c01b8d298b734970c-pi.jpg
 title: Grilling With Friends
 categories: [research]
 status: Publish
@@ -13,12 +13,12 @@ A few weekends ago, my friends staying in San Jose invited us to grill at their 
 Daniel was in charge of grilling the vegetables and meat.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b7c90e6dd4970b-pi.jpg)
+![](/old_images/6a01b8d28f2857970c01b7c90e6dd4970b-pi.jpg)
 
 Fabio cutting the delicious garlic bread
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01b7c90e6e56970b-pi.jpg)
+![](/old_images/6a01b8d28f2857970c01b7c90e6e56970b-pi.jpg)
 
 It was basically a Page House gathering (with a couple Lloydies)!
 

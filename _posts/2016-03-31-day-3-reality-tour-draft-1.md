@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Suzy
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1b5eb46970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1b5eb46970c.jpg
 title: Day 3
 categories: [research]
 status: Publish
@@ -44,7 +44,7 @@ The place we wanted to go paragliding had 2 locations. We wanted to go the the c
 And, even though we got to Aeroxtreme at about 2:30, it was still open! We got to fly! Thy strapped us to silly-looking backpacks and we each ran off a cliff with an instructor. We sailed around over the coast, watching surfers and the tops of buildings. When we were done, they gave us SD cards with video of our experience. We had to wait a bit afterward for one of the instructors because he accidentally took someone's hat with him into the air with another client.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c82b77eb970b.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c82b77eb970b.png)
 We walked over to Larcomar, got coffee, and relaxed. By then it was about 4, so we went back to the hostel so people could shower before dinner/meeting.
 
 Our meeting at 5 was about Medlife's medical role in Peru. Malnutrition (especially due to parasites) and early cancer screening seem to be major parts of the mission here. I probably should have paid more attention, but I mostly journaled during the meeting. The presentation was given by a Medlife year-round intern.

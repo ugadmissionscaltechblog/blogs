@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jessica Yeung
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a5116f02aa970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01a5116f02aa970c.jpg
 title: Disney’s Frozen!
 categories: [academics]
 status: Publish

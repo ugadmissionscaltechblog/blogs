@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0240a446a06e200c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0240a446a06e200c.jpg
 title: My First 3D Print! 
 categories: [research]
 status: Publish

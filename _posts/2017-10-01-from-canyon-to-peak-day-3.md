@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d2ac4da7970c-pi.jpg
+image: /old_images/6a01b8d28f2955970c01b8d2ac4da7970c-pi.jpg
 title: From Canyon to Peak
 categories: [global]
 status: Publish
@@ -21,17 +21,17 @@ We woke up while the sky was still filled with the Milky Way on day 3 of our bac
 Phelps lake, again. This time, the picture was taken while walking downhill!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b7c921ee65970b-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01b7c921ee65970b-pi.jpg)
 
 The beautiful woods!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01b8d2ac4f1c970c-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01b8d2ac4f1c970c-pi.jpg)
 
 The view of the valley near our lunch spot.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2955970c01bb09c51ff2970d-pi.jpg)
+![](/old_images/6a01b8d28f2955970c01bb09c51ff2970d-pi.jpg)
 
 The valleys and peaks near Static Peak
 

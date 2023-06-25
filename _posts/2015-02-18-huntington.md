@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b8d0d36783970c-800wi.jpg
+image: /old_images/6a0105349b8251970b01b8d0d36783970c-800wi.jpg
 title: Huntington Gardens
 categories: [research]
 status: Publish
@@ -38,28 +38,28 @@ This past weekend brought even more gorgeous weather--I didn't know that was eve
 We trekked through the Desert Garden, Japanese Garden, Chinese Garden, a greenhouse, and the Children's Garden...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c74ac52f970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c74ac52f970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0d421ec970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0d421ec970c.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0d42515970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0d42515970c.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c74ac980970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c74ac980970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0d425c1970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0d425c1970c.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07ef93ef970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07ef93ef970d.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07ef9545970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07ef9545970d.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07ef967f970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07ef967f970d.jpg)
 It's easy to be lazy. It's easy to stay in bed all day and wear sweats and eat campus food and study. Before I came to Caltech as a frosh last year, though, I made up my mind to savor my mornings and visit coffee shops and gardens and bookstores and look decent at least three days a week. I want to buy groceries and cook and try my hand at all the things being on your own allows you to do.
 
 That said, I'm still compiling a more complete version of the bucket list I began before coming here. That'll be in a post soon, so come back and check! And as always, don't forget to

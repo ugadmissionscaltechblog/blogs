@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-06-24T03:45:29.000+00:00
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/juni/CCSL.png
+image: /images/2022/juni/CCSL.png
 tags: []
 title: 'The Caltech Covid Lab: Where Nothing Can Become Something'
 author: jpolansk
@@ -30,4 +30,4 @@ I’ve made friends with the other employees, and we use work as an opportunity 
 
 So, the next time you're spitting into a cup to submit your weekly sample and you wonder how exactly your test kit was made, just know it was made with love.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/juni/CCSL.png)
+![](/images/2022/juni/CCSL.png)

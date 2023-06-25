@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yubo
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d122fed0970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b8d122fed0970c.jpg
 title: My first fake Ditch! 
 categories: [research]
 status: Publish
@@ -19,17 +19,17 @@ The seniors scrambled together some planning in the week leading up to Ditch Day
 
 Students would sit down and remain immobile for the game, and take turns throwing volleys of dodgeballs, trying to hit every member of the opposing team out. Below were the two rounds we played before somebody "accidentally" tore the net down and a 10-minute game of just regular dodgeball ensued:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7997ea5970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7997ea5970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7997edc970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7997edc970b.jpg)
 Our second game was a mashup of Risk and Capture the Flag. It was a turn-based game like Risk, but we would have the students try and capture a "flag" and bring it back to home base. Unfortunately, since we were short on people (as mentioned, Day after Tomorrow is notorious for having low attendance), I wasn't able to take an in-action shot and could only get a setup shot, but it should give you an idea of the scope of our preparations:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d122ff5c970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d122ff5c970c.jpg)
 As you can see, everybody is holding their own little die, a familiar phenomenon for anybody familiar with Risk. A big chunk of our preparation time was spent making these dice. Initially, we wanted 3'x3'x3' dice, but the boxes proved prohibitively expensive, so we settled for 4"x4"x4" versions.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7997f54970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7997f54970b.jpg)
 While there weren't too many people who showed up, I had a lot of fun preparing for and organizing the event. This event coincidentally was my first all-nighter*ever* here at Caltech, since the same night I had to do a physics lab pre-lab assignment and write up a set for which I only knew nebulously the solutions, but it was totally worth it. I ended up staying awake for a full 39 hours, since I had another hard set due the next day, but it's an experience I'd gladly repeat and intend to repeat again (barring better organization and planning...). It is just so much fun constructing things, and even if few people show up you have a product that you can point to and say "I helped set that up."
 
 I can't wait for all the fake ditch days coming up this year, let alone the true test that marks my final day as a Caltech senior.

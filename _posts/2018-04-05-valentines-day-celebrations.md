@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c95c4e67970b.png
+image: /old_images/6a0105349b8251970b01b7c95c4e67970b.png
 title: Valentine's Day Celebrations
 categories: [local]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-02-06T07:53:26.000+00:00
-image: https://d24slhcvzhzz82.cloudfront.net/images/2023/RahulC/IMG_9701.JPG
+image: /images/2023/RahulC/IMG_9701.JPG
 tags: []
 title: A Trip to Legoland
 author: Rahul Chawlani
@@ -11,7 +11,7 @@ categories:
 ---
 Growing up as a kid, I LOVED Legos. Getting the opportunity to go to Legoland since it’s relatively close to campus was one of the highlights of my time here so far. Fast Forward to 2022 in the waning days of the school year, Page had their annual Beach Trip to a house in Carlsbad, California. At this point in time, I wanted to go to the beach, but I wasn’t really excited for it. I wanted to chance to have some fun and be away from campus with my housemates for a while. That’s why when I was offered a chance at Page House Beach Trip to find myself in the middle of Legoland, of course I wanted to go! Below, I compiled some thoughts to give everyone the best look at Legoland, California.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2023/RahulC/IMG_9707.JPG)
+![](/images/2023/RahulC/IMG_9707.JPG)
 
 What I liked: The Dragon:
 
@@ -21,7 +21,7 @@ What I didn’t like: Coast Cruise
 
 A long wait for a subpar cruise ride. The only highlight of the ride were the incredible jokes by the tour guide.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2023/RahulC/IMG_9702.JPG)
+![](/images/2023/RahulC/IMG_9702.JPG)
 
 What I liked: Coast Guard Build a Boat
 
@@ -35,7 +35,7 @@ What I liked: Mini San Francisco
 
 Easily one of the coolest experiences, seeing a miniature San Francisco was amazing. They also had a small Los Angeles, New York, New Orleans, Washington DC, and Las Vegas!
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2023/RahulC/IMG_9699.JPG)
+![](/images/2023/RahulC/IMG_9699.JPG)
 
 What I didn’t like: Long lines to buy a Lego Set
 
@@ -47,4 +47,4 @@ Ok, as a ride it’s ok. Nothing great, nothing special. But here’s the trick:
 
 I loved Legoland. Easily one of the highlights of my Third Term. Although not the closest place from Caltech, it is definitely worth a visit sometime in your time here!
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2023/RahulC/IMG_9709.JPG)
+![](/images/2023/RahulC/IMG_9709.JPG)

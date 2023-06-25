@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Lexy LeMar
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0240a4c19d13200b.jpg
+image: /old_images/6a0105349b8251970b0240a4c19d13200b.jpg
 title: A Real Live MUMMY
 categories: [global]
 status: Publish
@@ -17,6 +17,6 @@ So far in Boston I have visited two different art museums, the Isabella Stewart 
 -Lexy
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0240a4c19d0f200b.jpg)
+![](/old_images/6a0105349b8251970b0240a4c19d0f200b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0240a4c19f0c200b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0240a4c19f0c200b.jpg)

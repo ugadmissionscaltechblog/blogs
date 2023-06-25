@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8fad8bd970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8fad8bd970b.jpg
 title: Take Back the Night
 categories: [clubs]
 status: Publish
@@ -18,7 +18,7 @@ We set up in the backyard of the Alumni House, which is a single-family home on 
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8fad8c2970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8fad8c2970b.jpg)
 
 The Feminist Club Executive Committee (Excomm) and a few of the staff from the CCD took about an hour to set up everything at the Alumni House. Once guests arrived, we handed out some stories submitted anonymously by Caltech students to other students who had volunteered to read submissions. We ate dinner, and then the program started.
 
@@ -28,7 +28,7 @@ A few students (undergrad and grad) shared pre-written stories and poems, and th
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2851ae5970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2851ae5970c.jpg)
 
 We ended the night by handing out tea light candles to everyone in attendance and holding a circle of light and moment of silence. The staff from the CCD was present to help everyone decompress and debrief, and many attendees hung out afterwards to talk about what we’d just heard and experienced.
 

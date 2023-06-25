@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Caltech Blogs
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c378ebb1f970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017c378ebb1f970b.jpg
 title: Iron Chef Caltech
 categories: [clubs]
 status: Publish
@@ -29,26 +29,26 @@ Appetizer 1: Les Champignon au Riz (wild rice and mushroom soup)
 Appetizer 2: Rice Bites with Mango Pomegranate Salsa
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee931ecb5970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017ee931ecb5970d.jpg)
 To give you an idea of how beautifully colorful the salsa was:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee931ee20970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017ee931ee20970d.jpg)
 
 Entree: Panner Masala with Basmatic Rice
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c378ec12f970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c378ec12f970b.jpg)
 Dessert: Arroz con Leche drizzled with Chocolate Mousse
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee931f17e970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017ee931f17e970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b017d41be1aad970c.jpg)
+![](/old_images/6a0105349b8251970b017d41be1aad970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017ee931f38b970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017ee931f38b970d.jpg)
 Our chocolate mousse recipe called for a secret ingredient of its own: honey, cocoa powder, and....
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d41be1d61970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017d41be1d61970c.jpg)
 

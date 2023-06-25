@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb098c5bdd970d-pi.jpg
+image: /old_images/6a01bb08213082970d01bb098c5bdd970d-pi.jpg
 title: Prague - Spring Break Pt. 3
 categories: [global]
 status: Publish
@@ -16,12 +16,12 @@ Prague was a fairytale town - it was so beautiful, but it also felt the most tou
 Old Town Square
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb098c5be3970d-pi.jpg)
+![](/old_images/6a01bb08213082970d01bb098c5be3970d-pi.jpg)
 
 View from the Astronomical Clock Tower
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8e93298970b-pi.jpg)
+![](/old_images/6a01bb08213082970d01b7c8e93298970b-pi.jpg)
 
 Astronomical Clock
 

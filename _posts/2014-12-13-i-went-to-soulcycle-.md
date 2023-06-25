@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb07bdfe33970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb07bdfe33970d.jpg
 title: I Went To SoulCycle!  
 categories: [academics]
 status: Publish
@@ -18,7 +18,7 @@ Six Tone It Up girls sweating buckets after the ride!
 Now, Soul Cycle is*expensive*. In LA it's about $30/ride, in NYC it's about $34. As a broke college student, I can't afford to make this a weekly habit. But I sooo want to. This was one of the greatest workout experiences I've ever had, and I've tried pretty much everything! I showed up 15 minutes before the class started to sign a first-time rider form and get shoes and a bike. The studio is filled with about 40-50 bikes, which surround a small platform on three sides (behind the platform is a studio-sized mirror). The room is dark, and there are candles on the platform. The platform has the instructor's bike, facing all the others, as well as a laptop and sound system. A really helpful employee helped me get onto my bike and fit it to me: the seat, and handle bars had to be adjusted, and the shoes they give you "clip in" to the bike's pedals for stability. In five minutes, every bike was full.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0a30f95970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d0a30f95970c.jpg)
 Photo Credit: lindsaylohan.com
 
 The ride started at 8:30, and the instructor, Ross, got right into it. His playlist for the day was a mix of up beat hip hop, soul, and a bit of rap. Ross was part instructor and part coach. Every rider rode to the beat of the music, so everyone was moving with the same rythym. Soul Cycle's walls are covered in large murals of their slogans, which encourage "pack" riding and supporting each other by being brave enough to push yourself. Ross used the words "brave" and "courage" a ton in our 45 minute ride, but it wasn't cheesy at all. That ride was HARD. Ross encouraged all of the riders to keep pushing themselves to increase the resistance on their bikes: to be brave enough to do something that was really difficult and rather painful.

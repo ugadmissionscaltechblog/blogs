@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb097ead87970d-pi.jpg
+image: /old_images/6a01bb08213082970d01bb097ead87970d-pi.jpg
 title: Unicorn Cafe, Macarons, Green Soba, and Tofu Pudding
 categories: [global]
 status: Publish
@@ -15,22 +15,22 @@ The next day, I had lunch and dessert in the San Gabriel Valley with my grandma 
 Circus Animal Shake (pink), Unicorn Shake (purple), Cookie Monster Hot Chocolate (blue)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d265e3e3970c-pi.jpg)
+![](/old_images/6a01bb08213082970d01b8d265e3e3970c-pi.jpg)
 
 Cute macarons!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8db87d3970b-pi.jpg)
+![](/old_images/6a01bb08213082970d01b7c8db87d3970b-pi.jpg)
 
 There is also a Hello Kitty Cafe at the Irvine Spectrum, but we didn't go this time.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d265e400970c-pi.jpg)
+![](/old_images/6a01bb08213082970d01b8d265e400970c-pi.jpg)
 
 Beef Soba from Green Zone
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d265e40c970c-pi.jpg)
+![](/old_images/6a01bb08213082970d01b8d265e40c970c-pi.jpg)
 
 Tofu Pudding from Meet Fresh
 

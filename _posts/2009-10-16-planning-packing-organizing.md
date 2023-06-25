@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Andrew Freddo
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a638ba1e970c.png
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0120a638ba1e970c.png
 title: Planning, Packing, Organizing
 categories: [research]
 status: Publish
@@ -18,12 +18,12 @@ So now although I have finished my official work for the week, the work never re
 
 **Planning:** There are so many logistics that go into an interview! From flight plans to getting to LAX to getting to the school from wherever I land, there's a lot that I can think about. And knowing me, seeing that mountain makes me overwhelmed! And though I have that knot-in-stomach feeling that I'm going to forget something major (like my flight number!), I have to look at this just like every other challenge I've had here at Caltech: by *PLANNING* and *MAKING SCHEDULES*! It's what I do best, and to that end I am making a "rap sheet" for each school with all my flights, how to get everywhere, important phone numbers, and some research I've done on it. Let's just say it takes a lot of time, but I'm pretty proud of the product! And most importantly, it keeps me cool, calm, and collected.
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a63ca441970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a63ca441970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5e62fca970b.jpg)**Organizing:** In addition to all this talk about interviews, you have to remember that the coursework doesn't stop! Next week won't be too bad - one set and reading half of A Connecticut Yankee in King Arthur's Court, but I can't fall behind on them! So although I'm done with my work for THIS week, it's never too early to get started on next week's (except if you're a frosh, in which case **PASS/FAIL FROSH!!**). But enough about that, I don't need to bore you with the details of anatomy/physiology or Mark Twain.
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5e62fca970b.jpg)**Organizing:** In addition to all this talk about interviews, you have to remember that the coursework doesn't stop! Next week won't be too bad - one set and reading half of A Connecticut Yankee in King Arthur's Court, but I can't fall behind on them! So although I'm done with my work for THIS week, it's never too early to get started on next week's (except if you're a frosh, in which case **PASS/FAIL FROSH!!**). But enough about that, I don't need to bore you with the details of anatomy/physiology or Mark Twain.
 
 So Sunday begins my trek over to Chi-town! My first interview is at the University of Chicago: Pritzker School of Medicine. Let's just hope my flight gets there on time!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a63c9bab970c.jpg)[Goodbye LA, Hello Chicago!](https://) 
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a63c9bab970c.jpg)[Goodbye LA, Hello Chicago!](https://) 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b022ad388284f200d-500wi.jpg
+image: /old_images/6a0105349b8251970b022ad388284f200d-500wi.jpg
 title: Mt. Rainier National Park
 categories: [culture]
 status: Publish
@@ -14,13 +14,13 @@ In the national park, there are both meadows and steep mountains, with waterfall
 After visiting Myrtle Falls (above), my family hiked the Bench and Snow Lake trails, which winds past a meadow to Bench Lake, then through a forested path to Snow Lake. For most of the time, you can see Mt. Rainier in the distance as in the photo below.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c022ad3882866200d-pi.jpg)
+![](/old_images/6a01b8d28f2857970c022ad3882866200d-pi.jpg)
 This is Snow Lake! The water is really clear, and you can still see some snow in the lower left of the photo below. Actually, I later found out that there are several Snow Lakes in the region, and I guess they're all so-named because they have snow all around them in the winter months.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3620fcf200c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3620fcf200c.jpg)
 After hiking Snow Lake, we visited Reflection Lake, which is famous for the reflection of Mt Rainier in its waters. However, when we went, it was a bit too windy, and the sun probably wasn't in the right position, so we didn't really see a reflection. It was still beautiful though!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3620fe2200c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3620fe2200c.jpg)
 I really enjoyed visiting Mt. Rainier National Park :) My only complaint is that I wasn't prepared for the mosquitos! They're everywhere, and they're relentless. Wear long sleeves and don't forget your bug spray (and your camera)!

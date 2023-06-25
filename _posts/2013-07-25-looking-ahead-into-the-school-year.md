@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Michelle
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac30d037970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0192ac30d037970d.jpg
 title: Looking Ahead into the School Year
 categories: [culture]
 status: Publish
@@ -16,7 +16,7 @@ I thought I'd take a break from filling out medical school applications to share
 + Interhouse Pumpkin Carving Contest: Houses compete to carve the coolest and most unique pumpkin. The house that wins gets a dinner at Tom's. [NEW LAST YEAR, HOPING TO BECOME ANNUAL]
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac30cec1970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac30cec1970d.jpg)
 Creative pumpkins!
 + David Garibaldi Art Show and After (Paint) Party: This is my latest idea for the upcoming year. I'm hoping to hire David Garibaldi, an amazing performance painter, for a show at Caltech. I'd love to host a massive paint party for the students afterwards since everyone will be all hyped up from the show. [NEW]
 [Watch on YouTube](https://www.youtube.com/watch?v=n2GvZHvJ90o)
@@ -25,7 +25,7 @@ David Garibaldi on America's Got Talent.
 + Coffeehouse Holiday Bash: Celebrating the December holidays at our coffehouse with assorted holiday food and drinks, a cappella performances, holiday movies, trivia, cookie decorating, pictures with Santa and his "reindeer" (who was Tom's dog last year) and elves, etc... [NEW LAST YEAR, HOPING TO BECOME ANNUAL]
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901e716288970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01901e716288970b.jpg)
 Us with Santa and his elf!
 **Winter term**:
 + Winter Wonderland: I hire a company to set up a synthetic ice rink on campus near the houses along with some fake snow for sledding and snowball fights. Tom gives out lots of warm food and drinks to keep people full and happy. A white Christmas in California! [NEW TWO YEARS AGO, HOPING TO BECOME ANNUAL]

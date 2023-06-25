@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad398bb82200d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b022ad398bb82200d.jpg
 title: Olympic Sculpture Park
 categories: [culture]
 status: Publish
@@ -15,8 +15,8 @@ Behind this statue, you can vaguely make out a dock. There are a couple places t
 When I was walking and admiring the view, I saw a poor ofo bike in the water! Ofo is a bike sharing company, where you use an app to unlock a bike, ride it around the city, and leave it anywhere when you've arrived at your destination. Apparently people like to mess around with or steal the bikes though :( In Seattle, there's also limebike, another bike sharing company.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad398bb86200d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b022ad398bb86200d.jpg)
 The Puget Sound is really pretty though, especially in the summer when the skies are clear and the sun is out. I saw a lot of people running in the park or playing with their dogs. It's definitely a nice place to go for a run and hang out :)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3729a3d200c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3729a3d200c.jpg)

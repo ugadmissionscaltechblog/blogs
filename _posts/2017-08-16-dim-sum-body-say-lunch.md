@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c90e82cb970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c90e82cb970b.jpg
 title: Dim sum-body say lunch?
 categories: [clubs]
 status: Publish
@@ -16,7 +16,7 @@ We ordered way too much, but it's okay since dim sum makes great take away that 
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c90e82db970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c90e82db970b.jpg)
 We had a friend come along who has never had dim sum before and we were all super proud of him for trying all the dishes, including jellyfish and other lesser known animal parts. Better yet, he loved most of it! If you aren't an experienced dim sum eater, you are probably super confused by this point. In short, it's like tapas style breakfast/lunch dishes. If you are interested in learning more about the most popular dishes, here is [a brief guide by Serious Eats](https://www.seriouseats.com/2011/04/guide-to-dim-sum-dumplings-siu-mai-bao-chinese-steamed-buns.html).
 
 

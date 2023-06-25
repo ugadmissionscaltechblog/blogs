@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Angela Zah
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011570db5887970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b011570db5887970c.jpg
 title: If you've got no car, what else can you do?
 categories: [local]
 status: Publish
@@ -12,9 +12,9 @@ The main problem with having to car in CA, especially the LA area, is that it is
 **The Gamble House**You may be thinking, what do I care about some random person's house. That is what I thought my sophomore year when my friends asked me if I wanted to go visit it with them. Most people may know it more as Doc's House from the film* Back to The Future*. Yup! There are a bunch of houses that were designed in by the Greenes in Pasadena, and this is the most famous. If you are interested in architecture, it is a good place to go. When I visited, we mostly just walked around the outside and browsed the wayyy to expensive gift shop without buying anything. They do tours, but it is only Thurs. through Sun. I can't remember if we missed the tour, or were just unwilling to pay. Honestly, for us it was just the novelty of seeing "Doc's House" and for the amount they were charging, you could probably get into a pretty decent museum for a day. For us, it was enough to just wander around the outside of the house. It was a nice day and we just sat around the house and wandered the backyard. Here are some pictures. 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011570db5849970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b011570db5849970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011570db576a970c.jpg)For more information on the Gamble House, you can visit their website [here](https://www.gamblehouse.org/) 
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b011570db576a970c.jpg)For more information on the Gamble House, you can visit their website [here](https://www.gamblehouse.org/) 
 **The Norton Simon Museum**I would be lying if I said I actually spent a lot of time here. To be honest, the only time I went is when I accompanied a friend on a visit when she had to look at some paintings and write about them for her art history class (Yes, they have them at Caltech, even though they are few and far between). However, that does not mean the place is not worth your time if you are interested in art. When I was there it looked small, but from their website it appears to be a very large collection with works from many different periods. The building is also very nice looking with a lot of open space inside, so even though it is a small place, it feels like a very nice museum. The best part is: its FREE with your student ID. I regret not spending a day here looking at the collection in my four years at Caltech, which means you should take advantage of this awesome opportunity that is so close to Caltech
 According to their [website](https://www.nortonsimon.org/):"The
 Norton Simon Museum is known around the world as one of the most

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ω
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6d0ed14970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c6d0ed14970b.jpg
 title: Spartan Workout - Why I Drove 40 Miles in My Undies Part 2
 categories: [culture]
 status: Publish
@@ -31,20 +31,20 @@ As soon as we were getting close to the formation where we began, people were ye
 They then told us to get down on the sand and start rolling. I said some choice words in my head before getting down on the ground. The other thing I hate about beaches... sand. Sand gets everywhere no matter what you are wearing and it's the single most annoying thing about beaches. I was already angry enough at the sand for making that one mile run feel more like a three mile sprint. But, I got on the ground since they kept yelling, “No clean shirts!”
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511fb580b970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a511fb580b970c.jpg)
 
 We had to roll three times to the left and three times to the right. I don't know why, but it seemed like a lot more sand stuck to me than the average person in the formation. After that we continued our workout with sand flying everywhere. The wet sand getting everywhere was probably the most draining part of the workout.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511fb5716970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a511fb5716970c.jpg)
 **My New Training Partner**
 
 With about twenty minutes left before 11, we were told to greet the people around us and find a training partner. I paired up with the red headed dude on my left. Apparently, he was also running his first Spartan Sprint on September 13 in Temecula. We did some partner sit ups where we locked our feet together and came up for high fives along with some partner planks and burpees. It was comforting to know that I wasn't the only one who was getting destroyed by the workout. He had also ran the Spartan Beast distance and was just as worn out as I was.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511fb5875970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a511fb5875970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511fb5865970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a511fb5865970c.jpg)
 
 
 **The Journey Back**
@@ -73,7 +73,7 @@ Cotton clothing is not my friend if I'm going to get soaked. My running shoes wi
 Sure, I learned some more useful things too from when the guy with the bullhorn kept telling us, “When you don't think you can do any more, you are physically capable of doing 20 times more!” I'm not sure how scientifically sound that was, but it definitely pushed me to crank out more push ups and burpees. I also remembered how much I abhor the beach and the next morning I woke up sore as I've ever been but at least I had a new t-shirt to show for it. Would I do it again? Definitely.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511fb56c6970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a511fb56c6970c.jpg)
 
 
 

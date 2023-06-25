@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Noelle
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8e8a560970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8e8a560970b.jpg
 title: Succulents at the Huntington Gardens
 categories: [culture]
 status: Publish
@@ -13,15 +13,15 @@ What type of plant is prickly and ugly—nothing but a nuisance? Not cacti, I’
 *It's a brain! It's a plant! It's a succulent!*
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8e8a569970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8e8a569970b.jpg)
 *Cute little cactus*
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8e8a56d970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8e8a56d970b.jpg)
 *Textures*
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8e8a571970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8e8a571970b.jpg)
 *Your stereotypical succulent*
 Meeting all these cool cacti made the Desert Conservatory one of my favorite parts of the Huntington. Maybe being prickly isn't such a bad thing after all.
 

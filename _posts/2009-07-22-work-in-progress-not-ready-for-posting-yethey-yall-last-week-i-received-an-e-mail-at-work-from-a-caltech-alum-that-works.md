@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01157223626a970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01157223626a970b.jpg
 title: Lunch with a Caltech Alum!
 categories: [research]
 status: Publish
@@ -23,13 +23,13 @@ And her take on her Caltech education?--she said she wouldn't trade anything for
 
 All in all, it was nice to talk to someone that has been right where I am at this moment...not to mention, the Texas BBQ was yummy as usual!
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0115722368a0970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0115722368a0970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0115712ef549970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0115712ef549970c.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b011572236bb1970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b011572236bb1970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0115712ef81f970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0115712ef81f970c.jpg)

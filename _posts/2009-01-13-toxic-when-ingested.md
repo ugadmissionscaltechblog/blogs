@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jordan Theriot
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b010536c239f2970b-500wi.jpg
+image: /old_images/6a0105349b8251970b010536c239f2970b-500wi.jpg
 title: Toxic When Ingested
 categories: [research]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fce8befc970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01a3fce8befc970b.jpg
 title: Eat
 categories: [clubs]
 status: Publish
@@ -21,20 +21,20 @@ And actually, this was from a package from [H-mart](https://www.hmart.com) that 
 I know, I know, you probably have IHOP at home, so this isn't as exciting. I was slightly disappointed, too. I'm convinced that the pancakes from Texas IHOPs are larger than the ones here in SoCal, but hey, everything's bigger in Texas, right? This particular IHOP run was super duper exciting, though, because it was my BFF/roommate's very first time at IHOP. (She's from Indiana, bear with me. Just kidding. She's great. ♥) It was also the first time for my other friend, Benzi. They were both so wide-eyed and amazed and it was just the perfect start to this term. Here are some photos documenting the occasion. They kind of speak for themselves.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511987195970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a511987195970c.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73da37e00970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73da37e00970d.jpg)
 **3. Sushi Buffet.**
 And then this past Saturday evening after [MAD Day](https://caltech.typepad.com/caltech_as_it_happens/2014/04/MADD.html), Avery house went out for sushi buffet, which was partially subsidized thanks to the social team. It was totally worth. I was too busy stuffing my face to take many pictures, but here's a small fraction of we got:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fce8c24f970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fce8c24f970b.jpg)
 Oops that was the aftermath. Let's try this again...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fce8c2de970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fce8c2de970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73da37d45970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73da37d45970d.jpg)
 So that's kind of it for now. Thanks for reading, lovelies! See you next weekend! I'll probably be exercising a lot... (;

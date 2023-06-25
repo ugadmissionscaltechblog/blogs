@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kt Brennan
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f313f4b6970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0133f313f4b6970b.jpg
 title: Chitenje How-to
 categories: [culture]
 status: Publish
@@ -15,10 +15,10 @@ It's a rectangular piece of fabric used as a wrap over a skirt, to carry childre
 Being stuck in doors with all the rain the past few days, my fellow volunteers and I constructed a chitenje wearing tutorial!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f313f8cc970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133f313f8cc970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348638a86a970c.jpg)Step 4: Take the leftover fabric on your left side, draw it to the right across your front, and tuck the end in!
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01348638a86a970c.jpg)Step 4: Take the leftover fabric on your left side, draw it to the right across your front, and tuck the end in!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01348638ab3f970c.jpg)In other news, I spent today at a local game reserve hiking and looking for impala. The scenery was beautiful, but the only "wildlife" I could see were goats! 
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01348638ab3f970c.jpg)In other news, I spent today at a local game reserve hiking and looking for impala. The scenery was beautiful, but the only "wildlife" I could see were goats! 
 -Kate

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Chengyi L
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac2b9221970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0192ac2b9221970d.jpg
 title: Yakatate!! Japan(ese Milk Bread)
 categories: [global]
 status: Publish
@@ -20,11 +20,11 @@ I'm sure you can all read the recipe yourself, so I'll spare you the rambling. H
 **Protip: Let the yeast come out of hibernation a little bit by putting it in a soup of lukewarm water and flour before you dump it into the dough. **The recipe I used was kind of bad and didn't tell me to do this, so my dough didn't really rise much in the time it said it would. My bread probably would've turned out larger and fluffier if I had revived the yeast before mixing it. ****
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac2df993970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac2df993970d.jpg)
 After that, I stuck the bread in the oven for long enough to watch one episode of anime (Kamisama no Inai Nichiyoubi, or Sunday Without God, which is a terrible adaptation of a decent light novel series). The end result actually looked pretty great despite all the mistakes in the middle of making the dough...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac2dfc03970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac2dfc03970d.jpg)
 It was pretty magical seeing the mess of a doughball turn into something that looks and smells edible!
 **Results:**
 Delicious. There is no doubt that this bread is delicious. It's soft and moist with a hint of sweetness, and, before I knew it, I had eaten 1/4th of the whole loaf. Oops. 

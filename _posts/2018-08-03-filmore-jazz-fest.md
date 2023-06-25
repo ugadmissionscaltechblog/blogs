@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b022ad3609465200c.jpg
+image: /old_images/6a0105349b8251970b022ad3609465200c.jpg
 title: Filmore Jazz Fest
 categories: [global]
 status: Publish
@@ -15,7 +15,7 @@ The festival wasn’t only for listening to the cool music, although I did a fai
 My roommate loves swing dancing, so we visited an area they had set up specifically for that. After a while of dancing with some of the other people who had shown up, she literally dragged a couple of her friends on stage to start dancing with her. She managed to get us all to participate in a lesson they held as well, so I would say it was definitely a win for her.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b022ad3609469200c.jpg)
+![](/old_images/6a0105349b8251970b022ad3609469200c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b022ad3609461200c.jpg)
+![](/old_images/6a0105349b8251970b022ad3609461200c.jpg)
 

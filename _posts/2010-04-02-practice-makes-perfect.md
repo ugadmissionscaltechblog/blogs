@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dannah Almasco
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01347f99d1cd970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01347f99d1cd970c.jpg
 title: Practice Makes Perfect
 categories: [clubs]
 status: Publish

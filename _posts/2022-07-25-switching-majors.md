@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-07-25 03:40:29 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/
+image: /
 tags: []
 title: Switching Majors
 author: rjiang

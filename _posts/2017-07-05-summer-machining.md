@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09aa5230970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb09aa5230970d.jpg
 title: Summer Machining 
 categories: [research]
 status: Publish
@@ -17,13 +17,13 @@ For our first class, we learned how to use a Johnson saw, and a lathe. We cut so
 
 *Johnson Saw*
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9072119970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9072119970b.jpg)
 *Lathe*
 
 While using the lathe, I was moving the blade in the Y direction and I got confused between clockwise and counterclockwise on the wheel. I almost lobed off an entire end of the rod that I had so painstakingly shaped. Thankfully I caught myself, but there is now a divot in one end. Now, a near miss is not as bad as an ACTUAL miss.
 
 The final step is to thread the hole we had tapped. Well the thing about threading is that it can only be done once, otherwise the threads will become messed up. I was so eager to finish up (I was getting hangry) that I only threaded the hole half-way. Since I can't go back in with the tool, it meant that I now need to re-do the whole part. To sum up the experience:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2916fd9970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2916fd9970c.jpg)
 On the bright side, I can get some extra practice on the machines...
 

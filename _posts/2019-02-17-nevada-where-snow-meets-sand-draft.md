@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sarah
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad3e3c36a200b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b022ad3e3c36a200b.jpg
 title: Nevada
 categories: [culture]
 status: Publish
@@ -31,34 +31,34 @@ Stay tuned into my next post to hear about the non-geologic places we got to see
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad39e0b3b200c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b022ad39e0b3b200c.jpg)
 
 Some hole-y sandstone. Fluids dissolved less stable regions of the rock, creating the little pockets you see.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad39e0b3f200c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b022ad39e0b3f200c.jpg)
 
 This rock looks like a painting!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad39e0b41200c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b022ad39e0b41200c.jpg)
 
 Ice on my tent in the morning. It was very cold!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad39e0b45200c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b022ad39e0b45200c.jpg)
 
 My favorite picture. You can really see the layers within the sandstone here.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad39e0b49200c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b022ad39e0b49200c.jpg)
 
 Petroglyphs.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad39e0b4d200c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b022ad39e0b4d200c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad39e0b4f200c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b022ad39e0b4f200c.jpg)
 
 Our trusty "Yukon," one of the finest members of the GPS fleet of vans.
 

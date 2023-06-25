@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yifei Huang
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0154366dc979970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0154366dc979970c.jpg
 title: How To Get To Cambridge
 categories: [culture]
 status: Publish
@@ -18,8 +18,8 @@ Everybody says that Cambridge is like Hogwarts, but the similarities were appare
 4. Sit back and enjoy the beautiful **English countryside**... there are lots of sheep and cows.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0154366dc84b970c.jpg)5. After arriving at Cambridge station, find a **thestral-driven taxi cab** and it will take you to school. (ok, not really, but I'd like to think so...)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0154366dc84b970c.jpg)5. After arriving at Cambridge station, find a **thestral-driven taxi cab** and it will take you to school. (ok, not really, but I'd like to think so...)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0162fbef9bb1970d.jpg)6. And TADA, you've arrived at your castle-school. Like magic, huh?
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0162fbef9bb1970d.jpg)6. And TADA, you've arrived at your castle-school. Like magic, huh?
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0154366dc73e970c.jpg)That's the main courtyard of Corpus Christi college, where I'm living this term! :D
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0154366dc73e970c.jpg)That's the main courtyard of Corpus Christi college, where I'm living this term! :D

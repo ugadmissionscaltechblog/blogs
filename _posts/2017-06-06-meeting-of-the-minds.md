@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09a00250970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb09a00250970d.jpg
 title: Meeting of the Minds
 categories: [research]
 status: Publish
@@ -22,6 +22,6 @@ The poster session after the talks was also packed. Around 70 posters were prese
 Here is my poster:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d287226d970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d287226d970c.jpg)
 I'm very proud of it, so please, only compliments in the comments :P
 

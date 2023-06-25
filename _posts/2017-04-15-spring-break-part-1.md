@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8e8cd6e970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8e8cd6e970b.jpg
 title: Spring Break part 1
 categories: [culture]
 status: Publish
@@ -14,19 +14,19 @@ Spring break was two weeks this year, and I packed a ton of sleeping and reading
 The theme of the show this year was Holland, and the Philly convention center was packed floor to ceiling with tulips, daffodils, and windmills.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8e8cd72970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8e8cd72970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8e8cd79970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8e8cd79970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb098bff5f970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb098bff5f970d.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb098bff63970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb098bff63970d.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8e8cd84970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8e8cd84970b.jpg)
 
 My favorites, by far, were the bright blue tulips that were in the center of the show. I also saw some gorgeous orange ones that I'll have to track down some day.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dan Obenshain
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5c145b7970c.png
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0120a5c145b7970c.png
 title: Getting Cables or A Tour of Pasadena
 categories: [global]
 status: Publish
@@ -24,4 +24,4 @@ Eventually, I got a little lost. I had been walking along Orange Grove, but even
 
 All in all, it was a 12 mile trip. I could have chosen a much faster route, and I certainly could have gone to a closer store, but it was an adventure!
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5c13d1a970c.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a5c13d1a970c.png)

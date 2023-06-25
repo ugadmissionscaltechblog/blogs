@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ketaki Panse
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd0ce5da970b.png
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd0ce5da970b.png
 title: Getting scooped
 categories: [research]
 status: Publish
@@ -26,15 +26,15 @@ The profs and students agreed that throwing away more than four months of hard w
 2) Rakshak's interface is intuitive and easy to use, with more visuals and less text. The first screen below shows how a user might pair his/her wearable device with the application by dragging an idealized wristband toward the icon representing his/her phone. The second is an easily accessed preferences, settings and history menu. The last screen is a possible method for choosing a Neighborhood radius in a visually appealing manner.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dc7d149970d.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dc7d149970d.png)
 3) The logo and application name are cleverly designed. Anastasia designed the logo to evoke a city block with intersecting streets. The app name, Bloc, has three meanings: a group of people, to defend, and a neighborhood. Each meaning relates to a unique aspect of the product.Users can choose the logo color scheme to match either the color or accents of their wearable device.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511bc86f6970c.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a511bc86f6970c.png)
 4) Rakshak's BLE (Bluetooth Low Energy) technology allows them to sell their product for a lower price than spotNsave's product. Furthermore, users will not have to recharge their devices each day. With BLE, a coin-cell battery can last up to a year before needing to be replaced.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dc7d29a970d.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dc7d29a970d.png)
 With all that in mind, it makes sense that Rakshak is continuing with development and, eventually, manufacturing. It’s great that a trendy personal emergency device already exists for the Indian market. A new product, especially one that's cheaper and sleeker, can only benefit the customer.
 
 That's all for now,

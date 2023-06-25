@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Chengyi L
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01901dd3c0e7970b-800wi.jpg
+image: /old_images/6a0105349b8251970b01901dd3c0e7970b-800wi.jpg
 title: Omeletvours 
 categories: [culture]
 status: Publish
@@ -14,18 +14,18 @@ I have no idea what to cook today. The ingredients we have left are the nappa ca
 1. Obtain eggs and things to put in omeletes. 
 2. Turn things to put in omelets into small pieces. 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01901dd3c489970b-800wi.jpg)3. Heat things in pan until GOOD ENOUGH.
+![](/old_images/6a0105349b8251970b01901dd3c489970b-800wi.jpg)3. Heat things in pan until GOOD ENOUGH.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01901dd3c6c0970b-800wi.jpg)4. Whatever.
+![](/old_images/6a0105349b8251970b01901dd3c6c0970b-800wi.jpg)4. Whatever.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b019103c9bcdf970c-800wi.jpg)So it turns out that omelets are actually kind of hard to make. It'd probably help if we tried to pile less stuffing onto the egg before we tried to omlete-ify it, but it can't be helped. 
+![](/old_images/6a0105349b8251970b019103c9bcdf970c-800wi.jpg)So it turns out that omelets are actually kind of hard to make. It'd probably help if we tried to pile less stuffing onto the egg before we tried to omlete-ify it, but it can't be helped. 
 Suddenly, Friend L showes up out of nowhere and decides to try her hand at making an omelete. Using the power of duelweilding spatulas, she manages to create the perfect omelete despite having no prior omelete cooking skills! 
 
 The finished product: 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b019103c9d22e970c-800wi.jpg)
+![](/old_images/6a0105349b8251970b019103c9d22e970c-800wi.jpg)
 I guess the moral of this story is: even if you don't know how to cook, you can still make food. 
 (The omelets were delicious.)
 

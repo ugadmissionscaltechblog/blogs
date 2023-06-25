@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9290a8f970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9290a8f970b.jpg
 title: Michelin Star Soya Sauce Chicken Rice
 categories: [global]
 status: Publish
@@ -15,9 +15,9 @@ We headed out early to take the subway to Chinatown, arriving around 11.
 It took us to find the original stall, since we first ran into the air-conditioned outlet just outside. Even though it was just past 11, there was a decent line at the original stall that took about 30 minutes.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c01bb09cc2d2b970d-pi.jpg)
+![](/old_images/6a01b8d28f2857970c01bb09cc2d2b970d-pi.jpg)
 I got the classic soya sauce chicken with rice! There's also an option to get it with flat noodles. I liked the chicken, but personally the rice was not for me. The sauce in the rice was a bit off. A few posts ago, I mentioned eating great Hainan chicken rice, and I would recommend that more than this.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9290a96970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9290a96970b.jpg)
 Although it might not have been the best food I've ever had, it was my first time eating Michelin star rated food, and I'm happy I got that chance!

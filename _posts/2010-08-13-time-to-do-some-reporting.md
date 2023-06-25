@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Megan Lo
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0134863066e9970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b0134863066e9970c.jpg
 title: Time to do some reporting.....
 
 categories: [research]
@@ -18,19 +18,19 @@ As interesting as it may (or may not......) sound, the work I do is actually pre
 Another thing I had to do recently? A powerpoint presentation for group meeting. Here's a slide from it so you can see some of the progress I've been making these past seven weeks:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f30cfcbf970b.jpg)Look!! It's more... gels! But this time, very successful gels if I do say so myself. I was super nervous for this presentation so I woke up an hour early to rehearse. Thankfully everyone in my lab is very supportive and didn't ask too many difficult questions as I was worried they might (well, everyone except my professor, but I guess that was expected). He had many questions about the yield of my protein, the types of protein I'm seeing better expression with, etc. I felt bad that I couldn't answer all of them and had to rely on my mentor for help with some of the questions, but I felt better when some of the other SURF students who presented after me had to do the same.
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133f30cfcbf970b.jpg)Look!! It's more... gels! But this time, very successful gels if I do say so myself. I was super nervous for this presentation so I woke up an hour early to rehearse. Thankfully everyone in my lab is very supportive and didn't ask too many difficult questions as I was worried they might (well, everyone except my professor, but I guess that was expected). He had many questions about the yield of my protein, the types of protein I'm seeing better expression with, etc. I felt bad that I couldn't answer all of them and had to rely on my mentor for help with some of the questions, but I felt better when some of the other SURF students who presented after me had to do the same.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b013486309010970c.jpg)Here's another slide that details the fermentation process and the LCST (lower critical solution temperature) nature of the AECM proteins I am trying to purify.
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b013486309010970c.jpg)Here's another slide that details the fermentation process and the LCST (lower critical solution temperature) nature of the AECM proteins I am trying to purify.
 
 Since I started SURF late, I still have three more weeks to better improve my protein yield (my mentor and I have started looking into alternative methods of purification) and are purify even differently cross-linked proteins. Hopefully I'll some good results for my final report!!
 And of course, no blog post is complete without some pictures of food! So, without further ado...
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133f30d16b8970b.jpg)More dimsum :) So this past weekend, I went with another group of friends to dimsum. And this time I didn't forget to take a picture of the food before we consumed it all. This time I really pigged out. Since many of the friends I went with can speak Cantonese (instead of Mandarin like the other friends I went with) we had a much easier ordering dishes as most of the servers speak Cantonese. But, despite pigging out even more, I still only had to spend a thrifty $8!
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133f30d16b8970b.jpg)More dimsum :) So this past weekend, I went with another group of friends to dimsum. And this time I didn't forget to take a picture of the food before we consumed it all. This time I really pigged out. Since many of the friends I went with can speak Cantonese (instead of Mandarin like the other friends I went with) we had a much easier ordering dishes as most of the servers speak Cantonese. But, despite pigging out even more, I still only had to spend a thrifty $8!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0134863092f1970c.jpg)Ahh, white chocolate macadamia cookies. My favorite!! So, I actually baked these cookies from scratch (not from pre-made cookie dough thank you very much!) a while ago, but since I still have some left I thought I would share a picture with you guys.
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0134863092f1970c.jpg)Ahh, white chocolate macadamia cookies. My favorite!! So, I actually baked these cookies from scratch (not from pre-made cookie dough thank you very much!) a while ago, but since I still have some left I thought I would share a picture with you guys.
 
 Although I am very busy researching, it's still nothing compared to the time management skills you need during the school year (what with having to go to classes and having many problems sets to do along with extracurricular activities). A nice thing about staying at Caltech for the summer is that you still have all the amenities that Caltech has to offer but you actually have time to take full advantage of them. I love baking, but I was always too tired (or lazy) during the school year to actually bake. But, now that I had time this summer, I decided to bake a batch. I had to secretly stash them away before all my friends gobbled them up.. but maybe I should have let them take more because it's taking me a long to finish them all by myself haha. I guess my eyes were larger than my stomach...
 

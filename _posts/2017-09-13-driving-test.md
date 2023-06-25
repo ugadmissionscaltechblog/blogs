@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb09a3c88f970d01b8d2a25728970c-pi.jpg
+image: /old_images/6a01bb09a3c88f970d01b8d2a25728970c-pi.jpg
 title: Driving Test
 categories: [culture]
 status: Publish

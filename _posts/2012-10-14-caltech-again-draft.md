@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura Santoso
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c32545cfe970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017c32545cfe970b.jpg
 title: Caltech, again. 
 categories: [research]
 status: Publish
@@ -20,7 +20,7 @@ Rotation: 240 prefrosh get to know 8 houses and the people in those houses in 8 
 Paint Party: Fleming's social team worked hard to make this happen. Challenges included making a dance party with pre-frosh not awkward and most importantly not leaving a massive paint and mud mess in the courtyard and hallways. Basically, the party was two hours of dancing to music while splattering everyone around you with paint and getting showered with water. You can imagine what messy repercussions could ensue, but I am ecstatic to say that we escaped with no charges from housing! Awesome fun + No trouble = Great success.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d3c82b63b970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017d3c82b63b970c.jpg)
 **My First Term Classes**
 
 ACM 95a: Introductory Methods of Applied Mathematics - basically complex calculus - think contour integrals.

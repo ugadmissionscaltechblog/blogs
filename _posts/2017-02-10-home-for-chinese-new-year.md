@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0974b7f0970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb0974b7f0970d.jpg
 title: Home for Chinese New Year
 categories: [clubs]
 status: Publish

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sakthi Vetrivel
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b7c80685b6970b01bb090ab0fd970d-320wi.jpg
+image: /old_images/6a01b7c80685b6970b01bb090ab0fd970d-320wi.jpg
 title: Midnight Donuts 
 categories: [culture]
 status: Publish

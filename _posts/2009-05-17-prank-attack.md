@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Wesley Chen
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01156f957d6e970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01156f957d6e970c.jpg
 title: Prank Attack!
 categories: [culture]
 status: Publish
@@ -16,14 +16,14 @@ Being half-asleep, I first thought, "Aw, how nice. They left us a nice message!"
 Like this:
 And if that wasn't enough, they saran-wrapped the floor:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0115708b8c28970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0115708b8c28970b.jpg)
 And they covered our stairwell, our shoes, and even our markers.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b0115708b8d2d970b-320wi.jpg)
+![](/old_images/6a0105349b8251970b0115708b8d2d970b-320wi.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0115708b8c9f970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0115708b8c9f970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0115708b8c9f970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0115708b8c9f970b.jpg)

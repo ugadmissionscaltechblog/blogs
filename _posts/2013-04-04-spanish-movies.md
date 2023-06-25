@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Rainbow Beaver
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c383aac23970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017c383aac23970b.jpg
 title: Spanish Movies
 categories: [research]
 status: Publish
@@ -17,14 +17,14 @@ The first gay themed movie is “Fresa y Chocolate” (Strawberry and Chocolate,
 My friends and I took this is an excuse to look up all the gay slang we could find for Spanish. I think the best word we picked up was a toss-up between “comehombres” literally man-eater, or “reina”, which literally translates to queen, but has a meaning much closer to diva. 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d4269d1be970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017d4269d1be970c.jpg)
 
 
 The latest movie we watched, which reminded me about all of this, was “Soldados de Salamina”. It’s based on an eponymous book by Javier Cercas, who is a fantastic author. The book is an intellectual detective story and a historical investigation. The set-up and writing remind me a lot of Umberto Eco.
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c383aad82970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c383aad82970b.jpg)
 If you have read the book, you would know the male protagonist, named completely coincidentally Cercas, is dating a girl named Conchi. Now, in the movie, the director replaced the male protagonist with a female one, also coincidentally with the last name Cercas. The director changes the relationship up between the two characters and makes it a more significant focus of the movie relative to the book. The characters do have real depth and realistic dates and such, and they are not merely one-dimensional fan-service objects. The treatment of their relationships was impressively realistic and occasionally hit a little too close to home. 
 
 **I definitely recommend all these movies. They're so fantastic!

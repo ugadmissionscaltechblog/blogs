@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yubo
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c748632c970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c748632c970b.jpg
 title: Kip Thorne on Interstellar 
 categories: [global]
 status: Publish

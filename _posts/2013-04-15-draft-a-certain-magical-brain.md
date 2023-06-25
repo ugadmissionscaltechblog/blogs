@@ -2,7 +2,7 @@
 layout: post
 author: Paul Z.
 
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017eea3b5d57970d.png
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017eea3b5d57970d.png
 title: A Certain Magical Mind
 categories: [culture]
 status: Publish
@@ -37,12 +37,12 @@ Unfortunately, the English Purist Church also says, 10^14 bits is 15% of a brain
 10^12 is 85%
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c38981cd5970b.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c38981cd5970b.png)
 
 It seems the other characters in the anime also end up realizing the flaw 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017d42c758f1970c.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017d42c758f1970c.png)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c3898564f970b.png)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b017c3898564f970b.png)
 -Pa"boooooom!!!!!"ul Zhang

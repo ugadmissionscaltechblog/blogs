@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jenny
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73d94d1a8970d01bb0963dee8970d-pi.jpg
+image: /old_images/6a01a73d94d1a8970d01bb0963dee8970d-pi.jpg
 title: Rare Japanese Lessons
 categories: [global]
 status: Publish
@@ -22,8 +22,8 @@ The story was well-crafted, but hearing the Japanese (there were subtitles) and 
 Have y'all ever felt that? Or am I just getting old?
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d24ab6e5970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d24ab6e5970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d24ab6e5970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d24ab6e5970c.jpg)
 jenny.
 

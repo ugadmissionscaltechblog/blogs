@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mei-Ling
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c96163d8970b.jpg
+image: /old_images/6a0105349b8251970b01b7c96163d8970b.jpg
 title: Chinese New Year Parade
 categories: [clubs]
 status: Publish
@@ -16,6 +16,6 @@ I also couldn’t resist getting boba in Chinatown - it was a great way to quenc
 
 ## LA Chinatown and Parade
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c96163d4970b.jpg)
+![](/old_images/6a0105349b8251970b01b7c96163d4970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b01b7c96163d0970b.jpg)
+![](/old_images/6a0105349b8251970b01b7c96163d0970b.jpg)

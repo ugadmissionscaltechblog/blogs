@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Karthik
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a0105349b8251970b019afffbb800970b.jpg
+image: /old_images/6a0105349b8251970b019afffbb800970b.jpg
 title: Looks Like the Carnival is in Town
 categories: [clubs]
 status: Publish
@@ -13,12 +13,12 @@ Each year, Caltech hosts a small carnival on the Beckman Mall with some of the s
 Bands such as Twin Peaks and [solo artists](https://soundcloud.com/slopycopy) from Caltech performed throughout the day at the carnival as well as Fluid Dynamics, one of Caltech's four a cappella groups (the others are Out of Context, Keytones, and Harmonic Motion). The festivities concluded with a fireworks show at approximately 7:15 pm and were followed by a showing of Pacific Rim.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b0020f1a7970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b019b0020f1a7970b.jpg)
 
 In other news,[zombies](https://agallantidea.files.wordpress.com/2011/11/westlake_zombieflyer_forhumans.jpg) are invading Caltech, and the remaining humans must defend themselves at all costs! Well, something like that; after all, with enough sleep deprivation, students can start to resemble zombies. Caltech's Nerf Club has begun yet another Humans vs. Zombies game, in which among the participants, one has been secretly designated a zombie whose goal it is to tag human players and convert them to zombies, while the humans can temporarily neutralize zombies by shooting them with Nerf guns. Of course, there are certain locations, such as Houses and bathrooms, that are safe for all players, but humans cannot hide in a safe place forever, because they must go out and acquire food codes each day through missions in various buildings (made known to the zombies as well) to survive. As a human, for now, I anticipate much tomfoolery over the next couple of days as many of the new freshmen (who are on pass/fail) start staking out classrooms and residences waiting for the perfect opportunities to convert upperclassmen into zombies. With that said, though, it looks like my roommate's arsenal of Nerf supplies should suffice for this game:
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019b0003b4ac970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b019b0003b4ac970c.jpg)
 
 For a game like HvZ, living off-campus has another benefit to it: freshmen typically know less about where things are off-campus, so the number of people who might be hiding outside my room is significantly lower. If I survive for a week, expect another post about how I did it, and if not, expect a picture of me gnawing on flesh. As I intend to wield no gun larger than a [Triad](https://nerf.wikia.com/wiki/Triad_EX-3) regularly, it is going to take some time for me to flesh out the details to build a truly airtight defense.
 

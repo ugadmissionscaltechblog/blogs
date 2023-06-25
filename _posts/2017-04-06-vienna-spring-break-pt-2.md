@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d26f7f2c970c-pi.jpg
+image: /old_images/6a01bb08213082970d01b8d26f7f2c970c-pi.jpg
 title: Vienna - Spring Break Pt. 2
 categories: [research]
 status: Publish
@@ -18,22 +18,22 @@ Vienna completely blew me away! When you are in Vienna, you are surrounded by pa
 Freud museum
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d26f7f37970c-pi.jpg)
+![](/old_images/6a01bb08213082970d01b8d26f7f37970c-pi.jpg)
 
 Schnitzel (left) and apple strudel (right)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d26f7f40970c-pi.jpg)
+![](/old_images/6a01bb08213082970d01b8d26f7f40970c-pi.jpg)
 
 Sachertorte, a Viennese chocolate cake
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb098855d1970d-pi.jpg)
+![](/old_images/6a01bb08213082970d01bb098855d1970d-pi.jpg)
 
 Hofburg Imperial Palace
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d26f7f49970c-pi.jpg)
+![](/old_images/6a01bb08213082970d01b8d26f7f49970c-pi.jpg)
 
 At the Vienna State Opera
 

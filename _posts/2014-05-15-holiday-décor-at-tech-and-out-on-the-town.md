@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Alison Lui
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511b6ec2c970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01a511b6ec2c970c.jpg
 title: Holiday Décor
 categories: [culture]
 status: Publish
@@ -19,28 +19,28 @@ Just before Thanksgiving, the yearly Lloyd Christmas Tree was put up. Organized 
 The final product. Thanks to Tyler Okamoto for this photo!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a3fd084c77970b-pi.jpg)
+![](/old_images/6a01a73da10b05970d01a3fd084c77970b-pi.jpg)
 And here we see a mugshot of the pranksters themselves. Thanks for this picture goes to Dennis Liao, the Lloyd Historian!
 Now back to Tom Mannion! We arrived at his house at 6pm and were first loaded up with sandwiches, chips, pretzels, soda, cookies, brownies, M&amp;Ms, oranges, mozzarella and cherry tomato kebabs, and chocolate covered raisins. Then we boarded the small charter bus that Tom had rented and drove off into the night. There were four stops. At all but the last one, the bus unloaded and we admired the displays from up close.
 
 First were the Huntington Gardens.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a511b6ec5f970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a511b6ec5f970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd073dbb970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd073dbb970b.jpg)
 Second was the Balian house in Altadena. The Balian family made their fortune in the ice cream business and now has a mansion close by. Tom informed us that they are well known for going over the top around the holidays, and certainly did not disappoint!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd073dd6970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd073dd6970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dc22749970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73dc22749970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd073ded970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fd073ded970b.jpg)
 Third was Christmas Tree Lane. Yes, this is the real street name. Yes, it lived up to its name. The street was lined with enormous fir trees, each one either draped with long strands of colored lights or turned into the classic triangular tree with some minimalist light strands.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73da10b05970d01a511b6ecdc970c-pi.jpg)
+![](/old_images/6a01a73da10b05970d01a511b6ecdc970c-pi.jpg)
 Fourth was an especially festive neighborhood. Unfortunately, taking pictures of this area was too difficult since we didn’t get off the bus. Imagine though, each block had a different holiday theme and big wooden cut outs (at least 5 feet tall) for each house that sat in front of each mailbox. Themes included doves with olive branches, Christmas trees with cut outs for real ornaments, globes with the word “Peace” painted on in different languages, and some *massive* candy canes. On top of this, every – and I mean EVERY – house had some sort of extra decorations. These ranged from the basic lights on rooftops to a lawn completely covered in lights and a house that had three different Christmas figures riding in blow up airplanes with real spinning propellers. Can you say winter wonderland?
 Here's to more colorful days like these.
 

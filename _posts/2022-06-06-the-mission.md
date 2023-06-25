@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-06-29T20:00:26.000+00:00
-image: "https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/274362642_1066083627289117_7685991158024664000_n (1).png"
+image: "/images/2022/guutz/274362642_1066083627289117_7685991158024664000_n (1).png"
 tags: []
 title: THE MISSION...
 author: magutier
@@ -19,7 +19,7 @@ _In hindsight, it probably shouldn't have taken a flat tire for us to realize th
 
 _But_ [**_the desert takes the weak..._**](https://twitter.com/secretsofdune/status/1425866472354631683)
 
-![Five students next to a pickup truck with a flat tire pulled to the side of a dirt road, in front of a desolate landscape with brown mountains in the distance.](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_565903071542655.jpeg)_(Left to right: Florida Man, **Subbasement (Where electrical engineering students famously spend all their time working), Bethany Ehlmann (Crazy cool professor, head of the NASA JPL Lunar Trailblazer mission, and the reason most of us ended up here), Luminous Plasma (AKA upper atmospheric lightning, something all of us were interested in studying on THE MISSION!)** Scientist, Subbasement Dweller #2. Not pictured: Roblox's Newest Intern, Former Desert Militiaman)_
+![Five students next to a pickup truck with a flat tire pulled to the side of a dirt road, in front of a desolate landscape with brown mountains in the distance.](/images/2022/guutz/received_565903071542655.jpeg)_(Left to right: Florida Man, **Subbasement (Where electrical engineering students famously spend all their time working), Bethany Ehlmann (Crazy cool professor, head of the NASA JPL Lunar Trailblazer mission, and the reason most of us ended up here), Luminous Plasma (AKA upper atmospheric lightning, something all of us were interested in studying on THE MISSION!)** Scientist, Subbasement Dweller #2. Not pictured: Roblox's Newest Intern, Former Desert Militiaman)_
 
 How did we end up here? That's a long story. But first, I'm afraid we haven't been properly introduced. I'm Michael Gutierrez ("Guutz"), a first-year undergraduate studying Mechanical Engineering. (It's also my first blog post -- hello!)
 
@@ -40,12 +40,12 @@ But that wasn’t going to stop us! If NASA wasn't taking us to space, we would 
 
 ***
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-cubesat-art.jpg)
+![](/images/2022/guutz/Optimized-cubesat-art.jpg)
 _(Inspirational lab art by my friend Jessie! Check out her work on Instagram_ [**_@cloudseverywhere_**](https://www.instagram.com/cloudseverywhere/) _)_
 
 Fast forward to May. (Time is weird at Caltech.) After a few follow-up emails to the club's faculty advisor, Prof. Ehlmann (same one), we finally got card access to the room-that-everyone-thought-was-just-a-closet next to the Pellegrino Space Structures Lab. We immediately set to work designing the science payload (essentially just a video camera, a GPS, and an ultraviolet light sensor to look for [**luminous plasma**](https://www.albany.edu/faculty/rgk/atm101/sprite.htm)!)
 
-![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/IMG_0696%20(1).jpg)
+![4 students looking very proud of their tiny, messy lab! Or, as they like to call it, home <3 (is that cheesy enough?)](/images/2022/guutz/IMG_0696%20(1).jpg)
 Besties!
 
 We then moved on to the main event: getting to space. Or close enough to it, anyway. We would launch a weather balloon, we decided, which would get our payload high enough to see the blackness of space -- but not high enough to violate FAA regulations.
@@ -54,7 +54,7 @@ This idea came from a project that a couple of our team members, the Moore Lab S
 
 ***
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/received_1726794127666486-a.jpeg)
+![](/images/2022/guutz/received_1726794127666486-a.jpeg)
 
 Up next were the thrilling tasks of applying for club funding, ordering parts, and lining up a helium supplier for the balloon. After all, less than a month before the drop-dead launch date is as good a time as any to start! (It actually kind of was, because nothing -- literally nothing -- motivates better than a fast-approaching deadline. \[Did you know that a group of Caltech students is called a _procrastination_? \])
 
@@ -64,7 +64,7 @@ But that was where our luck ended.
 
 About two days later, I woke up to a terrifying sight: FOUR unread emails from the Caltech Mail Center.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/mailservices.png)
+![](/images/2022/guutz/mailservices.png)
 
 The Mail Center Associates may be the most powerful beings within the Institute. Not even the smallest envelope will make it past 1200 E. California Blvd. without them knowing about it. If they so desired, they could bring the entire campus's operations to a screeching halt with a flick of the wrist. So when one of them manually sends you an email with that many exclamation marks in the subject line, you book it to the Mail Center.
 
@@ -72,7 +72,7 @@ So I did, and the Associate was only too happy to present me with an armful of p
 
 To make matters worse, later that day we got an email from AirGas Corp., saying "sowwy (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄).. we awen't accepting new customers wight now (*^.^).., cause of the gwobal hewium shortage 😭" (roughly transcribed). Those cowards. Don't they know it's our American right to dump scarce natural resources into the atmosphere?
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-roblox_intern.PNG)
+![](/images/2022/guutz/Optimized-roblox_intern.PNG)
 
 With less than two weeks until launch day, we were running out of options. But while the rest of us were recalculating, there was a glimmer of hope: the code for the payload computer was coming along nicely, courtesy of our local CompSci major (and recent hire at ROBLOX!), Shivansh.
 
@@ -80,7 +80,7 @@ That is, until one day his COVID surveillance sample came back positive. And the
 
 ***
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/late-nights.JPG)
+![](/images/2022/guutz/late-nights.JPG)
 
 5 days remained. And the payload still didn't work. The week ahead would prove to be the busiest, most challenging, and most rewarding of my entire Caltech experience up to this point.
 
@@ -104,11 +104,11 @@ It all came to a boil the night before the launch. The whole team was crammed in
 
 ***
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-last-minute-debugging.png)_Never too late for debugging!_
+![](/images/2022/guutz/Optimized-last-minute-debugging.png)_Never too late for debugging!_
 
 It was a stunning morning in the desert; a little windy, but otherwise good launch conditions. Aside from an eleventh-hour phone call from ROBLOX's Newest Intern asking us to pull one more code update from Github (he was lucky we had cell service), the setup went quite smoothly. In NASA JPL tradition, we all munched on a handful of peanuts for good fortune (and then decided to throw the rest of the bag in with the science payload box. We've got enough lift -- can't hurt! \[They say each peanut adds +1dB to the radio sensitivity link budget! /j\])
 
-![Seconds after launch, against a deep blue sky, the balloon lifts off with the science payload in tow!](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/seconds-after-launch.png)
+![Seconds after launch, against a deep blue sky, the balloon lifts off with the science payload in tow!](/images/2022/guutz/seconds-after-launch.png)
 
 The fully-inflated balloon was truly a sight to behold. Its less-than-spherical complexion glowed in the early morning sun, and its buoyancy bucked against our nitrile-gloved grip with the spirit of a wild mustang, yearning to be untethered from the earth.
 
@@ -118,7 +118,7 @@ Astoundingly, my makeshift antenna setup was able to keep relatively steady cont
 
 But our signal strength started dropping sharply soon after. I wasn't concerned at first, but then at 09:47, we received a garbled signal from the payload, and then... nothing.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/last-words.png)
+![](/images/2022/guutz/last-words.png)
 
 ***
 
@@ -128,7 +128,7 @@ Also, the last two plot points sent before the battery banks (presumably) died s
 
 It seemed our child would be lost forever in a distant, unknown location. But at the moment we started packing up to head home, by some miracle, one last transmission from the payload trickled in. It had (crash?)landed around 12:00, apparently in the middle of the desert, and we knew exactly* where. After a brief discussion, we punched the coordinates into Google Maps and hit "GO."
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/flight-path.png)
+![](/images/2022/guutz/flight-path.png)
 
 ***
 
@@ -138,7 +138,7 @@ _In hindsight, it probably shouldn't have taken a flat tire for us to realize th
 
 _But_ _the desert takes the weak..._
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/Optimized-flat-tire.png)
+![](/images/2022/guutz/Optimized-flat-tire.png)
 
 The desert landscape was seriously awesome, and the adventure was getting more exciting by the second, but we were actually in quite a sticky situation. Fortunately, accompanying us was Saren's father (an actual Former Desert Militiaman) who knew not only how to patch a tire, but also how to survive weeks in hot, arid climates (just in case). Still, our next move was unclear. Attempt to return the steep, rocky way we came? Or pursue the last couple miles of this tire-shredding terrain, and find a different way out? Or even hike to ground zero on foot?
 

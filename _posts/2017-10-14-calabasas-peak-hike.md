@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2b0502d970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2b0502d970c.jpg
 title: Calabasas Peak Hike
 categories: [research]
 status: Publish
@@ -13,12 +13,12 @@ The Calabasas Peak Trail is in the Santa Monica Mountains, where there a lot of 
 You can get peeks of the surrounding view as you hike.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09c91429970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09c91429970d.jpg)
 We hiked for about 2-2.5 hours total, heading back down as the sun was setting.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09c9143d970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09c9143d970d.jpg)
 Go hiking in the SM mountains! It's fun :)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2b05044970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2b05044970c.jpg)

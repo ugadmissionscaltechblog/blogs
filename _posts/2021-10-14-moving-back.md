@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://ik.imagekit.io/u9ndqdgam20/images/2021/09/IMG_2922 2.jpg
+image: /images/2021/09/IMG_2922 2.jpg
 title: 'Moving Back: FCC at Caltech'
 author: Leah Griffith
 categories:
@@ -16,7 +16,7 @@ FCCs are Caltech’s version of an orientation leader, whose main job is to intr
 
 Freshman move in a week before school, but these FCCs will have moved in a couple days before you. Many upperclassmen will have been living on campus before fall term starts for a variety of reasons: there's Caltech summer research, pre-season sports, and your FCCs who all move in before frosh. Upperclassmen who have already explored campus are always eager to show new students around or to be a lunch buddy. Your FCCs, however, are your main point of contact.
 
-![](https://ug-admissions-caltech-blog-publish.s3.us-west-1.amazonaws.com/images/2021/09/IMG_2921+2.jpg)
+![](/images/2021/09/IMG_2921+2.jpg)
 
 This year, with COVID regulations in place, FCCing became all the more important. Since there were so many regulations in place for students meeting each other, FCC small groups were students' primary method of making friends before term. I know I was nervous to meet my freshman group, since I had only been on campus for less than a year. My freshman year, COVID sent everyone home after spring break, and last week was the first time I had been back on campus - now as a junior. I was apprehensive since I felt that I didn't know much more than the frosh in terms of campus living and resources.
 

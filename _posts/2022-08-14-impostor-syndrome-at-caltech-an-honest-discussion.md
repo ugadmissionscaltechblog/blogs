@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-08-14 21:00:00 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/impostor_title.png
+image: /images/2022/guutz/impostor_title.png
 tags: []
 title: Impostor Syndrome at Caltech
 author: magutier
@@ -16,7 +16,7 @@ Studying at Caltech is a lot like crewing a spaceship. You get to work alongside
 
 Stress and mental health are matters I take very seriously. I could (and probably will) write an entire blog post about it, but for today I want to explain, and hopefully help you avoid, one aspect of it that particularly affects prospective and incoming college students.
 
-![Me: prof, can we play among us? Prof: No, we have among us at home. Among us at home: Dictionary definition of impostor syndrome.](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/impostor_meme.png)
+![Me: prof, can we play among us? Prof: No, we have among us at home. Among us at home: Dictionary definition of impostor syndrome.](/images/2022/guutz/impostor_meme.png)
 
 [Explanation of the meme ;-)](https://www.npr.org/2020/11/12/931304349/among-us-its-every-little-space-sausage-for-themselves)
 
@@ -48,13 +48,13 @@ In all seriousness, defining your success and self-worth by a test score, a clas
 
 Allow me to paint you a picture; to spin a yarn, if you will.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/sussy.png)
+![](/images/2022/guutz/sussy.png)
 
 It was Fall 2020. The popular mobile game Among Us was in the midst of its meteoric rise to infamy. It was a very uncertain time -- nobody knew when we’d be allowed to move onto campus. The subset of undergrads who kept in touch over Discord found solace in the spaceship in Among Us, isolated from the hellscape of 2020 by billions of miles of void. Techers from vastly different walks of life, many of whom had never met in person, suddenly shared a common experience; they formed close bonds through the hours of working together to keep the ship running and unmask the impostors.
 
 But for some people, something about Among Us put a twinge in the depths of their soul. Perhaps it stirred up a long-suppressed fear of being exposed as a fraud; an “other”; an impostor.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/amogus_1.jpg)
+![](/images/2022/guutz/amogus_1.jpg)
 _pictured: a whiteboard in a Caltech lecture hall with a drawing of a character from the popular mobile game Among Us. this icon, known as an "amogus" (pl. amogi), has taken on a similar cultural meaning to the Cool ‘S’ and “Kilroy was here” in that they pop up in unexpected places._
 
 Indeed, impostor syndrome has taken Caltech by storm lately. And the rigorous academic environment, often reminiscent of the constant onslaught of spaceship tasks in Among Us, doesn't exactly help.
@@ -65,12 +65,12 @@ That's not to say it’s always miserable -- on the contrary, this level of rigo
 
 However, I also think it's important to highlight how this process _isn't always 100% positive_ -- especially at this level of academics. It's natural to be hard on yourself. It's normal to struggle. In fact, it would be weird if you didn't. Of course, that doesn't make it any easier - believe me, I have felt the pain of falling short of an A by 1 point. I know all too well how much it bites to get a 50% on that problem set you felt really confident about. And yes, I do often stress out when I can’t solve that “easy” problem without help.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/amogus_4.jpg)
+![](/images/2022/guutz/amogus_4.jpg)
 _For people who don't get this joke: There's a popular mobile game called 'Among Us' that's sort of like a real-time version of Mafia set on a spaceship. Most of the players are trying to determine who's the 'impostor' while completing tasks, and the impostor is trying to kill all the other players. So when he says 'red sus' he means, the red player is acting ‘sus’picious and is ‘sus’pected to be the impostor._
 
 But life goes on. Every now and then, it’s good to step back and remember where you are: a place where _everyone_ is brilliant and talented. If you’re behind schedule or having a tough time with the work, it doesn’t mean you’re somehow “worse” or less capable than others. It doesn’t mean you’re doomed to fail. It certainly doesn’t mean admissions made a mistake. (Admissions doesn’t make mistakes!) _Maybe_ it means you’re weaker in that subject, or dealing with personal circumstances, or at the _very_ worst going to have to retake the class (gasp! the horror! the disgrace!). For real though, despite what you may have been told your whole life, these are small potatoes ;-)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/amogus_2.jpg)
+![](/images/2022/guutz/amogus_2.jpg)
 _Pictured: yet another amogus, this time hidden in plain sight as a decoration for the Spring ‘22 DAVe_ [_Interhouse party._](https://caltechadmissions.blog/interhouse-construction-season/)
 
 ***
@@ -83,6 +83,6 @@ Special thanks to Anna M. for maintaining the #sussy Discord channel, and the Da
 
 Cover photo made using craiyon.com (formerly DALL-E Mini) with seed string “among us impostor at caltech university campus with mountains in the background at sunset”
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/impostor_runner1.png) ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/amogus_3.jpg) ![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/impostor_runner2.png)
+![](/images/2022/guutz/impostor_runner1.png) ![](/images/2022/guutz/amogus_3.jpg) ![](/images/2022/guutz/impostor_runner2.png)
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2022/guutz/impostor_paradox.jpg)
+![](/images/2022/guutz/impostor_paradox.jpg)

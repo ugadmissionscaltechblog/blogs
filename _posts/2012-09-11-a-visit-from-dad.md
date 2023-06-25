@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Slwright13
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017c31b29e1f970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017c31b29e1f970b.jpg
 title: A Visit from Dad! 
 categories: [culture]
 status: Publish

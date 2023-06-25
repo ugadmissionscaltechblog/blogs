@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d28f852d970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b8d28f852d970c.jpg
 title: Let the SURF Season Begin!
 categories: [research]
 status: Publish
@@ -34,7 +34,7 @@ In the evening I went to grab ice cream with my friend Angelina. Bengees has bee
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d28f8500970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d28f8500970c.jpg)
 
 
 

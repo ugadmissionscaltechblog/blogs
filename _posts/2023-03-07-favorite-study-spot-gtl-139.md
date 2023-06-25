@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-03-07 20:57:45 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/images/2023/hfisher/gtl139_4.jpg
+image: /images/2023/hfisher/gtl139_4.jpg
 tags: []
 title: 'Favorite Study Spot: GTL 139'
 author: Hannah Fisher
@@ -21,33 +21,33 @@ So, I found a new place to do homework: GTL 139. Short for [Gates-Thomas Laborat
 
 Walk towards the Sherman Fairchild Library (SFL), the main library on campus. Instead of going into the library, take a hard left into GTL.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2023/hfisher/gtl139_1.jpg)
+![](/images/2023/hfisher/gtl139_1.jpg)
 
 Once in GTL, take another left, and walk down the hall to this little alcove, right across from the elevator.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2023/hfisher/gtl139_2.jpg)
+![](/images/2023/hfisher/gtl139_2.jpg)
 
 Scan your keycard at the door scanner and head on in! It is unknown if all undergrads have access to this room, or only those who have declared a Mechanical Engineering major.
 
   
-![](https://d24slhcvzhzz82.cloudfront.net/images/2023/hfisher/gtl139_3.jpg)
+![](/images/2023/hfisher/gtl139_3.jpg)
 
 **Once inside GTL 139:**
 
 Enjoy the gigantic tables, upon which you can spread your papers far and wide. Side note: wonder about why someone decided that exactly one wall should be wallpapered, and that it should be done in a blue polka-dot/splat pattern.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2023/hfisher/gtl139_4.jpg)
+![](/images/2023/hfisher/gtl139_4.jpg)
 
 When the tables are not enough, spread your work further using the white board wall.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2023/hfisher/gtl139_5.jpg)
+![](/images/2023/hfisher/gtl139_5.jpg)
 
 Bring a jacket if you plan to stay for long, because the thermostat is always locked and usually set to some absurdly freezing temperature. No amount of randomly pressing the buttons will have any effect.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2023/hfisher/gtl139_7.jpg)
+![](/images/2023/hfisher/gtl139_7.jpg)
 
 Enjoy this delightful painting.
 
-![](https://d24slhcvzhzz82.cloudfront.net/images/2023/hfisher/gtl139_6.jpg)
+![](/images/2023/hfisher/gtl139_6.jpg)
 
 Also, don’t forget to get up and stretch your legs every 15-20 minutes, because the lights are on a motion-detector timer and will unexpectedly plunge you into darkness.

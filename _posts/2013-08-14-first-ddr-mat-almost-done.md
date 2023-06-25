@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laura
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b019104b20847970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b019104b20847970c.jpg
 title: First DDR mat almost done! 
 categories: [culture]
 status: Publish
@@ -13,7 +13,7 @@ We're almost done building the first DDR mat! (My[previous post](https://caltech
 The four mending plates around the edges of each arrow panel are the tops of the sensors. (See [this post](https://caltech.typepad.com/caltech_as_it_happens/2013/07/ddr-mat-sensor-testing.html) for details about the sensors we're using.) The cardboard rectangles in the middle of the arrow panels prevent the plastic from bending too much and cracking when someone steps on the arrows. Wiring all the panels gets rather messy; there is one wire for each screw and mending plate, plus two wires to be connected to the control board, for a total of 12 wires under each arrow panel. All the wires from the screws are connected together with a twist cap connector, and all the wires from the mending plates are connected together.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac7b6c6f970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac7b6c6f970d.jpg)
 
 Close up of a finished arrow panel
 

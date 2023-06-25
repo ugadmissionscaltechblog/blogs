@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-08-29 19:53:21 +0000
-image: https://d24slhcvzhzz82.cloudfront.net/images/2022/isabel/Gilead Building.jpg
+image: /images/2022/isabel/Gilead Building.jpg
 tags: []
 title: My Summer as a Process Chemistry Intern at Gilead Sciences
 author: idelator

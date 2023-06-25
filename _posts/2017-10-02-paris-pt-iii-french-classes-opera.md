@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sunny
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb09c13224970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb09c13224970d.jpg
 title: Paris Pt. III - French classes + Opera
 categories: [culture]
 status: Publish
@@ -24,4 +24,4 @@ I checked out Notre Dame just for comparison's sake. The one in Paris is a lot m
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c91dfb17970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c91dfb17970b.jpg)

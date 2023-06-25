@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Vivian
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcef5668970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcef5668970b.jpg
 title: Touring USC 
 categories: [culture]
 status: Publish
@@ -14,26 +14,26 @@ Well, she's a senior (even though she's only four months older than I am), and e
 
 Sarah showed us around the "prettier" parts of campus, where there were lots of big fancy buildings, including several that would periodically host free screenings of new movies, and one that used to be a neighborhood church. Here are some photos from the visit:
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcef5724970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcef5724970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73daa1034970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73daa1034970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a5119efcd6970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a5119efcd6970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73daa10df970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73daa10df970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a5119efd96970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a5119efd96970c.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a73daa11d8970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a73daa11d8970d.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcef5a83970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcef5a83970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcef5ae8970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcef5ae8970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcef5b98970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcef5b98970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcef5c1c970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcef5c1c970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcef5da7970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01a3fcef5da7970b.jpg)
 Well, that's all for now!
 

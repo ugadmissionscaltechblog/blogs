@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d106b315970c-pi.jpg
+image: /old_images/6a01bb08213082970d01b8d106b315970c-pi.jpg
 title: Harvard International Consulting Competition
 categories: [culture]
 status: Publish

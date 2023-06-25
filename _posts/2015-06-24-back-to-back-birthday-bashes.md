@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Yubo
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73dbab781970d01b8d12afe69970c-pi.jpg
+image: /old_images/6a01a73dbab781970d01b8d12afe69970c-pi.jpg
 title: Back to back birthday bashes!
 categories: [academics]
 status: Publish
@@ -19,18 +19,18 @@ The second part of my birthday celebration was a tried and true trip to Korean B
 
 Then, a week later, as if one celebration wasn't enough, I decided to go into town a week later for a belated birthday celebration with two friends who couldn't make the first celebration. Since this was a smaller group, I figured it would be reasonable to try for somewhere nicer, and we ended up at Bottega Louie, one of the most celebrated French restaurants in LA. Most famous perhaps is their line of confections at the entrance
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73dbab781970d01b8d12afea1970c-pi.jpg)
+![](/old_images/6a01a73dbab781970d01b8d12afea1970c-pi.jpg)
 We then began our meal with an order of portabello mushroom fries that are a perennial favorite at the restaurant and*certainly*delectable beyond description
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0845b08a970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0845b08a970d.jpg)
 We then got our entrées. I ordered the salmon millefeuille, literally "thousand sheet salmon." While it wasn't a thousand sheets of salmon but contained other ingredients, it was very good and certainly a unique dish. I think that the multiple sheets kept the dish from feeling too heavy
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d12afed8970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d12afed8970c.jpg)
 Finally, for our desert we shared a chocolate soufflé
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7a19706970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c7a19706970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01a73dbab781970d01b8d12afef2970c-pi.jpg)
+![](/old_images/6a01a73dbab781970d01b8d12afef2970c-pi.jpg)
 This concluded my double birthday celebrations. I am also now 21 though I have yet to order an alcoholic beverage at either a restaurant or bar. That will come with time though... I'm excited to try a cocktail eventually!
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Andrew Freddo
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01347fa5236f970c.png
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01347fa5236f970c.png
 title: Decisions, Decisions
 categories: [research]
 status: Publish
@@ -15,7 +15,7 @@ My first visit is actually this week, to UW. Flying up on Thursday morning, havi
 
 As you'll see in the pictures, I'm not sure what I'm going to do, and this indecision is permeating my life (especially since for my whopping 2 classes all I have to do is read)! More on my visits soon!
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ec753d1e970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133ec753d1e970b.jpg)
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0133ec753de3970b.jpg)Like I said, I am very lucky to have this choice - all of them are great programs and it will be a tough decision. But I think I'm going to have a gut feeling one way or the other - we'll see!
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0133ec753de3970b.jpg)Like I said, I am very lucky to have this choice - all of them are great programs and it will be a tough decision. But I think I'm going to have a gut feeling one way or the other - we'll see!
 

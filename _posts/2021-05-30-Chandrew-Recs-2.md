@@ -3,7 +3,7 @@ layout: post
 title: "Chandrew’s Recs #2: In Search of Hot Chicks (Specifically, the Best Nashville Hot Chicken)"
 categories: [local]
 author: Andrew
-image: https://ik.imagekit.io/u9ndqdgam20/images/2021/chick3.jpg
+image: /images/2021/chick3.jpg
 featured: false
 comments: true
 hidden: false
@@ -22,7 +22,7 @@ Obviously, no hot chicken list in LA would be complete without mentioning Howlin
 
 #### Best Near Campus
 
-![Main Chick Sandwich](https://ik.imagekit.io/u9ndqdgam20/images/2021/chick2.jpg)
+![Main Chick Sandwich](/images/2021/chick2.jpg)
 The only (and best) hot chicken within proper walking distance of Caltech is Main Chick in old town Pasadena. Main Chick boasts a nice sandwich with tender meat and good spice. Spice mix is a bit heavy on salt, but nothing you can’t overcome. Pricing is reasonable, good and close by.
 
 #### Honorable mentions
@@ -31,7 +31,7 @@ I need to give two honorable mentions here, first to Cluck & Blaze for their hot
 
 #### Best Overall
 
-![Funnel Birds Sandwich](https://ik.imagekit.io/u9ndqdgam20/images/2021/chick1.jpg)
+![Funnel Birds Sandwich](/images/2021/chick1.jpg)
 This is a “hot” take, but my best overall is going to go to Funnel Birds. This is technically “near campus” (it’s about 3 miles north) but is amazing. Their cilantro-lime slaw balances perfectly against the blazing but not overwhelming heat of the chicken. Even their mild spice level still has good flavor (at least, that’s what my roommate says). Plus, who doesn’t love a good funnel cake.
 
 That’s all for today, happy hunting!

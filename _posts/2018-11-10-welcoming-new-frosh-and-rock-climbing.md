@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Maddie
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01b8d28f2857970c022ad39fc4e1200d-pi.jpg
+image: /old_images/6a01b8d28f2857970c022ad39fc4e1200d-pi.jpg
 title: Welcoming New Frosh and Rock Climbing
 categories: [culture]
 status: Publish
@@ -15,6 +15,6 @@ The first weekend after end of Rotation, Page organized a house trip to go climb
 It was my first time going climbing, so I had no idea what to expect. When I was a kid, I had climbed one of those straight vertical walls with a harness on, but here, there was no harness and the walls were definitely not flat. I was a bit intimidated and scared of falling at first, especially since some of the people going had a lot of experience (especially the new exchange students!). But after trying a couple times, I started to get the hang of it! It's really fun, and I'd like to go again and get better at it :) You definitely feel sore afterwards, so it feels like a good workout too.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b022ad39fc4d7200d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b022ad39fc4d7200d.jpg)
 After going climbing, we decided to go to Wurstküche, a hot dog place in the Arts District. There was quite a long line, but I think it was worth it. The hot dogs were delicious, and they have a bunch of unique flavors like duck and rabbit to try.
 

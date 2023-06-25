@@ -4,7 +4,7 @@ title: An Interview with a JPL Mentor!
 categories:
 - research
 author: argomez
-image: https://ik.imagekit.io/u9ndqdgam20/images/2020/12/E2A82F2A-948E-4862-A304-E5E92409F442.jpeg
+image: /images/2020/12/E2A82F2A-948E-4862-A304-E5E92409F442.jpeg
 featured: false
 hidden: false
 comments: true

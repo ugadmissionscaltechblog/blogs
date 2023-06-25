@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Emily
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2851a82970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2851a82970c.jpg
 title: Apartment Search
 categories: [local]
 status: Publish
@@ -24,14 +24,14 @@ His school was so big, he had two ceremonies. The first day, his school (the sch
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8fad89f970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8fad89f970b.jpg)
 
 Going home to Philadelphia for a few days also meant that I was home for Mother’s Day! This hasn’t happened for the past three years, so I felt very lucky. My mother and I, true to form, baked a cake together (from the cookbook of one of the former contestants from the Great British Bake Off, of course).
 
 
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2851a8d970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d2851a8d970c.jpg)
 
 Also serendipitous timing: I was home the following Tuesday morning, before my flight back to LA, in order to vote in the Pennsylvania primary election! Make sure you’re all registered to vote, by the way ;)
 

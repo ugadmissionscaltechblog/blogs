@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Suzy
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8660e64970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8660e64970b.jpg
 title: Very Busy Weekend #2 
 categories: [research]
 status: Publish
@@ -24,10 +24,10 @@ The day ended with a four-hour happy hour, during which many alumni joined us. A
 Saturday started out less exciting for me. I worked until 6pm, but a lot of people spent the afternoon at Techstock. Techstock is a now-annual Battle of the Bands that only accepts Caltech- and JPL-affiliated bands. This year, a band called Many Distant Cities won. I really liked them and another band called Mr. Vampire. Well, to be fair, I liked Many Distant Cities' music better but Mr. Vampire had a really fun stage presence. Techstock is concluded by a performance by a real band with a contract - this year we got Bowling for Soup! They had a great sense of humor and they were really fun to watch.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8660e89970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8660e89970b.jpg)
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8660e9e970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c8660e9e970b.jpg)
 It was so much fun! BFP (Big Fleming Party, or substitute what you like) was right afterward. It was a great party, people had a lot of fun.
 
 On Sunday I went to my friend's house for a Memorial Day Weekend BBQ. We had corn and burgers and pie and did nothing. It was great. I did a little work that afternoon and Boyfriend and I went to dinner.

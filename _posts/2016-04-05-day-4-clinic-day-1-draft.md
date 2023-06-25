@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Suzy
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08d09277970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01bb08d09277970d.jpg
 title: Day 4
 categories: [research]
 status: Publish
@@ -20,7 +20,7 @@ Our drive up north was indeed long and it smelled faintly of sewage. The neighbo
 Our first task is to set up the clinic. We are to work in a small wooden building with a tin roof. 5 stations fit inside - 3 doctors, a dentist, and an obstetrician in a tarped-off zone. Outside are the pharmacy, triage, education, and tooth brushing stations. As we're setting up, someone with Medlife announces over a speaker that we are a free clinic here until 12:30.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08d09291970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08d09291970d.jpg)
 We had some serious struggles setting up the education tent. It had 14 unconnected poles and 9 corner pieces. Nobody from Medlife knew how to do it. We eventually figured it out, much to the interns' amusement. When that was done, I began my first rotation of the day with Dr. 3.
 
 My doctor was named Carlos. He has finished med school but has yet to start his residency. There were two other students with me - Nisha and Monica, from the University of Illinois. As it turned out, the doctor didn't need any help. We were just there to learn and observe.
@@ -36,13 +36,13 @@ Another family was a mom, 3 boys, and an infant girl. They were there for their 
 Their mom spent a long time at the dentist. She needed a tooth extraction and for some reason the anesthetic wasn't working. It stopped up the dental station. She couldn't hold her baby so she gave the infant to Camila. The girls cooed over the baby. She had big cheeks. The dental station was last to close by probably an hour. She took 4 patients after the tooth extraction, while all the other stations were closed.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c82bf6f4970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c82bf6f4970b.jpg)
 A few kids showed up right after school got out, but we were closing down so we didn't admit them. That didn't make much sense to me. I would rather work more hours than underserve the community, within reason at least.
 
 We ate lunch on the bus back. Well, I ate earlier, but the education lady didn't really need me. Today it was a stir-fry chicken sandwich, a mandarin, and a granadilla. A granadilla is an interesting Peruvian fruit. It's yellow on the outside. To eat it, you punch a thumb through the skin and suck out the seeds. It was very tasty. Ricardo says it settles the stomach. Maybe I'll get one for the plane back. Our snacks were saltines, salty snack mix, cereal bars, peach juice, and a bottle of water.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08d0934b970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01bb08d0934b970d.jpg)
 Our bus ride back took about an hour and a half. I tried to nap but a Peruvian road is not conducive to such activities. There isn't so much a "right of way" concept. The flow of traffic is based mostly on getting in other people's way and trusting that they will stop. They usually do. Then they honk. It's a pretty jerky, loud ride, especially with the music they played the whole way.
 
 We got back at 4. I journaled for a minute and took a shower.
@@ -52,7 +52,7 @@ Our meeting today was about education. We learned about the reasons people are u
 Dinner was penne pasta with meat sauce, fried cheese won-tons, salad, and rice pudding. The rice pudding was especially delicious.
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1b66da8970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b8d1b66da8970c.jpg)
 After dinner we walked towards Kennedy Park. Then we went home and I slept.
 
 Until next time,

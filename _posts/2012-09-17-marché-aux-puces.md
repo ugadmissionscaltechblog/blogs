@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Valère Lambert
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b017744a846a2970d.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b017744a846a2970d.jpg
 title: Marché aux Puces
 categories: [culture]
 status: Publish

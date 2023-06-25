@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kalyn
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8ef063f970b-pi.jpg
+image: /old_images/6a01bb08213082970d01b7c8ef063f970b-pi.jpg
 title: Senior Beer and Food Pairing
 categories: [research]
 status: Publish
@@ -18,27 +18,27 @@ Each year, each class gets a "tasting" event at Tom's house. For example, as a f
 Different types of beers available for tasting
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8ef064c970b-pi.jpg)
+![](/old_images/6a01bb08213082970d01b7c8ef064c970b-pi.jpg)
 
 Cheese and charcuterie
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8ef0655970b-pi.jpg)
+![](/old_images/6a01bb08213082970d01b7c8ef0655970b-pi.jpg)
 
 Potstickers, crab, and pretzels
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b7c8ef065f970b-pi.jpg)
+![](/old_images/6a01bb08213082970d01b7c8ef065f970b-pi.jpg)
 
 Poached salmon, caprese salad, and potato salad
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01b8d2796395970c-pi.jpg)
+![](/old_images/6a01bb08213082970d01b8d2796395970c-pi.jpg)
 
 Different types of sausages
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/6a01bb08213082970d01bb09922797970d-pi.jpg)
+![](/old_images/6a01bb08213082970d01bb09922797970d-pi.jpg)
 
 Tiramisu, strawberry cheesecake, baklava, chocolates, and cinnamon sugar bread
 

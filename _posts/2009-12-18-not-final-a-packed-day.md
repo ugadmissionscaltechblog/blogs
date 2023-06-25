@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Elaine To
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01287664f9b9970c.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01287664f9b9970c.jpg
 title: A Packed Day...
 
 categories: [research]
@@ -14,12 +14,12 @@ Firstly, pictures from yesterday:
 
 In front of the capitol...
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01287664fa5c970c.jpg)
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01287664fac0970c.jpg)
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01287664fcdf970c.jpg)
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0128766501a5970c.jpg)
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a761d8bc970b.jpg)
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0120a761d929970b.jpg)The Magna Carta!
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01287664fa5c970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01287664fac0970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01287664fcdf970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0128766501a5970c.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a761d8bc970b.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0120a761d929970b.jpg)The Magna Carta!
 Unfortunately, no time for tourism today! As soon as we finished breakfast we were out the door, headed to the National Institutes of Health (NIH). There we met with Dr Battey, Vice Chair of NIH's stem cell task force. He went over the new stem cell policy under the Obama Administration and the regulations for derivation and use of human embryonic stem cells (hESCs). For those of you who are unfamiliar with stem cell research, here's a brief overview. Human embryonic stem cells are immortal celllines derived from fertilized human eggs, now known as a zygote. At the stage when the zygote is still a mass of identical cells, known as a trophoblast, the cells are harvested and used to create cell lines for use in research. Stem cells are useful because of their ability to differentiate into any type of cell in the human body. Clearly, the methods of obtaining human stem cells have ethical concerns and are quite controversial, resulting in this hot debate in science policy.
 
 It was particularly interesting when the conversation turned to induced pluripotent stem cells. Induced pluripotent stem cells (iPSCs) were developed in 2007. Basically, an already differentiated cell from an adult human is injected with four genes with a virus. These four genes make the cell undifferentiate and become a stem cell again, which now has the ability to differentiate into one of many cell types. The methods for obtaining iPSCs are clearly much less ethically debatable than those for obtaining hESCs. However, iPSCs and hESCs have different capabilities and applications in research.

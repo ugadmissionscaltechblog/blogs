@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Michelle
-image: https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b01901ebf0571970b.jpg
+image: /old_images/caltech_as_it_happens/6a0105349b8251970b01901ebf0571970b.jpg
 title: A Week of InnoWorks 
 categories: [research]
 status: Publish
@@ -18,7 +18,7 @@ Over the course of this week, I mentored two boys and two girls between 6th and 
 The pig lungs demo!
 
 
-![](https://d24slhcvzhzz82.cloudfront.net/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac7e5849970d.jpg)
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b0192ac7e5849970d.jpg)
 A group of students crowding around the dry ice demo.
 
 Check out this article:
