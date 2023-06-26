@@ -1,11 +1,10 @@
 ---
 layout: post
 image: /images/2022/arielle/B9013C46-2357-434E-8D3E-D3E57B248520.jpeg
-tags: []
+
 title: Admissions Reflections
 author: Arielle Tycko
-categories:
-- academics
+categories: [academics]
 date: 2022-02-21T03:00:00.000+00:00
 
 ---

@@ -1,11 +1,10 @@
 ---
 layout: post
 image: /images/2022/jen/cannon.jpeg
-tags: []
+
 title: "The Residential Experience (Caltech RA's)\t"
 author: Jen Yu
-categories:
-- culture
+categories: [culture]
 date: 2022-03-07 10:00:00 +0000
 
 ---

@@ -10,9 +10,8 @@ class: '2024'
 pronouns: she/her/hers
 layout: post
 date: 2022-08-21 02:07:53 +0000
-tags: []
-categories:
-- culture
+
+categories: [culture]
 author: akolli
 
 ---

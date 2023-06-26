@@ -3,8 +3,7 @@ layout: post
 image: /images/2021/10/living_in_the_virtual_school_year_title.HEIC
 title: Living in the Virtual School Year
 author: Tyler Colenbrander
-categories:
-- culture
+categories: [culture]
 date: 2021-10-12 19:00:00 +0000
 youtubeId: tS9aAC_XVmY
 ---

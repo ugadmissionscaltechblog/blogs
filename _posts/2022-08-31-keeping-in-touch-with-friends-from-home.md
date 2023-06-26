@@ -2,11 +2,10 @@
 layout: post
 date: 2022-08-31 23:57:33 +0000
 image: /images/2022/julian/Plane_Window.jpg
-tags: []
+
 title: Keeping in Touch with Friends from Home
 author: jmillan
-categories:
-- global
+categories: [global]
 
 ---
 Starting college can be a big transition. You’re moving to a new place, starting a new school and classes, and faced with making new friends in an unfamiliar environment. And, of course, there’s that whole “becoming an adult” thing. But, you’re also leaving a lot behind. Every new beginning means that an old chapter must come to an end. Leaving behind our friends at home may seem difficult, especially if they’re going to be a long distance away from you during the school year. Something I made sure to do was to spend a lot of time with them during the summer after high school. Of course, going to college doesn’t mean you’ll never see your friends again, or that you will no longer be friends with them. Good friendships will last if you put effort into them. It may seem hard initially. Coming into Caltech, it’s a sharp adjustment and many are caught up in the excitement of Orientation, Rotation, and starting classes. It may be hard to remember to check your phone frequently and to make time for phone calls and such. Rest assured that if you have other friends going to college, they’re probably going to go through similar things you will. In this transition period, it can feel like you’re going to immediately lose touch with people that mean a lot to you.

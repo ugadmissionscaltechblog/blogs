@@ -3,7 +3,7 @@ layout: post
 author: Andrew Freddo
 image: /old_images/caltech_as_it_happens/6a0105349b8251970b0120a9639342970b.jpg
 title: The Grand Finale!
-categories: [travel]
+categories: [global]
 status: Publish
 date: 2010-03-23
 ---

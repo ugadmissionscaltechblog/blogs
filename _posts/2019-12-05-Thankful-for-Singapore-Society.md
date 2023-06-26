@@ -5,7 +5,7 @@ title: "Thankful for Singapore Society"
 categories: [global]
 image: /images/2019/12/6a0105349b8251970b0240a4f3b0bb200b-800wi.jpg
 date: 2019-12-05
---- 
+---
 I killed today. Yes, I killed Thanksgiving dinner, but more than that, this was the first time that I’d ever prepared live seafood.
 
 But wait.

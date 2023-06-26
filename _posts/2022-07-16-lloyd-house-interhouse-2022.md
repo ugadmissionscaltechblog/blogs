@@ -2,11 +2,10 @@
 layout: post
 date: 2022-07-16 00:57:43 +0000
 image: /images/2022/enoch/interhouse/food.JPG
-tags: []
+
 title: Lloyd Interhouse 2022
 author: eluk
-categories:
-- culture
+categories: [culture]
 ---
 About a dozen frosh sit and stand in a semicircle around a whiteboard. Various Lloyd-themed interhouse names sit on a list awaiting their fate. One by one, possibilities are discussed and voted on, until four remain.
 

@@ -5,7 +5,7 @@ categories: [academics]
 author: Andrew
 featured: false
 hidden: false
-image: https://d3g9s82edwzh8v.cloudfront.net/amchan/12_17/Ventura.JPG
+image: /old_images/6a0105349b8251970b019103326708970c-800wi.jpg
 ---
 
 

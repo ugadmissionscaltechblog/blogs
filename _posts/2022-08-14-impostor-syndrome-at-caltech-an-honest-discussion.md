@@ -2,13 +2,10 @@
 layout: post
 date: 2022-08-14 21:00:00 +0000
 image: /images/2022/guutz/impostor_title.png
-tags: []
+
 title: Impostor Syndrome at Caltech
 author: magutier
-categories:
-- culture
-- academics
-
+categories: [academics]
 ---
 Studying at Caltech is a lot like crewing a spaceship. You get to work alongside some of the most talented people on Earth, you’re constantly doing science in order to survive, and the environment tends to keep you under a lot of pressure. It’s an incredible experience, and also a very challenging one, to be sure. Sometimes you’re left feeling like an impostor among your crewmates, having failed to complete every task you think is expected of you. But fear not! These feelings are not based in reality; they are merely symptoms of a benign condition known as _impostor syndrome_. Think you might be affected? This post is for you.
 

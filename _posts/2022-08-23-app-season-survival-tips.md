@@ -2,13 +2,10 @@
 layout: post
 date: 2022-08-23 08:43:34 +0000
 image: /images/2022/bea/tech_friends.jpg
-tags: []
+
 title: App season survival tips
 author: bea
-categories:
-- culture
-- academics
-
+categories: [culture]
 ---
 It's crazy to think that I began applying to college almost three years ago. I still remember spending hours looking at college websites, admissions blogs and reddit pages to try to get a sense of what college is ACTUALLY like. To help you get through these stressful times, here are a few tips that I wish I had listened to. Hopefully, these will ease your worries and maybe even make the process more enjoyable!?
 

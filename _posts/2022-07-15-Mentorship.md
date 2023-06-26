@@ -1,12 +1,11 @@
 ---
 layout: post
 date: 2022-07-15 19:58:44 +0000
-image: /
-tags: []
+image: /old_images/6a0105349b8251970b019103326708970c-800wi.jpg
+
 title: Mentorship
 author: tpierce
-categories:
-- culture
+categories: [culture]
 ---
 As a high achieving high school student, my role in mentoring relationships was always on the mentor/contributing side. I had never experienced what it was like to receive advice in a mentoring capacity before arriving at Caltech, and since then, I’ve had several mentors, all in different capacities. The major areas in which I have benefitted from mentorship are research, academics, and personal development. I’ve learned a lot from these relationships, and these support systems are invaluable in the context of being a new college student.
 

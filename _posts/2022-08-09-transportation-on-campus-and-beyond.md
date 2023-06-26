@@ -2,11 +2,10 @@
 layout: post
 date: 2022-08-09 20:31:42 +0000
 image: /images/2022/julian/Map_of_Pasadena.jfif
-tags: []
+
 title: Transportation on Campus and Beyond
 author: jmillan
-categories:
-- local
+categories: [local]
 
 ---
 Transportation on Campus and Beyond

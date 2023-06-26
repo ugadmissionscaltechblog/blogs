@@ -1,0 +1,16 @@
+---
+title: Taiwan
+image: /wp-content/uploads/old_images/caltech_as_it_happens/6a0105349b8251970b01bb0a022d42970d.jpg
+date: 2018-04-20
+categories: 21656
+author: Maddie
+---
+
+Taiwan has gorgeous mountains and forests. There are also fields for agriculture in other regions, rocky mountain gorges, the ocean, hot springs, and other attractions throughout Taiwan. We went to this place called Sun Link Sea, which is a beautiful forest with hiking trails.
+
+
+![](/old_images/6a0105349b8251970b01b8d2e944ac970c-500wi.jpg)
+Back in the city, we went to a set of ruins, the natural history museum, and an interesting bank museum.
+
+
+![](/old_images/6a0105349b8251970b01b8d2e94493970c.jpg)

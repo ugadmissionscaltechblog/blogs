@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Pasadena, City of Roses
-categories:
-- local
-- culture
+categories: [local]
 author: rashi
-tags: []
+
 image: /images/2021/06/pasadena_cover.jpeg
 
 ---

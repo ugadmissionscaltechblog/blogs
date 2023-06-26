@@ -1,9 +1,8 @@
 ---
 layout: post
 title: From Algorithms to Sprung Rhythms
-categories:
-- research
-tags: []
+categories: [research]
+
 author: argomez
 image: /images/2020/10/Annabel+/A2C2CD26-7AF2-4C94-A0D3-9295C937346B.jpeg
 hidden: false

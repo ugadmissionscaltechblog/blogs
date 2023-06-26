@@ -2,10 +2,10 @@
 layout: post
 date: 2022-08-10 07:39:26 +0000
 image: /images/2022/rachael/67805427606__6698DD07-9F48-4850-AA78-0B68CCD2CF72.png
-tags: []
+
 title: 'Tips for International Students, Part 1: Employment'
 author: subinkim
-categories: []
+categories: [local]
 
 ---
 Adjusting to Caltech, California, and the United States as an international student can be difficult at first: you have to get used to the different systems and cultures and understand the limitations that come with your status as an F-1 student in the United States. I myself was an international student for three years in high school, which provided me an opportunity to adjust culturally, but coming to Caltech as a college student, I still had to research and learn more about things I can and cannot do in the United States as an F-1 student, which was time-consuming and confusing at first.

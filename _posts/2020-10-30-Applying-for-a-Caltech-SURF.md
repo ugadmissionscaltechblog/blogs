@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Applying for a Caltech SURF!
-categories:
-- research
+categories: [research]
 author: argomez
 image: /images/2020/10/Annabel+/D72F8AC9-6788-42C3-ACB8-82031AFA2C84.jpeg
 

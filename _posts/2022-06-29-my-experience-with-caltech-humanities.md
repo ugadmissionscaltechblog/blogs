@@ -2,11 +2,10 @@
 layout: post
 date: 2022-06-29T04:36:18.000+00:00
 image: /images/2022/julian/fork_in_the_road.jfif
-tags: []
+
 title: My Experience with Caltech Humanities
 author: jmillan
-categories:
-- academics
+categories: [academics]
 
 ---
 I can still recall the day college admissions results were released in the spring. In my own hubris, I was expecting a plethora of options from top schools around the country. I actually ended up with only two schools to choose from, Caltech and Columbia University, before Decision Day. _“This is gonna be easy”_ I thought to myself. I was not thinking correctly. I was being a fool.

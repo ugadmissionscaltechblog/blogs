@@ -2,10 +2,10 @@
 layout: post
 date: 2022-07-13T01:02:14.000+00:00
 image: /images/2022/rachael/IMG_6061.JPG
-tags: []
+
 title: Making Friends Through SURF
 author: subinkim
-categories: []
+categories: [research]
 
 ---
 As a rising sophomore, I decided to take advantage of the Summer Undergraduate Research Fellowship (SURF) program, a 10-week research program, at Caltech. SURF is a great opportunity to work with professors who have expertise in the field, but it also provides you an amazing opportunity to make new friends. According to the Student-Faculty Program office at Caltech, nearly half of SURF students every year come from other institutions. Always wanting to make more friends, my friends and I decided to take advantage of this.

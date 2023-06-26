@@ -2,15 +2,10 @@
 layout: post
 date: 2022-12-20 21:00:00 +0000
 image: /images/2022/guutz/faq-with-florida-man/florida-man.jpg
-tags: []
+
 title: Caltech FAQ's with a Florida Man
 author: magutier
-categories:
-- culture
-- local
-- research
-- academics
-
+categories: [culture]
 ---
 **1. What's your favorite place to go to study or hang out at Caltech?**
 

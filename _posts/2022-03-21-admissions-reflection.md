@@ -1,11 +1,10 @@
 ---
 layout: post
 image: /images/2022/annabel/Optimized-Caltech_flag.jpg
-tags: []
+
 title: 'Admissions Decision Retrovision  '
 author: argomez
-categories:
-- academics
+categories: [academics]
 date: 2022-03-30 07:00:00 +0000
 
 ---

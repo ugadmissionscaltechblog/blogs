@@ -2,11 +2,10 @@
 layout: post
 date: 2022-12-22 04:49:11 +0000
 image: /images/2022/chase/516_20221222_000450_chrome.png
-tags: []
+
 title: Why is there an EE in my computer systems class?
 author: Chase Blanchette
-categories:
-- academics
+categories: [academics]
 
 ---
 _Note: I’ll hyperlink some of the concepts I think are cool in this article, but generally, the topics I mention from classes should not be too difficult to research with some googling. I definitely encourage you to learn about these things on your own if they look interesting to you!_

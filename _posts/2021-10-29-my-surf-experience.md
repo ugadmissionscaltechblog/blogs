@@ -3,8 +3,7 @@ layout: post
 image: /images/2021/jen/surf_exp/consult3.jpeg
 title: My SURF Experience
 author: Jen Yu
-categories:
-- research
+categories: [research]
 date: 2021-10-29 07:00:00 +0000
 
 ---

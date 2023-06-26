@@ -5,7 +5,7 @@ title: "Castle to E4, Checkmate"
 categories: [global]
 image: /images/2019/12/6a0105349b8251970b0240a4d5813a200d-800wi.jpg
 date: 2019-12-23
---- 
+---
 (Yes, I know they’re called rooks, but I needed a pun)
 Hiya lads and lasses! I did my final wee bit of Scotland exploration this week, which is to say, I finally did the one touristy thing I’d been avoiding doing for all too long. I went to Edinburgh Castle. AND I went INSIDE Edinburgh Castle.
 

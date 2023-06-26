@@ -2,7 +2,7 @@
 layout: post
 title: "Pack With Me!" 
 author: Isha Chakraborty
-categories: [ Student Life ]
+categories: [culture]
 image: /images/2021/isha/JamieAlexRoom.jpeg
 ---
 

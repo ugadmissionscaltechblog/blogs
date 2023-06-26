@@ -110,8 +110,7 @@ There may also be unexpected advantages later on in the journey such as when you
 		
 **Student Interviews**
 		
-**Marvin Gee
-**
+**Marvin Gee**
 ***A little about me:***
 		
 Hometown: Frederick, MD
@@ -165,8 +164,7 @@ I hope to go to graduate school and do some great research. After that, I'll pro
 		
 ---
 		
-**Murtaza Saiffee 
-**
+**Murtaza Saiffee**
 ***A little about me:***
 		
 My name is Murtaza Saifee, and I'm a member of the Caltech class of 2013. I entered Caltech as a sophomore transfer student in 2010 after spending my freshman year at UC Berkeley. I was born and raised in Los Angeles, California (west coast IS the best coast!). At Caltech, I've ethusiastically pursued a degree in electrical engineering, focusing on devices and computer system. At the beginning of my sophomore year of college, I decided to pursue a career in medicine.

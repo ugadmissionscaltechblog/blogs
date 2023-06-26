@@ -3,7 +3,7 @@ layout: post
 title: "Photos From the Time of Covid"
 categories: [culture]
 author: Andrew
-image: https://d3g9s82edwzh8v.cloudfront.net/amchan/9_20/20200809-IMG_3799.jpg
+image: /old_images/6a0105349b8251970b019103326708970c-800wi.jpg
 ---
 
 It's month 6 of quarantine and I'm writing to you from Colorful Colorado (also known as the state where it snowed last week and was 95 out today). Climate change? Maybe. International conspiracy by the Greek God Zeus to make me miss Pasadena and Caltech more than I already do? Most definitely.

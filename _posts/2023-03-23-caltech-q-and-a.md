@@ -2,11 +2,10 @@
 layout: post
 date: 2023-03-23 19:44:26 +0000
 image: /imagesimages/2023/JPolansky/bird.png
-tags: []
+
 title: caltech q and a
 author: jpolansk
-categories:
-- culture
+categories: [culture]
 
 ---
 In order to get a good sense of the Caltech community, there is no better way than to talk to the students themselves. To give a little bit of an inside perspective of Caltech, I asked some students a variety of questions. Questions ranged from conspiracy theories to Caltech-specific takes and other random topics.

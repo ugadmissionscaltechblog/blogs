@@ -2,12 +2,11 @@
 layout: post
 image: /images/2022/hannah/279241940_1661398967543193_5025168946776154512_n
   (1).jpg
-tags: []
+
 title: Socal College Poker Tournament
 author: Hannah Grauer
-categories:
-- clubs
-- local
+categories: [clubs]
+
 date: 2022-05-06 07:00:00 +0000
 
 ---

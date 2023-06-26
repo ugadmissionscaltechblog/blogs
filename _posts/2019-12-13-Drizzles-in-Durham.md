@@ -5,7 +5,7 @@ title: "Drizzles in Durham"
 categories: [global]
 image: /images/2019/12/6a0105349b8251970b0240a4f66e92200b-800wi.jpg
 date: 2019-12-13
---- 
+---
 There, and back again. A Caltech student’s tale.
 
 I went back to the land of my enemy, my mortal nemesis. Or at least, the nemesis of our school. Durham, the only team currently ranked above us on the British Universities and Colleges Sport (BUCS) point list. Only, this time, I went with open arms.

@@ -11,7 +11,7 @@ date: 2015-10-29
 Hey guys!
 In the time since you last heard from me, I've been a complete tourist here in Edinburgh. Since I only have one semester here, I've been seizing every opportunity to explore the city. Thus, I believe I am now qualified to write the following guide: if you ever stop by Edinburgh, here is the breakdown of all the places!
 
----end---
+
 **For every tourist:**
 I don't know why you would only stay for a day or two, but if you really have no choice and cannot cancel your subsequent trips to Glasgow or England (just kidding! Those places are lovely, too), then these are the sorts of things that people do when they only stop by.
 

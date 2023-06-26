@@ -2,11 +2,10 @@
 layout: post
 date: 2022-08-22T17:28:41.000+00:00
 image: /images/2022/rahul/IMG_9887.JPG
-tags: []
+
 title: The DEFINITIVE Caltech Study Spots Ranking
 author: rchawlani
-categories:
-- academics
+categories: [academics]
 
 ---
 #### **The DEFINITIVE Caltech Study Spots Ranking**

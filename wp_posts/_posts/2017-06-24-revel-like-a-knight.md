@@ -1,0 +1,22 @@
+---
+title: Revel like a knight
+image: /wp-content/uploads/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9034a95970b.jpg
+date: 2017-06-24
+categories: 21656
+author: Ker Lee
+---
+
+Our senior trip was to Las Vegas. The whole thing cost each person about $20. Lodging, transportation and a dinner show were all included in this fee, thanks to generous subsidies.
+
+We stayed at Excalibur, which looks just like a castle.
+
+The dinner show was called Tournament of Kings. There was singing, acting, real horses (and jousting on those horses!) as well as fireworks. We each got a whole game bird!
+
+
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9034a91970b.jpg)
+A group of us went off to a buffet for brunch at the Aria hotel.
+
+
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9034a89970b.jpg)
+
+![](/old_images/caltech_as_it_happens/6a0105349b8251970b01b7c9034a9d970b.jpg)

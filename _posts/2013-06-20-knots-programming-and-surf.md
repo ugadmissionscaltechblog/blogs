@@ -33,13 +33,12 @@ A link is what you get when you have multiple knots linked together, like the Bo
 
 Borromean rings drawn by Knotilus
 
-An
- alternating link is a link with a diagram such that if you start 
+An alternating link is a link with a diagram such that if you start 
 anywhere on the link and follow the strand you're on, the crossings 
 alternate over, under, over, under, etc. or under, over, under, over, 
 etc. The trefoil knot and Borromean rings are both alternating.
 
-----
+---
 
 One input method for my SURF project is to take an alternating link 
 projection, shade regions of the link, and then use the shaded regions 

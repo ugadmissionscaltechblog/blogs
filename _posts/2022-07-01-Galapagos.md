@@ -2,14 +2,9 @@
 layout: post
 date: 2022-07-01 18:33:07 +0000
 image: /images/2022/katelyn/blog_pics/7.JPG
-tags:
-- coolest_classes
-- spotlight
-- global_travel
 title: 'My Trip to the Galapagos! '
 author: Katelyn Lee
-categories:
-- academics
+categories: [academics]
 
 ---
 It's been over three months since my trip to the Galapagos, and I am still thinking about it. For seven days, we all woke up at 5:30 am on the boat, ate breakfast together, and went out as the sun was rising on our morning hike to catch frigatebirds mating or iguanas spewing salt from their nostrils. Our days were spent snorkeling with turtles, sea lions, and schools of fish, and our nights were spent sitting on the bow of the ship, talking all together under the stars. It was truly a spring break I will never forget.

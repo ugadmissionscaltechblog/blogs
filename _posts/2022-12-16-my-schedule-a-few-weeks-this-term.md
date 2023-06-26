@@ -2,11 +2,10 @@
 layout: post
 date: 2022-12-16 22:56:08 +0000
 image: /images/2022/hannah_f/nov_7.jpg
-tags: []
+
 title: My Schedule, A Few Weeks This Term
 author: Hannah Fisher
-categories:
-- academics
+categories: [academics]
 
 ---
 If I could give one piece of advice to all incoming freshmen at Caltech, I would say this: find an organization and time management system that works for you, and stick to it! Between classes, clubs, house events, and everything else that occupies my time, I barely ever remember where I’m supposed to be at each hour of the day, every day of the term; I rely heavily on my calendar to tell me where to go next, from wherever I currently am. So, I’d like to share my personal schedule from a few weeks of this term here on the Admissions Blog.

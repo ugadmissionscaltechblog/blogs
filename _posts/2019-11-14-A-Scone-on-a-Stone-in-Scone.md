@@ -5,7 +5,7 @@ title: "A Scone, on a Stone, in Scone"
 categories: [global]
 date: 2019-11-14
 image: /images/2019/11/6a0105349b8251970b0240a49ce06a200c-800wi.jpg
---- 
+---
 G’day mates! Today I am writing from Edinburgh, but I just go back from Perth! Yep, that’s right: flights to Australia were reaaaally cheap this weekend so we just couldn’t resist a trip down under! It was great! We saw a koala, had a Tim Tam Slam, and… yeah… just kidding. We went to Perth, Scotland, haha.
 
 Which, I have to say, was actually a lot more fun than we expected. Perth is about an hour and a half northeast by train, so we just decided top pop up there Saturday morning for honestly, no reason in particular. In all fairness, tickets were cheap, and we didn’t really have much else to do, but still we didn’t really know much about Perth or have a clue what we’d do there.

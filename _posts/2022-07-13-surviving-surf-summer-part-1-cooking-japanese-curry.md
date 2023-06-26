@@ -2,10 +2,10 @@
 layout: post
 date: 2022-07-13T01:13:32.000+00:00
 image: /images/2022/rachael/67789294668__7442B7F6-DF06-457B-831C-56645ADD6B94.png
-tags: []
+
 title: 'Surviving SURF Summer Part 1: Cooking Japanese Curry'
 author: subinkim
-categories: []
+categories: [research]
 
 ---
 SURF provides you a great research opportunity with renowned professors, but it also challenges you both academically and non-academically. One of the biggest challenges you face is food: now that I only have a $500 declining balance plan instead of Anytime plan, the first alternative option I turned to was cooking. I currently live in Bechtel Residence, an unaffiliated undergraduate housing on campus. I live in a 4-person suite which comes with individual rooms and a small lounge area equipped with a microwave and a fridge, so I can keep my ingredients without worrying about forgetting or getting anything stolen. My suite is conveniently located right across the hallway from one of the three kitchens in Bechtel. Each kitchen in Bechtel comes with several pots, pans, utensils and gadgets for communal uses, as well as basic seasonings and oils, a communal fridge, a stove oven, microwaves, and a dishwasher. This summer, especially, Bechtel kitchens have been bustling with Caltech and non-Caltech students cooking and sharing meals with friends. So, I decided to give this plan a go.

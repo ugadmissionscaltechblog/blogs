@@ -1,11 +1,10 @@
 ---
 layout: post
-image: /
-tags: []
+image: /old_images/6a0105349b8251970b019103326708970c-800wi.jpg
+
 title: Grad School Visits
 author: Emily Du
-categories:
-- academics
+categories: [academics]
 date: 2022-04-07 07:00:00 +0000
 
 ---

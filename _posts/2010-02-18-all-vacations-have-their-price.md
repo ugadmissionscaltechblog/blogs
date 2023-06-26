@@ -12,7 +12,7 @@ And the price of going to Hawaii for a week was that I fell a little behind on c
 
 I'd like to use this post to remind you that Caltech is hard. If you want to go here, you should know what you're getting into. Sure, all the prestigious schools to which you have applied are also hard-- but in my opinion, Caltech is in a league of its own. A large portion of Techers spend upwards of 40 hours a week on classwork. Even Caltech humanities majors (a non-existent breed) must take Caltech's core, which apparently constitutes a physics and/or math major at a state university.
 
-Don't get me wrong: I love Caltech*because*it's so hard. I chose Caltech over Harvard and MIT because I wanted to be hit with a fire hose of knowledge! However, fire hoses sometimes send you flying across the room.
+Don't get me wrong: I love Caltech *because* it's so hard. I chose Caltech over Harvard and MIT because I wanted to be hit with a fire hose of knowledge! However, fire hoses sometimes send you flying across the room.
 
 For example, since I returned from Hawaii 1.5 weeks ago, I have completed three midterms and six sets! That's not easy to do over Valentine's Day/Chinese New Year weekend....
 

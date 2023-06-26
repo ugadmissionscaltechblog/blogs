@@ -1,12 +1,11 @@
 ---
 layout: post
 image: /images/2022/emily/opbobatier.png
-tags: []
+
 title: 'Emily''s 626/SGV Recs #2: Boba Worth Driving To'
 author: Emily Du
-categories:
-- culture
-- local
+categories: [culture]
+
 date: 2022-04-30 07:00:00 +0000
 
 ---

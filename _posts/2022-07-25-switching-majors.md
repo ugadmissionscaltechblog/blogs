@@ -1,12 +1,11 @@
 ---
 layout: post
 date: 2022-07-25 03:40:29 +0000
-image: /
-tags: []
+image: /old_images/6a0105349b8251970b019103326708970c-800wi.jpg
+
 title: Switching Majors
 author: rjiang
-categories:
-- academics
+categories: [academics]
 
 ---
 Did you know that you don’t have to declare a major at Caltech until about halfway through the third quarter of your freshman year? That gives you an entire two-and-a-half quarters to decide what you really want to major in. That’s quite a bit of time if I do say so myself. In fact, enough time that somewhere between coming to Caltech and declaring my major, everything changed for me - I didn’t just change my major and my projected course selections, but what I wanted to do in my future. This is my story of going from an intended bioengineering major on the pre-med track to a Computer Science/Business, Economics, and Management double major looking to go to grad school.

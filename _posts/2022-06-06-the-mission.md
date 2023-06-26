@@ -1,12 +1,11 @@
 ---
 layout: post
 date: 2022-06-29T20:00:26.000+00:00
-image: "/images/2022/guutz/274362642_1066083627289117_7685991158024664000_n (1).png"
-tags: []
+image: /images/2022/guutz/274362642_1066083627289117_7685991158024664000_n (1).png
+
 title: THE MISSION...
 author: magutier
-categories:
-- clubs
+categories: [clubs]
 
 ---
 **…Or, How a Disciple of Bethany Ehlmann, a Former Desert Militiaman, Moore Lab Subbasement Dwellers, Roblox's Newest Intern, a Florida Man, and a Luminous Plasma Scientist Went to War with the Caltech Mail Center, Got Double-Crossed by AirGas Corp., Survived Three COVID Outbreaks, and Nearly Stranded Themselves in the Mojave in order to Send a Bag of Peanuts to Space (A True Story).**

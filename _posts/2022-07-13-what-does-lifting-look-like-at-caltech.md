@@ -2,11 +2,10 @@
 layout: post
 date: 2022-07-13 03:39:34 +0000
 image: /images/2022/julian/Braun_Gym_Weight_Room.jpg
-tags: []
+
 title: What does Lifting look like at Caltech?
 author: jmillan
-categories:
-- academics
+categories: [academics]
 
 ---
 **What does Lifting look like at Caltech?**

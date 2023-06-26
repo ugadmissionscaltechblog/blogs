@@ -2,11 +2,10 @@
 layout: post
 date: 2022-06-27 22:09:28 +0000
 image: /images/2022/bea/tacos_1986.jpg
-tags: []
+
 title: 'Eat and Walk Pasadena: Latin American Edition'
 author: bea
-categories:
-- local
+categories: [local]
 
 ---
 We’ve all heard that the stomach is the fastest way to someone’s heart^. I never fully understood this until I got to college. While Caltech Dining Services (CDS) does its best to diversify the lunch and dinner menus, sometimes nothing can quite fulfill the craving for your mom’s home cooking. Having grown up in between Venezuela and Texas, home cooking for me looks like arepas, tacos, and brisket (among other things). Thankfully, Caltech’s location, just outside vibrant LA, makes attempts to find close seconds (to my mom’s cooking) easy and exciting. Often, I don’t even have to venture more than a mile or two from campus to find reliable favorites. Here are just a few within walking distance:

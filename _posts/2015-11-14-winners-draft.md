@@ -2,7 +2,7 @@
 layout: post
 author: Suzy
 image: /old_images/caltech_as_it_happens/6a0105349b8251970b01b8d171e2ba970c.jpg
-title: #Winners 
+title: '#Winners'
 categories: [academics]
 status: Publish
 date: 2015-11-14

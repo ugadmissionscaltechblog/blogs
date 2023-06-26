@@ -2,11 +2,10 @@
 layout: post
 date: 2022-08-18T21:30:01.000+00:00
 image: /images/2022/juni/soccer.png
-tags: []
+
 title: Summer Preseason
 author: jpolansk
-categories:
-- clubs
+categories: [clubs]
 
 ---
 Unlike many students, I never had the opportunity to visit Caltech before enrolling. I had visited California once in elementary school, and the first time I returned was to move in for college. The only time I had ever left home before was for a week or two of sleepaway camp. Now, I would be moving across the country to a place I had never seen before with a bunch of strangers. Naturally, I was a bit terrified.

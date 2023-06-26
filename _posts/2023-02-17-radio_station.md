@@ -2,13 +2,10 @@
 layout: post
 date: 2023-02-25 22:11:22 +0000
 image: /images/2023/guutz/welcometocaltech.png
-tags: []
+
 title: What I've been up to since my last blog post
 author: magutier
-categories:
-- academics
-- research
-
+categories: [academics]
 ---
 A friendly desert community where the sun is hot, the mountains are beautiful, and mysterious sounds echo between our walls while we don't even pretend to sleep.
 

@@ -4,7 +4,7 @@ author: sunny
 title: "New Years in Amsterdam"
 categories: [global]
 image: /images/2020/01/6a0105349b8251970b0240a4b0dd52200c-800wi.jpg
---- 
+---
 I visited Amsterdam for a brief two and a half days during my vacation. There were a few landmarks and neighborhoods I wanted to checkout, but did not plan the visit in detail. As such, when it came down to destinations with ticketed entries, I had to skip most of them, since they did not have day-of tickets left for sale. Fortunately, I was able to walk around most of the city and it was generally a good time.
 
 I'll start out with the worst part of Amsterdam, the cold. According to the weather website, it was supposed to be in the low 40s. However, we found that the weather was actually around the 30s. Furthermore, due to the fog, the air is quite humid, so it felt even colder than it actually was. 

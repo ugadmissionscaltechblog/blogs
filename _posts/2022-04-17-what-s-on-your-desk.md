@@ -1,11 +1,10 @@
 ---
 layout: post
 image: /images/2022/tyler/top_shelf.jpg
-tags: []
+
 title: What's On Your Desk?
 author: Tyler Colenbrander
-categories:
-- culture
+categories: [culture]
 date: 2022-04-17 19:00:00 +0000
 
 ---

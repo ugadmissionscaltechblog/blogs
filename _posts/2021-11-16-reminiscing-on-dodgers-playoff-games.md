@@ -3,9 +3,7 @@ layout: post
 image: /images/2021/11/Optimized-053B4222-B2EA-4273-888C-9D266290AF28.jpeg
 title: Reminiscing on Dodgers Playoff Games
 author: Arielle Tycko
-categories:
-- local
-- culture
+categories: [local]
 date: 2021-11-16 08:00:00 +0000
 
 ---

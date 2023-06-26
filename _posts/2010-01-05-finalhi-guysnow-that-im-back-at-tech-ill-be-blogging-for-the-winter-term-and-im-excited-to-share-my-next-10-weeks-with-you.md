@@ -3,7 +3,7 @@ layout: post
 author: Juan Cardenas
 image: /old_images/caltech_as_it_happens/6a0105349b8251970b012876aaa87a970c.jpg
 title: Hello 2010!
-categories: [travel]
+categories: [global]
 status: Publish
 date: 2010-01-05
 ---

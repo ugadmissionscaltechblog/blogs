@@ -1,11 +1,10 @@
 ---
 layout: post
 image: /images/2022/tyler/Optimized-steph.png
-tags: []
+
 title: The Golden State Warriors “Visit” Caltech
 author: Tyler Colenbrander
-categories:
-- local
+categories: [local]
 date: 2022-03-11T20:00:00.000+00:00
 
 ---

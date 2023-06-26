@@ -2,11 +2,10 @@
 layout: post
 date: 2022-06-29 02:48:18 +0000
 image: /images/2022/enoch/1photogenic.jpg
-tags: []
+
 title: 'Lloyd Ditch Day: Phineas and Ferb'
 author: eluk
-categories:
-- culture
+categories: [culture]
 
 ---
 ## Ditch Day begins

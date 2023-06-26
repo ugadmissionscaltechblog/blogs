@@ -3,10 +3,9 @@ layout: post
 image: /images/2021/10/Me.jpg
 title: Greek Life or Lack Thereof at Caltech
 author: argomez
-categories:
-- culture
+categories: [culture]
 date: 2021-10-22T07:00:00.000+00:00
-tags: []
+
 
 ---
 One of the most exciting aspects of college life is the freedom that students enjoy when living on their own. When most students think about college life, one of the first things that comes to mind is Greek life, with the many sororities and fraternities on campuses across the country. While Caltech does not have Greek life, per se, we do have a unique housing system, similar to that of Hogwarts. There are eight houses and one residence on campus: Avery, Blacker, Dabney, Fleming, Lloyd, Page, Ricketts, Venerable, and the Bechtel Residence. Each of the houses has its own unique culture, character, and traditions. I am a member of Venerable House!

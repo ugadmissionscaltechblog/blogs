@@ -1,8 +1,7 @@
 ---
 layout: post
 title: AnnABEL's Theorem
-categories:
-- research
+categories: [research]
 author: argomez
 image: /images/2020/11/0E4F5ECC-C2C9-464F-B7F3-856F5361EB04.jpeg
 

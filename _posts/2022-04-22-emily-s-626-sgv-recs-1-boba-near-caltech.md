@@ -1,12 +1,11 @@
 ---
 layout: post
 image: /images/2022/emily/boba-twinkle.png
-tags: []
+
 title: 'Emily''s 626/SGV Recs #1: Boba Near Caltech'
 author: Emily Du
-categories:
-- culture
-- local
+categories: [culture]
+
 date: 2022-04-22 07:00:00 +0000
 
 ---

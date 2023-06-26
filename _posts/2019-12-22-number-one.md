@@ -5,7 +5,7 @@ title: "#1"
 categories: [global]
 image: /images/2019/12/6a0105349b8251970b0240a4fa28cb200b-800wi.jpg
 date: 2019-12-22
---- 
+---
 It was a farewell dinner today. The beginning of the end. Crazy to think in less than a week I’ll be back in Denver and this entire country hopping adventure will be completely over.
 
  

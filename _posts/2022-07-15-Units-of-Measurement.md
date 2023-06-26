@@ -3,13 +3,10 @@ layout: post
 date: 2022-07-16 04:35:58 +0000
 image: /images/2022/roy/Screen Shot 2022-07-06
   at 6.18.25 AM.png
-tags: []
+
 title: American Units of Measurement (As an International Student)
 author: rjiang
-categories:
-- culture
-- global
-
+categories: [global]
 ---
 Let’s face it: the US loves being just a _little_ different from everyone else. The obvious example? Units of measurement. As an international student from Canada, even I have no clue what’s going on half the time when my friends talk to me and use these weird nonsensical units. And I’ve literally lived on the border between Canada and the States for all my life. After a year here, I’ve finally got a sense of how the two systems of measurement compare and how you can more easily get your bearings with these weird units.
 

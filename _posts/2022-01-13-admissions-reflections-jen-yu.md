@@ -1,11 +1,10 @@
 ---
 layout: post
 image: /images/2022/jen/7694DB55-0FAA-4216-BC1D-0894E70D1B16_1_201_a.jpeg
-tags: []
+
 title: Admissions Reflections
 author: Jen Yu
-categories:
-- academics
+categories: [academics]
 date: 2022-01-13 08:00:00 +0000
 
 ---

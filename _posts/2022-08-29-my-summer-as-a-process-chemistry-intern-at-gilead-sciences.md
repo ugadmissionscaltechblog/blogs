@@ -2,11 +2,10 @@
 layout: post
 date: 2022-08-29 19:53:21 +0000
 image: /images/2022/isabel/Gilead Building.jpg
-tags: []
+
 title: My Summer as a Process Chemistry Intern at Gilead Sciences
 author: idelator
-categories:
-- research
+categories: [research]
 
 ---
 This summer I had the incredible opportunity to do a 10-week internship at Gilead Sciences in Foster City, CA. For those unfamiliar, Gilead Sciences, Inc. is a research-based biopharmaceutical company focused on the discovery, development, and commercialization of innovative medicines.

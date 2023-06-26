@@ -2,11 +2,10 @@
 layout: post
 date: 2022-09-12 21:31:25 +0000
 image: /images/2022/Sarah/get_gas_blog/IMG_1613.JPG
-tags: []
+
 title: 'Always Remember to Get Gas: An Epic Retelling of a Dire Situation'
 author: sbass
-categories:
-- culture
+categories: [culture]
 
 ---
 Now, based on the title you may be wondering what kind of story this will be. As you will soon find out, it’s a story of adventure born out of the pure, dark chaos that fills the minds of sleep deprived Caltech undergrads.

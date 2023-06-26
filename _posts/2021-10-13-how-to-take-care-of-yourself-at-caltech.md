@@ -3,8 +3,7 @@ layout: post
 image: /images/2021/jen/wellness/baxterpond.jpeg
 title: How to take care of yourself at Caltech
 author: Jen Yu
-categories:
-- academics
+categories: [academics]
 date: 2021-10-13 07:00:00 +0000
 
 ---

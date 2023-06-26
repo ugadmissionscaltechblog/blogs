@@ -3,7 +3,6 @@ layout: post
 title: "Due Tomorrow, Do Tomorrow" 
 categories: [research]
 author: andy
-categories: [ Academics ]
 image: /images/2021/04/lloyd.jpg
 featured: false
 comments: true

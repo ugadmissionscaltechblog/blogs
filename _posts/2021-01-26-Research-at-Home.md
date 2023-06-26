@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Forging Ahead with Research while Sheltering in Place
-categories:
-- research
+categories: [research]
 author: argomez
 image: /images/2020/12/5F5C8D29-8ADD-48C0-A0C6-FEEDF09F40ED.jpeg
 

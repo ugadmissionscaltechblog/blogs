@@ -1,12 +1,10 @@
 ---
 layout: post
 image: /images/2022/leah/2nd.jpg
-tags: []
+
 title: Tutoring at Caltech
 author: Leah Griffith
-categories:
-- clubs
-- academics
+categories: [clubs]
 date: 2022-04-06 04:00:00 +0000
 
 ---

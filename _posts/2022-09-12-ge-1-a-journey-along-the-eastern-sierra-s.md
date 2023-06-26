@@ -3,11 +3,10 @@ layout: post
 date: 2022-09-12 20:34:33 +0000
 image: /images/2022/Sarah/Ge 1 blog/Red Rock
   Canyon.jpg
-tags: []
+
 title: 'Ge 1: A Journey Along the Eastern Sierras'
 author: sbass
-categories:
-- academics
+categories: [academics]
 
 ---
 At Caltech it is a graduation requirement to take a “menu” class, courses which introduce you to areas of study outside of your major. This year, there were three courses offered in the third term: ESE 1, Ay 1, and Ge 1. I took _Ge 1: Earth and Environment_ for two reasons. First, ever since the first term I have been interested in the idea of minoring in geology (I might major in it instead!) and the class piqued my interest. Second, the class has an awesome multi-day field trip. While I’m not usually a fan of the outdoors, preferring to stay inside and read books or watch anime, this trip was the highlight of my term. As we went up the 395 along the Eastern Sierra’s, the geological makeup of California was revealed before my eyes. So come on a journey across California with me through my Ge 1 field trip photo gallery.

@@ -3,9 +3,7 @@ layout: post
 image: /images/2021/11/Optimized-IMG_6412 2.jpeg
 title: 'Love and Rage: My Experience Organizing for Environmental Justice'
 author: Arielle Tycko
-categories:
-- culture
-- local
+categories: [culture]
 date: 2021-11-16 23:00:00 +0000
 
 ---

@@ -1,14 +1,11 @@
 ---
 layout: post
 date: 2022-06-12 23:57:22 +0000
-image: /
-tags: []
+image: /old_images/6a0105349b8251970b019103326708970c-800wi.jpg
+
 title: Double Majoring at Caltech
 author: Emily Du
-categories:
-- research
-- academics
-
+categories: [academics]
 ---
 Like many students, I came into Caltech with a vision in mind. I had planned to major in bioengineering, do research in a bioengineering lab, and then eventually apply for medical school during my senior year. While some people manage to follow their four-year plans, I definitely did not. Within three weeks of my first term, I had decided to completely change my initial plans, from bioengineering to chemistry. The chemistry research interested me more, but a not-so-insignificant part of this decision was a desire to do less math. Ma1a was intimidating, what can I say?
 

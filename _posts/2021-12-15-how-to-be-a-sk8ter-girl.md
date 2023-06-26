@@ -3,8 +3,7 @@ layout: post
 image: /images/2021/12/skateboards-1.JPG
 title: How to be a sk8ter girl
 author: Katelyn Lee
-categories:
-- culture
+categories: [culture]
 date: 2021-12-15 05:00:00 +0000
 
 ---

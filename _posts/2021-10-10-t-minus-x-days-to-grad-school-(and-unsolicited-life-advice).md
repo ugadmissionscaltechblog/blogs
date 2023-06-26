@@ -2,8 +2,7 @@
 layout: post
 title: T minus X days to Grad School (and some unsolicited life lessons)
 author: Emily Du
-categories:
-- academics
+categories: [academics]
 date: 2021-10-10T07:00:00.000+00:00
 image: /images/2021/10/where%20did%20october%20go.jpg
 

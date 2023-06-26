@@ -1,11 +1,10 @@
 ---
 layout: post
 image: /images/2022/jen/classroom.jpeg
-tags: []
+
 title: Interactions with Professors
 author: Jen Yu
-categories:
-- academics
+categories: [academics]
 date: 2022-05-07 07:00:00 +0000
 
 ---

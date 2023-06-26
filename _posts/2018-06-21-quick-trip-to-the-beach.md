@@ -4,7 +4,7 @@ author: Mei-Ling
 image: /old_images/caltech_as_it_happens/6a0105349b8251970b0224e03d0653200d.jpg
 title: Quick Trip to the Beach
 categories: [global, local, culture]
-tags: [spotlight]
+
 status: Publish
 date: 2018-06-21
 ---

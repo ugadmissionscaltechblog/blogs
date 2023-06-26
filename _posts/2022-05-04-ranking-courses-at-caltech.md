@@ -1,11 +1,10 @@
 ---
 layout: post
 image: /images/2022/hannah/IMG_1804%202.jpeg
-tags: []
+
 title: Favorite Courses at Caltech
 author: Hannah Grauer
-categories:
-- academics
+categories: [academics]
 date: 2022-05-04T07:00:00.000+00:00
 
 ---

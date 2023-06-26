@@ -3,8 +3,7 @@ layout: post
 image: /images/2021/10/20200118_165359.jpg
 title: Musings on a Small School
 author: Katelyn Lee
-categories:
-- culture
+categories: [culture]
 date: 2021-10-27 07:00:00 +0000
 
 ---

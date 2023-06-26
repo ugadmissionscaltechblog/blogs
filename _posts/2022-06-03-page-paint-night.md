@@ -1,15 +1,9 @@
 ---
 layout: post
 image: /images/2022/hannah/B43BF543-DDA8-49DD-A9BB-9C1084A6E2B1_1_105_c.jpeg
-tags:
-- House System
-- Page House
-- Self Care
-- Destress
 title: Page Paint Night
 author: Hannah Grauer
-categories:
-- clubs
+categories: [clubs]
 date: 2022-06-03 07:00:00 +0000
 
 ---

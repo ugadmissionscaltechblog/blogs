@@ -1,12 +1,11 @@
 ---
 layout: post
 image: /images/2022/arielle/Optimized-helmet.jpg
-tags: []
+
 title: A Heavenly Day at Angels Stadium
 author: Arielle Tycko
-categories:
-- culture
-- local
+categories: [culture]
+
 date: 2022-05-24 07:00:00 +0000
 
 ---

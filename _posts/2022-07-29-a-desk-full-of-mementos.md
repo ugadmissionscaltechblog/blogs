@@ -2,11 +2,10 @@
 layout: post
 date: 2022-07-29 19:29:35 +0000
 image: /images/2022/bea/deskBea.JPG
-tags: []
+
 title: A Desk Full of Mementos
 author: bea
-categories:
-- culture
+categories: [culture]
 
 ---
 Always not quite organized, my desk is a constant, yet subtle reminder of why I ultimately chose Caltech: the people. (sigh… I bet you haven’t heard that one before!). It’s no secret that Caltech has a small undergraduate population but, in my experience, that doesn’t mean you won't be able to find your people, it means you’ll be able to find them faster!

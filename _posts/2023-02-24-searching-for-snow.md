@@ -2,11 +2,10 @@
 layout: post
 date: 2023-02-24 23:38:59 +0000
 image: /images/2023/katelyn/searching-for-snow/image4.jpg
-tags: []
+
 title: Searching for snow
 author: Katelyn Lee
-categories:
-- culture
+categories: [culture]
 
 ---
 My grandma always says that it rains whenever Dragons (superior zodiac sign) travel, and sure enough, it was raining when I landed at LAX for my last calendar year at Caltech. It's officially my graduation year—but between leaving campus just before spring term in my freshman year and returning, twenty-one years old, as a junior, it really does feel like my time here has flown by.

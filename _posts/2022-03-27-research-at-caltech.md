@@ -1,11 +1,10 @@
 ---
 layout: post
 image: /images/2022/emily/fig1.png
-tags: []
+
 title: Research at Caltech
 author: Emily Du
-categories:
-- research
+categories: [research]
 date: 2022-03-27 04:00:00 +0000
 
 ---

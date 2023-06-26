@@ -1,11 +1,10 @@
 ---
 layout: post
 image: /images/2022/jen/cover_ceramics.jpeg
-tags: []
+
 title: Ceramics @ Caltech
 author: Jen Yu
-categories:
-- culture
+categories: [culture]
 date: 2022-02-15 08:00:00 +0000
 
 ---

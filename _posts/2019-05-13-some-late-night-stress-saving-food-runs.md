@@ -4,7 +4,7 @@ author: Andrew
 image: /old_images/caltech_as_it_happens/6a0105349b8251970b0240a486b7c2200d.jpg
 title: Some Late-Night Stress-Saving Food Runs
 categories: [academics]
-tags: [spotlight]
+
 status: Publish
 date: 2019-05-13
 ---

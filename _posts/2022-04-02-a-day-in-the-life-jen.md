@@ -1,11 +1,10 @@
 ---
 layout: post
 image: /images/2022/jen/road2.jpeg
-tags: []
+
 title: 'A Day in the Life: Jen'
 author: Jen Yu
-categories:
-- culture
+categories: [culture]
 date: 2022-04-02T07:00:00.000+00:00
 
 ---

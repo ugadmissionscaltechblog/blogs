@@ -1,11 +1,10 @@
 ---
 layout: post
 image: /images/2022/jen/book.jpeg
-tags: []
+
 title: How I Study
 author: Jen Yu
-categories:
-- academics
+categories: [academics]
 date: 2022-04-01 07:00:00 +0000
 
 ---

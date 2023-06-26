@@ -1,11 +1,10 @@
 ---
 layout: post
 image: /images/2022/jen/dabney.jpeg
-tags: []
+
 title: Humanities at Caltech
 author: Jen Yu
-categories:
-- academics
+categories: [academics]
 date: 2022-05-14 07:00:00 +0000
 
 ---

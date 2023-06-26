@@ -10,7 +10,7 @@ date: 2009-06-21
 
 Hey Y'all! So, I've begun work at Schlumberger and there is so much to say.
 
-First of all--- the site I work at is absolutely GORGEOUS. There are many Schlumberger work sites throughout Houston; I work at the Schlumberger Reservoir Completion center (SRC) in Rosharon, about 22 miles away from where I live in Houston.The buildings are state of the art and structurally stunning. The campus is on 400 acres, and has lush landscape and man-made ponds all over the property. 
+First of all---the site I work at is absolutely GORGEOUS. There are many Schlumberger work sites throughout Houston; I work at the Schlumberger Reservoir Completion center (SRC) in Rosharon, about 22 miles away from where I live in Houston.The buildings are state of the art and structurally stunning. The campus is on 400 acres, and has lush landscape and man-made ponds all over the property. 
 
 
 ![](/old_images/caltech_as_it_happens/6a0105349b8251970b011570462338970c.jpg)

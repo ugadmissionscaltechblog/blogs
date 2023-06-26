@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Paving the Way & Enjoying the Journey on the Road Less Traveled
-categories:
-- research
+categories: [research]
 author: argomez
 image: /images/2021/D72B3CE5-4A42-4FA8-84B0-1AB71C3BCD47.jpeg
 featured: true

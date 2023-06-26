@@ -1,12 +1,11 @@
 ---
 layout: post
 image: /images/2022/emily/somisomi.png
-tags: []
+
 title: 'Emily''s 626/SGV Recs #3: Little Tokyo'
 author: Emily Du
-categories:
-- culture
-- local
+categories: [culture]
+
 date: 2022-05-05 07:00:00 +0000
 
 ---

@@ -2,11 +2,10 @@
 layout: post
 date: 2022-07-26 22:20:51 +0000
 image: /images/2022/makoa/BlinterPlatform1.jpg
-tags: []
+
 title: Interhouse Construction Season
 author: minciong
-categories:
-- culture
+categories: [culture]
 
 ---
 With the third term fast approaching and the status of COVID on campus pushing all major events to the spring quarter, students of the houses of Caltech were excited. The reason? Interhouse season had arrived. Interhouses, a longstanding tradition of the California Institute of Technology, are summarized as parties hosted by each respective house, usually with a theme, in which the entire undergraduate population is invited to attend. As every undergraduate house of Caltech has its own personality and characteristics, these interhouses too have their own flair depending on the house who hosts them.

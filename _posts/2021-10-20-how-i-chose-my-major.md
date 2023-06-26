@@ -3,8 +3,7 @@ layout: post
 image: /images/2021/10/Young Shri.jpg
 title: How I Chose My Major
 author: Shri Deshmukh
-categories:
-- academics
+categories: [academics]
 date: 2021-10-20T07:00:00.000+00:00
 
 ---

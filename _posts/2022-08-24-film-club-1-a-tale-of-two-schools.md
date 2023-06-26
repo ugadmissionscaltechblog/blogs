@@ -2,13 +2,10 @@
 layout: post
 date: 2022-08-24 21:00:36 +0000
 image: /images/2022/guutz/filmclub1/two-schools-cover.png
-tags: []
+
 title: 'Film Club #1: A Tale of Two Schools'
 author: magutier
-categories:
-- culture
-- academics
-
+categories: [culture]
 ---
 I’m starting a new miniseries on the blog -- Film Club! Each episode, I’ll share a short clip from a popular piece of media, and then completely dissect and overanalyze it, because let’s face it, I’m doing it in my head already anyway. You say “buzzkill.” I say “science.” We’ll kick things off with a clip from Gravity Falls I discussed a bit in my previous post: Season 2 Episode 12, A Tale of Two Stans. If somehow you haven’t watched this show yet (?!)... spoilers incoming!
 

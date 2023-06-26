@@ -1,11 +1,10 @@
 ---
 layout: post
 image: /images/2022/jen/pa-bucket.jpeg
-tags: []
+
 title: Peer Advocates
 author: Jen Yu
-categories:
-- culture
+categories: [culture]
 date: 2022-03-29 07:00:00 +0000
 
 ---

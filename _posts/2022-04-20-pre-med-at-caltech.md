@@ -1,11 +1,10 @@
 ---
 layout: post
 image: /images/2022/jen/molecules.jpeg
-tags: []
+
 title: Pre-med at Caltech
 author: Jen Yu
-categories:
-- academics
+categories: [academics]
 date: 2022-04-20 07:00:00 +0000
 
 ---

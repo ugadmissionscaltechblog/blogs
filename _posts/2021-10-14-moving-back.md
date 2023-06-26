@@ -3,8 +3,7 @@ layout: post
 image: /images/2021/09/IMG_2922 2.jpg
 title: 'Moving Back: FCC at Caltech'
 author: Leah Griffith
-categories:
-- academics
+categories: [academics]
 date: 2021-10-14 07:00:00 +0000
 
 ---

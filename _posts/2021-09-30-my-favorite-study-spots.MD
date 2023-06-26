@@ -2,7 +2,7 @@
 layout: post
 title: "My Favorite Study Spots"
 author: Jen Yu
-categories: [ Academics ]
+categories: [academics]
 image: /images/2021/jen/study/gene_pool.jpeg
 date: 2021-09-30
 ---
