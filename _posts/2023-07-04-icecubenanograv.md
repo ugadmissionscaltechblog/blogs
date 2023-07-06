@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-07-04 04:53:45 +0000
-image: /uploads/icecubecake.jpg
+image: icecubecake.jpg
 
 title: Barbie versus Oppenheimer the Prologue — NANOGrav versus IceCube
 author: Chi Cap
